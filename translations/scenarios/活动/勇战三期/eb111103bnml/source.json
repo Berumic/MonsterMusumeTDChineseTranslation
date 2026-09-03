@@ -1,0 +1,182 @@
+{
+  "scenario_id": "eb111103bnml",
+  "asset_path": "assets/advscene/scenarioexcel/eventbattle/1111/eb111103bnml.book.asset",
+  "cache_bundle": "C:\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\c20bcf7d1d4fa1c042ff24effdc4d60c6222d6a3d89766ecc339ae508d5a4b3f\\c20bcf7d1d4fa1c042ff24effdc4d60c\\__data",
+  "rows": [
+    {
+      "row": 6,
+      "speaker": "密猟者",
+      "text": "ひいいいっ！？　なんだこの化け物は！？\nなんで俺たちはこんなんに喧嘩売ってたんだ！？",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 12,
+      "speaker": "密猟者",
+      "text": "うわああああああああああ！？",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 16,
+      "speaker": "主人公",
+      "text": "逃げた……なんだったんでしょう。\nなんだか興奮して暴れている感じでしたけど。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 17,
+      "speaker": "花嫁アリスフィーズ",
+      "text": "今はあんなものどうでもいい。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 20,
+      "speaker": "花嫁アリスフィーズ",
+      "text": "問題はこちらだ。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 28,
+      "speaker": "イリアス大人",
+      "text": "うう……ひっぐ、うっぐ……。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 31,
+      "speaker": "黒のアリス",
+      "text": "あーあ、泣いてしまいましたわねぇ。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 32,
+      "speaker": "ネリス",
+      "text": "食欲のためとはいえ、真っ向からルシフィナさんに挑むなんて、",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 33,
+      "speaker": "ネリス",
+      "text": "なんか、本当にちょっぴりだけだけど尊敬しちゃうかも……。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 41,
+      "speaker": "ルカもんくえ",
+      "text": "ねぇ、確かに最初の話とは違っちゃうけど、\n無理に帰さなくてもいいんじゃないかな……？",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 42,
+      "speaker": "ルシフィナ",
+      "text": "……そうね。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 44,
+      "speaker": "イリアス大人",
+      "text": "本当ですかっ！？　や",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 48,
+      "speaker": "イリアス大人",
+      "text": "ったー！\nわーいわーい！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 53,
+      "speaker": "花嫁アリスフィーズ",
+      "text": "ふん……貴様のグルメに対する熱意、しかと見せてもらった。\n今この瞬間だけは認めてやろう。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 83,
+      "speaker": "イリアス大人",
+      "text": "魔王アリス……ふふっ、今の私はとても機嫌がいいです。\nですからこの甘くて美味しい木の実を分けてあげましょう。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 86,
+      "speaker": "花嫁アリスフィーズ",
+      "text": "普段であれば女神なんぞの施しは受けないと言うところだが、\n仕方が無い。受け取ってやろう。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 92,
+      "speaker": "ネリス",
+      "text": "（さっき、普通に後で分けろって言ってたけどね……）",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 95,
+      "speaker": "花嫁アリスフィーズ",
+      "text": "あまい……♡",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 98,
+      "speaker": "イリアス大人",
+      "text": "おいしい……♡",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 105,
+      "speaker": "黒のアリス",
+      "text": "それでルシフィナ。\nあなたはこれからどうしますの？",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 106,
+      "speaker": "ルシフィナ",
+      "text": "黒のアリス……そうね、私も同行しようかしら。\nひとつ、気になることができたの。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 109,
+      "speaker": "ビビ神",
+      "text": "気になること？\nもしや、先ほどの密猟者たちに関係していますか？",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 110,
+      "speaker": "ルシフィナ",
+      "text": "へぇ……こちらの神は勘が鋭いのね。\nとはいえまだ気になる程度よ。\nあの人間たちがやってきた方向へ向かってみましょう。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 113,
+      "speaker": "ルカもんくえ",
+      "text": "うん、分かった！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 114,
+      "speaker": "主人公",
+      "text": "（なんだかルカさんの治療から、\n　どんどん遠のいちゃってる気がする……今更だけど……）",
+      "voice": "",
+      "command": ""
+    }
+  ]
+}

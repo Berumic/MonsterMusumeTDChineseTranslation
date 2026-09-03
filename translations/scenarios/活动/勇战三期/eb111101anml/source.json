@@ -1,0 +1,84 @@
+{
+  "scenario_id": "eb111101anml",
+  "asset_path": "assets/advscene/scenarioexcel/eventbattle/1111/eb111101anml.book.asset",
+  "cache_bundle": "D:\\mms\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\5d0f40de28d8b3dfe837dacb99923b3a11c4761af3df86eb1fa08be1855ac393\\5d0f40de28d8b3dfe837dacb99923b3a\\__data",
+  "rows": [
+    {
+      "row": 6,
+      "speaker": "ネリス",
+      "text": "あ、ルカ。見て見て。\nなんかオオカミがこっち睨んでるよー。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 7,
+      "speaker": "ルカもんくえ",
+      "text": "ネリス、あれがこの世界の魔物だよ。\n僕たちの見慣れた魔物はこの世界だと、\n『モンスター娘』って呼ばれてるんだ。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 10,
+      "speaker": "ネリス",
+      "text": "え、そうなの？\nへぇ、異世界の魔物って女の子の姿じゃないんだ。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 11,
+      "speaker": "ネリス",
+      "text": "そういえばこの世界に来る前に、\n師匠から聞いたような聞いてなかったような……。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 17,
+      "speaker": "魔物",
+      "text": "グオオオオオオオッ！！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 18,
+      "speaker": "ネリス",
+      "text": "あれ？　なんか威嚇してきてる。\nもしかしなくても、あたしたちを襲うつもり？",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 28,
+      "speaker": "花嫁アリスフィーズ",
+      "text": "ネリス！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 29,
+      "speaker": "花嫁アリスフィーズ",
+      "text": "ちっ、やはり襲われているではないか……！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 30,
+      "speaker": "ネリス",
+      "text": "あ、アリス。もしかして心配してる？\nこの程度、あたしひとりで十分だけど。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 33,
+      "speaker": "花嫁アリスフィーズ",
+      "text": "魔物狩りが本題ではない。\nそれに今はルカにも無理はさせたくないしな。\nさっさと片付けるぞ！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 36,
+      "speaker": "ネリス",
+      "text": "はーい。\nふふふっ、十七代魔王の力、見せてあげる！",
+      "voice": "",
+      "command": ""
+    }
+  ]
+}

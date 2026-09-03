@@ -1,0 +1,105 @@
+{
+  "scenario_id": "eb105306anml",
+  "asset_path": "assets/advscene/scenarioexcel/eventbattle/1053/eb105306anml.book.asset",
+  "cache_bundle": "D:\\mms\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\55245e9fa207b2108f94a822924344ba8aea11f2c8a443dfe604c74703e9842b\\55245e9fa207b2108f94a822924344ba\\__data",
+  "rows": [
+    {
+      "row": 30,
+      "speaker": "ヴァニラもんくえ",
+      "text": "工房～♪　工房～♪　異世界の工房～♪\nくくく、レアアイテムを我が仕入れて独占販売するのだ！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 31,
+      "speaker": "主人公",
+      "text": "ご機嫌ですねヴァニラさん……って、あれは！？",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 32,
+      "speaker": "ヴァニラもんくえ",
+      "text": "おっ、ついたのか――",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 34,
+      "speaker": "ヴァニラもんくえ",
+      "text": "って、おい！　魔物に襲われてるぞ！？",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 35,
+      "speaker": "主人公",
+      "text": "そんな、どうして先回りされて……。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 41,
+      "speaker": "ベルティオ",
+      "text": "おー！　ご主人っ！　遊びに来たのか！？\n興奮してるのに悪いな、今はエロトラップも品切れだ！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 42,
+      "speaker": "ペトラ",
+      "text": "えっ！？　ご主人、興奮してるの？\nごめんね、今は魔物と戦ってるから、遊んであげられないの。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 43,
+      "speaker": "主人公",
+      "text": "僕をなんだと思ってるんですか！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 46,
+      "speaker": "ビビ神",
+      "text": "ゲシュペンス島が危機的状況にあるというのに、\nあなたたちはいつも通りですね……。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 51,
+      "speaker": "イリアスもんくえ(ロリ)",
+      "text": "少年を誘惑するのが日常ですって？\nやはり魔物のはびこる世界はだめですね……。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 52,
+      "speaker": "アリスもんくえ(ロリ)",
+      "text": "モンスター娘を下に見るのは止めろ。\n貴様たち天使もロクなものではないだろう。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 57,
+      "speaker": "プロメスティンもんくえ",
+      "text": "のんびり話してる場合ではありませんよ。\n急いで設備と稀少な素材を保護しなければ。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 58,
+      "speaker": "ルカもんくえ",
+      "text": "そうじゃないよ！\n工房のひとたちの保護が優先だよ！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 61,
+      "speaker": "ベルティオ",
+      "text": "なんだ、こっちのショタも協力してくれるのか？\nよっしゃ！　なら全員で魔物を叩きのめすぞ！",
+      "voice": "",
+      "command": ""
+    }
+  ]
+}

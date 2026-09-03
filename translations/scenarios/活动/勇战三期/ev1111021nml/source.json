@@ -1,0 +1,336 @@
+{
+  "scenario_id": "ev1111021nml",
+  "asset_path": "assets/advscene/scenarioexcel/event/1111/ev1111021nml.book.asset",
+  "cache_bundle": "C:\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\f0c2ed9a1354c39ca4f669671cd1338337003cbd8ec2e6daa55a8196872a808d\\f0c2ed9a1354c39ca4f669671cd13383\\__data",
+  "rows": [
+    {
+      "row": 8,
+      "speaker": "",
+      "text": "ルカを連れていったネリスを追い、\n主人公たちは浜辺へとやってきた。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 14,
+      "speaker": "ネリス",
+      "text": "わぁ～、綺麗な海！<interval=0.4>\nここって泳げるんだよね！？",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 15,
+      "speaker": "ビビ神",
+      "text": "ええ、たまに汚染されたり大量の密猟者が発生したりもしますが、\n今は海水浴にはちょうどいいと思いますよ。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 19,
+      "speaker": "ネリス",
+      "text": "やったー！<interval=0.4>　行こ行こ、ルカ",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 21,
+      "speaker": "ネリス",
+      "text": "！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 22,
+      "speaker": "花嫁アリスフィーズ",
+      "text": "まったく……<interval=0.4>まぁ、ここのところ戦い続きだったからな。<interval=0.4>\n休養が回復に繋がるかもしれんし、海水浴は悪くな",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 24,
+      "speaker": "花嫁アリスフィーズ",
+      "text": "……<interval=0.4>い……。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 25,
+      "speaker": "",
+      "text": "ビーチを見渡していたアリスだったが、\nあるものを見つけ、まるで石化したかのように固まった。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 27,
+      "speaker": "ルカもんくえ",
+      "text": "どうしたの、アリス？<interval=0.4>\n何か見つけ……",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 29,
+      "speaker": "ルカもんくえ",
+      "text": "た……。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 32,
+      "speaker": "ネリス",
+      "text": "絶句？　<interval=0.4>なんかアリスらしくないけど、\nもしかしてからかって……",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 33,
+      "speaker": "ネリス",
+      "text": "る……。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 36,
+      "speaker": "",
+      "text": "次いでルカ、ネリスも絶句し、固まる。<interval=0.4>\n主人公とビビ神は困惑しつつ、\n彼らが見ている方向へと目を向け――。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 39,
+      "speaker": "ビビ神",
+      "text": "おや、どうやら先客がいるようですね。<interval=0.4>\nあれはクロミ、リデル、そして……。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 46,
+      "speaker": "黒のアリス",
+      "text": "あははー<interval=0.4>うふふー。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 47,
+      "speaker": "ビビ神",
+      "text": "……え？<interval=0.4>\nい、いえ、見間違いでしょうか。<interval=0.4>\nあの顔、見覚えが――。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 48,
+      "speaker": "黒のアリス",
+      "text": "あら？　これはこれはビビ神様にご主人さん。<interval=0.4>\nお久しぶり――いえ、初めましてでしょうか？",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 51,
+      "speaker": "主人公",
+      "text": "く、<interval=0.4>黒のアリス！？",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 52,
+      "speaker": "",
+      "text": "水着を着ているが主人公はその顔を知っていた。<interval=0.4>\n彼女はかつてルカたちの二度目の訪問の際、\n戦った敵――『黒のアリス』だった。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 58,
+      "speaker": "",
+      "text": "つい身構える主人公だったが、\nルカたちは警戒するわけではなく、\nなぜか呆れるように脱力していた。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 60,
+      "speaker": "花嫁アリスフィーズ",
+      "text": "黒のアリス……<interval=0.4>貴様、なぜこの世界にいる。<interval=0.4>\nそれにその格好は……。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 69,
+      "speaker": "黒のアリス",
+      "text": "見ての通り水着ですわ♪<interval=0.4>\nせっかくですから、おふたりにプロデュースいただきましたの。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 72,
+      "speaker": "クロミ水着",
+      "text": "プロデュースしちゃいましたぁ♡",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 74,
+      "speaker": "リデル水着",
+      "text": "お茶会友達のお役に立てたなら光栄よ。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 75,
+      "speaker": "黒のアリス",
+      "text": "言うなれば、『水着のアリス』とでも……<interval=0.4>い",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 78,
+      "speaker": "黒のアリス",
+      "text": "え、\n水着を武器とするわけではありませんから、\n些か不適当ですわね。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 95,
+      "speaker": "花嫁アリスフィーズ",
+      "text": "この世界にいる理由は説明するまでもない、ということか……。<interval=0.4>\n何か悪巧みをしている様子でも無い。今は放っておこう。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 98,
+      "speaker": "ネリス",
+      "text": "おかしな真似するなら叩き斬るからね。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 101,
+      "speaker": "黒のアリス",
+      "text": "あらあら、<interval=0.4>うふふ♪",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 106,
+      "speaker": "主人公",
+      "text": "あの、えっと、黒のアリスって敵じゃあ……？<interval=0.4>\nなんだか若干ピリッとしつつも、\nわりと友好的な雰囲気に見えますが……。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 107,
+      "speaker": "ルカもんくえ",
+      "text": "ご主人くんたちには伝えておいた方がいいかな……。<interval=0.4>\n彼女は今、僕らの仲間なんだ。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 109,
+      "speaker": "ビビ神",
+      "text": "ほう。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 111,
+      "speaker": "ルカもんくえ",
+      "text": "そして、君たちが以前会ったアリストロメリア、<interval=0.4>\n彼女の真の姿でもあるんだ。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 115,
+      "speaker": "主人公",
+      "text": "えええっ！？<interval=0.4>\nじゃあ、あの時戦ったのってアリストロメリアさん……<interval=0.4>あれ？<interval=0.4>\nでも、僕らと一緒に戦った筈ですし……。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 119,
+      "speaker": "黒のアリス",
+      "text": "あれは私であり私でない存在……<interval=0.4>まぁ、過ぎたことです。<interval=0.4>\nお好きなように解釈なさってくださいな。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 122,
+      "speaker": "黒のアリス",
+      "text": "大事なのは今ですわ。<interval=0.4>私も私なりに、\nルカの問題を解決する方法を考えてみましたの。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 125,
+      "speaker": "ネリス",
+      "text": "私なりにって言葉がこれほど不穏に聞こえるの、\nあんたくらいだよね。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 128,
+      "speaker": "黒のアリス",
+      "text": "ふふふ、考えすぎですわよ。<interval=0.4>\n私のアイディアは実にシンプル。<interval=0.4>\n水着女子による誘惑ですわ。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 135,
+      "speaker": "ビビ神",
+      "text": "……なるほど、お茶会仲間のリデルはともかく、\nなぜクロミが一緒にいるのか疑問でしたが……。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 142,
+      "speaker": "ネリス",
+      "text": "でもルカのは、サキュバスの技も効かなかったよね？",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 143,
+      "speaker": "黒のアリス",
+      "text": "異世界のサキュバス――<interval=0.4>い",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 146,
+      "speaker": "黒のアリス",
+      "text": "え、リリス娘でしたか。\n彼女の技ならまた別の反応を見せるかもしれません。\nというわけで、クロミさん、お願いできます？",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 151,
+      "speaker": "クロミ水着",
+      "text": "え～っとぉ、話を要約しますとつまり……。<interval=0.4>\n",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 154,
+      "speaker": "クロミ水着",
+      "text": "ルカくんのこと、食べちゃっていいってことですねぇ♡\nそういうことなら、ぜひともぜひともお任せを♡♡♡",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 159,
+      "speaker": "花嫁アリスフィーズ",
+      "text": "駄目に決まっているだろうが！？<interval=0.4>\nそういうショック療法を試すのは最終手段だし、\nお前はどうもものすごく危険だと余の勘が叫んでいる！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 163,
+      "speaker": "花嫁アリスフィーズ",
+      "text": "小僧、ルカを守るぞ！<interval=0.4>\n最悪貴様が盾となってでも守れ！！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 164,
+      "speaker": "主人公",
+      "text": "え、<interval=0.4>ええと……そ<interval=0.4>れは僕もちょっとアレなので、\nな、なんとかクロミさんを止めましょう！",
+      "voice": "",
+      "command": ""
+    }
+  ]
+}

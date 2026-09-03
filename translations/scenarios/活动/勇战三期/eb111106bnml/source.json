@@ -1,0 +1,154 @@
+{
+  "scenario_id": "eb111106bnml",
+  "asset_path": "assets/advscene/scenarioexcel/eventbattle/1111/eb111106bnml.book.asset",
+  "cache_bundle": "D:\\mms\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\3c3ed4111fcb2329d528b209faeb9014190a6c5b6e7a44bdd56c9ada6ffc6df0\\3c3ed4111fcb2329d528b209faeb9014\\__data",
+  "rows": [
+    {
+      "row": 8,
+      "speaker": "モンスター娘たち",
+      "text": "ぎゃ、<interval=0.4>うっふ～～～～ん♡",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 35,
+      "speaker": "シンギュラリティ",
+      "text": "あーあ、負けちゃった。<interval=0.4>\nでも仲間相手なのに全然容赦してくれないんだね。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 52,
+      "speaker": "ルシフィナ",
+      "text": "あら、命は奪っていないのだから、\n十分容赦したと思うけれど……？",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 55,
+      "speaker": "ネリス",
+      "text": "そして、あんたにはそんな容赦要らないよね。<interval=0.4>\n今度こそ完全に破壊してやるから！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 58,
+      "speaker": "シンギュラリティ",
+      "text": "ふふふ……♪<interval=0.4>\n熱い視線……<interval=0.4>火傷しちゃいそう……♪",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 64,
+      "speaker": "花嫁アリスフィーズ",
+      "text": "……１つ聞かせろ。貴様は先ほどルカに対し、\nさすが『あの私』を倒した――と言っていたな。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 66,
+      "speaker": "花嫁アリスフィーズ",
+      "text": "貴様は本当に、我等が戦ったあのシンギュラリティなのか？",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 69,
+      "speaker": "ルカもんくえ",
+      "text": "え……！？",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 71,
+      "speaker": "黒のアリス",
+      "text": "そもそも完膚なきまでに破壊したのを私は確認していますわ。<interval=0.4>\nあの状況から生還するなど、たとえ十六の破滅事象であろうと、\n容易とは思えませんわ。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 77,
+      "speaker": "シンギュラリティ",
+      "text": "ふふっ、正解～。<interval=0.4>正確にはあたしは、\nあなたたちの知るシンギュラリティそのものじゃないよ。<interval=0.4>\n分かりやすく言えば――並行世界のシンギュラリティ、<interval=0.4>かな？",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 78,
+      "speaker": "シンギュラリティ",
+      "text": "シンギュラリティは敗れた後、戦闘データを発信したの。\nそのデータを受信し、あたしは新たなシンギュラリティになった。<interval=0.4>\nそして、あなたたちを倒すため、この異世界に来たの。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 81,
+      "speaker": "ネリス",
+      "text": "並行世界のシンギュラリティにデータを送った……？<interval=0.4>\nそんなのキリがないじゃん……！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 84,
+      "speaker": "シンギュラリティ",
+      "text": "ふふふ、そうだね。あたしが破壊されても、\n次のあたしが別の手であなたたちに迫る。<interval=0.4>\nあたしからは絶対に逃げられないんだよ、お兄ちゃん？",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 85,
+      "speaker": "シンギュラリティ",
+      "text": "でも怖がらないで？<interval=0.4>\nあたしはただお兄ちゃんたちとひとつになりたいだけ。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 93,
+      "speaker": "シンギュラリティ",
+      "text": "お兄ちゃんも、少年も、２人の仲間もみーんな、\nひとつに同化してあげる♪<interval=0.4>\nそうしたら共存できる……一緒に幸せになれるんだよ？",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 96,
+      "speaker": "ルカもんくえ",
+      "text": "違うよ、シンギュラリティ。それは幸せじゃない！<interval=0.4>\n同化は共存なんかじゃない！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 97,
+      "speaker": "ルカもんくえ",
+      "text": "それは、たとえ生物を操る練習だったとしても、\nアイドルとしてみんなを笑顔にするためにステージに立った、\n今のきみなら分かる筈だ！！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 100,
+      "speaker": "ミニ",
+      "text": "そうなのだ！　<interval=0.4>アイドルをやってたシンギュラリティは、\nとっても生き生きしてたのだ！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 106,
+      "speaker": "シンギュラリティ",
+      "text": "っ……いいよ、別に抵抗したって。<interval=0.4>\nどうせみんな、<interval=0.4>みんな、<interval=0.4>みんな……！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 110,
+      "speaker": "シンギュラリティ",
+      "text": "<size=40>全部呑み込んじゃうんだから……！！</size>",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 112,
+      "speaker": "ネリス",
+      "text": "何、地面が揺れて……！？<interval=0.4>\nみんな、気をつけて！",
+      "voice": "",
+      "command": ""
+    }
+  ]
+}

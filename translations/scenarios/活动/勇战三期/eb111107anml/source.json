@@ -1,0 +1,161 @@
+{
+  "scenario_id": "eb111107anml",
+  "asset_path": "assets/advscene/scenarioexcel/eventbattle/1111/eb111107anml.book.asset",
+  "cache_bundle": "D:\\mms\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\0a37ad3012935037336dbcc32212ecc696d06dd7f122b1ce7bc583d3acc8b38c\\0a37ad3012935037336dbcc32212ecc6\\__data",
+  "rows": [
+    {
+      "row": 2,
+      "speaker": "主人公",
+      "text": "うう……<interval=0.4>は",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 5,
+      "speaker": "主人公",
+      "text": "っ！？<interval=0.4>\nこ、ここは……！？",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 7,
+      "speaker": "花嫁アリスフィーズ",
+      "text": "以前シンギュラリティと戦った場所に似ているな……。<interval=0.4>\n",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 10,
+      "speaker": "花嫁アリスフィーズ",
+      "text": "それに、中央に鎮座しているのは……！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 14,
+      "speaker": "シンギュラリティ",
+      "text": "ふふ……<interval=0.4>ふふふふふ……♪",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 15,
+      "speaker": "ビビ神",
+      "text": "巨大になって、ウネウネになって、\nいかにもラスボスという雰囲気ですね。<interval=0.4>\nまるでどこかの誰かのような……。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 22,
+      "speaker": "黒のアリス",
+      "text": "あら、どうしてこちらを見ますの、ビビ神様？<interval=0.4>\n私は巨大化しませんわよ？<interval=0.4>\nまぁ、巨大化して決戦というのも愉快そうではありますが。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 25,
+      "speaker": "ミニ",
+      "text": "おぉ……<interval=0.4>改めて見ると、\nなんだかコンサートの巨大セットみたいでカッコいいのだ！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 28,
+      "speaker": "シンギュラリティ",
+      "text": "ふふふ、ありがとうミニ先輩。<interval=0.4>\nすぐにミニ先輩も同化して、\nあたしの歌たっぷり聞かせてあげるからね♪",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 31,
+      "speaker": "ミニ",
+      "text": "わー！？　<interval=0.4>ファンサービスが過ぎるのだ！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 40,
+      "speaker": "ルカもんくえ",
+      "text": "ご主人くん、ビビ神様。気をつけて。<interval=0.4>\nあの状態のシンギュラリティの強さは尋常じゃない。<interval=0.4>\nもしも僕らを倒したらそのまま世界丸ごと滅ぼすだろう。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 41,
+      "speaker": "花嫁アリスフィーズ",
+      "text": "そんなことはさせん……！<interval=0.4>\n異世界の友を守るため……<interval=0.4>何",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 44,
+      "speaker": "花嫁アリスフィーズ",
+      "text": "より、まだ見ぬ絶品グルメのため！！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 49,
+      "speaker": "イリアス大人",
+      "text": "激しく同意です！！<interval=0.4>\n",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 52,
+      "speaker": "イリアス大人",
+      "text": "……はっ！！　ち、違いますよ、ルシフィナ。\n私は別に、個人的な私欲の為になど――。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 65,
+      "speaker": "ルシフィナ",
+      "text": "別に何も言っていないけれど……。<interval=0.4>\nあえて言うなら、信仰を増やそうと躍起になるより、\n美味しいものに支配されている方が良いと思うわ……。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 66,
+      "speaker": "イリアス大人",
+      "text": "そ、そうですか……？<interval=0.4>\nそれでは今度ルシフィナも絶品グルメ巡りに行きましょう。<interval=0.4>\nこの女神イリアスが許可してあげます♪",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 67,
+      "speaker": "ルシフィナ",
+      "text": "…………<interval=0.4>前",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 69,
+      "speaker": "ルシフィナ",
+      "text": "向きに検討しておくわ。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 74,
+      "speaker": "シンギュラリティ",
+      "text": "こんな時に今度の予定の話なんて、随分余裕なんだね……？",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 78,
+      "speaker": "ネリス",
+      "text": "余裕だろうとなかろうと、あんたをぶっ飛ばすのは確定だから！<interval=0.4>\n一度勝った相手に、あたしもルカも負けないっ！<interval=0.4>\n行くよ、少年くん！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 79,
+      "speaker": "主人公",
+      "text": "はいっ！\nみなさんを信じて、最後まで戦います！！",
+      "voice": "",
+      "command": ""
+    }
+  ]
+}
