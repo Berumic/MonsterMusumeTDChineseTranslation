@@ -1,0 +1,4754 @@
+[
+  {
+    "source": "1.5th Anniversaryの恩恵",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "10％の確率で敵の防御力を無視する",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "15％の確率で敵の防御力を無視する",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "15％の確率で物理攻撃と魔法攻撃を回避",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "1st Anniversaryの祝福",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "2.5th Anniversaryの恵愛",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "20％の確率で敵の防御力を無視する",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "20％の確率で物理攻撃を回避",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "20％の確率で魔法攻撃を回避",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "24％の確率で敵の防御力を無視する、代わりに最大HP-10％",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "25％の確率で物理攻撃を回避",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "25％の確率で魔法攻撃を回避",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "27%の確率で敵の防御力を無視する",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "2nd Anniversaryの恩寵",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "3.5th Anniversaryの闘祈",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "30％の確率で物理攻撃を回避",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "30％の確率で魔法攻撃を回避",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "35%の確率で物理攻撃を回避",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "35％の確率で魔法攻撃を回避",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "3rd Anniversaryの加護",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "41ストーン",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "4th Anniversaryの寵愛",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "HP+0721\n物理防御力+45、魔法防御力+45",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "HP+1111、攻撃力+111\n物理防御力+111、魔法防御力+111",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "HP+15%、ブロックしている敵1体につき\n最大HP+8%",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "HP+18%\nヒーラー系クラスにセット時、追加で物理と魔法ダメージを5%軽減",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "HP+20%、錫杖装備クラスにセット時に追加で射程+10",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "HP+20％、HPが1秒ごとに20回復する",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "HP+20％、再出撃までの時間を45%短縮\n（再出撃時間短縮は重複不可）",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "HP+20％、出撃コスト-1",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "HP+20％、物理防御力+17％",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "HP+20％、魔法防御力+17％",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "HP+30%、スキル発動時、自身のHPを20%回復",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "HP+650、霊枝装備クラスにセット時\nHPが1秒ごとに最大値の1%回復",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "HP+物理防御強化",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "HP+魔法防御強化",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "HP100％時、自身のクリティカル率+50％",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "HP50％以下の時、与ダメージが1.5倍",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "HP、攻撃力+18％\n出撃コスト-2",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "HP、攻撃力、防御力+15％\n再出撃までの時間を15%短縮",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "HPが100%以上の時与ダメージ1.1倍\nHP50％以下の時与ダメージ1.3倍",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "HPが100%以上の時与ダメージ1.3倍",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "HPが1秒ごとに20回復し、再出撃までの\n時間を45%短縮（再出撃時間短縮は重複不可）",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "HPが1秒ごとに30回復する",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "HPが1秒ごとに35回復する\n水属性マスに配置時、回復量2倍、最大HP+300",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "HPが1秒ごとに40回復する",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "HPが1秒ごとに45回復し、再出撃時間を40％短縮(再出撃時間短縮は重複不可)",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "HPが1秒ごとに50回復する",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "HPが1秒ごとに60回復する\nスキル発動後10秒間回復量3倍",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "HPが1秒ごとに70回復する",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "HPが30%以上の時回復効果を受けられなくなるが、最大HP+60%",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "HPが50%以上の時、魔法ダメージを40%減少",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "HPが80%以上の時、攻撃速度が上昇し攻撃後の待機時間50%減少",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "HPが半分以下の時、毎秒HPが5%回復する",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "HPが最大状態の時、4秒毎にスキル準備時間-1秒",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "HP強化 I",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "HP強化 II",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "HP強化 III",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "HP強化 IV",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "HP強化+リジェネレーション",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "HP強化+再出撃時間短縮",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "HP強化+出撃コスト減少",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "HP減少量に応じて攻撃力が上昇する（最大30%）",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "HP減少量に応じて攻撃力が上昇する（最大40%）",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "HP減少量に応じて攻撃力が上昇する（最大50%）",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "HP減少量に応じて攻撃力が上昇する（最大70%）",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "HP減少量に応じて物理防御力が上昇する（最大30%）",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "HP減少量に応じて物理防御力が上昇する（最大40%）",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "HP減少量に応じて物理防御力が上昇する（最大50%）",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "HP減少量に応じて物理防御力が上昇する（最大70%）",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "HP犠牲クリティカル率強化",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "HP犠牲再出撃時間短縮",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "HP犠牲出撃コスト減少",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "HP犠牲攻撃強化",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "HP犠牲貫通攻撃",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "MAXマッスル",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "【改造オーク娘】ポデルをトークンとして使役可能\n（元々トークン所持している場合は無効）",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "【改造コボルト娘】ペントをトークンとして使役可能\n（元々トークン所持している場合は無効）",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "【改造サハギン娘】ハギナをトークンとして使役可能\n（元々トークン所持している場合は無効）",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "【改造ハーピー娘】フェルミをトークンとして使役可能\n（元々トークン所持している場合は無効）",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "【改造ペガサス娘】スズをトークンとして使役可能\n（元々トークン所持している場合は無効）",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "【改造マーメイド娘】オキシーをトークンとして使役可能\n（元々トークン所持している場合は無効）",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "【改造リザードマン娘】サウラをトークンとして使役可能\n（元々トークン所持している場合は無効）",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "【改造ローパー娘】ネルをトークンとして使役可能\n（元々トークン所持している場合は無効）",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "【究極】エアロボディ",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "【究極】ダブルダウン",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "【究極】デュアルエレメンタル",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "【究極】パラダイムコスト",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "あやかしの契り",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "うらみつらみ",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "おっとりお姉ちゃん皇女",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "きらめきの星騎士",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "ぐねぐねスライムくん（緑）",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "まったり充電寝正月",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "ゆく年くる年",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "アイアンボディ",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "アサルトクリティカル",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "アサルトチャージ",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "アセンションバケーション",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "アタッチヒール",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "アンデッドにセット時、攻撃力+25％、最大HP-15%\n敵撃破時、最大HP+5%\n(最大20回/死亡撤退時リセット）",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "アースエクステンド",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "ウィルオウィスプソウル",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "ウィンドエクステンド",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "ウォリアー系にセット時物理魔法ダメージ10％軽減\n砕骨の女剣士をトークンとして使役可能\n(元々トークン所持している場合は無効)",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "ウォーターエクステンド",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "エイリアンにセット時、編成時エイリアンのHPと攻撃力+10%",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "エイリアンズコード",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "エレメンタルアセンブリ",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "エレメンタルパワー",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "エレメンタルブースト",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "エンジョイサマーリゾート",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "オーシャンパーティー",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "オートパニッシャー",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "オーバードーピング",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "オールレジスト",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "カウンターパーティー",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "カラフルパレット",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "ガイスト王の采配",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "ガードプロテクト",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "クラスアクション中、攻撃力+30%",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "クラスアクション強化（攻撃）",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "クラーケンソウル",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "クリティカル I",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "クリティカル II",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "クリティカル III",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "クリティカル IV",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "クリティカル+CRIダメージ強化",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "クリティカル+貫通攻撃",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "クリティカルダメージ+30%",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "クリティカルダメージ+40%",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "クリティカルダメージ+50%",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "クリティカルダメージ上限+100％\nクリティカル時、クリティカルダメージ+10％（最大10回）",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "クリティカルダメージ強化 II",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "クリティカルダメージ強化 III",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "クリティカルダメージ強化 IV",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "クリティカルチェイン",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "クリティカルフォーカス",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "クリティカル時、全味方のHPを160回復",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "クリティカル率+15%",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "クリティカル率+15%\nクリティカルダメージ+30%",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "クリティカル率+20%",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "クリティカル率+20％、移動速度+100\nクリティカル時、攻撃速度が10秒間10%増加",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "クリティカル率+22%\n18％の確率で敵の防御力を無視する",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "クリティカル率+25%",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "クリティカル率+28%、代わりに出撃コスト+2",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "クリティカル率+28%、代わりに最大HP-10％",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "クリティカル率+32%",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "クリティカル発生時、クリティカル率2％上昇\n（最大25回/死亡撤退時リセット）",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "クリティカル発生時、攻撃力+2%\n(最大50回/死亡撤退時リセット)",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "グレイテストコスモエナジー",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "グレイトコンダクト",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "ケルベロスソウル",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "コストコンバーター",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "コズミックバリア",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "ゴブリンパーティ！",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "ゴブリン戦士トークンを5体まで使役可能（元々トークン所持している場合は無効）",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "サマーインザスカイ",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "サマーパートナーシップ",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "サンプル採取",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "スキルエクステンド",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "スキル中、与えるダメージが1.35倍になる",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "スキル中与ダメージが1.3倍になるが、スキル終了時最大HP60%の反動ダメージ",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "スキル使用後10秒間、全味方(トークン含)のHPを1秒ごとに75回復させる",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "スキル使用後、再発動までの時間を3秒短くする",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "スキル初回使用までの時間を10秒短くする",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "スキル初回使用までの時間を4秒短くする\nスキル使用後、再発動までの時間を4秒短くする",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "スキル発動中、クリティカル率+10%、クリティカルダメージ+10%\nスキルを使用するたびに、効果量が上昇していく\n（最大50%/死亡撤退後も継続）",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "スキル発動後10秒間、物理魔法攻撃を40％の確率で回避し、受ける物理魔法ダメージを20％軽減（いずれも重複しない）",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "スキル発動時、自身に戦闘前の攻撃力の200%のバリアを付与\t",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "スキル発動時、自身のHPを20%回復 ",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "スキル発動時、自身のHPを25%回復し、自身に戦闘前の攻撃力の250%のバリアを付与\t",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "スキル発動時、被ダメージを半分肩代わりする触手トークンを自身のマスに召喚",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "スタックアタック",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "スタン/石化/凍結、いずれかの状態の敵に与えるダメージ1.2倍",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "スタンエンチャント",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "スタートチャージャー",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "スーパーコンペンセーション",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "セット時、全ウォリアー系クラスの攻撃力+15%\n自信に満ちた女勇者をトークンとして使役可能\n(元々トークン所持している場合は無効)",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "セット時、全スナイパー系クラスの攻撃速度が15%増加\n二丁使いの女海賊をトークンとして使役可能\n(元々トークン所持している場合は無効)",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "セット時、全モンスター娘の攻撃力+5%\nカティナをトークンとして使役可能\n（元々トークン所持している場合は無効）",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "セット時、全モンスター娘の最大HP+10%\nリンデンハートをトークンとして使役可能\n（元々トークン所持している場合は無効）",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "セット時、自身のCRI率上限+50％、CRIダメージ+30％\n配置時、自身のCRI率+100％\nクリティカルごとにCRI率-10％（最大10回）",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "タクティカルマスター",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "タクティクスMガード",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "タクティクスガード",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "ターゲットフォーカス",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "ターロスソウル",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "ダッシュバースト",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "テッパンツンデレ皇女",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "デミズパクト",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "デュラハンソウル",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "トキシックエンゲージリング",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "ドラゴンにセット時、最大HPと攻撃力+15％、\n自身の攻撃で敵を撃破した時10秒間攻撃力10%上昇",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "ドラゴンスピリット",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "ハイテンションサマー",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "ハッピーバレンタイン！",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "パラマウントユニバース",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "パワフルリジェネ",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "パワードバリア",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "パートナーチアー",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "ヒーラー系クラスにセット時、スキル時最大HP35％のバリア\n名家生まれの女僧侶をトークンとして使役可能\n(元々トークン所持している場合は無効)",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "ファイアエクステンド",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "ファストチャージャー",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "ファンタジスタスノウ",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "フェニックスの加護",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "フルハートハイビート",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "フルパワークリティカル",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "ブロックしている敵1体につき攻撃力10％アップ\nデュラハン（原種）をトークンとして使役可能\n（元々トークン所持している場合は無効）",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "ブロック中の敵への与ダメージ1.2倍\nミノタウロス（原種）をトークンとして使役可能\n（元々トークン所持している場合は無効）",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "プロトバリア",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "ボスへ与えるダメージが1.1倍になるが、\nボス以外へ与えるダメージが-10％",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "ポイズンエンチャント",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "ポイズンボム",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "マジックプロテクト",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "マジックボディ",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "マジックリダクション",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "マッスルチャレンジャー",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "ミステリアス、獣神、ビジターにセット時、自身の攻撃力+15％、攻撃時まれに相手を毒、火傷、暗闇、石化、凍結状態にする",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "ミノタウロスソウル",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "ムッツリ妄想フルパワー",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "メガトンストライク",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "メデューサソウル",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "ライフブロック",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "ラッキーヒール",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "ラピッドチャージャー",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "リカバリームーブ",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "リジェネレーション I",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "リジェネレーション II",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "リジェネレーション III",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "リジェネレーション IV",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "リジェネレーション+再出撃時間短縮",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "リミットブレイク",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "レア以下のユニットにセット時、攻撃力+20%、HP+23%\n生意気盛りな男勇者をトークンとして使役可能\n(元々トークン所持している場合は無効)",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "レンタルを含めず同属性が6体以上編成されている場合、全モンスター娘の最大HP、攻撃力、魔法防御力+15%（2属性で最大+30％）",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "レンタルを含めず編成されたモンスター娘の属性1種類につき、\n全モンスター娘のHPと攻撃力+3%(最大6属性まで)",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "一級ご主人証明書",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "不可視の闘気",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "不退転の決意",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "与えるダメージ1.3倍\n攻撃対象数が1体増える度に効果量0.15倍減少\n(最低効果量1.0倍)",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "与ダメージが1.2倍になるが、攻撃ヒット時に最大HP3％の反動ダメージを受ける",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "与ダメージが1.6倍になるが、\n攻撃ヒット時に最大HP10%の反動ダメージを受ける",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "与ダメージが30％減少するが、自身が受ける物理魔法ダメージが30%減少",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "亡者の残影",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "伸るか反るか",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "俺に触れると火傷するぜ",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "元気一発！ごくごくミルク",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "先手必勝！",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "光属性にセット時攻撃時スタン値蓄積（蓄積値：小）\n純粋無垢な女僧侶をトークンとして使役可能\n(元々トークン所持している場合は無効)",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "再出撃までの時間を30％短縮\n(再出撃時間短縮は重複不可)",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "再出撃までの時間を40%短縮(重複不可)\n自身の死亡時、味方全員の攻撃力を10秒間100％上昇させる",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "再出撃までの時間を40%短縮(重複不可)\n自身の死亡時、敵全員の受けるダメージを10秒間1.2倍にする",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "再出撃までの時間を40％短縮\n(再出撃時間短縮は重複不可)",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "再出撃までの時間を45%短縮\n出撃コスト-1",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "再出撃までの時間を45%短縮\n撤退時のコスト回復量が70%になる",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "再出撃までの時間を50％短縮\n(再出撃時間短縮は重複不可)",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "再出撃までの時間を55%短縮、代わりに最大HP-10％\n（再出撃時間短縮は重複不可）",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "再出撃までの時間を60%短縮",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "再出撃時間+出撃コスト減少",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "再出撃時間短縮 I",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "再出撃時間短縮 II",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "再出撃時間短縮 III",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "再出撃時間短縮 IV",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "再出撃時間短縮+撤退時コスト回復",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "冥途の置き土産",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "出撃コスト+10になるが\n攻撃力、物理防御、魔法防御+30%",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "出撃コスト+5になるが\n自身の攻撃で敵撃破時にコスト2回復する",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "出撃コスト-3、代わりに最大HP-10％",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "出撃コストが倍増するが、与えるダメージ1.4倍\n（継続ダメージは適用されない）",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "出撃コストと移動コスト-3\nスキル使用後、再発動までの時間を3秒短くする",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "出撃コスト犠牲HP強化",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "出撃コスト犠牲クリティカル率強化",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "出撃コスト犠牲攻撃強化",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "前途妖々",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "双角王者の討伐証",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "古代艦の討伐証",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "同属性マスに配置したボーナスが1.5倍",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "味方死亡時に敵全体の物防魔防10秒間-5％\nウィルオウィスプ(原種)をトークンとして使役可能\n（元々トークン所持している場合は無効）",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "回復を受けた時、攻撃力が5秒間8%増加",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "場から離れる時に爆発し、周囲の敵に攻撃力の2倍のダメージ",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "夏影モノクローム",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "妖怪にセット時、編成時妖怪の攻撃力10％上昇\n配置中、妖怪のクリティカル率7％上昇",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "妖怪島探検家",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "屍山血河",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "巨擬嶺の討伐証",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "巨鎧騎士の討伐証",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "常夏巨兵の討伐証",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "底力(攻撃) I",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "底力(攻撃) II",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "底力(攻撃) III",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "底力(攻撃) IV",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "底力(物理防御) I",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "底力(物理防御) II",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "底力(物理防御) III",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "底力(物理防御) IV",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "快適快速",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "怪幹呑獣の討伐証",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "恩愛触手の討伐証",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "愛のエマルション☆",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "愛造暴玩の討伐証",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "戦意継承",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "捕獲！プライド高き男剣士",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "捕獲！二丁使いの女海賊",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "捕獲！名家生まれの女僧侶",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "捕獲！生意気盛りな男勇者",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "捕獲！砕骨の女剣士",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "捕獲！純粋無垢な女僧侶",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "捕獲！自信に満ちた女勇者",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "捕獲！霧氷の魔女",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "捨て身の一撃",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "撤退時のコスト回復量が100%になる",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "撤退時のコスト回復量が70%になる",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "撤退時のコスト回復量が80%になる",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "撤退時のコスト回復量が90%になる",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "撤退時コスト回復 I",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "撤退時コスト回復 II",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "撤退時コスト回復 III",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "撤退時コスト回復 IV",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "攻撃+物理防御強化",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "攻撃+物理防御強化II",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "攻撃+魔法防御強化",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "攻撃した相手をスタンさせる(蓄積値：小)\nスタン状態の敵へ与ダメージ1.2倍",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "攻撃力+10％",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "攻撃力+12%、スナイパー系クラスにセット時追加で射程+5",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "攻撃力+12%、ソーサラー系クラスにセット時追加で射程+10",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "攻撃力+15%、場から離れる時に爆発し、周囲の敵に攻撃力分のダメージ",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "攻撃力+15%、杖クラス装備時射程+10",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "攻撃力+15％",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "攻撃力+15％、火傷状態の敵に与えるダメージ1.1倍",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "攻撃力+15％、短剣装備クラスにセット時追加で背後からの攻撃時与ダメージ1.2倍",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "攻撃力+17%\nウォリアー系クラスにセット時、追加でブロック中の敵に\n攻撃力15%の継続ダメージを与える",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "攻撃力+17%\nスナイパー系クラスにセット時追加で\n人間に対しての攻撃が1.2倍に上昇",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "攻撃力+17%、HP+20％",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "攻撃力+17%、再出撃までの時間を45%短縮\n(再出撃時間短縮は重複不可)",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "攻撃力+17%、妖怪にセット時出撃コスト-2",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "攻撃力+17%、撤退時のコスト回復量が70%になる",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "攻撃力+17%、攻撃後の待機時間を20％短縮",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "攻撃力+17%、配置中HP減少量に応じて攻撃力が上昇する（最大40%）",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "攻撃力+17％\n攻撃時、HPが最大値の2％回復",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "攻撃力+17％、8％の確率で敵の防御力を無視する",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "攻撃力+17％、HPが1秒ごとに20回復する",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "攻撃力+17％、クリティカル率+17％",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "攻撃力+17％、ヒーラー系クラスにセット時追加で攻撃力+70",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "攻撃力+17％、出撃コスト-1",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "攻撃力+17％、剣盾装備クラスにセット時追加でスキル中の与えるダメージ1.1倍",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "攻撃力+17％、攻撃時低確率で暗闇を付与\n弓装備クラスにセット時追加で射程内の味方が暗闇状態の敵に与えるダメージが1.1倍",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "攻撃力+17％、石化状態の敵に与えるダメージ1.1倍",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "攻撃力+20％",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "攻撃力+22％　クリティカル率+22％\nクリティカルダメージ+22%",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "攻撃力+25%、クリティカル率+25%",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "攻撃力+25%、代わりに出撃コスト+2",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "攻撃力+25%、代わりに最大HP-10％",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "攻撃力+27％",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "攻撃力+90、扇装備クラスにセット時追加で射程+10",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "攻撃力15％、斧装備クラスにセット時追加で物理防御力+120",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "攻撃力と物理防御力+17％",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "攻撃力と物理防御力+22％",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "攻撃力と魔法防御力+17％",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "攻撃力強化 I",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "攻撃力強化 II",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "攻撃力強化 III",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "攻撃力強化 IV",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "攻撃強化+HP強化",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "攻撃強化+クリティカル",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "攻撃強化+リジェネレーション",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "攻撃強化+再出撃時間短縮",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "攻撃強化+出撃コスト減少",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "攻撃強化+底力(攻撃)",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "攻撃強化+撤退時コスト回復",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "攻撃強化+攻撃待機短縮",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "攻撃強化+生命力吸収",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "攻撃強化+貫通攻撃",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "攻撃待機時間短縮 I",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "攻撃待機時間短縮 II",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "攻撃待機時間短縮 III",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "攻撃待機時間短縮 IV",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "攻撃待機短縮+出撃コスト減少",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "攻撃待機短縮+貫通攻撃",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "攻撃後の待機時間を15％短縮",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "攻撃後の待機時間を20％短縮",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "攻撃後の待機時間を20％短縮、10％の確率で敵の防御力を無視する",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "攻撃後の待機時間を20％短縮、出撃コスト-1",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "攻撃後の待機時間を25％短縮",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "攻撃後の待機時間を30％短縮\n代わりに攻撃力-7%",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "攻撃後の待機時間を32%短縮",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "攻撃時、HPが最大値の1％回復",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "攻撃時、HPが最大値の2％回復",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "攻撃時、HPが最大値の2％回復、攻撃後の待機時間を20％短縮",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "攻撃時、HPが最大値の3％回復",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "攻撃時、HPが最大値の4％回復",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "攻撃時、HPが最大値の4％回復、代わりに攻撃力-7%",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "攻撃時、低確率で毒を付与\n毒状態の敵へ与ダメージ1.2倍",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "攻撃犠牲HP強化",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "攻撃犠牲攻撃待機短縮",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "攻撃犠牲生命力吸収",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "敵の攻撃力の10％を反射しダメージを与える",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "敵の攻撃力の8％を反射しダメージを与える\n剣盾装備クラスにセット時追加で物防魔防+30",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "敵を攻撃で倒すごとに攻撃力が1%上昇\n(最大50回/死亡撤退時リセット)",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "敵撃破時、10秒間コスト回復速度がアップ\n(当スキル効果は重複せず効果時間の更新のみ。当スキル以外の同効果は重複するが、重複毎に効果は低下)",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "春の息吹",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "晩夏盛衰",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "暗躍する影",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "暗部の聖衣",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "暗闇状態の敵への与ダメージ1.5倍\nクラーケン(原種)をトークンとして使役可能\n（元々トークン所持している場合は無効）",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "最大HP+30%、代わりに出撃コスト+2",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "最大HP+30%、代わりに攻撃力-7％",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "最大HP+30%、代わりに物理防御-7％",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "最大HP+30%、代わりに魔法防御-7％",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "最大HP+33％\nケルベロス(闇原種)をトークンとして使役可能\n（元々トークン所持している場合は無効）",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "最大HP+600、槍装備クラスにセット時追加で攻撃力+100",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "最大HP+650、剣盾装備クラスにセット時追加で物理防御+120",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "最大HP+650、扇装備クラスにセット時追加で攻撃力+100",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "最大HP+650、扇装備クラスにセット時追加で攻撃力+80",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "最大HP+650、斧装備クラスにセット時追加で攻撃力+100",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "最大HP+650、斧装備クラスにセット時追加で攻撃力+120",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "最大HP+650、鈍器装備クラスにセット時追加で攻撃力+120",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "最大HP+810、\n攻撃力+51、再出撃までの時間を41%短縮",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "最大HPが-50％になるが、15秒毎に最大HP50％分のバリアを付与する",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "月満つれば則ちかく",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "来たる福女！",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "業炎金球の討伐証",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "正体不明の加護",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "残夏の大フィーバー",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "母なる海の加護",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "毒、石化、スタン耐性+50",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "毒状態の敵への攻撃時HPが最大値の4％回復、スカウト系クラスにセット時追加で射程+10",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "毒状態の敵へ与えるダメージ1.2倍\n毒状態の相手から受ける物理ダメージを40％軽減する",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "水属性ユニットにセット時受ける物理魔法ダメージが15％減少\n霧氷の魔女をトークンとして使役可能\n(元々トークン所持している場合は無効)",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "決死の一撃",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "海魔、水妖にセット時、水属性マス配置状態になり、スキル発動中、与えるダメージが1.2倍になる",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "深淵に臨む者",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "火属性ユニットにセット時、攻撃速度が増加\nプライド高き男剣士をトークンとして使役可能\n(元々トークン所持している場合は無効)",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "灼熱噴然の討伐証",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "煩悶淫竜の討伐証",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "爆食爆漢の討伐証",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "物理ダメージを10％減少\nガーディアン系クラスにセット時追加で物理ダメージを20％減少",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "物理ダメージを25％減少",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "物理ダメージを5%軽減\n地属性ユニットにセット時追加で最大HP+700",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "物理攻撃+魔法攻撃回避",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "物理攻撃回避 I",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "物理攻撃回避 II",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "物理攻撃回避 III",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "物理攻撃回避 IV",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "物理防御+10％",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "物理防御+15％",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "物理防御+15％、ガーディアン系クラスにセット時追加でHP+500",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "物理防御+17％、物理攻撃を20％の確率で回避",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "物理防御+20％",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "物理防御+27％",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "物理防御+40、オーブ装備クラスにセット時追加で魔法防御+40",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "物理防御+40、オーブ装備クラスにセット時追加で魔法防御+60",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "物理防御+85、魔法防御+85\n鈍器装備クラスにセット時追加で\n攻撃力+19％、クリティカル率+19％",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "物理防御+魔法防御強化",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "物理防御力+17％、出撃コスト-1",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "物理防御力と魔法防御力+17％",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "物理防御力と魔法防御力+22％\nターロス（原種）をトークンとして使役可能\n（元々トークン所持している場合は無効）",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "物理防御強化 I",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "物理防御強化 II",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "物理防御強化 III",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "物理防御強化 IV",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "物理防御強化+出撃コスト減少",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "物理防御強化+物理攻撃回避",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "物理防御犠牲HP強化",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "現在コストが100以上の時、自身のクリティカル率+40％",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "生命力吸収 I",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "生命力吸収 II",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "生命力吸収 III",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "生命力吸収 IV",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "生命力吸収+攻撃待機短縮",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "疾風怒濤",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "皇女の誇り",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "盛夏磐石",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "盛大鏡開き",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "相手のHPが90%以上の時与えるダメージ1.6倍、89～50％の時与えるダメージ1.2倍",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "真夏の水分チャージ",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "石化、毒状態の敵への与ダメージ1.3倍\nメデューサ(原種)をトークンとして使役可能\n（元々トークン所持している場合は無効）",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "移動できなくなるが、HP+30％、攻撃力+25％",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "移動コスト-1\n物理と魔法攻撃を18％の確率で回避\n配置、移動完了後15秒間、1秒ごとにHPが200回復",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "移動中、攻撃力+100％",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "移動中、攻撃力+120％\n移動速度+100",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "移動時物理、魔法攻撃を20％の確率で回避\n移動消費コスト-5",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "移動速度+100、移動コスト-2\n移動開始時、攻撃力10％上昇\n（最大10回/死亡撤退時リセット）",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "移動速度+100％",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "移動速度+30％",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "移動速度+40％、移動消費コスト-1",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "移動速度+50％",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "移動速度+50％\n配置、移動完了後5秒間、攻撃速度が少し増加する",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "移動速度+60％、剣盾装備クラスにセット時追加で物理防御+100",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "移動速度+70％",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "移動速度上昇 I",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "移動速度上昇 II",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "移動速度上昇 III",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "移動速度上昇IV",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "穴鏡触手の討伐証",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "究極機将の討伐証",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "竜騎士の討伐証",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "純白ヴェール",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "結石竜の討伐証",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "綺麗な花には毒がある",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "緑スライムトークンを2体まで使役可能（元々トークン所持している場合は無効）",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "編成時、味方全体の出撃コスト-3",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "編成時、自身と同じ属性のモンスター娘の出撃コスト-1（自身を含む）",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "編成時、飛行モンスター娘の攻撃力+15%\n飛行モンスター娘にセット時、飛行する敵に攻撃時与えるダメージ1.5倍",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "編成時地属性モンスター娘のHPと攻撃力+10%",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "編成時水属性モンスター娘のHPと攻撃力+10%",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "編成時火属性モンスター娘のHPと攻撃力+10%",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "編成時風属性モンスター娘のHPと攻撃力+10%",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "聖なる祈り",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "聖女の加護",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "膨大巨嚢の討伐証",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "自身が95％の確率で物理攻撃を回避",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "自身が敵を撃破するごとに最大HPの10％を回復し、自身の攻撃で敵を撃破した時10秒間攻撃力+10%\n妖怪セット時は攻撃力の増加が15%に強化",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "自身の与えるダメージと受けるダメージが2倍",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "自身の使役するトークンの\n与えるダメージが1.3倍",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "自身の出撃コスト-10\n自身配置後、10秒間コスト回復速度が半減",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "自身の出撃コスト-4\nスキル初回発動と再発動までの時間を4秒短縮",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "被弾時に相手を確率で火傷状態にする\n火傷状態の相手から受ける物理ダメージを40％軽減する",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "被弾時相手を確率で猛毒状態にし、ブロック中の敵から受ける物理魔法ダメージを15％軽減する",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "被検体Ｈ５９",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "被検体Ｋ１２１",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "被検体Ｍ３６",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "被検体Ｏ８",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "被検体Ｐ２０",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "被検体Ｒ１３",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "被検体Ｓ６",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "被検体Ｔ４２",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "触手も付けとくでぇ！",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "豪華絢爛",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "貫通攻撃 I",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "貫通攻撃 II",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "貫通攻撃 III",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "貫通攻撃 IV",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "超・双角王者の討伐証",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "超・巨鎧騎士の討伐証",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "超・竜騎士の討伐証",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "逆境の力",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "配置してから30秒間、与ダメージ1.15倍\n水属性モンスター娘にセット時追加でHPが\n1秒ごとに100回復する",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "配置してから30秒間、与ダメージ1.5倍",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "配置してから30秒間、攻撃力/物理防御力/魔法防御力が+100％",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "配置中、マップ上の属性マス1種ごとに\n全味方の攻撃力+100（最大600）",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "配置中、全味方が受ける物理ダメージ15%減少",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "配置中、全味方が受ける魔法ダメージ15%減少",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "配置中、全味方の物理防御力+4％",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "配置中、全味方の物防・魔防+3％",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "配置中、全味方の魔法防御力+4％",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "配置中、自身と同じ属性の味方が受ける物理ダメージ20%減少\n他属性の味方が受ける物理ダメージ10%減少",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "配置中、自身の攻撃力+15％、スキルを1回使用するごとに効果量が15％ずつ上昇（最大150％/死亡撤退時も継続）",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "配置中、配置中のデミ、妖精、ゴブリン、コボルトの味方1体につき、デミ、妖精、ゴブリン、コボルトの攻撃力が4％上昇する",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "配置中、配置中の種族人間のトークンの最大HP、攻撃、物防、魔防+100％",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "配置中の自身が使役しているトークンの\n攻撃力と物理防御力+60％",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "配置時、20秒間天候：吹雪にする\n天候：吹雪状態の時、自身の与えるダメージが1.6倍",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "配置時、マップ上のマスをランダムで\n有属性に変更する(各属性最大2マス)\n有属性マス配置時、与えるダメージ1.1倍",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "配置時、マップ上のマスをランダムで\n水地光属性に変更する(各属性最大3マス)",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "配置時、マップ上のマスをランダムで\n火水風属性に変更する(各属性最大3マス)",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "配置時、マップ上のマスをランダムで水属性に変更する(最大3マス)\n水属性マス配置時、与えるダメージ1.1倍",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "配置時、攻撃力、物理防御、魔法防御、最大HPのいずれか一つをランダムで30％増加",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "配置時、足元のマスを無属性に変化\n無属性マス配置時、与えるダメージ1.3倍",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "配置時に周囲の敵に攻撃力2.5倍のダメージを与え、高確率で猛毒状態にする",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "金煌爆球の討伐証",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "鉄壁の守り",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "開けてびっくり福袋",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "闘勲・煩悶淫竜の討伐証",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "霧を晴らす列車",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "非スキル中、攻撃力と防御力+15%\nスキル中、攻撃力と防御力+30%",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "非スキル中通常の攻撃を行わなくなるが\n1秒毎にスキル準備時間-1秒\n(サポーター系クラスは効果の対象外)",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "非スキル中通常の攻撃を行わなくなるが\nスキル中の与えるダメージが1.4倍\n(サポーター系クラスは効果の対象外)",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "革新派の暗器",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "騎士の心得",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "高貴なる狩人",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "魔導の心得",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "魔導傑作の討伐証",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "魔導艦の討伐証",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "魔法ダメージを25%減少",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "魔法ダメージを5%軽減\n全味方のHPを1秒毎に15回復する",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "魔法攻撃回避 I",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "魔法攻撃回避 II",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "魔法攻撃回避 III",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "魔法攻撃回避 IV",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "魔法防御+10％",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "魔法防御+15％",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "魔法防御+17％、魔法攻撃を20％の確率で回避",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "魔法防御+20％",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "魔法防御+27％",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "魔法防御力+100、弓装備クラスにセット時追加で攻撃力+100、魔法防御力+30",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "魔法防御力+100、本装備クラスにセット時追加で攻撃力+100",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "魔法防御力+40、魔法ダメージを5％減少",
+    "kind": "description",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Text"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "魔法防御強化 I",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "魔法防御強化 II",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "魔法防御強化 III",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "魔法防御強化 IV",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "魔法防御強化+魔法攻撃回避",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "魔法防御犠牲HP強化",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "麗しき藝術家",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  },
+  {
+    "source": "黄金岩晶の討伐証",
+    "kind": "name",
+    "contexts": [
+      "CanvasManagerContent/Page/Unit_Detail_AttachAbility(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/AttachAbilityRarityParent(Clone)/LegendContent/SaleContent(Clone)/Name"
+    ],
+    "occurrences": 1
+  }
+]
