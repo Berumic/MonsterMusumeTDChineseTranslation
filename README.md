@@ -1,0 +1,2 @@
+# MonsterMusumeTDChineseTranslation
+魔物娘TD简中翻译
