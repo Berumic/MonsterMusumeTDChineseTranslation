@@ -1,0 +1,70 @@
+{
+  "scenario_id": "1101061nml",
+  "asset_path": "assets/advscene/scenarioexcel/main/1101/1101061nml.book.asset",
+  "cache_bundle": "C:\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\69fcd790ed6c6a4a76442555923aa5876fe20072dc2daafbd4304d17796784e0\\69fcd790ed6c6a4a76442555923aa587\\__data",
+  "rows": [
+    {
+      "row": 7,
+      "speaker": "",
+      "text": "为了摆脱骑士团的包围，\n主人公一行踏入了森林深处。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 18,
+      "speaker": "骑士A",
+      "text": "怎样，找到了吗？",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 19,
+      "speaker": "骑士B",
+      "text": "没有，目前还没有报告。\n……视野也相当糟糕，而且地利在他们那边。\n要不要先和本队会合？",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 20,
+      "speaker": "骑士A",
+      "text": "不，再搜一会儿吧。\n空手回去的话，天知道会被迈纳德大人怎么唧唧歪歪。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 22,
+      "speaker": "骑士B",
+      "text": "是，明白了！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 25,
+      "speaker": "主人公",
+      "text": "――看样子，他们似乎在找什么人。\n又是来偷猎魔物娘们的吧。\n要不要把他们抓起来，问点情报出来？",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 54,
+      "speaker": "弗兰茜",
+      "text": "明白了。\n本公主这就去把他们抓来。",
+      "voice": "ch_10014/Main/1101/1101_10014_215",
+      "command": ""
+    },
+    {
+      "row": 55,
+      "speaker": "主人公",
+      "text": "――等等，要抓的不是我，\n是那群来偷猎的人啊！！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 56,
+      "speaker": "弗兰茜",
+      "text": "切，是这样啊。",
+      "voice": "ch_10014/Main/1101/1101_10014_216",
+      "command": ""
+    }
+  ]
+}

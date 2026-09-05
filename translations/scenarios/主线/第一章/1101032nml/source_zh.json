@@ -1,0 +1,105 @@
+{
+  "scenario_id": "1101032nml",
+  "asset_path": "assets/advscene/scenarioexcel/main/1101/1101032nml.book.asset",
+  "cache_bundle": "C:\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\ba85e5061126de54aa1dcd2a85407f34318354b39d806d4fb4e36f15d4a533af\\ba85e5061126de54aa1dcd2a85407f34\\__data",
+  "rows": [
+    {
+      "row": 9,
+      "speaker": "萨拉",
+      "text": "哇，姐姐我被打败啦！\n主人又变强了呢。\n姐姐我也好开心呀～♪",
+      "voice": "ch_10057/Main/1101/1101_10057_100",
+      "command": ""
+    },
+    {
+      "row": 10,
+      "speaker": "艾瑠特",
+      "text": "哼哼，倒是玩得挺尽兴。\n虽有耳闻，你倒是个有趣的人。\n你这张脸，我记住了。",
+      "voice": "ch_10061/Main/1101/1101_10061_101",
+      "command": ""
+    },
+    {
+      "row": 11,
+      "speaker": "主人公",
+      "text": "谢、谢谢您的夸奖……。\n不过，赛莲小姐看起来很不满意……？",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 28,
+      "speaker": "赛莲",
+      "text": "可恶——！　我真的生气了！　绝不原谅！\n这次一定要动真格把你打飞！",
+      "voice": "ch_10023/Main/1101/1101_10023_102",
+      "command": ""
+    },
+    {
+      "row": 29,
+      "speaker": "赛莲",
+      "text": "说到底，你们太赖皮了！！\n为什么主人总是在你们那边战斗啊！？\n这根本不公平吧！？",
+      "voice": "ch_10023/Main/1101/1101_10023_104",
+      "command": ""
+    },
+    {
+      "row": 30,
+      "speaker": "克萝米",
+      "text": "被你这么一说，好像确实……。",
+      "voice": "ch_10021/Main/1101/1101_10021_105",
+      "command": ""
+    },
+    {
+      "row": 43,
+      "speaker": "铃",
+      "text": "不不，你别被她说服啊，克萝米！？",
+      "voice": "ch_10022/Main/1101/1101_10022_106",
+      "command": ""
+    },
+    {
+      "row": 45,
+      "speaker": "赛莲",
+      "text": "给我！\n也把主人分给我们！！",
+      "voice": "ch_10023/Main/1101/1101_10023_107",
+      "command": ""
+    },
+    {
+      "row": 46,
+      "speaker": "铃",
+      "text": "你这么说我也很为难……。",
+      "voice": "ch_10022/Main/1101/1101_10022_108",
+      "command": ""
+    },
+    {
+      "row": 53,
+      "speaker": "特鲁鲁",
+      "text": "不，赛莲说得也有道理汪！\n我要起诉汪！",
+      "voice": "ch_10027/Main/1101/1101_10027_109",
+      "command": ""
+    },
+    {
+      "row": 55,
+      "speaker": "弗兰茜",
+      "text": "正是如此！\n本公主根本连个帮手都没有，我方要求再战！",
+      "voice": "ch_10014/Main/1101/1101_10014_110",
+      "command": ""
+    },
+    {
+      "row": 58,
+      "speaker": "主人公",
+      "text": "她们是这么说的……该怎么办呢？",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 59,
+      "speaker": "琳",
+      "text": "嗯，可以呀～。\n毕竟主人是我的未婚夫嘛。\n两人紧紧相连的命运，谁也无法拆散哦～。",
+      "voice": "ch_10006/Main/1101/1101_10006_111",
+      "command": ""
+    },
+    {
+      "row": 60,
+      "speaker": "主人公",
+      "text": "不，不是那么回事。",
+      "voice": "",
+      "command": ""
+    }
+  ]
+}
