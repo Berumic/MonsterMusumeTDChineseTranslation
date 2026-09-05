@@ -1,0 +1,70 @@
+{
+  "scenario_id": "1101061nml",
+  "asset_path": "assets/advscene/scenarioexcel/main/1101/1101061nml.book.asset",
+  "cache_bundle": "C:\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\69fcd790ed6c6a4a76442555923aa5876fe20072dc2daafbd4304d17796784e0\\69fcd790ed6c6a4a76442555923aa587\\__data",
+  "rows": [
+    {
+      "row": 7,
+      "speaker": "",
+      "text": "騎士団の包囲から逃れるべく、\n主人公たちは森の奥に足を踏み入れていた。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 18,
+      "speaker": "騎士Ａ",
+      "text": "どうだ、見つかったか？",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 19,
+      "speaker": "騎士Ｂ",
+      "text": "いえ、報告はありません。\n……だいぶ視界も悪いですし、地の利はあちらにあります。\n一度、本隊と合流した方がよいのでは？",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 20,
+      "speaker": "騎士Ａ",
+      "text": "いや、もうしばらく捜索をしよう。\n手ぶらで戻ったらマイナード殿に\nどんな嫌味を言われるか分かったものではないからな。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 22,
+      "speaker": "騎士Ｂ",
+      "text": "はっ、了解いたしました！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 25,
+      "speaker": "主人公",
+      "text": "――どうやら、誰かを探しているみたいですね。\nまたモンスター娘さんたちを密猟しにやってきたんでしょうか。\nちょっと捕まえて情報を聞き出してみませんか。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 54,
+      "speaker": "フランシ",
+      "text": "わかりましたの。\n姫が捕まえてあげますの。",
+      "voice": "ch_10014/Main/1101/1101_10014_215",
+      "command": ""
+    },
+    {
+      "row": 55,
+      "speaker": "主人公",
+      "text": "――って、捕まえるのは僕じゃなくて、\nあっちの密猟しにきた人たちです！！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 56,
+      "speaker": "フランシ",
+      "text": "ちっ、ですの。",
+      "voice": "ch_10014/Main/1101/1101_10014_216",
+      "command": ""
+    }
+  ]
+}
