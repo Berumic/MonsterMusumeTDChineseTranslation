@@ -1,0 +1,378 @@
+{
+  "scenario_id": "66054a0_nml",
+  "asset_path": "assets/advscene/scenarioexcel/character/66054/66054a0_nml.book.asset",
+  "cache_bundle": "C:\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\f6c42e51964f746499af4da74c600a9aa5a41fbf38a4cf0e0c971fafa12170a8\\f6c42e51964f746499af4da74c600a9a\\__data",
+  "rows": [
+    {
+      "row": 7,
+      "speaker": "",
+      "text": "その日の晩、僕はメロンさんに誘われて、\n月がよく見える丘までやってきていた。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 10,
+      "speaker": "メロンお月見",
+      "text": "ういしょ、<interval=1>う",
+      "voice": "ch_66054/R18/66054A0_66054_Nml/66054A0_66054_001",
+      "command": ""
+    },
+    {
+      "row": 11,
+      "speaker": "メロンお月見",
+      "text": "いしょ……<interval=2>ふ",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 13,
+      "speaker": "メロンお月見",
+      "text": "ぅ、到着！<interval=2.5>\nご主人さま、ついたよ～。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 22,
+      "speaker": "主人公",
+      "text": "はい、<interval=0.4>ありがとうございます、メロンさん！！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 26,
+      "speaker": "",
+      "text": "手のひらから地面に下ろしてもらい、\n芝生の上にメロンさんと一緒に座る。<interval=0.4>\n空を見上げると満天の星空の中、ひときわ大きく月が輝いていた。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 29,
+      "speaker": "メロンお月見",
+      "text": "わあぁ……噂通り、すっごくお月様が綺麗だね！<interval=4.3>\n",
+      "voice": "ch_66054/R18/66054A0_66054_Nml/66054A0_66054_002",
+      "command": ""
+    },
+    {
+      "row": 58,
+      "speaker": "メロンお月見",
+      "text": "ご主人さまと一緒に見れて良かった～～～！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 60,
+      "speaker": "メロンお月見",
+      "text": "今日はお月様がよく見えるってみんな言ってて……。<interval=4>\nえ",
+      "voice": "ch_66054/R18/66054A0_66054_Nml/66054A0_66054_003",
+      "command": ""
+    },
+    {
+      "row": 62,
+      "speaker": "メロンお月見",
+      "text": "へへっ、だからこの格好！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 64,
+      "speaker": "",
+      "text": "会ったときから当然気がついていたけれど、<interval=0.4>\nメロンさんは今日、ウサギみたいな仮装をしていた。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 66,
+      "speaker": "メロンお月見",
+      "text": "お月様と言えばウサギ。お耳ピコピコしてて可愛いでしょ？<interval=4.5>\nどうかなご主人さまっ。",
+      "voice": "ch_66054/R18/66054A0_66054_Nml/66054A0_66054_004",
+      "command": ""
+    },
+    {
+      "row": 69,
+      "speaker": "主人公",
+      "text": "すごく似合っていて、可愛いです！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 71,
+      "speaker": "メロンお月見",
+      "text": "えへへへへ～♪<interval=2>\n褒めてもらえて嬉しいけど、\nいざ真っ直ぐ言われると照れちゃうな～♪",
+      "voice": "ch_66054/R18/66054A0_66054_Nml/66054A0_66054_005",
+      "command": ""
+    },
+    {
+      "row": 74,
+      "speaker": "主人公",
+      "text": "だって本当のことですし……。<interval=0.4>\nでも、今日のためにわざわざ用意してくれたんですか？",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 87,
+      "speaker": "メロンお月見",
+      "text": "ご主人さまとお月見できるチャンスなんて、\nそんないっぱいあるわけじゃないもん！",
+      "voice": "ch_66054/R18/66054A0_66054_Nml/66054A0_66054_006",
+      "command": ""
+    },
+    {
+      "row": 89,
+      "speaker": "メロンお月見",
+      "text": "だったらちゃんとおめかししなくちゃ！",
+      "voice": "ch_66054/R18/66054A0_66054_Nml/66054A0_66054_007",
+      "command": ""
+    },
+    {
+      "row": 90,
+      "speaker": "",
+      "text": "にこーっと笑顔を浮かべるメロンさんを見ていると、<interval=0.4>\n僕",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 93,
+      "speaker": "",
+      "text": "も自然と頬が緩んでしまった。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 101,
+      "speaker": "メロンお月見",
+      "text": "それにしても大きなお月様だよね。<interval=3>\nえっと、今日はたしか、スーパームーンとかいうんだって。<interval=6.5>\nなんだか、特別お月様が大きく見える日、<interval=3>み",
+      "voice": "ch_66054/R18/66054A0_66054_Nml/66054A0_66054_008",
+      "command": ""
+    },
+    {
+      "row": 103,
+      "speaker": "メロンお月見",
+      "text": "たいな？",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 104,
+      "speaker": "主人公",
+      "text": "へぇ……だからあんなに大きく……。<interval=0.4>\nでも、この丘もなんだか月が見やすい感じがします。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 112,
+      "speaker": "メロンお月見",
+      "text": "でしょでしょー！<interval=1.5>\n角度とか、空気のなんか……<interval=3>が",
+      "voice": "ch_66054/R18/66054A0_66054_Nml/66054A0_66054_009",
+      "command": ""
+    },
+    {
+      "row": 114,
+      "speaker": "メロンお月見",
+      "text": "、いいんだって！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 143,
+      "speaker": "メロンお月見",
+      "text": "そうだ、ご主人さま！<interval=2>\n私、お団子持ってきたんだ！\nお月見といったらお団子でしょ？",
+      "voice": "ch_66054/R18/66054A0_66054_Nml/66054A0_66054_010",
+      "command": ""
+    },
+    {
+      "row": 145,
+      "speaker": "メロンお月見",
+      "text": "せっかくだから、どっちがたくさん、\nお団子積み上げられるか勝負しようよ！",
+      "voice": "ch_66054/R18/66054A0_66054_Nml/66054A0_66054_011",
+      "command": ""
+    },
+    {
+      "row": 146,
+      "speaker": "主人公",
+      "text": "え……<interval=0.4>あ、<interval=0.4>わ",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 149,
+      "speaker": "主人公",
+      "text": "かりました！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 151,
+      "speaker": "",
+      "text": "メロンさんはそういって懐からお団子を取り出す。<interval=0.4>\n僕",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 154,
+      "speaker": "",
+      "text": "用のサイズと、<interval=0.8>それより何倍も大きいメロンさ",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 158,
+      "speaker": "",
+      "text": "ん用のもの。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 176,
+      "speaker": "メロンお月見",
+      "text": " ",
+      "voice": "ch_66054/R18/66054A0_66054_Nml/66054A0_66054_012",
+      "command": "Voice"
+    },
+    {
+      "row": 179,
+      "speaker": "メロンお月見",
+      "text": "まるでお月様みたいにまん丸",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 182,
+      "speaker": "メロンお月見",
+      "text": "でしょー！<interval=3>\nこれを、こー",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 185,
+      "speaker": "メロンお月見",
+      "text": "やって、<interval=0.4>積み上げてって",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 188,
+      "speaker": "メロンお月見",
+      "text": "ー♪",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 192,
+      "speaker": "",
+      "text": "お団子を重ねていくメロンさんの横顔が、<interval=0.4>\nあまりにも楽しそうで、僕",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 195,
+      "speaker": "",
+      "text": "も心地が良かったのだけど――。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 202,
+      "speaker": "メロンお月見",
+      "text": "ちなみに、<interval=0.4>勝負に負けた方は服を脱ぐっていう罰ゲームね！",
+      "voice": "ch_66054/R18/66054A0_66054_Nml/66054A0_66054_013",
+      "command": ""
+    },
+    {
+      "row": 206,
+      "speaker": "主人公",
+      "text": "えええっ！？<interval=0.4>　なんですかそれ！？\n聞いてませんよ！？",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 219,
+      "speaker": "メロンお月見",
+      "text": "今言ったもーん♪",
+      "voice": "ch_66054/R18/66054A0_66054_Nml/66054A0_66054_014",
+      "command": ""
+    },
+    {
+      "row": 220,
+      "speaker": "",
+      "text": "無邪気に見えたけれどそうじゃなかったらしい。<interval=0.4>\n僕は思わぬ罰ゲームに動揺し、手を震えさせてしまう。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 223,
+      "speaker": "メロンお月見",
+      "text": "きゃっ！？",
+      "voice": "ch_66054/R18/66054A0_66054_Nml/66054A0_66054_015",
+      "command": ""
+    },
+    {
+      "row": 224,
+      "speaker": "",
+      "text": "そんな中突然、爽やかな風が吹き――。<interval=0.4>\n元々ぐらついていた僕の山は、あっさり崩れてしまった。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 226,
+      "speaker": "メロンお月見",
+      "text": "あ、ご主人さまの負け～！<interval=2>\nふふふっ、勝っちゃった！　勝っちゃった！",
+      "voice": "ch_66054/R18/66054A0_66054_Nml/66054A0_66054_016",
+      "command": ""
+    },
+    {
+      "row": 227,
+      "speaker": "",
+      "text": "メロンさんの積み上げた山はこんな風では微動だにしなかった。<interval=0.4>\n若干ずるい気もしなくないけれど……。<interval=0.4>\nでも、負けてしまったのは確かで――。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 228,
+      "speaker": "主人公",
+      "text": "い、<interval=0.4>い",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 231,
+      "speaker": "主人公",
+      "text": "やぁ、<interval=0.4>楽しかったですね！<interval=0.4>\nあっ、お月見しましょう、お月見！<interval=0.4>\nせ",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 235,
+      "speaker": "主人公",
+      "text": "っかく美味しそうなお団子もたくさんありますし！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 238,
+      "speaker": "メロンお月見",
+      "text": "はぁ、はぁ、ご主人さまの裸ぁ……♪",
+      "voice": "ch_66054/R18/66054A0_66054_Nml/66054A0_66054_017",
+      "command": ""
+    },
+    {
+      "row": 239,
+      "speaker": "主人公",
+      "text": "め、<interval=0.4>メロンさん？<interval=0.4>　…",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 244,
+      "speaker": "主人公",
+      "text": "…ひゃああっ！？",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 245,
+      "speaker": "",
+      "text": "メロンさんの目には既に月もお団子も映っていなかった。<interval=0.4>\nそうして僕は、そんな「団子より華」なメロンさんに、\n身ぐるみを引っぺがされてしまうのだった。",
+      "voice": "",
+      "command": ""
+    }
+  ]
+}
