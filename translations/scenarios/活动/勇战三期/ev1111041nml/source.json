@@ -1,0 +1,427 @@
+{
+  "scenario_id": "ev1111041nml",
+  "asset_path": "assets/advscene/scenarioexcel/event/1111/ev1111041nml.book.asset",
+  "cache_bundle": "D:\\mms\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\98256ff2f19c3dff54251e8ff52a6256e3cc8a3fc38bb426ec51cf91e2b86a4c\\98256ff2f19c3dff54251e8ff52a6256\\__data",
+  "rows": [
+    {
+      "row": 5,
+      "speaker": "",
+      "text": "逃げ出した密猟者たちを追い、\n一行は再びビーチの方まで出てきていた。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 8,
+      "speaker": "主人公",
+      "text": "ふぅ……。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 15,
+      "speaker": "ビビ神",
+      "text": "どうしましたか、ご主人さま？<interval=0.4>\nもしかしてお疲れでしょうか？",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 18,
+      "speaker": "ルカもんくえ",
+      "text": "えっ、本当？　<interval=0.4>僕らが引っ張り回したせいかな……。<interval=0.4>\n少し休憩しようか？",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 21,
+      "speaker": "主人公",
+      "text": "い、<interval=0.4>いえ、<interval=0.4>大丈夫です！　疲れとかではなくて……。<interval=0.4>\n少し頭がムズムズする感じが……<interval=0.4>いや、気のせいだと思います。<interval=0.4>\nそれより皆さん、あそこに人だかりがありますよ！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 31,
+      "speaker": "ルププ＆タンタル",
+      "text": "みんな～！<interval=0.4>\n今日は来てくれてありがとー！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 37,
+      "speaker": "ルルゥアイドル",
+      "text": "ルルゥたちのステージ……<interval=0.4>いっぱい楽しんでほしい、<interval=0.4>なの！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 38,
+      "speaker": "主人公",
+      "text": "あれはルププさん、タンタルさん、ルルゥさん……？<interval=0.4>\nもしかしてアイドルライブの真っ最中でしょうか？",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 41,
+      "speaker": "ルカもんくえ",
+      "text": "あ、<interval=0.4>アイドルライブ？<interval=0.4>\nこの島ってそういうこともやるんだ……。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 48,
+      "speaker": "ビビ神",
+      "text": "一過性のマイブームのようなものですけどね。<interval=0.4>\nただ、たまに練習しているのは見かけますが、\nこうも客を集めてライブをしているのを見るのは久しぶりです。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 51,
+      "speaker": "ネリス",
+      "text": "……<interval=0.4>ていうか、お客さんの中に、\nさっき襲ってきた密猟者って連中が混ざってない？",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 64,
+      "speaker": "ビビ神",
+      "text": "混ざってますね。本来であればすぐ追い出すところですが、\nただライブを観るだけで悪さをしないのであれば許しましょう。<interval=0.4>\nルルゥたちも観客がいた方が嬉しいでしょうし。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 65,
+      "speaker": "ルシフィナ",
+      "text": "柔軟なのね……<interval=0.4>見",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 67,
+      "speaker": "ルシフィナ",
+      "text": "習いなさい、イス神。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 75,
+      "speaker": "イリアス大人",
+      "text": "イリアスですっ！　<interval=0.4>それに私だって、\nもう昔のような過激な思想は持っていませんから……！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 77,
+      "speaker": "黒のアリス",
+      "text": "あら、そうですの？<interval=0.4>\nではでは成長の証として私とデュエットでもいかがです？",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 80,
+      "speaker": "イリアス大人",
+      "text": "い、いえ、<interval=0.4>それは遠慮します……。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 93,
+      "speaker": "花嫁アリスフィーズ",
+      "text": "（同じ魔族の余だってそれは嫌だ……）",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 100,
+      "speaker": "ミニ",
+      "text": "あっ、ルカ！　<interval=0.4>みんなー！　おーい！<interval=0.4>\nみんなも来たのか～！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 103,
+      "speaker": "ルカもんくえ",
+      "text": "えっ、ミニ？<interval=0.4>\nどうしてミニもこの世界に？",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 107,
+      "speaker": "ミニ",
+      "text": "んー、なんか狭くて落ち着く場所を探してたら、\n気がついたらここにいたのだ！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 108,
+      "speaker": "ミニ",
+      "text": "みんないなくてびっくりしたけど……、<interval=0.4>\nでもあたし、寂しくなかったぞ！\n",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 110,
+      "speaker": "ミニ",
+      "text": "新しい友達もできたしなっ！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 116,
+      "speaker": "パリンダーヴァ",
+      "text": "ぱぱ～～～！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 118,
+      "speaker": "主人公",
+      "text": "わっ、パリンダーヴァさん！<interval=0.4>\nもしかしてミニさんのお友達って……。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 119,
+      "speaker": "パリンダーヴァ",
+      "text": "うんっ、道に迷ってたミニくんとお友達になったんだ～！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 125,
+      "speaker": "ネリス",
+      "text": "……パパ？<interval=0.4>\nもしかして、少年くんの娘さん！？<interval=0.4>\nうそっ、可愛い～！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 128,
+      "speaker": "ネリス",
+      "text": "あたしネリス！<interval=0.4>\nねぇねぇ、あたしとも友達になろうよ♪\n娘仲間同士ってことで！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 131,
+      "speaker": "ビビ神",
+      "text": "娘同士？",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 134,
+      "speaker": "花嫁アリスフィーズ",
+      "text": "んっ、まぁ、誰もが誰かしらかの娘ではあるからな。<interval=0.4>\nにしても小僧、さすがの余も驚いたぞ。<interval=0.4>\nまさか貴様が既に子をこさえていたとは……。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 135,
+      "speaker": "主人公",
+      "text": "い、いえ、違います！　<interval=0.4>パリンダーヴァさんは、\n僕をそういう風に慕ってくれているというだけで、\n血縁があるとかじゃ……。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 137,
+      "speaker": "パリンダーヴァ",
+      "text": "そうだよっ。ぱぱはぱぱだけど、\n同時にぼくのおとうとくんでもあるんだ～♪",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 143,
+      "speaker": "黒のアリス",
+      "text": "父であり、弟……？<interval=0.4>\nなかなか混沌してますのね。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 145,
+      "speaker": "ルシフィナ",
+      "text": "あなたたちも、あのライブを観ていたのかしら……？<interval=0.4>\n何か気になることはなかったかしら？",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 150,
+      "speaker": "ミニ",
+      "text": "気になることかー？<interval=0.4>\n",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 153,
+      "speaker": "ミニ",
+      "text": "う～ん、すっごい賑やかで楽しかったぞ！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 154,
+      "speaker": "イリアス大人",
+      "text": "ルシフィナ、何を気にしているのですか？",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 158,
+      "speaker": "ルシフィナ",
+      "text": "イス神様は気付かなかったのかしら……？<interval=0.4>\n先ほどの暴徒たちの違和感に……。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 160,
+      "speaker": "イリアス大人",
+      "text": "私はイリアスですし、それに先ほどは、\nルシフィナに抗うのに必死だったので……。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 161,
+      "speaker": "ルシフィナ",
+      "text": "…………。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 165,
+      "speaker": "イリアス大人",
+      "text": "その呆れた目、やめてもらえませんか！？<interval=0.4>\nものすごく傷つきます！！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 168,
+      "speaker": "",
+      "text": "そう話していた一行だったが、\nステージの方から聞こえた一段と盛り上がった声に、\n意識をそちらへと戻す。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 172,
+      "speaker": "密猟者",
+      "text": "わああああああ！<interval=0.4>　ギュラちゃああああああんっ！！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 173,
+      "speaker": "主人公",
+      "text": "わ、<interval=0.4>凄い歓声――って、<interval=0.4>ギ",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 176,
+      "speaker": "主人公",
+      "text": "ュラちゃん？<interval=0.4>\nそんな名前のかた、この島にいましたっけ……？",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 177,
+      "speaker": "ビビ神",
+      "text": "ふむ、少なくともご主人さまが出会った中には、\nいなかったかと思いますが……。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 178,
+      "speaker": "",
+      "text": "困惑する主人公。<interval=0.4>\nその視線の先で、観客の前に１人の少女が躍り出た。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 183,
+      "speaker": "シンギュラリティ",
+      "text": "うふふふふ……♪<interval=0.4>\nみんな、来てくれてありがとう。\nこれからはあたしのアイドルライブ、楽しんでいってね。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 186,
+      "speaker": "花嫁アリスフィーズ",
+      "text": "なっ！？",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 194,
+      "speaker": "ルカもんくえ",
+      "text": "か、彼女は！！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 196,
+      "speaker": "ルシフィナ",
+      "text": "やっぱり、ね……。<interval=0.4>\n暴徒たちから感じた嫌な気配、\nまさかこの世界に逃げ延びていたなんて……。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 199,
+      "speaker": "主人公",
+      "text": "えっ、<interval=0.4>えっ！？<interval=0.4>\nみなさん、あのひとをご存じなんですか！？",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 200,
+      "speaker": "ネリス",
+      "text": "ご存じなんてもんじゃないわ……！<interval=0.4>\nあいつは、だって……。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 202,
+      "speaker": "密猟者",
+      "text": "うおおおおおおおおおおおおお！！<interval=0.4>\nギュラちゃん！　<interval=0.2>ギュラちゃん！<interval=0.2>　ギュラちゅわぁあんっ！！\n",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 204,
+      "speaker": "密猟者",
+      "text": "んほおおおおおおおおおおおおおおおおおおおお！！！！！！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 205,
+      "speaker": "",
+      "text": "ルカたちが動揺する中、観客の密猟者たちが吼え、暴れ出す。<interval=0.4>\nそして彼らは暴走したように、主人公たちの方へも迫ってきた。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 208,
+      "speaker": "ルカもんくえ",
+      "text": "な、これは……！？<interval=0.4>\nみんな、気をつけて！　普通じゃない！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 209,
+      "speaker": "主人公",
+      "text": "暴走しているのはどうやら密猟者だけみたいです！<interval=0.4>\n皆さん、身を守りつつ、遠慮無くぶっ飛ばしちゃってください！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 215,
+      "speaker": "シンギュラリティ",
+      "text": "あれぇ……？　<interval=0.4>観客のみんなが暴れ出しちゃった。<interval=0.4>\nこれじゃあ初めて来たお客さんも怖がっちゃうかな？",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 218,
+      "speaker": "シンギュラリティ",
+      "text": "お客さんを幸せにするのもアイドルの役目。<interval=0.4>\nだからあたしもお客さんを守るため、戦うね！\nふふふふふ……♪",
+      "voice": "",
+      "command": ""
+    }
+  ]
+}
