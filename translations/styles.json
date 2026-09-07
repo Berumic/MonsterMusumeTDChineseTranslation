@@ -1,0 +1,25 @@
+{
+  "$global": {
+    "outlineColor": "#544A4A",
+    "outlineWidth": 0.3,
+    "outline": true
+  },
+  "$styles": {
+    "QuestDetail_SubSkillPrize/WindowBase/ScrollView/Viewport/Mask/Content/SaleContent/BackImage/Text": {
+      "fontColor": "#FFFFFF",
+      "lineSpacing": 8
+    },
+    "Quest_Story/LeftZone/Unit/Guide/GuideMessageText": {
+      "outline": true,
+      "outlineColor": "#FFFFFF",
+      "lineSpacing": 8,
+      "faceDilate": 0
+    },
+    "Quest_Entrance/LeftZone/Guide/GuideMessageText": {
+      "outline": true,
+      "outlineColor": "#FFFFFF",
+      "lineSpacing": 8,
+      "faceDilate": 0
+    }
+  }
+}
