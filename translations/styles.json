@@ -1,25 +1,102 @@
 {
   "$global": {
-    "outlineColor": "#544A4A",
+    "font": "alimama",
+    "outline": true,
+    "outlineColor": "#FFFFFF",
     "outlineWidth": 0.3,
-    "outline": true
+    "faceDilate": 0.35
   },
   "$styles": {
     "QuestDetail_SubSkillPrize/WindowBase/ScrollView/Viewport/Mask/Content/SaleContent/BackImage/Text": {
+      "font": "alimama",
       "fontColor": "#FFFFFF",
       "lineSpacing": 8
     },
     "Quest_Story/LeftZone/Unit/Guide/GuideMessageText": {
-      "outline": true,
+      "font": "alimama",
+      "outline": false,
       "outlineColor": "#FFFFFF",
       "lineSpacing": 8,
       "faceDilate": 0
     },
-    "Quest_Entrance/LeftZone/Guide/GuideMessageText": {
-      "outline": true,
-      "outlineColor": "#FFFFFF",
+    "Canvas/UICanvas/CanvasManagerContent/WindowState/Home_Quest(Clone)/PageParent/Page/Quest_Entrance/UI_Com_Scene_RightIn_Center/Control/LeftZone/Guide/GuideMessageText": {
+      "font": "alimama",
+      "outline": false,
       "lineSpacing": 8,
       "faceDilate": 0
+    },
+    "Canvas/UICanvas/CanvasManagerContent/WindowState/Home_Quest/PageParent/Page/Quest_Entrance/LeftZone/Guide/GuideMessageText": {
+      "font": "alimama",
+      "outline": false,
+      "lineSpacing": 8,
+      "faceDilate": 0
+    },
+    "Canvas/UICanvas/CanvasManagerContent/WindowState/Home_Mission/PageParent/Page/Mission(Clone)/RightZone/MissionListView/CommonMissionScroll/ScrollView_Mission/Viewport/Mask/Content/Node/Mission": {
+      "font": "alimama",
+      "outline": true,
+      "outlineColor": "#544A4A",
+      "lineSpacing": 8
+    },
+    "CanvasManagerContent/WindowState/Home_Menu/PageParent/Page/Menu_Sub_Menu/RightZone/Layout": {
+      "font": "alimama",
+      "outline": true,
+      "outlineColor": "#FFFFFF",
+      "outlineWidth": 0.3,
+      "faceDilate": 0.2
+    },
+    "Canvas/UICanvas/CanvasManagerContent/WindowState/Home_Menu(Clone)/PageParent/Page/Menu_Sub_Menu(Clone)/UI_Com_Scene_LeftIn_Center(Clone)/Control/RightZone/Layout": {
+      "font": "alimama",
+      "outline": true,
+      "outlineColor": "#FFFFFF",
+      "outlineWidth": 0.3,
+      "faceDilate": 0.2
+    },
+    "QuestContent/Back/Stamina": {
+      "font": "alimama",
+      "outline": true,
+      "outlineColor": "#FFFFFF"
+    },
+    "QuestContent/Back/Lv": {
+      "font": "alimama",
+      "outline": true,
+      "outlineColor": "#FFFFFF"
+    },
+    "Ranch_View/WindowBase/CenterTexts/InfoText": {
+      "font": "alimama",
+      "outline": true,
+      "outlineColor": "#544A4A",
+      "fontColor": "#6BF7D1"
+    },
+    "CenterTexts/TimerTextRoot/TimerText": {
+      "font": "alimama",
+      "outline": true,
+      "outlineColor": "#544A4A",
+      "fontColor": "#6BF7D1"
+    },
+    "ScrollView_Friend/Viewport/Mask/Content/Friend_Content/Text": {
+      "font": "alimama",
+      "outline": false,
+      "faceDilate": 0.1
+    },
+    "ScrollView_Friend/Viewport/Mask/Content/Friend_Content/Text_LoginNum": {
+      "font": "alimama",
+      "outline": false,
+      "faceDilate": 0.1
+    },
+    "FriendView/FollowerScrollRoot/FollowerTextArea/Text": {
+      "font": "alimama",
+      "outline": false,
+      "faceDilate": 0.1
+    },
+    "FriendView/FollowerScrollRoot/FollowerTextArea/FollowerNumText": {
+      "font": "alimama",
+      "outline": false,
+      "faceDilate": 0.1
+    },
+    "DeckView_InputDeckName/WindowBase/Title": {
+      "font": "alimama",
+      "outline": false,
+      "faceDilate": 0.1
     }
   }
 }

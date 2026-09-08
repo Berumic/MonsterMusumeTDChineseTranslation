@@ -42,9 +42,13 @@
         "出撃コスト": "部署费用",
         "CRI率": "暴击率",
         "CRIダメージ": "暴击伤害",
+        "射程補正": "射程补正",
         "<indent=-4%><cspace=-2>リ<cspace=0>セ<cspace=-4>ット": "",
-        "<indent=-6%>▼降順": "",
-        "<indent=3%>▲昇順": "",
+        "<indent=-6%>▼降順": "▼降序",
+        "<indent=3%>▲昇順": "▲升序",
+        "CanvasManagerContent/Page/Common_SortFilter/WindowBase/ScrollView/Viewport/Mask/Content/Sort/PriorSort/Caption": {
+            "作成可能を優先表示": "可以制作的优先"
+        },
         "フィ<cspace=1.4>ルター": "筛选",
         "EXスキルLv": "EX技能等级",
         "サブスキル": "辅助技能",
@@ -313,7 +317,7 @@
         "クラスチェンジに必要な武具はメインストーリーから入手できますよ。モンスター娘たちはご主人さまから渡された武具は大事にして返してくれませんからね♪": "转职所需的武具可以从主线故事中获得哦。魔物娘们会珍惜主人给的武具，不会还回来的呢♪",
         "クエストが難しくなってきていませんか？\u3000そんな時は私たち獣神にも頼ってくださいね。私たち獣神もモンスター娘たちと同じく、強くなることができるんです。": "任务是不是变得越来越难了？\u3000这种时候也请依赖我们兽神吧。我们兽神也能和魔物娘们一样变强哦。",
         "モンスター娘たちが、首を長ーくして待っていますよ。": "魔物娘们正探着头等着您哦。",
-        "こちらはクエスト選択画面です。お好みのプレイが体験でき……え、違う？": "这里是任务选择画面。可以体验您喜欢的Play……诶，不对吗？"
+        "こちらはクエスト選択画面です。お好みのプレイが体験でき……え、違う？": "这里是任务选择画面。可以体验您喜欢的玩法……诶，不对吗？"
     },
     "CanvasManagerContent/WindowState/Home_Quest/PageParent/Page/Quest_Story/Quest_StoryBack/Group_Btn/Tab_Btn/Off/Text": {
         "スペシャルチャレンジ": "特别挑战"
@@ -407,5 +411,112 @@
     },
     "CanvasManagerContent/Page/Common_SortFilter/WindowBase/Category/Filter/Image": {
         "<indent=4%><cspace=-0.8>フィ<cspace=1.4>ルター": "筛选"
+    },
+    "CanvasManagerContent/WindowState/Home_Mission/PageParent/Page/Mission/RightZone/MissionListView/CommonMissionScroll/ScrollView_Mission/Viewport/Mask/Content/ScrollContent_MissionHierarchy/MainContent/Progress": {
+        "進行度:<num>/<num>": "进度:<num>/<num>"
+    },
+    "CanvasManagerContent/WindowState/Home_Menu/PageParent/Page/HeaderTitleCommon/Text": {
+        "メニュー": "菜单"
+    },
+    "CanvasManagerContent/WindowState/Home_Menu/PageParent/Page/Menu_Sub_Menu/RightZone/Layout/ApplicationQuitButton/Image": {
+        "ゲーム終了": "退出游戏"
+    },
+    "CanvasManagerContent/WindowState/Home_Menu/PageParent/Page/Menu_Sub_Menu/RightZone/Layout/BomCutinButton/Image": {
+        "召喚演出": "召唤演出"
+    },
+    "CanvasManagerContent/WindowState/Home_Menu/PageParent/Page/Menu_Sub_Menu/RightZone/Layout/ContactButton/Image": {
+        "お問い合わせ": "咨询"
+    },
+    "CanvasManagerContent/WindowState/Home_Menu/PageParent/Page/Menu_Sub_Menu/RightZone/Layout/DataCooperationButton/Image": {
+        "データ連携": "数据连协"
+    },
+    "CanvasManagerContent/WindowState/Home_Menu/PageParent/Page/Menu_Sub_Menu/RightZone/Layout/GalleryButton/Image": {
+        "<cspace=-1>ギ<cspace=-2>ャ<cspace=-2>ラ<cspace=-1>リ<cspace=-4>ー": "画廊"
+    },
+    "CanvasManagerContent/WindowState/Home_Menu/PageParent/Page/Menu_Sub_Menu/RightZone/Layout/ItemButton/Image": {
+        "アイテム": "物品"
+    },
+    "CanvasManagerContent/WindowState/Home_Menu/PageParent/Page/Menu_Sub_Menu/RightZone/Layout/LoginBonusButton/Image": {
+        "ログインボーナス": "登录奖励"
+    },
+    "CanvasManagerContent/WindowState/Home_Menu/PageParent/Page/Menu_Sub_Menu/RightZone/Layout/SerialCodeButton/Image": {
+        "<cspace=-1>シ<cspace=-2>リ<cspace=-2>ア<cspace=0>ル<cspace=-1>コ<cspace=-2.5>ー<cspace=0>ド": "特典码"
+    },
+    "CanvasManagerContent/WindowState/Home_Menu/PageParent/Page/Menu_Sub_Menu/RightZone/Layout/UseTermsButton/Image": {
+        "利用規約": "利用规约"
+    },
+    "CanvasManagerContent/WindowState/Home_Menu/PageParent/Page/Menu_Sub_Menu/RightZone/Layout/VolumeButton/Image": {
+        "音量": "音量"
+    },
+    "CanvasManagerContent/Page/Unit_Detail_Equip/WindowBase/ScrollView_Quest/Viewport/Mask/Content/QuestContent/Back/Lv/Title": {
+        "<cspace=0>推<cspace=1>奨<cspace=-2>L<cspace=3>v:": "<cspace=0>推<cspace=0>荐<cspace=-2>L<cspace=3>v:"
+    },
+    "CanvasManagerContent/Page/UI_Com_PopUp_ScaleIn/Control/Unit_Detail_Equip/WindowBase/ScrollView_Quest/Viewport/Mask/Content/QuestContent/Back/Stamina/Title": {
+        "<cspace=-0>ス<cspace=-1>タ<cspace=0>ミ<cspace=3>ナ:": "<cspace=-0>消<cspace=-1>耗<cspace=0>体<cspace=3>力"
+    },
+    "CanvasManagerContent/Page/Ranch_View/WindowBase/Buttons/CloseButton/Image": {
+        "<indent=-2%><cspace=-5>キャ<cspace=-3>ン<cspace=-2>セル": "取消"
+    },
+    "CanvasManagerContent/Page/Ranch_View/WindowBase/Buttons/ReceiveButton/Image": {
+        "<cspace=-2>受け<cspace=-4>取る": "获取"
+    },
+    "CanvasManagerContent/Page/Ranch_View/WindowBase/CenterTextArea/TextImage": {
+        "<cspace=0>獲<cspace=2>得<cspace=-1>ア<cspace=0>イ<cspace=-1>テム": "获得的物品"
+    },
+    "CanvasManagerContent/Page/Ranch_View/WindowBase/CenterTexts/ExpTextRoot/TitleText": {
+        "ﾓﾝｽﾀｰ娘EXP  :": "魔物娘EXP"
+    },
+    "CanvasManagerContent/Page/Ranch_View/WindowBase/CenterTexts/GoldTextRoot/TitleText": {
+        "ゴールド :": "金币"
+    },
+    "CanvasManagerContent/Page/Ranch_View/WindowBase/CenterTexts/InfoText": {
+        "1分毎の獲得量(メインストーリーを進めれば増加)": "每1分钟获得的量（主线任务推进时增加）"
+    },
+    "CanvasManagerContent/Page/Ranch_View/WindowBase/CenterTexts/TimerTextRoot/CautionaryText": {
+        "(最大30時間まで)": "（最大30小时）"
+    },
+    "CanvasManagerContent/Page/Ranch_View/WindowBase/CenterTexts/TimerTextRoot/TimerText": {
+        "<num>時間<num>分<num>秒": "<num>小时<num>分<num>秒",
+        "<num>分<num>秒": "<num>分<num>秒",
+        "<num>秒": "<num>秒"
+    },
+    "CanvasManagerContent/Page/Ranch_View/WindowBase/CenterTexts/TimerTextRoot/TitleText": {
+        "経過時間": "经过时间"
+    },
+    "CanvasManagerContent/Page/Ranch_View/WindowBase/Title/Text_Title": {
+        "<cspace=0>ﾓ<cspace=-0.7>ﾝｽ<cspace=0>ﾀｰ<cspace=-0.5>娘牧場": "魔物娘牧场"
+    },
+    "CanvasManagerContent/Page/Menu_Friend/RightZone/FriendView/Tab/TabName/Off/Text": {
+        "<cspace=3>検索": "搜索",
+        "フォロワー": "谁跟踪了你",
+        "相互<cspace=-2>フ<cspace=-1>ォロー": "相互跟踪",
+        "フォロー": "跟踪"
+    },
+    "CanvasManagerContent/Page/Menu_Friend/RightZone/FriendView/FollowerScrollRoot/ScrollView_Friend/Viewport/Mask/Content/Friend_Content/Text": {
+        "フォロワー数：": "跟踪者数量：",
+        "最終ログイン：": "最后登录："
+    },
+    "CanvasManagerContent/Page/Menu_Friend/RightZone/FriendView/FollowerScrollRoot/ScrollView_Friend/Viewport/Mask/Content/Friend_Content/Text_LoginNum": {
+        "<num>時間前": "<num>小时前",
+        "<num>分前": "<num>分前"
+    },
+    "CanvasManagerContent/Page/Menu_Friend/RightZone/FriendView/FollowerScrollRoot/FollowerTextArea/Text": {
+        "※フォロワーは100人までしか表示されません。": "※跟踪者最多只会显示100人。"
+    },
+    "CanvasManagerContent/Page/Menu_Friend/RightZone/FriendView/SearchScrollRoot/SearchInputArea/SearchInputTextArea/Text": {
+        "プレイヤーIDで検索<cspace=-2>する": "根据玩家ID进行搜索"
+    },
+    "CanvasManagerContent/Page/DeckView_InputDeckName/WindowBase/PassWord/Text_2": {
+        "最大文字数は12文字までです。": "最大12个字"
+    },
+    "CanvasManagerContent/Page/DeckView_InputDeckName/WindowBase/Title": {
+        "IDを入力してください。": "在这里输入ID。"
+    },
+    "CanvasManagerContent/Page/DeckView_InputDeckName/WindowBase/Title/Text_Title": {
+        "ID入力": "输入ID"
+    },
+    "CanvasManagerContent/Page/HeaderTitleCommon/Text": {
+        "フレンド": "好友",
+        "プロフィール": "个人资料"
     }
 }
