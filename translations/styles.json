@@ -97,6 +97,31 @@
       "font": "alimama",
       "outline": false,
       "faceDilate": 0.1
+    },
+    "Canvas/UICanvas/CanvasManagerContent/WindowState/Home_Quest(Clone)/PageParent/Page/Quest_Daily(Clone)/RightZone/ScrollView_Quest/Viewport/Mask/Content/ScrollContent_QuestSuperReinforce(Clone)/Back/Lv/Title": {
+      "font": "alimama",
+      "outline": true,
+      "outlineColor": "#FFFFFF"
+    },
+    "Page/Present_List(Clone)/WindowBase/ScrollView/Viewport/Mask/Content/PresentContent(Clone)/Name": {
+      "font": "alimama",
+      "outline": true,
+      "outlineColor": "#544A4A"
+    },
+    "MissionListView/CommonMissionScroll/ScrollView_Mission/Viewport/Mask/Content/ScrollContent_MissionHierarchy(Clone)/MainContent/Mission": {
+      "font": "alimama",
+      "outline": true,
+      "outlineColor": "#544A4A"
+    },
+    "MissionListView/CommonMissionScroll/ScrollView_Mission/Viewport/Mask/Content/ScrollContent_MissionHierarchy(Clone)/ChildArea/ChildContent(Clone)/Mission": {
+      "font": "alimama",
+      "outline": true,
+      "outlineColor": "#544A4A"
+    },
+    "MissionListView/CommonMissionScroll/ScrollView_Mission/Viewport/Mask/Content/Node(Clone)/Present": {
+      "font": "alimama",
+      "outline": true,
+      "outlineColor": "#544A4A"
     }
   }
 }

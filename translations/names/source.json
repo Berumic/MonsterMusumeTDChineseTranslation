@@ -1,0 +1,1039 @@
+[
+  {
+    "name": "*フレックスタイムについての情報を引き出す",
+    "scenarios": [
+      "1110011nml"
+    ],
+    "occurrences": 1
+  },
+  {
+    "name": "*リフレックスについての情報を引き出す",
+    "scenarios": [
+      "1110011nml"
+    ],
+    "occurrences": 1
+  },
+  {
+    "name": "*リラックスについての情報を引き出す",
+    "scenarios": [
+      "1110011nml"
+    ],
+    "occurrences": 1
+  },
+  {
+    "name": "*打開策を練る",
+    "scenarios": [
+      "1103011nml"
+    ],
+    "occurrences": 1
+  },
+  {
+    "name": "*現実逃避をする",
+    "scenarios": [
+      "1103011nml"
+    ],
+    "occurrences": 1
+  },
+  {
+    "name": "アイドル",
+    "scenarios": [
+      "10467a0_nml"
+    ],
+    "occurrences": 1
+  },
+  {
+    "name": "アスタ",
+    "scenarios": [
+      "10029a0_nml",
+      "10029a1_r18",
+      "10029b0_nml",
+      "10029b1_r18"
+    ],
+    "occurrences": 60
+  },
+  {
+    "name": "アスタシェイプシフター",
+    "scenarios": [
+      "10262a0_nml",
+      "10262a1_r18",
+      "10262b0_nml",
+      "10262b1_r18"
+    ],
+    "occurrences": 102
+  },
+  {
+    "name": "アスタメイド",
+    "scenarios": [
+      "66015a0_nml",
+      "66015a1_r18"
+    ],
+    "occurrences": 43
+  },
+  {
+    "name": "アスタ学園",
+    "scenarios": [
+      "10423a0_nml",
+      "10423a1_r18",
+      "10423b0_nml",
+      "10423b1_r18"
+    ],
+    "occurrences": 99
+  },
+  {
+    "name": "アニス",
+    "scenarios": [
+      "10004c0_nml",
+      "ev1000041nml",
+      "ev1000042nml"
+    ],
+    "occurrences": 17
+  },
+  {
+    "name": "アメリ",
+    "scenarios": [
+      "10024a1_r18",
+      "10024b1_r18"
+    ],
+    "occurrences": 37
+  },
+  {
+    "name": "アリスもんくえ",
+    "scenarios": [
+      "ev1053062nml"
+    ],
+    "occurrences": 2
+  },
+  {
+    "name": "アリスもんくえ(ロリ)",
+    "scenarios": [
+      "66038a1_r18",
+      "eb105306anml",
+      "ev1053062nml"
+    ],
+    "occurrences": 36
+  },
+  {
+    "name": "イグニ",
+    "scenarios": [
+      "10010a0_nml",
+      "10010a1_r18",
+      "10010b0_nml",
+      "10010b1_r18"
+    ],
+    "occurrences": 63
+  },
+  {
+    "name": "イリアスもんくえ(ロリ)",
+    "scenarios": [
+      "10243a1_r18",
+      "eb105306anml",
+      "ev1053062nml",
+      "ev1111051nml"
+    ],
+    "occurrences": 36
+  },
+  {
+    "name": "イリアス大人",
+    "scenarios": [
+      "eb111103bnml",
+      "eb111107anml",
+      "ev1111031nml",
+      "ev1111041nml",
+      "ev1111042nml",
+      "ev1111051nml",
+      "ev1111052nml",
+      "ev1111061nml",
+      "ev1111072nml"
+    ],
+    "occurrences": 33
+  },
+  {
+    "name": "オキュー",
+    "scenarios": [
+      "10038b0_nml",
+      "10038b1_r18",
+      "10038c1_r18"
+    ],
+    "occurrences": 41
+  },
+  {
+    "name": "オークＡ",
+    "scenarios": [
+      "66008a0_nml"
+    ],
+    "occurrences": 8
+  },
+  {
+    "name": "オークＢ",
+    "scenarios": [
+      "66008a0_nml"
+    ],
+    "occurrences": 6
+  },
+  {
+    "name": "カミラ",
+    "scenarios": [
+      "10006c0_nml",
+      "10006c1_r18"
+    ],
+    "occurrences": 26
+  },
+  {
+    "name": "クロト",
+    "scenarios": [
+      "10415a1_r18",
+      "10415b1_r18"
+    ],
+    "occurrences": 9
+  },
+  {
+    "name": "クロミ",
+    "scenarios": [
+      "10010a0_nml",
+      "10029b0_nml",
+      "1103011nml",
+      "1110011nml",
+      "1110012nml"
+    ],
+    "occurrences": 35
+  },
+  {
+    "name": "クロミ水着",
+    "scenarios": [
+      "eb111102bnml",
+      "ev1111021nml",
+      "ev1111061nml",
+      "ev1111072nml"
+    ],
+    "occurrences": 7
+  },
+  {
+    "name": "ケィナ",
+    "scenarios": [
+      "ev1000051nml",
+      "ev1000052nml"
+    ],
+    "occurrences": 7
+  },
+  {
+    "name": "ゴブリン",
+    "scenarios": [
+      "10004c0_nml",
+      "10004c1_r18"
+    ],
+    "occurrences": 2
+  },
+  {
+    "name": "シジメ",
+    "scenarios": [
+      "1110012nml"
+    ],
+    "occurrences": 8
+  },
+  {
+    "name": "シルバ",
+    "scenarios": [
+      "ev1000022nml"
+    ],
+    "occurrences": 11
+  },
+  {
+    "name": "シンギュラリティ",
+    "scenarios": [
+      "10467a0_nml",
+      "10467a1_r18",
+      "10467b0_nml",
+      "10467b1_r18",
+      "eb111106bnml",
+      "eb111107anml",
+      "ev1111041nml",
+      "ev1111042nml",
+      "ev1111051nml",
+      "ev1111052nml",
+      "ev1111061nml",
+      "ev1111072nml"
+    ],
+    "occurrences": 128
+  },
+  {
+    "name": "スズ",
+    "scenarios": [
+      "10022b1_r18",
+      "1100011nml",
+      "1100012nml",
+      "1103011nml",
+      "1110011nml",
+      "1110012nml",
+      "ev1000011nml",
+      "ev1000012nml"
+    ],
+    "occurrences": 85
+  },
+  {
+    "name": "セリンダ",
+    "scenarios": [
+      "10447a0_nml",
+      "10447a1_r18",
+      "10447b1_r18"
+    ],
+    "occurrences": 78
+  },
+  {
+    "name": "セレン",
+    "scenarios": [
+      "10010a0_nml",
+      "1103011nml",
+      "1110011nml",
+      "1110012nml"
+    ],
+    "occurrences": 39
+  },
+  {
+    "name": "セレン＆リン＆スズ",
+    "scenarios": [
+      "1103011nml"
+    ],
+    "occurrences": 1
+  },
+  {
+    "name": "セーラ",
+    "scenarios": [
+      "1110011nml"
+    ],
+    "occurrences": 1
+  },
+  {
+    "name": "タンタル",
+    "scenarios": [
+      "1103011nml"
+    ],
+    "occurrences": 22
+  },
+  {
+    "name": "タンタルアイドル",
+    "scenarios": [
+      "ev1111042nml",
+      "ev1111061nml",
+      "ev1111072nml"
+    ],
+    "occurrences": 7
+  },
+  {
+    "name": "チカ",
+    "scenarios": [
+      "10160b1_r18"
+    ],
+    "occurrences": 29
+  },
+  {
+    "name": "テルル",
+    "scenarios": [
+      "10010a0_nml",
+      "ev1000051nml",
+      "ev1000052nml"
+    ],
+    "occurrences": 8
+  },
+  {
+    "name": "ディフニラ",
+    "scenarios": [
+      "ev1000021nml",
+      "ev1000022nml"
+    ],
+    "occurrences": 5
+  },
+  {
+    "name": "トルス",
+    "scenarios": [
+      "ev1000011nml",
+      "ev1000012nml",
+      "ev1000021nml",
+      "ev1000022nml",
+      "ev1000031nml",
+      "ev1000032nml",
+      "ev1000041nml",
+      "ev1000042nml",
+      "ev1000051nml",
+      "ev1000052nml"
+    ],
+    "occurrences": 57
+  },
+  {
+    "name": "ニセハイヌウェレ",
+    "scenarios": [
+      "1110011nml"
+    ],
+    "occurrences": 3
+  },
+  {
+    "name": "ニッドラ学園",
+    "scenarios": [
+      "10335a0_nml",
+      "10335a1_r18",
+      "10335b1_r18"
+    ],
+    "occurrences": 68
+  },
+  {
+    "name": "ネリス",
+    "scenarios": [
+      "eb111101anml",
+      "eb111101bnml",
+      "eb111102bnml",
+      "eb111103bnml",
+      "eb111106bnml",
+      "eb111107anml",
+      "ev1111011nml",
+      "ev1111021nml",
+      "ev1111031nml",
+      "ev1111041nml",
+      "ev1111042nml",
+      "ev1111051nml",
+      "ev1111052nml",
+      "ev1111061nml",
+      "ev1111072nml"
+    ],
+    "occurrences": 59
+  },
+  {
+    "name": "ネリー",
+    "scenarios": [
+      "10020b0_nml",
+      "10020b1_r18"
+    ],
+    "occurrences": 36
+  },
+  {
+    "name": "パリンダーヴァ",
+    "scenarios": [
+      "ev1111041nml",
+      "ev1111042nml",
+      "ev1111051nml",
+      "ev1111061nml",
+      "ev1111072nml"
+    ],
+    "occurrences": 11
+  },
+  {
+    "name": "ビッキーヌ",
+    "scenarios": [
+      "1110012nml"
+    ],
+    "occurrences": 8
+  },
+  {
+    "name": "ビビ神",
+    "scenarios": [
+      "1100011nml",
+      "1100012nml",
+      "1103011nml",
+      "1110011nml",
+      "1110012nml",
+      "30005g0_nml",
+      "30005g1_r18",
+      "eb105306anml",
+      "eb111101bnml",
+      "eb111102bnml",
+      "eb111103bnml",
+      "eb111107anml",
+      "ev1000011nml",
+      "ev1000012nml",
+      "ev1000021nml",
+      "ev1000022nml",
+      "ev1000031nml",
+      "ev1000032nml",
+      "ev1000041nml",
+      "ev1000042nml",
+      "ev1000051nml",
+      "ev1000052nml",
+      "ev1111011nml",
+      "ev1111021nml",
+      "ev1111031nml",
+      "ev1111041nml",
+      "ev1111042nml",
+      "ev1111051nml",
+      "ev1111052nml",
+      "ev1111061nml",
+      "ev1111072nml"
+    ],
+    "occurrences": 211
+  },
+  {
+    "name": "ファロルーチェ",
+    "scenarios": [
+      "ev1000011nml",
+      "ev1000012nml",
+      "ev1000051nml",
+      "ev1000052nml"
+    ],
+    "occurrences": 41
+  },
+  {
+    "name": "プロメスティンもんくえ",
+    "scenarios": [
+      "eb105306anml",
+      "ev1053062nml"
+    ],
+    "occurrences": 6
+  },
+  {
+    "name": "ベルティオ",
+    "scenarios": [
+      "eb105306anml",
+      "ev1053062nml"
+    ],
+    "occurrences": 3
+  },
+  {
+    "name": "ペトラ",
+    "scenarios": [
+      "eb105306anml",
+      "ev1000031nml",
+      "ev1000032nml",
+      "ev1053062nml"
+    ],
+    "occurrences": 29
+  },
+  {
+    "name": "ポデル",
+    "scenarios": [
+      "10011c1_r18",
+      "1100011nml",
+      "1100012nml"
+    ],
+    "occurrences": 23
+  },
+  {
+    "name": "マハムート",
+    "scenarios": [
+      "10415a1_r18",
+      "10415b1_r18"
+    ],
+    "occurrences": 65
+  },
+  {
+    "name": "ミニ",
+    "scenarios": [
+      "eb111106bnml",
+      "eb111107anml",
+      "ev1111041nml",
+      "ev1111042nml",
+      "ev1111051nml",
+      "ev1111052nml",
+      "ev1111061nml",
+      "ev1111072nml"
+    ],
+    "occurrences": 16
+  },
+  {
+    "name": "モンスター",
+    "scenarios": [
+      "10010b0_nml"
+    ],
+    "occurrences": 2
+  },
+  {
+    "name": "モンスター娘たち",
+    "scenarios": [
+      "eb111106bnml"
+    ],
+    "occurrences": 1
+  },
+  {
+    "name": "ヤノ",
+    "scenarios": [
+      "10188a0_nml",
+      "10188a1_r18",
+      "10188b0_nml",
+      "10188b1_r18"
+    ],
+    "occurrences": 88
+  },
+  {
+    "name": "ヤノお正月",
+    "scenarios": [
+      "10399a0_nml",
+      "10399a1_r18",
+      "10399b0_nml",
+      "10399b1_r18"
+    ],
+    "occurrences": 100
+  },
+  {
+    "name": "ラゴス",
+    "scenarios": [
+      "10044b0_nml",
+      "10044b1_r18"
+    ],
+    "occurrences": 16
+  },
+  {
+    "name": "ラゴス(ヤギ)",
+    "scenarios": [
+      "10044b1_r18"
+    ],
+    "occurrences": 6
+  },
+  {
+    "name": "ラゴス(ライオン)",
+    "scenarios": [
+      "10044b1_r18"
+    ],
+    "occurrences": 7
+  },
+  {
+    "name": "ラゴス(蛇)",
+    "scenarios": [
+      "10044b1_r18"
+    ],
+    "occurrences": 6
+  },
+  {
+    "name": "ラタ",
+    "scenarios": [
+      "10092b1_r18"
+    ],
+    "occurrences": 19
+  },
+  {
+    "name": "ラプルムXmas",
+    "scenarios": [
+      "66034a1_r18"
+    ],
+    "occurrences": 29
+  },
+  {
+    "name": "ラプルムバレンタイン",
+    "scenarios": [
+      "10324a0_nml",
+      "10324a1_r18",
+      "10324b0_nml",
+      "10324b1_r18"
+    ],
+    "occurrences": 93
+  },
+  {
+    "name": "リデル水着",
+    "scenarios": [
+      "eb111102bnml",
+      "ev1111021nml",
+      "ev1111061nml",
+      "ev1111072nml"
+    ],
+    "occurrences": 6
+  },
+  {
+    "name": "リフレックス",
+    "scenarios": [
+      "1110012nml"
+    ],
+    "occurrences": 21
+  },
+  {
+    "name": "リン",
+    "scenarios": [
+      "10006c0_nml",
+      "10006c1_r18",
+      "1103011nml",
+      "1110011nml",
+      "1110012nml"
+    ],
+    "occurrences": 40
+  },
+  {
+    "name": "リーファー",
+    "scenarios": [
+      "1110011nml"
+    ],
+    "occurrences": 1
+  },
+  {
+    "name": "ルカ",
+    "scenarios": [
+      "10467a1_r18",
+      "10467b1_r18"
+    ],
+    "occurrences": 15
+  },
+  {
+    "name": "ルカたち",
+    "scenarios": [
+      "ev1111072nml"
+    ],
+    "occurrences": 1
+  },
+  {
+    "name": "ルカもんくえ",
+    "scenarios": [
+      "10243a1_r18",
+      "10467a1_r18",
+      "10467b1_r18",
+      "66038a1_r18",
+      "eb105306anml",
+      "eb111101anml",
+      "eb111101bnml",
+      "eb111102bnml",
+      "eb111103bnml",
+      "eb111106bnml",
+      "eb111107anml",
+      "ev1053062nml",
+      "ev1111011nml",
+      "ev1111021nml",
+      "ev1111031nml",
+      "ev1111041nml",
+      "ev1111042nml",
+      "ev1111051nml",
+      "ev1111052nml",
+      "ev1111061nml",
+      "ev1111072nml"
+    ],
+    "occurrences": 109
+  },
+  {
+    "name": "ルシフィナ",
+    "scenarios": [
+      "eb111103bnml",
+      "eb111106bnml",
+      "eb111107anml",
+      "ev1111031nml",
+      "ev1111041nml",
+      "ev1111042nml",
+      "ev1111051nml",
+      "ev1111052nml",
+      "ev1111061nml",
+      "ev1111072nml"
+    ],
+    "occurrences": 38
+  },
+  {
+    "name": "ルププアイドル",
+    "scenarios": [
+      "ev1111042nml",
+      "ev1111061nml",
+      "ev1111072nml"
+    ],
+    "occurrences": 6
+  },
+  {
+    "name": "ルププ＆タンタル",
+    "scenarios": [
+      "ev1111041nml"
+    ],
+    "occurrences": 1
+  },
+  {
+    "name": "ルルゥ",
+    "scenarios": [
+      "10046a0_nml",
+      "10046a1_r18",
+      "10046b0_nml",
+      "10046b1_r18",
+      "66008a0_nml",
+      "66008a1_r18",
+      "ev1000021nml",
+      "ev1000022nml"
+    ],
+    "occurrences": 117
+  },
+  {
+    "name": "ルルゥX",
+    "scenarios": [
+      "66008a1_r18"
+    ],
+    "occurrences": 4
+  },
+  {
+    "name": "ルルゥアイドル",
+    "scenarios": [
+      "ev1111041nml",
+      "ev1111042nml",
+      "ev1111061nml",
+      "ev1111072nml"
+    ],
+    "occurrences": 6
+  },
+  {
+    "name": "ルルゥカーバンクルドラゴン",
+    "scenarios": [
+      "10348a0_nml",
+      "10348a1_r18",
+      "10348b0_nml",
+      "10348b1_r18"
+    ],
+    "occurrences": 85
+  },
+  {
+    "name": "ルルゥ学園",
+    "scenarios": [
+      "10263a0_nml",
+      "10263a1_r18",
+      "10263b0_nml",
+      "10263b1_r18"
+    ],
+    "occurrences": 85
+  },
+  {
+    "name": "ルルゥ魔法少女",
+    "scenarios": [
+      "10263a0_nml",
+      "10263a1_r18",
+      "10263b0_nml",
+      "10263b1_r18"
+    ],
+    "occurrences": 14
+  },
+  {
+    "name": "ヴァニラもんくえ",
+    "scenarios": [
+      "eb105306anml"
+    ],
+    "occurrences": 3
+  },
+  {
+    "name": "主人公",
+    "scenarios": [
+      "10010a0_nml",
+      "10010a1_r18",
+      "10010b0_nml",
+      "10010b1_r18",
+      "10020b0_nml",
+      "10020b1_r18",
+      "10022b1_r18",
+      "10024a1_r18",
+      "10024b1_r18",
+      "10029a0_nml",
+      "10029a1_r18",
+      "10029b0_nml",
+      "10029b1_r18",
+      "10038b0_nml",
+      "10038b1_r18",
+      "10044b0_nml",
+      "10044b1_r18",
+      "10046a0_nml",
+      "10046a1_r18",
+      "10046b0_nml",
+      "10046b1_r18",
+      "10092b1_r18",
+      "10160b1_r18",
+      "10188a0_nml",
+      "10188a1_r18",
+      "10188b0_nml",
+      "10188b1_r18",
+      "10262a0_nml",
+      "10262a1_r18",
+      "10262b0_nml",
+      "10262b1_r18",
+      "10263a0_nml",
+      "10263a1_r18",
+      "10263b0_nml",
+      "10263b1_r18",
+      "10324a0_nml",
+      "10324a1_r18",
+      "10324b0_nml",
+      "10324b1_r18",
+      "10335a0_nml",
+      "10335a1_r18",
+      "10335b1_r18",
+      "10348a0_nml",
+      "10348a1_r18",
+      "10348b0_nml",
+      "10348b1_r18",
+      "10399a0_nml",
+      "10399a1_r18",
+      "10399b0_nml",
+      "10399b1_r18",
+      "10423a0_nml",
+      "10423a1_r18",
+      "10423b0_nml",
+      "10423b1_r18",
+      "10447a0_nml",
+      "10447a1_r18",
+      "10447b1_r18",
+      "10467a0_nml",
+      "10467b0_nml",
+      "1100011nml",
+      "1100012nml",
+      "1103011nml",
+      "1110011nml",
+      "1110012nml",
+      "30005g0_nml",
+      "30005g1_r18",
+      "66008a0_nml",
+      "66008a1_r18",
+      "66015a0_nml",
+      "66015a1_r18",
+      "66034a1_r18",
+      "eb105306anml",
+      "eb111101bnml",
+      "eb111102bnml",
+      "eb111103bnml",
+      "eb111107anml",
+      "ev1000011nml",
+      "ev1000012nml",
+      "ev1000021nml",
+      "ev1000022nml",
+      "ev1000031nml",
+      "ev1000032nml",
+      "ev1000041nml",
+      "ev1000042nml",
+      "ev1000051nml",
+      "ev1000052nml",
+      "ev1053062nml",
+      "ev1111011nml",
+      "ev1111021nml",
+      "ev1111031nml",
+      "ev1111041nml",
+      "ev1111042nml",
+      "ev1111051nml",
+      "ev1111052nml",
+      "ev1111061nml",
+      "ev1111072nml"
+    ],
+    "occurrences": 1023
+  },
+  {
+    "name": "主人公／ビビ神",
+    "scenarios": [
+      "eb111101bnml",
+      "ev1111061nml"
+    ],
+    "occurrences": 3
+  },
+  {
+    "name": "女剣士Ｂ",
+    "scenarios": [
+      "10004c0_nml",
+      "10004c1_r18"
+    ],
+    "occurrences": 23
+  },
+  {
+    "name": "女子生徒",
+    "scenarios": [
+      "10335a1_r18"
+    ],
+    "occurrences": 1
+  },
+  {
+    "name": "女海賊Ａ",
+    "scenarios": [
+      "10038c1_r18"
+    ],
+    "occurrences": 16
+  },
+  {
+    "name": "密猟者",
+    "scenarios": [
+      "eb111103bnml",
+      "ev1111031nml",
+      "ev1111041nml"
+    ],
+    "occurrences": 6
+  },
+  {
+    "name": "少年",
+    "scenarios": [
+      "10467a1_r18"
+    ],
+    "occurrences": 1
+  },
+  {
+    "name": "手乗りアンティモー",
+    "scenarios": [
+      "1110011nml",
+      "1110012nml"
+    ],
+    "occurrences": 22
+  },
+  {
+    "name": "男密猟者立ち絵",
+    "scenarios": [
+      "ev1111051nml",
+      "ev1111052nml"
+    ],
+    "occurrences": 2
+  },
+  {
+    "name": "精悍な騎士",
+    "scenarios": [
+      "10011c1_r18"
+    ],
+    "occurrences": 9
+  },
+  {
+    "name": "背景_バーベルの塔内部(夜)",
+    "scenarios": [
+      "1110012nml"
+    ],
+    "occurrences": 1
+  },
+  {
+    "name": "花嫁アリスフィーズ",
+    "scenarios": [
+      "eb111101anml",
+      "eb111101bnml",
+      "eb111102bnml",
+      "eb111103bnml",
+      "eb111106bnml",
+      "eb111107anml",
+      "ev1111011nml",
+      "ev1111021nml",
+      "ev1111031nml",
+      "ev1111041nml",
+      "ev1111042nml",
+      "ev1111051nml",
+      "ev1111052nml",
+      "ev1111061nml",
+      "ev1111072nml"
+    ],
+    "occurrences": 75
+  },
+  {
+    "name": "観覧者たち",
+    "scenarios": [
+      "10467a0_nml"
+    ],
+    "occurrences": 1
+  },
+  {
+    "name": "騎士Ａ",
+    "scenarios": [
+      "10029b1_r18"
+    ],
+    "occurrences": 2
+  },
+  {
+    "name": "魔物",
+    "scenarios": [
+      "eb111101anml",
+      "ev1111051nml"
+    ],
+    "occurrences": 2
+  },
+  {
+    "name": "黒のアリス",
+    "scenarios": [
+      "eb111102bnml",
+      "eb111103bnml",
+      "eb111106bnml",
+      "eb111107anml",
+      "ev1111021nml",
+      "ev1111031nml",
+      "ev1111041nml",
+      "ev1111042nml",
+      "ev1111051nml",
+      "ev1111052nml",
+      "ev1111061nml",
+      "ev1111072nml"
+    ],
+    "occurrences": 39
+  },
+  {
+    "name": "？？？",
+    "scenarios": [
+      "ev1000011nml",
+      "ev1000041nml"
+    ],
+    "occurrences": 4
+  }
+]
