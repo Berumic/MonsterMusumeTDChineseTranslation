@@ -12,12 +12,18 @@
       "fontColor": "#FFFFFF",
       "lineSpacing": 8
     },
-    "Quest_Story/LeftZone/Unit/Guide/GuideMessageText": {
+    "LeftZone/Unit/Guide/GuideMessageText": {
       "font": "alimama",
       "outline": false,
+      "faceDilate": 0,
       "outlineColor": "#FFFFFF",
-      "lineSpacing": 8,
-      "faceDilate": 0
+      "lineSpacing": 8
+    },
+    "Content/Shop_ItemSaleDialogSubSkillIcon(Clone)/Content/Desc": {
+      "font": "alimama",
+      "outline": true,
+      "outlineColor": "#544A4A",
+      "lineSpacing": 8
     },
     "Canvas/UICanvas/CanvasManagerContent/WindowState/Home_Quest(Clone)/PageParent/Page/Quest_Entrance/UI_Com_Scene_RightIn_Center/Control/LeftZone/Guide/GuideMessageText": {
       "font": "alimama",
@@ -31,25 +37,25 @@
       "lineSpacing": 8,
       "faceDilate": 0
     },
-    "Canvas/UICanvas/CanvasManagerContent/WindowState/Home_Mission/PageParent/Page/Mission(Clone)/RightZone/MissionListView/CommonMissionScroll/ScrollView_Mission/Viewport/Mask/Content/Node/Mission": {
+    "RightZone/MissionListView/CommonMissionScroll/ScrollView_Mission/Viewport/Mask/Content/Node/Mission": {
       "font": "alimama",
       "outline": true,
       "outlineColor": "#544A4A",
       "lineSpacing": 8
     },
-    "CanvasManagerContent/WindowState/Home_Menu/PageParent/Page/Menu_Sub_Menu/RightZone/Layout": {
+    "PageParent/Page/Menu_Sub_Menu/RightZone/Layout": {
       "font": "alimama",
       "outline": true,
       "outlineColor": "#FFFFFF",
       "outlineWidth": 0.3,
-      "faceDilate": 0.2
+      "faceDilate": 0.3
     },
-    "Canvas/UICanvas/CanvasManagerContent/WindowState/Home_Menu(Clone)/PageParent/Page/Menu_Sub_Menu(Clone)/UI_Com_Scene_LeftIn_Center(Clone)/Control/RightZone/Layout": {
+    "PageParent/Page/Menu_Sub_Menu(Clone)/UI_Com_Scene_LeftIn_Center(Clone)/Control/RightZone/Layout": {
       "font": "alimama",
       "outline": true,
       "outlineColor": "#FFFFFF",
       "outlineWidth": 0.3,
-      "faceDilate": 0.2
+      "faceDilate": 0.3
     },
     "QuestContent/Back/Stamina": {
       "font": "alimama",
@@ -98,7 +104,7 @@
       "outline": false,
       "faceDilate": 0.1
     },
-    "Canvas/UICanvas/CanvasManagerContent/WindowState/Home_Quest(Clone)/PageParent/Page/Quest_Daily(Clone)/RightZone/ScrollView_Quest/Viewport/Mask/Content/ScrollContent_QuestSuperReinforce(Clone)/Back/Lv/Title": {
+    "RightZone/ScrollView_Quest/Viewport/Mask/Content/ScrollContent_QuestSuperReinforce(Clone)/Back/Lv/Title": {
       "font": "alimama",
       "outline": true,
       "outlineColor": "#FFFFFF"
@@ -122,6 +128,94 @@
       "font": "alimama",
       "outline": true,
       "outlineColor": "#544A4A"
+    },
+    "WindowBase/Bottom/Center/Image": {
+      "font": "FZKane",
+      "faceDilate": 0.2,
+      "outline": true,
+      "outlineColor": "#544A4A",
+      "outlineWidth": 0.3,
+      "underlay": true,
+      "underlayColor": "#26211F",
+      "underlayOffsetX": 0.1,
+      "underlayOffsetY": -0.45,
+      "underlayDilate": 0.5,
+      "underlaySoftness": 0
+    },
+    "ScrollView_Mission/Viewport/Mask/Content/Node(Clone)/Present_Btn/Image": {
+      "font": "FZKane",
+      "faceDilate": 0.2,
+      "outline": true,
+      "outlineColor": "#544A4A",
+      "outlineWidth": 0.3,
+      "underlay": true,
+      "underlayColor": "#26211F",
+      "underlayOffsetX": 0.1,
+      "underlayOffsetY": -0.4,
+      "underlayDilate": 0.5,
+      "underlaySoftness": 0
+    },
+    "RightZone/MissionListView/All_Present_Btn/Image": {
+      "font": "FZKane",
+      "faceDilate": 0.2,
+      "outline": true,
+      "outlineColor": "#544A4A",
+      "outlineWidth": 0.3,
+      "underlay": true,
+      "underlayColor": "#26211F",
+      "underlayOffsetX": 0.1,
+      "underlayOffsetY": -0.4,
+      "underlayDilate": 0.5,
+      "underlaySoftness": 0
+    },
+    "SkillDialog/Scroll View/BorderLine/Title": {
+      "font": "FZKane",
+      "faceDilate": 0,
+      "outline": false
+    },
+    "SkillDialog/ExSkillArea/BorderLine/Title": {
+      "font": "FZKane",
+      "faceDilate": 0,
+      "outline": false
+    },
+    "AcceptView/Accept/Image": {
+      "font": "FZKane",
+      "faceDilate": 0.2,
+      "outline": true,
+      "outlineColor": "#544A4A",
+      "outlineWidth": 0.3,
+      "underlay": true,
+      "underlayColor": "#26211F",
+      "underlayOffsetX": 0.1,
+      "underlayOffsetY": -0.4,
+      "underlayDilate": 0.5,
+      "underlaySoftness": 0
+    },
+    "AcceptMenu/AcceptLump/Image": {
+      "font": "FZKane",
+      "faceDilate": 0.2,
+      "outline": true,
+      "outlineColor": "#544A4A",
+      "outlineWidth": 0.3,
+      "underlay": true,
+      "underlayColor": "#26211F",
+      "underlayOffsetX": 0.1,
+      "underlayOffsetY": -0.4,
+      "underlayDilate": 0.5,
+      "underlaySoftness": 0
+    },
+    "WindowBase/Bottom": {
+      "font": "FZKane",
+      "faceDilate": 0.2,
+      "outline": true,
+      "outlineColor": "#544A4A",
+      "outlineWidth": 0.3,
+      "underlay": true,
+      "underlayColor": "#26211F",
+      "underlayOffsetX": 0.1,
+      "underlayOffsetY": -0.4,
+      "underlayDilate": 0.5,
+      "underlaySoftness": 0
     }
   }
 }
