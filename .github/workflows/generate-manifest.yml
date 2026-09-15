@@ -6,6 +6,7 @@ on:
       - main
     paths:
       - "translations/**"
+      - "!translations/manifest.json"
       - "scripts/generate_manifest.py"
 
 permissions:
@@ -54,5 +55,5 @@ jobs:
             exit 0
           fi
 
-          git commit -m "chore: update translation manifest"
+          git commit -m "chore: update translation manifest [skip ci]"
           git push
