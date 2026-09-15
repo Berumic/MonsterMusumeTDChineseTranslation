@@ -51,6 +51,9 @@
         "CanvasManagerContent/Page/Common_SortFilter/WindowBase/ScrollView/Viewport/Mask/Content/Sort/PriorSort/Caption": {
             "作成可能を優先表示": "可以制作的优先"
         },
+        "CanvasManagerContent/WindowState/Home_Deck/PageParent/Page/HeaderTitleCommon/Text": {
+            "チーム編成": "<cspace=3>队伍编成"
+        },
         "フィ<cspace=1.4>ルター": "筛选",
         "プレゼントリスト": "礼物列表",
         "プレゼントボックス": "礼物盒",
@@ -629,5 +632,11 @@
     },
     "CanvasManagerContent/Page/QuestDetail/DelegationBtn/SpetialCharange": {
         "SPチャレンジは\nスキップできません": "      SP挑战\n      不能跳过"
-    }
+    },
+    "CanvasManagerContent/Page/MessagePopup/WindowBase/Text": {
+        "このシナリオは<color=#FF454A>アダルトシーン</color>が含まれています。\nどこから再生しますか？": "这个故事包含了<color=#FF454A>成人内容</color>。\n要从哪里开始播放呢？"
+    },
+    "<cspace=2>冒頭": "<cspace=4>开头",
+    "<cspace=-5>キャ<cspace=-3>ン<cspace=-2>セル": "取消",
+    "<scale=0.9><cspace=-4>ア<cspace=-3>ダ<cspace=-6>ル<cspace=-4>ト<cspace=-6>シ<scale=0.7><cspace=-1>ー<scale=0.9>ン": "成人内容"
 }
