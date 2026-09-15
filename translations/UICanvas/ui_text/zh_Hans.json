@@ -185,7 +185,7 @@
         "交換数": "<color=#ffffff>交换数量</color>",
         "交換詳細": "交换详细",
         "所持": "持有",
-        "所持数:": "<color=#ffffff>持有数</color>",
+        "所持数:": "持有数",
         "所持限界数以上は交換できません。": "<color=#ffffff>不能交换超出持有数上限的物品</color>",
         "<cspace=-4><indent=44>ス<cspace=-1.8>キル": "<cspace=-4>辅助<indent=44>技<cspace=-1.8>能",
         "E<indent=20><cspace=-6>ス<cspace=-3>キル": "<color=#ffffff>E<indent=20>X<cspace=0>技<cspace=-3>能</color>",
@@ -638,5 +638,11 @@
     },
     "<cspace=2>冒頭": "<cspace=4>开头",
     "<cspace=-5>キャ<cspace=-3>ン<cspace=-2>セル": "取消",
-    "<scale=0.9><cspace=-4>ア<cspace=-3>ダ<cspace=-6>ル<cspace=-4>ト<cspace=-6>シ<scale=0.7><cspace=-1>ー<scale=0.9>ン": "成人内容"
+    "<scale=0.9><cspace=-4>ア<cspace=-3>ダ<cspace=-6>ル<cspace=-4>ト<cspace=-6>シ<scale=0.7><cspace=-1>ー<scale=0.9>ン": "成人内容",
+    "<ex>【毎週更新】": "<ex>【每周更新】",
+    "残り :": "剩余 ：",
+    "残り:": "剩余:",
+    "スキップチケット<ex>": "跳过票卷<ex>",
+    "ダンジョンキー<ex>": "迷宫钥匙<ex>",
+    "エンシェントキー<ex>": "古老钥匙<ex>"
 }

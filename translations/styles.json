@@ -223,6 +223,53 @@
       "faceDilate": 0,
       "outlineColor": "#FFFFFF",
       "lineSpacing": 8
+    },
+    "Viewport/Mask/Content/Shop_SaleContent2": {
+      "font": "alimama",
+      "outline": false,
+      "faceDilate": 0,
+      "outlineColor": "#FFFFFF",
+      "lineSpacing": 8
+    },
+    "Viewport/Content/Text_ItemExplanation": {
+      "font": "alimama",
+      "outline": false,
+      "faceDilate": 0,
+      "outlineColor": "#FFFFFF",
+      "lineSpacing": 8
+    },
+    "WindowBase/WindowDesign/Item/Text/Viewport/Text": {
+      "font": "alimama",
+      "outline": false,
+      "faceDilate": 0,
+      "outlineColor": "#FFFFFF",
+      "lineSpacing": 8
+    },
+    "WindowBase/WindowDesign/Item/Text": {
+      "font": "alimama",
+      "outline": true,
+      "outlineColor": "#544A4A",
+      "outlineWidth": 0.2,
+      "faceDilate": -0.1,
+      "lineSpacing": 8
+    },
+    "WindowBase/ExchangeNumArea/Remaining/Text_Remaining": {
+      "font": "alimama",
+      "outline": false,
+      "faceDilate": 0.1,
+      "lineSpacing": 8
+    },
+    "Viewport/Mask/Content/ScrollContent_DungeonAttack(Clone)/Back/Lv/Title": {
+      "font": "alimama",
+      "outline": true,
+      "outlineColor": "#FFFFFF",
+      "outlineWidth": 0.35
+    },
+    "Viewport/Mask/Content/Event_CharacterGrowthListContent(Clone)/Text": {
+      "font": "alimama",
+      "outline": true,
+      "outlineColor": "#544A4A",
+      "outlineWidth": 0.3
     }
   }
 }
