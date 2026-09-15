@@ -1,0 +1,58 @@
+name: Generate translation manifest
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "translations/**"
+      - "scripts/generate_manifest.py"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: translation-manifest
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Generate manifest
+        run: |
+          python scripts/generate_manifest.py
+          python - <<'PY'
+          import json
+          import os
+          from pathlib import Path
+
+          path = Path("translations/manifest.json")
+          data = json.loads(path.read_text(encoding="utf-8"))
+          data["commit"] = os.environ["GITHUB_SHA"]
+          path.write_text(
+              json.dumps(data, ensure_ascii=False, indent=2) + "\n",
+              encoding="utf-8",
+          )
+          PY
+
+      - name: Commit manifest
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add translations/manifest.json
+
+          if git diff --cached --quiet; then
+            echo "Manifest unchanged"
+            exit 0
+          fi
+
+          git commit -m "chore: update translation manifest"
+          git push
