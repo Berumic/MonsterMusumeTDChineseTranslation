@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-16T02:35:22.083691+00:00",
-  "commit": "d80711c9b46bf7331cd16d9055e17067007dcaec",
+  "generatedAt": "2026-09-16T05:55:22.325170+00:00",
+  "commit": "eab6ecb1a7ca3a8d0ea6160b7ba6031daa7aad28",
   "files": {
     "UICanvas/quest_text/zh_Hans.json": {
       "sha256": "7c8ff79d4d57b833ed08629d20dd3ae7f671e698450292bec56c215a7d5e9745",
@@ -626,6 +626,38 @@
     "scenarios/寝室/102 温妮菈/66058a1_r18/zh_Hans.json": {
       "sha256": "81478a04482d27a6fa9065d5d88df7c391f6460a5e905cb96e5fb6c84a951f3d",
       "size": 13326
+    },
+    "scenarios/寝室/103 圣诞米忒菈丝/10137a0_nml/source.json": {
+      "sha256": "1d6b780b3b8abb7c2998288a7adb22db532eb5a51b2858b6f29ba84eba734688",
+      "size": 9358
+    },
+    "scenarios/寝室/103 圣诞米忒菈丝/10137a0_nml/zh_Hans.json": {
+      "sha256": "d1f40dc57faa7c16e9e4a0595d7ca153fa3dbea2ec45e88f660ccc36df60602e",
+      "size": 7232
+    },
+    "scenarios/寝室/103 圣诞米忒菈丝/10137a1_r18/source.json": {
+      "sha256": "dc5bf9f11e2c4b11e0603ff05806b96569b2c44e0c0f31ad5c71df5447c511c0",
+      "size": 16598
+    },
+    "scenarios/寝室/103 圣诞米忒菈丝/10137a1_r18/zh_Hans.json": {
+      "sha256": "810db45d666b0bce932605ccc778a4601b5d30ccfa9a1b230f6052c4bd05afe0",
+      "size": 14354
+    },
+    "scenarios/寝室/103 圣诞米忒菈丝/10137b0_nml/source.json": {
+      "sha256": "6121a5bb20b3fa74a19380ccf685ff9b086a8af2105645d8e2681a1deaf7d79b",
+      "size": 9745
+    },
+    "scenarios/寝室/103 圣诞米忒菈丝/10137b0_nml/zh_Hans.json": {
+      "sha256": "3b78a0763c85ad2a1892767b62936f474242c557bac9ecb16ab90577d7a50bed",
+      "size": 7914
+    },
+    "scenarios/寝室/103 圣诞米忒菈丝/10137b1_r18/source.json": {
+      "sha256": "5fa6c8ecf45af2c4760bb51dd371c21866cec2eb9dc553bcb9b4544d6816fa85",
+      "size": 16979
+    },
+    "scenarios/寝室/103 圣诞米忒菈丝/10137b1_r18/zh_Hans.json": {
+      "sha256": "7a7b907310cde997ace0631647de8b46d73540f00be37b1932273f4aca723317",
+      "size": 14553
     },
     "scenarios/寝室/104 琴月狼玛兹鲁/10134a0_nml/source.json": {
       "sha256": "a7bbb8ff90e3a9f28c6c0f032b65c9aa84337a817c400318cdb057fb26c01fa6",
@@ -2402,6 +2434,38 @@
     "scenarios/寝室/152 步月/10135b1_r18/zh_Hans.json": {
       "sha256": "036254bbcdeb8ff45c4b36b77c319703b2e4046e47336999af36a8448df55384",
       "size": 17434
+    },
+    "scenarios/寝室/153 伊绪/10190a0_nml/source.json": {
+      "sha256": "46caebbbf9e8818f438ee4d0155a923ba2ca7edc449dd35fba7cd5a7e448404f",
+      "size": 9597
+    },
+    "scenarios/寝室/153 伊绪/10190a0_nml/zh_Hans.json": {
+      "sha256": "a2166135a7b3c209659ab4f10b75a06179b8d1a9edeb18bcc8e9f78ec6930565",
+      "size": 7604
+    },
+    "scenarios/寝室/153 伊绪/10190a1_r18/source.json": {
+      "sha256": "0ecd070e751bfbebb80d321c40f331e4414bdc3d7239e4768e6058d26a79dc15",
+      "size": 13771
+    },
+    "scenarios/寝室/153 伊绪/10190a1_r18/zh_Hans.json": {
+      "sha256": "ca65958b8905b273bb8169a897ed5ae38acc0152b5546d259ef178605c9dda59",
+      "size": 12126
+    },
+    "scenarios/寝室/153 伊绪/10190b0_nml/source.json": {
+      "sha256": "fff77dd32d2caef0b60f7e91b21e85f4381153c4777a4b164fc7ae4190edd89d",
+      "size": 9914
+    },
+    "scenarios/寝室/153 伊绪/10190b0_nml/zh_Hans.json": {
+      "sha256": "0c4fddbb189f75759e607d97fba96ef2b2c00c63555e2106aeccf9c57af25673",
+      "size": 8457
+    },
+    "scenarios/寝室/153 伊绪/10190b1_r18/source.json": {
+      "sha256": "2d7f8e2febd59d8cdacddd392c2b662b0ba3d5d1d75e7b2f617d9056580eb2ff",
+      "size": 15681
+    },
+    "scenarios/寝室/153 伊绪/10190b1_r18/zh_Hans.json": {
+      "sha256": "e637057b2f545df55c018166c9167f0b6cbff58597f2e6f357b47d2eb1aa4bc7",
+      "size": 14118
     },
     "scenarios/寝室/154 缝/10142a0_nml/source.json": {
       "sha256": "f1f78642041865869949de4cf3a7e94ec85bbbcd39067ae343fc6979c2583b23",
@@ -5379,38 +5443,6 @@
       "sha256": "7747e1ce6cbc5244e8d63cc3cc793f76171d4a947e98d3d3c3e7c69efaf9fe9b",
       "size": 10333
     },
-    "scenarios/寝室/231 伊绪/10190a0_nml/source.json": {
-      "sha256": "46caebbbf9e8818f438ee4d0155a923ba2ca7edc449dd35fba7cd5a7e448404f",
-      "size": 9597
-    },
-    "scenarios/寝室/231 伊绪/10190a0_nml/zh_Hans.json": {
-      "sha256": "a2166135a7b3c209659ab4f10b75a06179b8d1a9edeb18bcc8e9f78ec6930565",
-      "size": 7604
-    },
-    "scenarios/寝室/231 伊绪/10190a1_r18/source.json": {
-      "sha256": "0ecd070e751bfbebb80d321c40f331e4414bdc3d7239e4768e6058d26a79dc15",
-      "size": 13771
-    },
-    "scenarios/寝室/231 伊绪/10190a1_r18/zh_Hans.json": {
-      "sha256": "ca65958b8905b273bb8169a897ed5ae38acc0152b5546d259ef178605c9dda59",
-      "size": 12126
-    },
-    "scenarios/寝室/231 伊绪/10190b0_nml/source.json": {
-      "sha256": "fff77dd32d2caef0b60f7e91b21e85f4381153c4777a4b164fc7ae4190edd89d",
-      "size": 9914
-    },
-    "scenarios/寝室/231 伊绪/10190b0_nml/zh_Hans.json": {
-      "sha256": "0c4fddbb189f75759e607d97fba96ef2b2c00c63555e2106aeccf9c57af25673",
-      "size": 8457
-    },
-    "scenarios/寝室/231 伊绪/10190b1_r18/source.json": {
-      "sha256": "2d7f8e2febd59d8cdacddd392c2b662b0ba3d5d1d75e7b2f617d9056580eb2ff",
-      "size": 15681
-    },
-    "scenarios/寝室/231 伊绪/10190b1_r18/zh_Hans.json": {
-      "sha256": "e637057b2f545df55c018166c9167f0b6cbff58597f2e6f357b47d2eb1aa4bc7",
-      "size": 14118
-    },
     "scenarios/寝室/231 伊绪/10266a0_nml/source.json": {
       "sha256": "d47d867af90b30e87e9b38b01550ce076472fd1205d475ca6adc2a938c9e14d8",
       "size": 11033
@@ -8150,38 +8182,6 @@
     "scenarios/寝室/60 米忒菈丝/10069b1_r18/zh_Hans.json": {
       "sha256": "9180d2c436f1200f7d2a3891b158687083919c761b85a9b86bb4a17af896f917",
       "size": 15631
-    },
-    "scenarios/寝室/60 米忒菈丝/10137a0_nml/source.json": {
-      "sha256": "1d6b780b3b8abb7c2998288a7adb22db532eb5a51b2858b6f29ba84eba734688",
-      "size": 9358
-    },
-    "scenarios/寝室/60 米忒菈丝/10137a0_nml/zh_Hans.json": {
-      "sha256": "d1f40dc57faa7c16e9e4a0595d7ca153fa3dbea2ec45e88f660ccc36df60602e",
-      "size": 7232
-    },
-    "scenarios/寝室/60 米忒菈丝/10137a1_r18/source.json": {
-      "sha256": "dc5bf9f11e2c4b11e0603ff05806b96569b2c44e0c0f31ad5c71df5447c511c0",
-      "size": 16598
-    },
-    "scenarios/寝室/60 米忒菈丝/10137a1_r18/zh_Hans.json": {
-      "sha256": "810db45d666b0bce932605ccc778a4601b5d30ccfa9a1b230f6052c4bd05afe0",
-      "size": 14354
-    },
-    "scenarios/寝室/60 米忒菈丝/10137b0_nml/source.json": {
-      "sha256": "6121a5bb20b3fa74a19380ccf685ff9b086a8af2105645d8e2681a1deaf7d79b",
-      "size": 9745
-    },
-    "scenarios/寝室/60 米忒菈丝/10137b0_nml/zh_Hans.json": {
-      "sha256": "3b78a0763c85ad2a1892767b62936f474242c557bac9ecb16ab90577d7a50bed",
-      "size": 7914
-    },
-    "scenarios/寝室/60 米忒菈丝/10137b1_r18/source.json": {
-      "sha256": "5fa6c8ecf45af2c4760bb51dd371c21866cec2eb9dc553bcb9b4544d6816fa85",
-      "size": 16979
-    },
-    "scenarios/寝室/60 米忒菈丝/10137b1_r18/zh_Hans.json": {
-      "sha256": "7a7b907310cde997ace0631647de8b46d73540f00be37b1932273f4aca723317",
-      "size": 14553
     },
     "scenarios/寝室/60 米忒菈丝/66004a0_nml/source.json": {
       "sha256": "08baa042c54f1193fe9a9f3af63a3e27ae5eaa7ae116a2ff1630dc30cb2c5880",
