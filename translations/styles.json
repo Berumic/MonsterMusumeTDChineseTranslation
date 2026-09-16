@@ -307,6 +307,11 @@
       "outline": false,
       "faceDilate": 0,
       "lineSpacing": 8
+    },
+    "ChapterContent(Clone)/StoryNode/StoryMainContent(Clone)/Text": {
+      "font": "alimama",
+      "faceDilate": 0,
+      "outline": false
     }
   }
 }
