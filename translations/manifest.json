@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-16T05:55:22.325170+00:00",
-  "commit": "eab6ecb1a7ca3a8d0ea6160b7ba6031daa7aad28",
+  "generatedAt": "2026-09-16T08:49:45.860218+00:00",
+  "commit": "7fb76e1da46509ad95257f5c9b3ba0e08190c8ee",
   "files": {
     "UICanvas/quest_text/zh_Hans.json": {
       "sha256": "7c8ff79d4d57b833ed08629d20dd3ae7f671e698450292bec56c215a7d5e9745",
@@ -6964,8 +6964,8 @@
       "size": 15034
     },
     "scenarios/寝室/40 妮露/10040b1_r18/zh_Hans.json": {
-      "sha256": "4aafa02fba89206f997f735401af6dd1ba8f428ecaa6091e216e2128a47df7e9",
-      "size": 14475
+      "sha256": "213dfc4a7a50dde2fdd60eaf426f9905c50d0a45202e56d76523098d191e085b",
+      "size": 14476
     },
     "scenarios/寝室/40 妮露/66029a0_nml/source.json": {
       "sha256": "8400660836f3f998dd0e09741993d2ec504235cb84f4f096d090557d2c5c2554",
