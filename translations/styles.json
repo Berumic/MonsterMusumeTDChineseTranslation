@@ -270,6 +270,43 @@
       "outline": true,
       "outlineColor": "#544A4A",
       "outlineWidth": 0.3
+    },
+    "Story_Detail(Clone)/RightZone/Profile": {
+      "font": "alimama",
+      "outline": false,
+      "faceDilate": 0.1,
+      "lineSpacing": 8
+    },
+    "RightZone/MissionListView/EventMissionScroll/ScrollView_Mission/Viewport/Mask/Content/Node(Clone)/Mission": {
+      "font": "alimama",
+      "outline": true,
+      "outlineColor": "#544A4A"
+    },
+    "Menu_Equip_Item_Quest_Popup(Clone)/WindowBase/Text_Explanation": {
+      "font": "alimama",
+      "outline": false,
+      "faceDilate": 0,
+      "lineSpacing": 8
+    },
+    "QuestContentDungeon(Clone)/Back/Lv/Title": {
+      "font": "alimama",
+      "outline": true,
+      "outlineColor": "#FFFFFF",
+      "faceDilate": 0.35,
+      "lineSpacing": 8
+    },
+    "Quest_StandbyDelegationConsumption(Clone)/WindowBase/ConsumptionItemName": {
+      "font": "alimama",
+      "outline": true,
+      "outlineColor": "#FFFFFF",
+      "faceDilate": 0.35,
+      "lineSpacing": 8
+    },
+    "ScrollContent_RewarItem(Clone)(Clone)/ItemName": {
+      "font": "alimama",
+      "outline": false,
+      "faceDilate": 0,
+      "lineSpacing": 8
     }
   }
 }
