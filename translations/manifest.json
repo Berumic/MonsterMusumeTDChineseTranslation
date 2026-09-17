@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-17T03:22:30.011811+00:00",
-  "commit": "6dbfb3b88a4edb7a1743dc606ca2260f4d2cd1e3",
+  "generatedAt": "2026-09-17T04:36:50.252966+00:00",
+  "commit": "bd9e8550df3ded21fb8723f4e453212adc33161b",
   "files": {
     "UICanvas/quest_text/zh_Hans.json": {
       "sha256": "7c8ff79d4d57b833ed08629d20dd3ae7f671e698450292bec56c215a7d5e9745",
       "size": 3876
     },
     "UICanvas/ui_text/zh_Hans.json": {
-      "sha256": "f778090cfedc5ea5b8f083ca43a913952e56caa7a4a4d2f6a271e038ce7e86c1",
-      "size": 119286
+      "sha256": "58abab44861632ab45535a0a0aea7106667f1a51c00e005f1f502dfc60a68f55",
+      "size": 122410
     },
     "UICanvas/unit_names/zh_Hans.json": {
       "sha256": "94d3fac6f15320efdd826abfc9682404ad6c000bd54b7421f4bae3bba50c1894",
@@ -9952,8 +9952,8 @@
       "size": 7721
     },
     "styles.json": {
-      "sha256": "c96c6d5102fc1ab3a4a2330e5c8471fb26d195a0ff2ce5d2280571b1224b34ee",
-      "size": 9408
+      "sha256": "141f4dec08570ec354b2c815449d09b68d31f805389e8ef02c27e3c13650aad4",
+      "size": 10075
     },
     "subskills/source.json": {
       "sha256": "d0033aebb0ae8e3770e8e3db552c0f9e0fa7eeb678cd3dd7c41cfdce9a1a843c",
