@@ -312,6 +312,29 @@
       "font": "alimama",
       "faceDilate": 0,
       "outline": false
+    },
+    "Control/Name/Control/Bg/RaceBackText/Text": {
+      "font": "alimama",
+      "fontColor": "#2A2829",
+      "outlineColor": "#2A2829",
+      "faceDilate": 0.3
+    },
+    "Control/Name/Control/Bg/NameBackText/Text": {
+      "font": "alimama",
+      "fontColor": "#544A4A",
+      "outlineColor": "#544A4A",
+      "faceDilate": 0.25
+    },
+    "Control/Name/Control/Bg/NameBackText/Name/Text": {
+      "font": "alimama",
+      "fontColor": "#EFCF8B",
+      "outlineColor": "#2E2929",
+      "faceDilate": 0.25
+    },
+    "Control/Name/Control/Bg/RaceBackText/Race/Text": {
+      "font": "alimama",
+      "fontColor": "#FFFFFF",
+      "outlineColor": "#2A2829"
     }
   }
 }
