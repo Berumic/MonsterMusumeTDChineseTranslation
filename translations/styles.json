@@ -341,6 +341,51 @@
       "outline": false,
       "faceDilate": 0,
       "lineSpacing": 8
+    },
+    "Friend_Content(Clone)/BtnDown": {
+      "font": "FZKane",
+      "faceDilate": 0.2,
+      "outline": true,
+      "outlineColor": "#544A4A",
+      "outlineWidth": 0.3,
+      "underlay": true,
+      "underlayColor": "#26211F",
+      "underlayOffsetX": 0.1,
+      "underlayOffsetY": -0.4,
+      "underlayDilate": 0.5,
+      "underlaySoftness": 0
+    },
+    "Friend_Content(Clone)/BtnGreeting": {
+      "font": "FZKane",
+      "faceDilate": 0.2,
+      "outline": true,
+      "outlineColor": "#544A4A",
+      "outlineWidth": 0.3,
+      "underlay": true,
+      "underlayColor": "#26211F",
+      "underlayOffsetX": 0.1,
+      "underlayOffsetY": -0.4,
+      "underlayDilate": 0.5,
+      "underlaySoftness": 0
+    },
+    "FriendPointView/Btn_GreetingAll/Image": {
+      "font": "FZKane",
+      "faceDilate": 0.2,
+      "outline": true,
+      "outlineColor": "#544A4A",
+      "outlineWidth": 0.3,
+      "underlay": true,
+      "underlayColor": "#26211F",
+      "underlayOffsetX": 0.1,
+      "underlayOffsetY": -0.4,
+      "underlayDilate": 0.5,
+      "underlaySoftness": 0
+    },
+    "Menu_Friend(Clone)/RightZone/FriendView/BaseScrollRoot/ScrollView_Friend/Viewport/Mask/Content/Friend_Content(Clone)/Text_RankNum/Text": {
+      "font": "alimama",
+      "outline": false,
+      "faceDilate": 0,
+      "lineSpacing": 8
     }
   }
 }
