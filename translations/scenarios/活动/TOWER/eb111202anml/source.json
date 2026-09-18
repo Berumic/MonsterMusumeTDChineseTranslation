@@ -1,0 +1,133 @@
+{
+  "scenario_id": "eb111202anml",
+  "asset_path": "assets/advscene/scenarioexcel/eventbattle/1112/eb111202anml.book.asset",
+  "cache_bundle": "D:\\mms\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\144221fd325fe476c54e80b3fb6d858e0468d7556fc4747ac90fe762cf8703a7\\144221fd325fe476c54e80b3fb6d858e\\__data",
+  "rows": [
+    {
+      "row": 6,
+      "speaker": "女海賊Ａ",
+      "text": "ほらほら、さっさと運びな！\nすぐに準備を終えて、密猟と洒落こむよ！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 8,
+      "speaker": "女弓使いＢ",
+      "text": "よいしょ、",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 10,
+      "speaker": "女弓使いＢ",
+      "text": "よいしょ……。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 18,
+      "speaker": "ティヴェル",
+      "text": "はーい、ヴェルちゃんげんちゃ～くっ！\n神妙にお縄についてね、歩くサンドバッグ――じゃなくて、",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 19,
+      "speaker": "ティヴェル",
+      "text": "密猟者サンたち～っと♪",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 33,
+      "speaker": "女弓使いＢ",
+      "text": "ぎゃああっ！？　ギャルが襲撃してきた！？",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 46,
+      "speaker": "ティヴェル",
+      "text": "いや、オタクに優しいギャルとかさ、\n勝手にそういうレッテルつけるのやめな～？",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 47,
+      "speaker": "女弓使いＢ",
+      "text": "だだだ誰も優しいなんて言ってない……！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 48,
+      "speaker": "ティヴェル",
+      "text": "え？　そーだっけ。\nじゃあ今の録画部分はカットしとこーっと。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 52,
+      "speaker": "女海賊Ａ",
+      "text": "こいつ……モンスター娘か？\nどこかレアそうなカラーリングしてるじゃないか。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 53,
+      "speaker": "女海賊Ａ",
+      "text": "野郎共！　早速の獲物だ！　とっ捕まえるぞ！！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 60,
+      "speaker": "スズ",
+      "text": "ああっ、いきなり密猟者に喧嘩を売ってる！？",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 61,
+      "speaker": "ビビ神",
+      "text": "まさか、あれがティヴェルの言っていた、\nこの島に来たら絶対見ておきたかったもの……？\n密猟者がどうして島の名物に……！？",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 64,
+      "speaker": "スズ",
+      "text": "えっと……とりあえず加勢した方がいいよね？\n密猟者、ティヴェルさんのこと狙ってるみたいだし。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 65,
+      "speaker": "ビビ神",
+      "text": "ええ、彼女がT.O.W.E.R.に報告をするのであれば、\n間違ってもこの島の名物が密猟者と誤解させてはいけません。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 69,
+      "speaker": "ビビ神",
+      "text": "ささっと、倒して、\n彼女の記録から存在ごと抹消します！！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 75,
+      "speaker": "クロミ",
+      "text": "まるで邪神さんですねぇ。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 76,
+      "speaker": "主人公",
+      "text": "とにかく、ティヴェルさんの援護お願いします！",
+      "voice": "",
+      "command": ""
+    }
+  ]
+}

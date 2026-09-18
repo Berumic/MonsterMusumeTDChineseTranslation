@@ -1,0 +1,182 @@
+{
+  "scenario_id": "eb111202bnml",
+  "asset_path": "assets/advscene/scenarioexcel/eventbattle/1112/eb111202bnml.book.asset",
+  "cache_bundle": "D:\\mms\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\e492c4cdbdc70465cb3315eedb3fbf8c39beeb1737b902ce501218036a2009bc\\e492c4cdbdc70465cb3315eedb3fbf8c\\__data",
+  "rows": [
+    {
+      "row": 16,
+      "speaker": "ティヴェル",
+      "text": "ふぅ～いい汗掻いた～。\nいやぁ、ゲシュペンス島に来たら、\n一度は密猟者シバいとかないとね～♪",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 19,
+      "speaker": "ビビ神",
+      "text": "ああ、ゲシュペンス島の評価はいったい……",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 38,
+      "speaker": "ビビ神",
+      "text": "いえ、\nこれを逆にプラスに捉えるならば……そうです。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 47,
+      "speaker": "ビビ神",
+      "text": "ご主人さま、外から来た来訪者に向けて、\n『密猟者討伐ツアー』などというものを、\n提供するのはどうでしょう？",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 50,
+      "speaker": "ビビ神",
+      "text": "そうすればゲシュペンス島の評判も向上するのでは……！？",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 51,
+      "speaker": "ビビ神",
+      "text": "今度マージェルあたりに相談して……。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 52,
+      "speaker": "主人公",
+      "text": "いや……それ一晩寝てから考え直してみたら、\n何考えたんだって冷静になるやつですよ。\n絶対止めた方がいいです。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 54,
+      "speaker": "ティヴェル",
+      "text": "えー、ヴェルちゃんは楽しそうだと思うけどなー。\n他にもキモストーカーおじさんとか、森焼き勇者とか、\n名物密猟者も見てみたいし～。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 69,
+      "speaker": "ティヴェル",
+      "text": "あっ、そうだ！\n一旦密猟者は満足したから、とりあえずあといっこだけお願い！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 70,
+      "speaker": "ティヴェル",
+      "text": "密猟者シバキよりフィジカルでプリミティブで、\nエンジョイ＆エキサイティングな、\n絶対やってみたかった伝統的仲良しイベントがあるの！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 72,
+      "speaker": "主人公",
+      "text": "なんでしょう、それほど不穏なワードはないのに、\nものすごく不安を感じるんですが……。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 73,
+      "speaker": "ティヴェル",
+      "text": "場所は……そうだな～……。\nムスタバッル溶岩地帯にしよ！\n決戦のバトルフィールドって感じだしピッタリでしょ！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 76,
+      "speaker": "ティヴェル",
+      "text": "今度は先走っていかないからさー。\nほら、リンちゃん、スズちゃん、クロミちゃん、セレンちゃん。\nみんな一緒に行こ～。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 81,
+      "speaker": "ティヴェル",
+      "text": "レッツゴー＆ゴーっ！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 86,
+      "speaker": "クロミ",
+      "text": "よく分からないですけど、",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 90,
+      "speaker": "クロミ",
+      "text": "ゴー♪",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 91,
+      "speaker": "セレン",
+      "text": "はぁ……ったく、しょうがねぇな。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 92,
+      "speaker": "セレン",
+      "text": "付き合ってやる",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 96,
+      "speaker": "セレン",
+      "text": "ぜ。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 103,
+      "speaker": "リン",
+      "text": "何するんだろう？\n美味しいものでも食べるのかな？",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 104,
+      "speaker": "スズ",
+      "text": "いや、決戦のバトルフィールドって言ってたし、\nそれはないでしょ……",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 105,
+      "speaker": "スズ",
+      "text": "あれ？　決戦って言った？",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 119,
+      "speaker": "スズ",
+      "text": "決戦って言ってたよね！？　なんの！？",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 124,
+      "speaker": "ビビ神",
+      "text": "……とりあえず行きましょうか。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 125,
+      "speaker": "主人公",
+      "text": "はい……。",
+      "voice": "",
+      "command": ""
+    }
+  ]
+}
