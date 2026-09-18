@@ -335,6 +335,12 @@
       "font": "alimama",
       "fontColor": "#FFFFFF",
       "outlineColor": "#2A2829"
+    },
+    "WindowBase/UpperBackground/Text_Description": {
+      "font": "alimama",
+      "outline": false,
+      "faceDilate": 0,
+      "lineSpacing": 8
     }
   }
 }
