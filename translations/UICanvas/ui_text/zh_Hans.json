@@ -176,7 +176,8 @@
         "EXPミルク50000": "EXP牛奶50000",
         "元素の結晶核": "元素结晶核",
         "火の大結晶": "火之大结晶",
-        "補助の覚醒丹L": "辅助觉醒丹L",
+        "補助の覚醒丹L": "辅助的觉醒丹L",
+        "<ex>セット": "<ex>套装",
         "コズミックコイン": "宇宙硬币",
         "精巧な砥石": "精巧砥石",
         "砥石": "砥石",
@@ -969,5 +970,27 @@
     "あと<num>日": "还剩<num>日",
     "ビビメダル": "薇薇硬币",
     "※潜在覚醒が最大のモンスター娘は交換できません": "※潜在觉醒上限的魔物娘无法交换",
-    "∞トロフィーpt": "∞无限奖章pt"
+    "∞トロフィーpt": "∞无限奖章pt",
+    "[<ex>]<ex>の<ex>": "[<ex>]<ex>的<ex>",
+    "CanvasManagerContent/WindowState/Home_Deck/PageParent/Page/Unit_DeckList/RightZone/Deck/DeckView_Main/RightZone/DeckObject/BtnGraup/AutoSelect/Image": {
+        "<cspace=-1>おまか</cspace>せ編成</cspace>": "自动编队"
+    },
+    "CanvasManagerContent/WindowState/Home_Deck/PageParent/Page/Unit_DeckList/RightZone/Deck/DeckView_Main/RightZone/DeckObject/BtnGraup/Bundle/Image": {
+        "一括編成": "快速编队"
+    },
+    "CanvasManagerContent/WindowState/Home_Deck/PageParent/Page/Unit_DeckList/RightZone/Deck/DeckView_Main/RightZone/DeckObject/BtnGraup/Copy/Image": {
+        "編成<cspace=-1>コピー</cspace>": "复制编队"
+    },
+    "CanvasManagerContent/WindowState/Home_Deck/PageParent/Page/Unit_DeckList/RightZone/Deck/DeckView_Main/RightZone/DeckObject/BtnGraup/Reset/Image": {
+        "編<cspace=-1>成リセ<cspace=-3>ット</cspace>": "重置编队"
+    },
+    "CanvasManagerContent/WindowState/Home_Deck/PageParent/Page/Unit_DeckList/RightZone/Deck/DeckView_Main/RightZone/DeckObject/SlotGroup/DeckUnitSlot.8/ExSkillChangeButton/ChangeButton/ChangeButtonText": {
+        "リザードスケイル": ""
+    },
+    "コピー元の編成で\nこのチームを上書きしますか?": "要将复制的队伍\n覆盖这个队伍吗？",
+    "このチーム編成をリセットしますか？": "要重置这个队伍的编队吗？",
+    "<cspace=2>はい": "<cspace=2>好",
+    "<cspace=2>いいえ": "<cspace=2>不要",
+    "<cspace=-1>コピー<cspace=0>を反映</cspace>": "复制到这里",
+    "<cspace=-1>キ<cspace=-2>ャ<cspace=0>ンセル": "取消"
 }
