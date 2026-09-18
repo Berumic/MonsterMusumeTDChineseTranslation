@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-18T10:43:06.679308+00:00",
-  "commit": "3753cf6fd4062e4ea72567a735033741577b4c69",
+  "generatedAt": "2026-09-18T10:49:43.012833+00:00",
+  "commit": "ede988eadd78525279bcd6a634ef2887c553bf6d",
   "files": {
     "UICanvas/quest_text/zh_Hans.json": {
       "sha256": "7c8ff79d4d57b833ed08629d20dd3ae7f671e698450292bec56c215a7d5e9745",
@@ -24,8 +24,8 @@
       "size": 1012
     },
     "names/zh_Hans.json": {
-      "sha256": "ac95a0a852809f5c8bcfd08575aa63f66cb38575decee4b6f07b6aca84e265a2",
-      "size": 16950
+      "sha256": "16f859fa1222b0bc1bafd079aa25b04e67087a5b899aa6a3784d4153fc701426",
+      "size": 17113
     },
     "scenarios/主线/序章/10006a0_nml/10006a0source.json": {
       "sha256": "1f07f973961d3dfd7f70e26764bcda860a6d4561220df5950e19d283c243cbf6",
@@ -9734,6 +9734,54 @@
     "scenarios/寝室/99 布丁/66041a1_r18/zh_Hans.json": {
       "sha256": "37b8e454a966d46ed1f181a7e02f6ae9e4af6e8ca282503fa7c51f81d92eb2c3",
       "size": 12406
+    },
+    "scenarios/活动/TOWER/eb111202anml/source.json": {
+      "sha256": "d4d415486a9957c5f03a836cdf9b17508aa705795fd6616e7be5bd37e576ae4d",
+      "size": 3992
+    },
+    "scenarios/活动/TOWER/eb111202anml/zh_Hans.json": {
+      "sha256": "ced77b38a6d818589b32d0763381b4fd846442de6d6c274cd3df1d77c3023cdd",
+      "size": 1731
+    },
+    "scenarios/活动/TOWER/eb111202bnml/source.json": {
+      "sha256": "2018457d3ac5cdbe6b834b4860b98d7bdb29809df06c960a8086c95e7ed062b1",
+      "size": 5427
+    },
+    "scenarios/活动/TOWER/eb111202bnml/zh_Hans.json": {
+      "sha256": "9915baca51b330387a0ea47dcd10025eb26c4672021c9ca38bdc6e248e56f4e6",
+      "size": 2444
+    },
+    "scenarios/活动/TOWER/ev1112011nml/source.json": {
+      "sha256": "c27e90fd2217c9e79f901c0507f52f3b8b7ebb046ea703854c409fcab5f449c1",
+      "size": 15019
+    },
+    "scenarios/活动/TOWER/ev1112011nml/zh_Hans.json": {
+      "sha256": "c6a3c70bbcd2e8e12681321e620e15d238b9fc24256f364399ada43bf61a5612",
+      "size": 7407
+    },
+    "scenarios/活动/TOWER/ev1112012nml/source.json": {
+      "sha256": "e084615ba986ecc196e055d409a4d89cd373041175165051dd5a3c858a43c848",
+      "size": 6794
+    },
+    "scenarios/活动/TOWER/ev1112012nml/zh_Hans.json": {
+      "sha256": "bfe4cdb307e53e3599e452684f28a90d72ece34b891abe78a369f661e0b66f88",
+      "size": 3280
+    },
+    "scenarios/活动/TOWER/ev1112031nml/source.json": {
+      "sha256": "8dbdf67b9094d5dc587dafd585d952624bec5605da88790bbaa8de2f66fe373e",
+      "size": 6682
+    },
+    "scenarios/活动/TOWER/ev1112031nml/zh_Hans.json": {
+      "sha256": "bd8e49646ba423eb72b2bfddcee1e1d9915b6aba6b85e6e290b77f6f945ddb0e",
+      "size": 3053
+    },
+    "scenarios/活动/TOWER/ev1112032nml/source.json": {
+      "sha256": "9421373388385b83e3932a34f2386accfeb882d7c76315b90f76a4b7e8dc7dd8",
+      "size": 6054
+    },
+    "scenarios/活动/TOWER/ev1112032nml/zh_Hans.json": {
+      "sha256": "4a249b95c40de86bc614a2c9dd89eeca2e37905cb716106f34b6b5f7c3cfcd21",
+      "size": 2882
     },
     "scenarios/活动/eb105306anml/source.json": {
       "sha256": "b2dc473a25d529a77be1e0a4464283dcdcf0cf151d8d8feb095bca05d9adb538",
