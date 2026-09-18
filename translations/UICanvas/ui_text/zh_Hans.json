@@ -992,5 +992,10 @@
     "<cspace=2>はい": "<cspace=2>好",
     "<cspace=2>いいえ": "<cspace=2>不要",
     "<cspace=-1>コピー<cspace=0>を反映</cspace>": "复制到这里",
-    "<cspace=-1>キ<cspace=-2>ャ<cspace=0>ンセル": "取消"
+    "<cspace=-1>キ<cspace=-2>ャ<cspace=0>ンセル": "取消",
+    "一括挨拶": "一键打招呼",
+    "<cspace=-5>フォ<cspace=-6.5>ロ<scale=0.7><cspace=4>ー<scale=1><cspace=-1>解除": "跟踪解除",
+    "<indent=2%><cspace=-5>フォ<cspace=-6.5>ロ<scale=0.7><cspace=1>ー<scale=1><cspace=-4>する": "跟踪Ta",
+    "挨拶": "打招呼",
+    "ランク：": "等级："
 }
