@@ -968,7 +968,7 @@
     "幻獣石(無償) x<num>": "幻兽石(免费) x<num>",
     "10連ガチャチケット(<num>/<num>)": "10连扭蛋券(<num>/<num>)",
     "あと<num>日": "还剩<num>日",
-    "ビビメダル": "薇薇硬币",
+    "ビビメダル": "薇薇代币",
     "※潜在覚醒が最大のモンスター娘は交換できません": "※潜在觉醒上限的魔物娘无法交换",
     "∞トロフィーpt": "∞无限奖章pt",
     "[<ex>]<ex>のEXスキル<ex>": "[<ex>]<ex>的EX技能<ex>",
@@ -998,5 +998,140 @@
     "挨拶": "打招呼",
     "ランク：": "等级：",
     "スタミナ": "体力",
-    "ランク": "等级"
+    "ランク": "等级",
+    "<num>日まで": "还剩<num>天",
+    "閉じる": "关闭",
+    "前日に<color=#FFFF00><num>人</color>から挨拶されました<br><color=#FFFF00>(フレンドpt+<num>)</color><br><br>前日に<color=#FFFF00><num>人</color>からレンタルされました<br><color=#FFFF00>(フレンドpt+<num>)": "昨天有<color=#FFFF00><num>人</color>给你打了招呼<br><color=#FFFF00>(友情点+<num>)</color><br><br>昨天有<color=#FFFF00><num>人</color>借用了你的魔物娘<br><color=#FFFF00>(友情点+<num>)",
+    "<cspace=-1>メ<cspace=-1.5>イ<cspace=-1>ンストー<cspace=-2>リー": "主线故事",
+    "図鑑": "图鉴",
+    "CanvasManagerContent/WindowState/Home_Story/PageParent/Page/Story_Character/LeftZone/ScrollView_Story/Profile/Text": {
+        "<cspace=-1>プ<cspace=-3>ロ<cspace=-7>フ<cspace=-7>ィ<scale=0.8%><cspace=0>ー<scale=0.95%>ル": "个人资料"
+    },
+    "CanvasManagerContent/WindowState/Home_Story/PageParent/Page/Story_Character/LeftZone/ScrollView_Story/Status/Text": {
+        "<cspace=-1>ス<cspace=0>テ<cspace=-1>ー<cspace=-2>タ<cspace=-1>ス": "状态"
+    },
+    "入手済の優先表示": "优先显示已持有",
+    "<indent=-4%><cspace=-2>リ<cspace=0>セ<cspace=-4>ット": "重置",
+    "<cspace=2>決定": "决定",
+    "クラスチェンジ1回目で開放": "转职1次后开放",
+    "クラスチェンジ2回目で開放": "转职2次后开放",
+    "究極サブスキルは編成画面からのみ装備できます": "究极辅助技能只能在编队界面装备",
+    "<cspace=-0.8>セ<cspace=-2.2>ッ<cspace=-1>トする<cspace=0>サ<cspace=-1>ブ<cspace=0>スキルを選択<cspace=-1>し<cspace=-1.5>て<cspace=0>ください。": "请选择需要装备的辅助技能。",
+    "所持:": "持有:",
+    "CanvasManagerContent/Page/Unit_Detail_AttachAbility/WindowBase/RemoveButton/Image": {
+        "はずす": "卸下"
+    },
+    "<cspace=2>発動": "发动",
+    "<cspace=-1>ラ<cspace=-0.3>ンク": "等级",
+    "<cspace=-1>ス<cspace=-1.2>タ<cspace=-0.5>ミナ": "体力",
+    "<ex>SP": "<ex>SP",
+    "進捗\n": "进度\n",
+    "<cspace=0.5>ﾓﾝｽﾀｰ娘E<cspace=1>X<cspace=1>P:": "魔物娘E<cspace=1>X<cspace=1>P:",
+    "<cspace=2>ゴ<cspace=0.5>ー<cspace=1>ルド:": "金币:",
+    "<cspace=1>ラ<cspace=2>ン<cspace=1.5>クE<cspace=1>X<cspace=1>P:": "等级E<cspace=1>X<cspace=1>P:",
+    "<cspace=0>出<cspace=1>現<cspace=0>エ<cspace=-1>ネミー": "出现的敌人",
+    "CanvasManagerContent/WindowState/Home_Gacha/HistoryButton/Text": {
+        "ガ<cspace=-1.5>チ<cspace=-2>ャ履</cspace>歴": "抽卡历史"
+    },
+    "CanvasManagerContent/WindowState/Home_Gacha/PageParent/Page/Enclosure/RightZone/ButtonRoot/Daily_YellowButton/Text_Paid": {
+        "有償": "付费"
+    },
+    "CanvasManagerContent/WindowState/Home_Gacha/PageParent/Page/Enclosure/RightZone/CostRoot/ExtraPrizeView/Button/Text": {
+        "<cspace=-2>シ<cspace=-3>ョッ<cspace=-1>プへ": "前往商店"
+    },
+    "CanvasManagerContent/WindowState/Home_Gacha/PageParent/Page/Enclosure/RightZone/SelectGachaSlotRoot/SelectGachaSlotView/Title/TitleTx": {
+        "確率UP対象": "概率UP对象"
+    },
+    "CanvasManagerContent/WindowState/Home_Gacha/PageParent/Page/HeaderTitleCommon/Text": {
+        "ガチャ": "抽卡"
+    },
+    "CanvasManagerContent/WindowState/Home_Gacha/ProvisionRate/Image": {
+        "ガ<cspace=-1.5>チ<cspace=-2>ャ詳</cspace>細": "抽卡详细"
+    },
+    "CanvasManagerContent/Page/UnitSelectView_Gacha/WindowBase/FooterTitle/Text": {
+        "確率UPユニット": "概率UP角色"
+    },
+    "CanvasManagerContent/Page/UnitSelectView_Gacha/WindowBase/Text": {
+        "確率UPするユニットを１体選択してください\n選択したユニットは後ほど変更できます": "<cspace=1>请选择1位概率UP的角色\n选择的角色之后可以更改"
+    },
+    "CanvasManagerContent/Page/UnitSelectView_Gacha/WindowBase/Title/Text": {
+        "確率UP設定": "概率UP设定"
+    },
+    "CanvasManagerContent/Page/StoneDetailsViewPopup/WindowBase/DetailsRoot/Text": {
+        "※幻獣石は無償分から消費されます": "※幻兽石会优先从免费部分消耗"
+    },
+    "CanvasManagerContent/Page/StoneDetailsViewPopup/WindowBase/DetailsRoot/Title/Text": {
+        "幻獣石内訳\n": "幻兽石明细\n"
+    },
+    "CanvasManagerContent/Page/StoneDetailsViewPopup/WindowBase/DetailsRoot/TotalStoneValueText/Text": {
+        "幻獣石(合計)": "幻兽石(合计)"
+    },
+    "CanvasManagerContent/Page/StoneDetailsViewPopup/WindowBase/TabGroup/Details/On/Text": {
+        "内訳": "明细"
+    },
+    "ビビメダル×<num>": "薇薇代币×<num>",
+    "【究極】エアロボディ": "【究极】风灵之体",
+    "【究極】ダブルダウン": "【究极】双倍压制",
+    "【究極】デュアルエレメンタル": "【究极】双元素",
+    "【究極】パラダイムコスト": "【究极】范式减耗",
+    "CanvasManagerContent/WindowState/Home_Shop/PageParent/Page/Shop_2/WindowBase/Title/Text": {
+        "コスチューム&交換所": "服装&交换所"
+    },
+    "CanvasManagerContent/WindowState/Home_Shop/PageParent/Page/Shop_3/WindowBase/Title/Text": {
+        "<cspace=-1>ガ<cspace=-1.5>チ<cspace=-3>ャ<cspace=-1>メ<cspace=-2>ダ<cspace=-2>ル": "抽卡代币"
+    },
+    "CanvasManagerContent/Page/Shop_ItemSaleDialog/WindowBase/AutoSelectButton/Image": {
+        "<indent=-3%><cspace=-2><scale=.95>お任せ選択": "自动选择"
+    },
+    "CanvasManagerContent/Page/Shop_ItemSaleDialog/WindowBase/CenterTextArea/TextImage": {
+        "<cspace=2>売却<cspace=0>ア<cspace=-1>イテ<cspace=1>ム<cspace=3>一覧": "出售道具列表"
+    },
+    "CanvasManagerContent/Page/Shop_ItemSaleDialog/WindowBase/ResetButton/Image": {
+        "<indent=-6%><cspace=-1>リ<cspace=0>セ<cspace=-5>ット": "重置"
+    },
+    "CanvasManagerContent/Page/Shop_ItemSaleDialog/WindowBase/SelectedCount/Text": {
+        "選択数": "选择数"
+    },
+    "CanvasManagerContent/Page/Shop_ItemSaleDialog/WindowBase/TabBtn/Equip/Off/Text": {
+        "装備": "装备"
+    },
+    "CanvasManagerContent/Page/Shop_ItemSaleDialog/WindowBase/TabBtn/Material/On/Text": {
+        "強化素材": "强化素材"
+    },
+    "CanvasManagerContent/Page/Shop_ItemSaleDialog/WindowBase/Title/Text_Title": {
+        "<cspace=-2>ア<cspace=-1.2>イ<cspace=-3>テ<cspace=1>ム売却": "道具出售"
+    },
+    "CanvasManagerContent/Page/Shop_ItemSaleAutoSelectDialog/WindowBase/MessageText": {
+        "複数選択可能": "可以多选"
+    },
+    "CanvasManagerContent/Page/Shop_ItemSaleAutoSelectDialog/WindowBase/Title/Text_Title": {
+        "お任せ選択": "自动选择"
+    },
+    "サブストーリー": "支线故事",
+    "サブストーリー<num>": "支线故事<num>",
+    "獲得": "获得",
+    "CanvasManagerContent/Page/Menu_My_Profile/LeftZone/Btn/Image": {
+        "ﾓﾝｽﾀｰ<cspace=2>娘<cspace=-1>変更": "魔物娘变更"
+    },
+    "CanvasManagerContent/Page/Menu_My_Profile/LeftZone/Btn_Friend/Image": {
+        "<size=22.8><cspace=-2.5>フ<voffset=-0.02em><size=22><cspace=-1.5>レ<voffset=0.01em><size=22.6><cspace=-3>ンド": "好友"
+    },
+    "CanvasManagerContent/Page/Menu_My_Profile/RightZone/ProfileRoot/Profile_Main/FriendIDArea/Text": {
+        "プレイヤーID：": "玩家ID："
+    },
+    "CanvasManagerContent/Page/Menu_My_Profile/RightZone/ProfileRoot/Profile_Main/PlayerRank/RankText": {
+        "ラン<cspace=-3>ク：": "等级："
+    },
+    "CanvasManagerContent/Page/Menu_My_Profile/RightZone/ProfileRoot/Profile_Main/UnitGroup/Unit/PlayerIconRoot/Icon_SlotObject/New Game Object/DeckIcon/Icon_Face_Unit/AwakeningNum/Text_Awakening": {
+        "覚醒": "觉醒"
+    },
+    "CanvasManagerContent/Page/Common_HelpWindow/Common_Carousel/ScrollView/Viewport/Content/Content/ScrollView/Viewport/ScrollContent/TextSource": {
+        "\n【プロフィール】\nプロフィール画面では、下記のことが行えます。\n①お気に入りユニットの変更\n②プレイヤー名の変更\n③レンタルユニットの設定\n\u3000※レンタルユニットは3体まで登録できます。\n④自己紹介文の編集\n": "\n【个人资料】\n在个人资料画面中，可以进行以下操作。\n①变更喜爱的角色\n②变更玩家名\n③设置租借角色\n\u3000※最多可登记3位租借角色。\n④编辑自我介绍文\n"
+    },
+    "<cspace=-0.8>セ<cspace=-2.2>ッ<cspace=-1>トする<cspace=0>サ<cspace=-1>ブ<cspace=0>スキルを選択<cspace=-1>し<cspace=-1.5>て<cspace=0>ください。\t": "请选择要设置的副技能。\t",
+    "スタミナを100%回復します": "体力回复100%",
+    "スタミナを<num>回復します": "体力回复<num>点",
+    "CanvasManagerContent/Page/StaminaRecoveryItemList/WindowBase/Title/Text_Title": {
+        "<cspace=-1>ス<cspace=-2.8>タ<cspace=-1>ミ<cspace=0>ナ回復": "体力回复"
+    }
 }

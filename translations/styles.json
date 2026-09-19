@@ -249,8 +249,8 @@
       "font": "alimama",
       "outline": true,
       "outlineColor": "#544A4A",
-      "outlineWidth": 0.2,
-      "faceDilate": -0.1,
+      "outlineWidth": 0.17,
+      "faceDilate": 0,
       "lineSpacing": 8
     },
     "WindowBase/ExchangeNumArea/Remaining/Text_Remaining": {
@@ -369,6 +369,248 @@
       "underlaySoftness": 0
     },
     "Menu_Friend(Clone)/RightZone/FriendView/BaseScrollRoot/ScrollView_Friend/Viewport/Mask/Content/Friend_Content(Clone)/Text_RankNum/Text": {
+      "font": "alimama",
+      "outline": false,
+      "faceDilate": 0,
+      "lineSpacing": 8
+    },
+    "LeftZone/ScrollView_Story/Status/Text": {
+      "font": "FZKane",
+      "faceDilate": 0.2,
+      "outline": true,
+      "outlineColor": "#544A4A",
+      "outlineWidth": 0.3,
+      "underlay": true,
+      "underlayColor": "#26211F",
+      "underlayOffsetX": 0.1,
+      "underlayOffsetY": -0.4,
+      "underlayDilate": 0.5,
+      "underlaySoftness": 0
+    },
+    "LeftZone/ScrollView_Story/Profile/Text": {
+      "font": "FZKane",
+      "faceDilate": 0.2,
+      "outline": true,
+      "outlineColor": "#544A4A",
+      "outlineWidth": 0.3,
+      "underlay": true,
+      "underlayColor": "#26211F",
+      "underlayOffsetX": 0.1,
+      "underlayOffsetY": -0.4,
+      "underlayDilate": 0.5,
+      "underlaySoftness": 0
+    },
+    "Common_SortFilter/WindowBase/Reset/Image": {
+      "font": "FZKane",
+      "faceDilate": 0.2,
+      "outline": true,
+      "outlineColor": "#544A4A",
+      "outlineWidth": 0.3,
+      "underlay": true,
+      "underlayColor": "#26211F",
+      "underlayOffsetX": 0.1,
+      "underlayOffsetY": -0.4,
+      "underlayDilate": 0.5,
+      "underlaySoftness": 0
+    },
+    "Unit_Detail_AttachAbility/WindowBase/RemoveButton/Image": {
+      "font": "FZKane",
+      "faceDilate": 0.2,
+      "outline": true,
+      "outlineColor": "#544A4A",
+      "outlineWidth": 0.3,
+      "underlay": true,
+      "underlayColor": "#26211F",
+      "underlayOffsetX": 0.1,
+      "underlayOffsetY": -0.4,
+      "underlayDilate": 0.5,
+      "underlaySoftness": 0
+    },
+    "BottomArea/Buttons/Btn/Image": {
+      "font": "FZKane",
+      "faceDilate": 0.2,
+      "outline": true,
+      "outlineColor": "#544A4A",
+      "outlineWidth": 0.3,
+      "underlay": true,
+      "underlayColor": "#26211F",
+      "underlayOffsetX": 0.1,
+      "underlayOffsetY": -0.4,
+      "underlayDilate": 0.5,
+      "underlaySoftness": 0
+    },
+    "QuestDetail(Clone)/QuestName": {
+      "font": "alimama",
+      "outline": false,
+      "faceDilate": 0,
+      "lineSpacing": 8
+    },
+    "UnitSelectView_Gacha/WindowBase/Text": {
+      "font": "alimama",
+      "outline": false,
+      "faceDilate": 0,
+      "lineSpacing": 8
+    },
+    "UnitSelectView_Gacha/WindowBase/Title/Text": {
+      "font": "alimama",
+      "outline": false,
+      "faceDilate": 0,
+      "lineSpacing": 8
+    },
+    "Gacha_ProvisionRate(Clone)/WindowBase/MessageView/Content2/Text": {
+      "font": "alimama",
+      "outline": false,
+      "faceDilate": 0.1,
+      "lineSpacing": 8
+    },
+    "Common_SortFilter(Clone)/WindowBase/Decide/Image": {
+      "font": "FZKane",
+      "faceDilate": 0.2,
+      "outline": true,
+      "outlineColor": "#544A4A",
+      "outlineWidth": 0.3,
+      "underlay": true,
+      "underlayColor": "#26211F",
+      "underlayOffsetX": 0.1,
+      "underlayOffsetY": -0.4,
+      "underlayDilate": 0.5,
+      "underlaySoftness": 0
+    },
+    "WindowBase/Title/Text": {
+      "font": "alimama",
+      "outline": false,
+      "faceDilate": 0,
+      "lineSpacing": 8
+    },
+    "WindowBase/AutoSelectButton/Image": {
+      "font": "FZKane",
+      "faceDilate": 0.2,
+      "outline": true,
+      "outlineColor": "#544A4A",
+      "outlineWidth": 0.3,
+      "underlay": true,
+      "underlayColor": "#26211F",
+      "underlayOffsetX": 0.1,
+      "underlayOffsetY": -0.4,
+      "underlayDilate": 0.5,
+      "underlaySoftness": 0
+    },
+    "ResetButton/Image": {
+      "font": "FZKane",
+      "faceDilate": 0.2,
+      "outline": true,
+      "outlineColor": "#544A4A",
+      "outlineWidth": 0.3,
+      "underlay": true,
+      "underlayColor": "#26211F",
+      "underlayOffsetX": 0.1,
+      "underlayOffsetY": -0.4,
+      "underlayDilate": 0.5,
+      "underlaySoftness": 0
+    },
+    "RarityToggle0/Off/Image": {
+      "font": "alimama",
+      "outline": true,
+      "faceDilate": 0.35,
+      "outlineColor": "#FFFFFF",
+      "lineSpacing": 8
+    },
+    "RarityToggle2/Off/Image": {
+      "font": "alimama",
+      "outline": true,
+      "faceDilate": 0.35,
+      "outlineColor": "#FFFFFF",
+      "lineSpacing": 8
+    },
+    "RarityToggle3/Off/Image": {
+      "font": "alimama",
+      "outline": true,
+      "faceDilate": 0.35,
+      "outlineColor": "#FFFFFF",
+      "lineSpacing": 8
+    },
+    "RarityToggle1/Off/Image": {
+      "font": "alimama",
+      "outline": true,
+      "faceDilate": 0.35,
+      "outlineColor": "#FFFFFF",
+      "lineSpacing": 8
+    },
+    "RarityToggle0/On/Image": {
+      "font": "alimama",
+      "outline": true,
+      "faceDilate": 0.35,
+      "outlineColor": "#FFFFFF",
+      "lineSpacing": 8
+    },
+    "RarityToggle2/On/Image": {
+      "font": "alimama",
+      "outline": true,
+      "faceDilate": 0.35,
+      "outlineColor": "#FFFFFF",
+      "lineSpacing": 8
+    },
+    "RarityToggle3/On/Image": {
+      "font": "alimama",
+      "outline": true,
+      "faceDilate": 0.35,
+      "outlineColor": "#FFFFFF",
+      "lineSpacing": 8
+    },
+    "RarityToggle1/On/Image": {
+      "font": "alimama",
+      "outline": true,
+      "faceDilate": 0.35,
+      "outlineColor": "#FFFFFF",
+      "lineSpacing": 8
+    },
+    "SubStoryBanner/StarText": {
+      "font": "alimama",
+      "outline": false,
+      "faceDilate": 0,
+      "lineSpacing": 8
+    },
+    "ExSkillRoot/ExSkillTextArea/TextArea/Text": {
+      "font": "alimama",
+      "outline": true,
+      "outlineColor": "#544A4A",
+      "outlineWidth": 0.35,
+      "faceDilate": 0.35,
+      "lineSpacing": 8
+    },
+    "LeftZone/Btn_Friend/Image": {
+      "font": "FZKane",
+      "faceDilate": 0.2,
+      "outline": true,
+      "outlineColor": "#544A4A",
+      "outlineWidth": 0.3,
+      "underlay": true,
+      "underlayColor": "#26211F",
+      "underlayOffsetX": 0.1,
+      "underlayOffsetY": -0.4,
+      "underlayDilate": 0.5,
+      "underlaySoftness": 0
+    },
+    "LeftZone/Btn/Image": {
+      "font": "FZKane",
+      "faceDilate": 0.2,
+      "outline": true,
+      "outlineColor": "#544A4A",
+      "outlineWidth": 0.3,
+      "underlay": true,
+      "underlayColor": "#26211F",
+      "underlayOffsetX": 0.1,
+      "underlayOffsetY": -0.4,
+      "underlayDilate": 0.5,
+      "underlaySoftness": 0
+    },
+    "ScrollView/Viewport/ScrollContent/TextSource": {
+      "font": "alimama",
+      "outline": false,
+      "faceDilate": 0,
+      "lineSpacing": 8
+    },
+    "WindowBase/Title/Text_Title": {
       "font": "alimama",
       "outline": false,
       "faceDilate": 0,
