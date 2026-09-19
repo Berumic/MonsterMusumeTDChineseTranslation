@@ -679,7 +679,9 @@
             "SPチャレンジは\nスキップできません": "      SP挑战\n      不能跳过"
         },
         "CanvasManagerContent/Page/MessagePopup/WindowBase/Text": {
-            "このシナリオは<color=#FF454A>アダルトシーン</color>が含まれています。\nどこから再生しますか？": "这个故事包含了<color=#FF454A>成人内容</color>。\n要从哪里开始播放呢？"
+            "このシナリオは<color=#FF454A>アダルトシーン</color>が含まれています。\nどこから再生しますか？": "这个故事包含了<color=#FF454A>成人内容</color>。\n要从哪里开始播放呢？",
+            "バトルを最初からやりなおします。\n本当によろしいですか？\n（やりなおしをおこなってもスタミナ/各種キーは\n追加で消費することはございません）": "将从最初重新开始战斗。\n真的确定吗？\n（即使重新开始，\n也不会额外消耗体力/各种钥匙）",
+            "☆３でクリアしました。\nバトルログを共有しますか？\nバトルログ共有ミッションは後から共有しても達成できます。": "以☆3通关了。\n要分享战斗日志吗？\n战斗日志分享任务之后再进行分享也可以达成。"
         },
         "<cspace=2>冒頭": "<cspace=4>开头",
         "<cspace=-5>キャ<cspace=-3>ン<cspace=-2>セル": "取消",
@@ -1136,6 +1138,80 @@
         },
         "CanvasManagerContent/WindowState/Home_Unit/PageParent/Page/Unit_Select/LeftZone/Dialog/uiCanvas/UniqueWeaponStatus/UniqueWeapon_CreateView/CreateUniqueWeapon_Btn/Image": {
             "<line-indent=0.7%><cspace=-3>専用<cspace=-1>武<cspace=-2>器<cspace=0.5>作成</cspace>": "<line-indent=0.7%>专用武器制作"
-        }
+        },
+        "CanvasManagerContent/Common/Footer/Game_SortieDataView/Remain/Title": {
+            "出撃人数": "出击人数"
+        },
+        "CanvasManagerContent/Common/Footer/IconScrollView/BomContent/PlayerBomIcon/RecoverView/CostView/CostText": {
+            "<indent=-3.3%>コスト<indent=43%><size=20>{0}": "<indent=-3.3%>费用<indent=43%><size=20>{0}\""
+        },
+        "Canvas/FlyText/Btl_FlyText_Down_Add_1/FlyText": {
+            "攻撃力アップ": "攻击力上升"
+        },
+        "Canvas/FlyText/Btl_FlyText_Up_Add_2/FlyText": {
+            "移動速度ダウン": "移动速度下降"
+        },
+        "CanvasManagerContent/Common/Footer/Game_SortieDataView/Cost/Title": {
+            "コスト": "费用"
+        },
+        "CanvasManagerContent/Common/Footer/IconScrollView/BomContent/PlayerBomIcon/Icon/Icon_Face_Unit/StockTitle/Cost": {
+            "あと\u3000\u3000回": "剩余\u3000\u3000次"
+        },
+        "CanvasManagerContent/Page/Game_Pause/Layout/BackButton/Image": {
+            "とじる": "关闭"
+        },
+        "CanvasManagerContent/Page/Game_Pause/Layout/QuestRetire/Image": {
+            "<pos=-2%><cspace=-3.3>あ<cspace=-6.4>き<cspace=-2.4>ら<cspace=-2.6>める": "<pos=-2%>放弃"
+        },
+        "CanvasManagerContent/Page/Game_Pause/Layout/Retry/Image": {
+            "<pos=-1.5%><cspace=-5.5>や<cspace=-4.7>り<cspace=-3>な<cspace=-2.5>おす": "<pos=-1.5%>重新开始"
+        },
+        "CanvasManagerContent/Page/MessagePopup/WindowBase/Top/Title/Text_Title": {
+            "やりなおす": "重新开始"
+        },
+        "CanvasManagerContent/Mission_Notification/WindowBase/Text": {
+            "<cspace=-1>ミッ<cspace=-2>ショ<cspace=0>ンを<cspace=1>達<cspace=0>成しま<cspace=1>し<cspace=0>た！\n<size=14><cspace=-2.5>ミ<cspace=-1>ッシ<cspace=-1.5>ョ<cspace=0>ン<cspace=-0.5>ページ<cspace=0>から受け取<cspace=-2>り<cspace=-1.5>ましょう": "已完成任务！\n<size=14>请从任务页面领取吧"
+        },
+        "CanvasManagerContent/Page/MessagePopup/WindowBase/Bottom/Yes/Image": {
+            "は い": "是"
+        },
+        "CanvasManagerContent/Page/MessagePopup/WindowBase/Bottom/Yes/Image__MMTDUnderlay": {
+            "は い": "是"
+        },
+        "いいえ": "不要",
+        "CanvasManagerContent/Page/Result_Summary/RightZone/AcquiredItem/Text": {
+            "<cspace=1>獲<cspace=3>得<cspace=0>ア<cspace=0>イ<cspace=-0.5>テム": "获得道具"
+        },
+        "CanvasManagerContent/Page/Result_Summary/RightZone/Decision/Image": {
+            "<indent=4%><cspace=2>次へ": "下一步"
+        },
+        "CanvasManagerContent/WindowState/Home_Quest/PageParent/Page/Quest_Daily/LeftZone/Tab/Scroll View/Viewport/Content/SectionLong/Off/Text": {
+            "<cspace=-0.08em>EXPミルク": "EXP牛奶",
+            "光<size=85%>&</size>闇素材": "光<size=85%>&</size>暗素材",
+            "地<size=85%>&</size>風素材": "地<size=85%>&</size>风素材",
+            "火<size=85%>&</size>水素材": "火<size=85%>&</size>水素材",
+            "超<cspace=-3>絶<cspace=-4>ク<cspace=-2>エ<cspace=-7>スト": "超绝任务",
+            "<cspace=-0.08em>ゴールドコイン": "金币"
+        },
+        "CanvasManagerContent/WindowState/Home_Quest/PageParent/Page/Quest_Daily/RightZone/ScrollView_Quest/Viewport/Mask/Content/ScrollContent_QuestSuperReinforce/Back/Name": {
+            "超絶EXPミルク牧場": "超绝EXP牛奶牧场",
+            "超絶ゴールドコインの巌窟": "超绝金币岩窟",
+            "超絶光・闇結晶の岩洞": "超绝光・暗结晶岩洞",
+            "超絶地・風結晶の洞穴": "超绝地・风结晶洞穴",
+            "超絶火・水結晶の洞窟": "超绝火・水结晶洞窟"
+        },
+        "下記報酬を獲得しました。": "获得了下面的报酬",
+        "スタミナ回復": "体力回复",
+        "ランクEXP獲得": "等级EXP获得",
+        "CanvasManagerContent/Page/SubStoryOutlinePopup/WindowBase/BottomButtons/CancelButton/Image": {
+            "キャンセル": "取消"
+        },
+        "CanvasManagerContent/Page/SubStoryOutlinePopup/WindowBase/BottomButtons/ChallengeButton/Image": {
+            "<indent=-2%><cspace=-2>挑戦<cspace=-5>する": "<indent=-2%>挑战"
+        },
+        "CanvasManagerContent/Page/SubStoryOutlinePopup/WindowBase/BottomButtons/StoryViewButton/Image": {
+            "シナリオ確認": "<indent=2%><size=110%>剧情确认</size>"
+        },
+        "あらすじ": "梗概"
     }
 }
