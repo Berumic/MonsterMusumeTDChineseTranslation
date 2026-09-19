@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T11:12:14.073335+00:00",
-  "commit": "f5c0fe038ecc71b9335099eb90595e434abb60ac",
+  "generatedAt": "2026-09-19T11:35:35.156838+00:00",
+  "commit": "76d39c72aa734a8c9b53f692b8d86b228789cc4f",
   "files": {
     "UICanvas/quest_text/zh_Hans.json": {
       "sha256": "7c8ff79d4d57b833ed08629d20dd3ae7f671e698450292bec56c215a7d5e9745",
@@ -9740,23 +9740,23 @@
       "size": 3992
     },
     "scenarios/活动/T.O.W.E.R.typeM!/eb111202anml/zh_Hans.json": {
-      "sha256": "f1b97d7b0ac852f3abb6affd56414f256cd140721f512906e81492878ccbfdf7",
-      "size": 2889
+      "sha256": "d76d303386514b19c3d7f50f6420ae733a42b44ac8a65fff5fd488ccd231164c",
+      "size": 2877
     },
     "scenarios/活动/T.O.W.E.R.typeM!/eb111202bnml/source.json": {
       "sha256": "2018457d3ac5cdbe6b834b4860b98d7bdb29809df06c960a8086c95e7ed062b1",
       "size": 5427
     },
     "scenarios/活动/T.O.W.E.R.typeM!/eb111202bnml/zh_Hans.json": {
-      "sha256": "c1275c8c80285e4fc97929546fd67c2973a4a7988474c8224481f578fd3ed0ba",
-      "size": 4051
+      "sha256": "c685f296a5563b553986b31211505306322f51dc9403faad53889f70fd8441b6",
+      "size": 4053
     },
     "scenarios/活动/T.O.W.E.R.typeM!/ev1112011nml/source.json": {
       "sha256": "c27e90fd2217c9e79f901c0507f52f3b8b7ebb046ea703854c409fcab5f449c1",
       "size": 15019
     },
     "scenarios/活动/T.O.W.E.R.typeM!/ev1112011nml/zh_Hans.json": {
-      "sha256": "ffd95b76e820651f2c18b918273d46514e8f296b810a7b5210dae97a61b087fe",
+      "sha256": "a7f5a45929f88a6ac5859e5c0b3edfcd024f4f13a1b1b4ee2123a0d2577263bf",
       "size": 12403
     },
     "scenarios/活动/T.O.W.E.R.typeM!/ev1112012nml/source.json": {
@@ -9772,7 +9772,7 @@
       "size": 6682
     },
     "scenarios/活动/T.O.W.E.R.typeM!/ev1112031nml/zh_Hans.json": {
-      "sha256": "311891457d8ace5401012ffafde288ce32177a12e5e70cc02be9b29f13bbe9b1",
+      "sha256": "1f0747b40ac72dfd66fac440025faa57325a24f2fc91f6ed98d5b606263440a9",
       "size": 5154
     },
     "scenarios/活动/T.O.W.E.R.typeM!/ev1112032nml/source.json": {
@@ -9780,8 +9780,8 @@
       "size": 6054
     },
     "scenarios/活动/T.O.W.E.R.typeM!/ev1112032nml/zh_Hans.json": {
-      "sha256": "1ddc3a993776f623c30ce901aff9f4fcdbd8cd325e41b1b131a8d5a1f5ce293b",
-      "size": 4834
+      "sha256": "b8c87d2c14cb4eda4a5da6aadb947fdb174d3855ebe34a7cbf74c07bf04bb647",
+      "size": 4831
     },
     "scenarios/活动/eb105306anml/source.json": {
       "sha256": "b2dc473a25d529a77be1e0a4464283dcdcf0cf151d8d8feb095bca05d9adb538",
