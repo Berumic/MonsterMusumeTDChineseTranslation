@@ -615,6 +615,45 @@
       "outline": false,
       "faceDilate": 0,
       "lineSpacing": 8
+    },
+    "uiCanvas/UnitStatus/Details/Image": {
+      "font": "FZKane",
+      "faceDilate": 0.2,
+      "outline": true,
+      "outlineColor": "#544A4A",
+      "outlineWidth": 0.3,
+      "underlay": true,
+      "underlayColor": "#26211F",
+      "underlayOffsetX": 0.1,
+      "underlayOffsetY": -0.4,
+      "underlayDilate": 0.5,
+      "underlaySoftness": 0
+    },
+    "uiCanvas/UniqueWeaponStatus/UniqueWeapon_CreateView/CreateUniqueWeapon_Btn/Image": {
+      "font": "FZKane",
+      "faceDilate": 0.2,
+      "outline": true,
+      "outlineColor": "#544A4A",
+      "outlineWidth": 0.3,
+      "underlay": true,
+      "underlayColor": "#26211F",
+      "underlayOffsetX": 0.1,
+      "underlayOffsetY": -0.4,
+      "underlayDilate": 0.5,
+      "underlaySoftness": 0
+    },
+    "BomStatus/Details/Image": {
+      "font": "FZKane",
+      "faceDilate": 0.2,
+      "outline": true,
+      "outlineColor": "#544A4A",
+      "outlineWidth": 0.3,
+      "underlay": true,
+      "underlayColor": "#26211F",
+      "underlayOffsetX": 0.1,
+      "underlayOffsetY": -0.4,
+      "underlayDilate": 0.5,
+      "underlaySoftness": 0
     }
   }
 }
