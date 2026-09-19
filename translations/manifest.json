@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T09:51:09.659307+00:00",
-  "commit": "6dfb74add400d0c2b4b0f320860a7dc37e725e3c",
+  "generatedAt": "2026-09-19T10:18:19.178055+00:00",
+  "commit": "e40fefba18bdcf724b452f446aa449348cdfe3d9",
   "files": {
     "UICanvas/quest_text/zh_Hans.json": {
       "sha256": "7c8ff79d4d57b833ed08629d20dd3ae7f671e698450292bec56c215a7d5e9745",
       "size": 3876
     },
     "UICanvas/ui_text/zh_Hans.json": {
-      "sha256": "7a9c815a15b70c96597c9df6a51b613212acc211ae798d6a3e84b59bd96ad545",
-      "size": 143261
+      "sha256": "8d84577ebe70748cdaa09bcaa91f4d2258dc610855c7449d43052e351cd1e5fe",
+      "size": 143353
     },
     "UICanvas/unit_names/zh_Hans.json": {
       "sha256": "94d3fac6f15320efdd826abfc9682404ad6c000bd54b7421f4bae3bba50c1894",
@@ -24,8 +24,8 @@
       "size": 1012
     },
     "names/zh_Hans.json": {
-      "sha256": "16f859fa1222b0bc1bafd079aa25b04e67087a5b899aa6a3784d4153fc701426",
-      "size": 17113
+      "sha256": "dab739a1eb04d8c091e61db933e22609b5f8a29c9e750fbcf4be48992fc04812",
+      "size": 17229
     },
     "scenarios/主线/序章/10006a0_nml/10006a0source.json": {
       "sha256": "1f07f973961d3dfd7f70e26764bcda860a6d4561220df5950e19d283c243cbf6",
@@ -9740,48 +9740,48 @@
       "size": 3992
     },
     "scenarios/活动/T.O.W.E.R.typeM!/eb111202anml/zh_Hans.json": {
-      "sha256": "ced77b38a6d818589b32d0763381b4fd846442de6d6c274cd3df1d77c3023cdd",
-      "size": 1731
+      "sha256": "f1b97d7b0ac852f3abb6affd56414f256cd140721f512906e81492878ccbfdf7",
+      "size": 2889
     },
     "scenarios/活动/T.O.W.E.R.typeM!/eb111202bnml/source.json": {
       "sha256": "2018457d3ac5cdbe6b834b4860b98d7bdb29809df06c960a8086c95e7ed062b1",
       "size": 5427
     },
     "scenarios/活动/T.O.W.E.R.typeM!/eb111202bnml/zh_Hans.json": {
-      "sha256": "9915baca51b330387a0ea47dcd10025eb26c4672021c9ca38bdc6e248e56f4e6",
-      "size": 2444
+      "sha256": "3644142f60ef2545439524cd444f4ed4a7a03b7ed306d9abba82381f022fe436",
+      "size": 4042
     },
     "scenarios/活动/T.O.W.E.R.typeM!/ev1112011nml/source.json": {
       "sha256": "c27e90fd2217c9e79f901c0507f52f3b8b7ebb046ea703854c409fcab5f449c1",
       "size": 15019
     },
     "scenarios/活动/T.O.W.E.R.typeM!/ev1112011nml/zh_Hans.json": {
-      "sha256": "c6a3c70bbcd2e8e12681321e620e15d238b9fc24256f364399ada43bf61a5612",
-      "size": 7407
+      "sha256": "98bc655756e1708b552b8a795a6ab5759409f1a6627598c4e7ba9cccfcd7e6df",
+      "size": 12396
     },
     "scenarios/活动/T.O.W.E.R.typeM!/ev1112012nml/source.json": {
       "sha256": "e084615ba986ecc196e055d409a4d89cd373041175165051dd5a3c858a43c848",
       "size": 6794
     },
     "scenarios/活动/T.O.W.E.R.typeM!/ev1112012nml/zh_Hans.json": {
-      "sha256": "bfe4cdb307e53e3599e452684f28a90d72ece34b891abe78a369f661e0b66f88",
-      "size": 3280
+      "sha256": "b4ab968d34ed1a0db0ac5eedd23be0239c8bf7d11767884e9398331ece533b28",
+      "size": 5498
     },
     "scenarios/活动/T.O.W.E.R.typeM!/ev1112031nml/source.json": {
       "sha256": "8dbdf67b9094d5dc587dafd585d952624bec5605da88790bbaa8de2f66fe373e",
       "size": 6682
     },
     "scenarios/活动/T.O.W.E.R.typeM!/ev1112031nml/zh_Hans.json": {
-      "sha256": "bd8e49646ba423eb72b2bfddcee1e1d9915b6aba6b85e6e290b77f6f945ddb0e",
-      "size": 3053
+      "sha256": "cb7fcd118b8d4ed4f63edd9afeb6896e037b9f40c785482fd4f66f9f784fdf56",
+      "size": 5148
     },
     "scenarios/活动/T.O.W.E.R.typeM!/ev1112032nml/source.json": {
       "sha256": "9421373388385b83e3932a34f2386accfeb882d7c76315b90f76a4b7e8dc7dd8",
       "size": 6054
     },
     "scenarios/活动/T.O.W.E.R.typeM!/ev1112032nml/zh_Hans.json": {
-      "sha256": "4a249b95c40de86bc614a2c9dd89eeca2e37905cb716106f34b6b5f7c3cfcd21",
-      "size": 2882
+      "sha256": "94287ce78e8f41a628b43cdbdbf60c22f263079a1aee139b43a8b58e5aefe533",
+      "size": 4825
     },
     "scenarios/活动/eb105306anml/source.json": {
       "sha256": "b2dc473a25d529a77be1e0a4464283dcdcf0cf151d8d8feb095bca05d9adb538",
