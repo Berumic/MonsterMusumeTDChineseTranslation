@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T11:35:35.156838+00:00",
-  "commit": "76d39c72aa734a8c9b53f692b8d86b228789cc4f",
+  "generatedAt": "2026-09-20T03:40:46.142935+00:00",
+  "commit": "efbfdfccd1f5903c4b8d57903648a52d8dabd5f0",
   "files": {
     "UICanvas/quest_text/zh_Hans.json": {
       "sha256": "7c8ff79d4d57b833ed08629d20dd3ae7f671e698450292bec56c215a7d5e9745",
@@ -9748,7 +9748,7 @@
       "size": 5427
     },
     "scenarios/活动/T.O.W.E.R.typeM!/eb111202bnml/zh_Hans.json": {
-      "sha256": "c685f296a5563b553986b31211505306322f51dc9403faad53889f70fd8441b6",
+      "sha256": "518d45cff5ff0b6b32986523bdaed2c07fee05fd548cc8660b466c4101b762ce",
       "size": 4053
     },
     "scenarios/活动/T.O.W.E.R.typeM!/ev1112011nml/source.json": {
@@ -9756,7 +9756,7 @@
       "size": 15019
     },
     "scenarios/活动/T.O.W.E.R.typeM!/ev1112011nml/zh_Hans.json": {
-      "sha256": "a7f5a45929f88a6ac5859e5c0b3edfcd024f4f13a1b1b4ee2123a0d2577263bf",
+      "sha256": "faf0ac635922ead7ded7687af26abd3ec24052199583b3c998f7b53e00331108",
       "size": 12403
     },
     "scenarios/活动/T.O.W.E.R.typeM!/ev1112012nml/source.json": {
@@ -9764,7 +9764,7 @@
       "size": 6794
     },
     "scenarios/活动/T.O.W.E.R.typeM!/ev1112012nml/zh_Hans.json": {
-      "sha256": "2e9eaabe12a352b04f7f9bd58eeed80a92bb546e449a2ccd537a5e848f2eed4a",
+      "sha256": "22d19bf2af34907396591953bf34513be30836f432b5cc5f2659fb4851d65f64",
       "size": 5501
     },
     "scenarios/活动/T.O.W.E.R.typeM!/ev1112031nml/source.json": {
@@ -9772,7 +9772,7 @@
       "size": 6682
     },
     "scenarios/活动/T.O.W.E.R.typeM!/ev1112031nml/zh_Hans.json": {
-      "sha256": "1f0747b40ac72dfd66fac440025faa57325a24f2fc91f6ed98d5b606263440a9",
+      "sha256": "3d35be17730c7c704311e6f0e81c79c80f0a6e61057861dde620eadcece79ce7",
       "size": 5154
     },
     "scenarios/活动/T.O.W.E.R.typeM!/ev1112032nml/source.json": {
@@ -9780,7 +9780,7 @@
       "size": 6054
     },
     "scenarios/活动/T.O.W.E.R.typeM!/ev1112032nml/zh_Hans.json": {
-      "sha256": "b8c87d2c14cb4eda4a5da6aadb947fdb174d3855ebe34a7cbf74c07bf04bb647",
+      "sha256": "02c84cc50f0951f345baf5d947e23e5b032dc4a45a40318a31c9cda67088a67b",
       "size": 4831
     },
     "scenarios/活动/eb105306anml/source.json": {
