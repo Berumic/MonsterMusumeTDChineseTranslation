@@ -613,6 +613,7 @@
     "WindowBase/Title/Text_Title": {
       "font": "alimama",
       "outline": false,
+      "fontColor": "#ffffff",
       "faceDilate": 0,
       "lineSpacing": 8
     },
@@ -726,6 +727,240 @@
       "underlayOffsetY": -0.4,
       "underlayDilate": 0.5,
       "underlaySoftness": 0
+    },
+    "Button/Details/Image": {
+      "font": "FZKane",
+      "faceDilate": 0.2,
+      "outline": true,
+      "outlineColor": "#544A4A",
+      "outlineWidth": 0.3,
+      "underlay": true,
+      "underlayColor": "#26211F",
+      "underlayOffsetX": 0.1,
+      "underlayOffsetY": -0.4,
+      "underlayDilate": 0.5,
+      "underlaySoftness": 0
+    },
+    "Button/Decision/Image": {
+      "font": "FZKane",
+      "faceDilate": 0.2,
+      "outline": true,
+      "outlineColor": "#544A4A",
+      "outlineWidth": 0.3,
+      "underlay": true,
+      "underlayColor": "#26211F",
+      "underlayOffsetX": 0.1,
+      "underlayOffsetY": -0.4,
+      "underlayDilate": 0.5,
+      "underlaySoftness": 0
+    },
+    "LeftZone/FriendProfile/Image": {
+      "font": "FZKane",
+      "faceDilate": 0.2,
+      "outline": true,
+      "outlineColor": "#544A4A",
+      "outlineWidth": 0.3,
+      "underlay": true,
+      "underlayColor": "#26211F",
+      "underlayOffsetX": 0.1,
+      "underlayOffsetY": -0.4,
+      "underlayDilate": 0.5,
+      "underlaySoftness": 0
+    },
+    "BottomArea/Rental": {
+      "font": "FZKane",
+      "faceDilate": 0.1,
+      "fontColor": "#B69A7E",
+      "outline": false
+    },
+    "BottomArea/FollowButton/Image": {
+      "font": "FZKane",
+      "faceDilate": 0.2,
+      "outline": true,
+      "outlineColor": "#544A4A",
+      "outlineWidth": 0.3,
+      "underlay": true,
+      "underlayColor": "#26211F",
+      "underlayOffsetX": 0.1,
+      "underlayOffsetY": -0.4,
+      "underlayDilate": 0.5,
+      "underlaySoftness": 0
+    },
+    "BottomArea/DeckCopyButton/Image": {
+      "font": "FZKane",
+      "faceDilate": 0.2,
+      "outline": true,
+      "outlineColor": "#544A4A",
+      "outlineWidth": 0.3,
+      "underlay": true,
+      "underlayColor": "#26211F",
+      "underlayOffsetX": 0.1,
+      "underlayOffsetY": -0.4,
+      "underlayDilate": 0.5,
+      "underlaySoftness": 0
+    },
+    "UICanvasPopupTop/CanvasManagerContent/Page/Shop_SelectBox(Clone)/WindowBase/Buttons/Btn/Image": {
+      "font": "FZKane",
+      "faceDilate": 0.2,
+      "outline": true,
+      "outlineColor": "#544A4A",
+      "outlineWidth": 0.3,
+      "underlay": true,
+      "underlayColor": "#26211F",
+      "underlayOffsetX": 0.1,
+      "underlayOffsetY": -0.4,
+      "underlayDilate": 0.5,
+      "underlaySoftness": 0
+    },
+    "QuestSecretContent(Clone)/Top/StarText": {
+      "outline": false,
+      "faceDilate": 0.1
+    },
+    "uiCanvas/Dialog/Decide/Image": {
+      "font": "FZKane",
+      "faceDilate": 0.2,
+      "outline": true,
+      "outlineColor": "#544A4A",
+      "outlineWidth": 0.3,
+      "underlay": true,
+      "underlayColor": "#26211F",
+      "underlayOffsetX": 0.1,
+      "underlayOffsetY": -0.4,
+      "underlayDilate": 0.5,
+      "underlaySoftness": 0
+    },
+    "uiCanvas/Dialog/RemoveAll/Image": {
+      "font": "FZKane",
+      "faceDilate": 0.2,
+      "outline": true,
+      "outlineColor": "#544A4A",
+      "outlineWidth": 0.3,
+      "underlay": true,
+      "underlayColor": "#26211F",
+      "underlayOffsetX": 0.1,
+      "underlayOffsetY": -0.4,
+      "underlayDilate": 0.5,
+      "underlaySoftness": 0
+    },
+    "Unit_AutoSetting(Clone)/WindowBase/Decide/Image": {
+      "font": "FZKane",
+      "faceDilate": 0.2,
+      "outline": true,
+      "outlineColor": "#544A4A",
+      "outlineWidth": 0.3,
+      "underlay": true,
+      "underlayColor": "#26211F",
+      "underlayOffsetX": 0.1,
+      "underlayOffsetY": -0.4,
+      "underlayDilate": 0.5,
+      "underlaySoftness": 0
+    },
+    "Buttons/ReceiveButton/Image": {
+      "font": "FZKane",
+      "faceDilate": 0.2,
+      "outline": true,
+      "outlineColor": "#544A4A",
+      "outlineWidth": 0.3,
+      "underlay": true,
+      "underlayColor": "#26211F",
+      "underlayOffsetX": 0.1,
+      "underlayOffsetY": -0.4,
+      "underlayDilate": 0.5,
+      "underlaySoftness": 0
+    },
+    "Buttons/CloseButton/Image": {
+      "font": "FZKane",
+      "faceDilate": 0.2,
+      "outline": true,
+      "outlineColor": "#544A4A",
+      "outlineWidth": 0.3,
+      "underlay": true,
+      "underlayColor": "#26211F",
+      "underlayOffsetX": 0.1,
+      "underlayOffsetY": -0.4,
+      "underlayDilate": 0.5,
+      "underlaySoftness": 0
+    },
+    "LeftZone/Dialog/Btn_Profile/Image": {
+      "font": "FZKane",
+      "faceDilate": 0.2,
+      "outline": true,
+      "outlineColor": "#544A4A",
+      "outlineWidth": 0.3,
+      "underlay": true,
+      "underlayColor": "#26211F",
+      "underlayOffsetX": 0.1,
+      "underlayOffsetY": -0.4,
+      "underlayDilate": 0.5,
+      "underlaySoftness": 0
+    },
+    "RightZone/Decision/Image": {
+      "font": "FZKane",
+      "faceDilate": 0.2,
+      "outline": true,
+      "outlineColor": "#544A4A",
+      "outlineWidth": 0.3,
+      "underlay": true,
+      "underlayColor": "#26211F",
+      "underlayOffsetX": 0.1,
+      "underlayOffsetY": -0.4,
+      "underlayDilate": 0.5,
+      "underlaySoftness": 0
+    },
+    "ToggleGroup_Skill/ExistTargetButton": {
+      "font": "alimama",
+      "outline": true,
+      "faceDilate": 0.35,
+      "fontColor": "#544A4A",
+      "outlineColor": "#FFFFFF",
+      "lineSpacing": 8
+    },
+    "ToggleGroup_Skill/ImmidiatelyButton": {
+      "font": "alimama",
+      "outline": true,
+      "faceDilate": 0.35,
+      "fontColor": "#544A4A",
+      "outlineColor": "#FFFFFF",
+      "lineSpacing": 8
+    },
+    "ToggleGroup_ClassAction/ImmidiatelyButton": {
+      "font": "alimama",
+      "outline": true,
+      "faceDilate": 0.35,
+      "fontColor": "#544A4A",
+      "outlineColor": "#FFFFFF",
+      "lineSpacing": 8
+    },
+    "ToggleGroup_ClassAction/SkillActiveButton": {
+      "font": "alimama",
+      "outline": true,
+      "faceDilate": 0.35,
+      "fontColor": "#544A4A",
+      "outlineColor": "#FFFFFF",
+      "lineSpacing": 8
+    },
+    "WindowBase/Title_ClassAction": {
+      "font": "alimama",
+      "outline": true,
+      "faceDilate": 0.35,
+      "fontColor": "#FFFFFF",
+      "outlineColor": "#544A4A",
+      "lineSpacing": 8
+    },
+    "WindowBase/Title_Skill": {
+      "font": "alimama",
+      "outline": true,
+      "faceDilate": 0.35,
+      "fontColor": "#FFFFFF",
+      "outlineColor": "#544A4A",
+      "lineSpacing": 8
+    },
+    "QuestContentWildHunt(Clone)/Back/Stamina/Title": {
+      "font": "alimama",
+      "outline": true,
+      "faceDilate": 0.35,
+      "outlineColor": "#FFFFFF",
+      "lineSpacing": 8
     }
   }
 }

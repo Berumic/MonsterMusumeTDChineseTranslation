@@ -26,7 +26,7 @@
         "獣神": "兽神",
         "ﾓﾝｽﾀｰ娘一覧": "魔物娘一览",
         "ステータス": "状态",
-        "<scale=0.9%><cspace=0>ソ<cspace=-1>ー<cspace=2>ト/<cspace=-2>フ<cspace=-2>ィ<cspace=1.2>ル<cspace=-0.5>ター": "<color=#544A4A><scale=0.9%><cspace=0>排序/<cspace=-2>筛选</color>",
+        "<scale=0.9%><cspace=0>ソ<cspace=-1>ー<cspace=2>ト/<cspace=-2>フ<cspace=-2>ィ<cspace=1.2>ル<cspace=-0.5>ター": "<scale=0.9%><cspace=0>排序/<cspace=-2>筛选",
         "<indent=5%>ソート": "<indent=5%>排序",
         "ミッション": "任务",
         "武器種 :": "武器",
@@ -83,14 +83,14 @@
         "能力値": "能力值",
         "<cspace=0>受け<cspace=-2>取る": "领取",
         "<cspace=-2>一<cspace=-1>括受取": "一键领取",
-        "即時": "<color=#ffffff>立刻</color>",
+        "即時": "立刻",
         "オート設定": "Auto设定",
-        "対象存在時": "<color=#ffffff>对象存在时</color>",
-        "クラスアクションを使用できません": "<color=#ffffff>无法使用Act技能</color>",
-        "クラスアクション": "<color=#ffffff>职业Act技能</color>",
-        "スキル\n": "<color=#ffffff>技能</color>",
-        "スキル発動中\n": "<color=#ffffff>技能发动中</color>",
-        "スキル発動中": "<color=#ffffff>技能发动中</color>",
+        "対象存在時": "对象存在时",
+        "クラスアクションを使用できません": "无法使用Act技能",
+        "クラスアクション": "职业Act技能",
+        "スキル\n": "技能",
+        "スキル発動中\n": "技能发动中",
+        "スキル発動中": "技能发动中",
         "CanvasManagerContent/Page/Unit_Detail_Rework/Main/UI/SkillDialog/ExSkillArea/BorderLine/Title": {
             "E<indent=20>X<cspace=-6>ス<cspace=-3>キル": "EX技能"
         },
@@ -103,7 +103,7 @@
         "火": "火",
         "地": "地",
         "闇": "暗",
-        "ドラゴン,妖怪": "龙，妖怪",
+        "ドラゴン,<ex>": "龙，<ex>",
         "ヴァルキリー": "",
         "槍": "枪",
         "こん棒": "钝器",
@@ -176,7 +176,9 @@
         "EXPミルク50000": "EXP牛奶50000",
         "元素の結晶核": "元素结晶核",
         "火の大結晶": "火之大结晶",
-        "補助の覚醒丹L": "辅助的觉醒丹L",
+        "<ex>の覚醒丹L": "<ex>的觉醒丹L",
+        "<ex>の覚醒丹E": "<ex>的觉醒丹E",
+        "<ex>の覚醒丹C": "<ex>的觉醒丹C",
         "<ex>セット": "<ex>套装",
         "コズミックコイン": "宇宙硬币",
         "精巧な砥石": "精巧砥石",
@@ -1214,6 +1216,26 @@
         "CanvasManagerContent/Page/SubStoryOutlinePopup/WindowBase/BottomButtons/StoryViewButton/Image": {
             "シナリオ確認": "<indent=2%><size=110%>剧情确认</size>"
         },
-        "あらすじ": "梗概"
+        "あらすじ": "梗概",
+        "詳細": "详细",
+        "CanvasManagerContent/WindowState/Home_Quest/PageParent/Page/Unit_DeckSelectRentalUnit/LeftZone/FriendProfile/Image": {
+            "<cspace=-3>プ<cspace=-4>レ<cspace=-2>イ<cspace=-4>ヤ<cspace=-2><scale=0.9>ー<scale=1><cspace=0>情報": "玩家信息"
+        },
+        "CanvasManagerContent/Page/ClearDeckDialog/WindowBase/ScrollView/Viewport/Mask/Content/ClearDeckBanner/UserArea/DisableBattlelogShare": {
+            "バトルログ共有なし": "没有分享战斗记录"
+        },
+        "CanvasManagerContent/Page/ClearDeckDialog/WindowBase/ScrollView/RankingButton/Image": {
+            "使<cspace=-2>用<cspace=2>率": "使用率"
+        },
+        "CanvasManagerContent/Page/ClearDeckDialog/WindowBase/ScrollView/Viewport/Mask/Content/ClearDeckBanner/BottomArea/DeckCopyButton/Image": {
+            "<indent=-11%><scale=0.9%><cspace=-0.5>編<cspace=-1.5>成<cspace=-4>コ<cspace=-6>ピ<scale=0.75>ー": "<indent=-11%><scale=0.9%>复制编队"
+        },
+        "CanvasManagerContent/Page/ClearDeckDialog/WindowBase/ScrollView/Viewport/Mask/Content/ClearDeckBanner/BottomArea/FollowButton/Image": {
+            "<indent=-10%><cspace=-0.2em>フォロ<scale=0.8>ー </cspace>": "跟踪"
+        },
+        "CanvasManagerContent/Page/ClearDeckDialog/WindowBase/ScrollView/Viewport/Mask/Content/ClearDeckBanner/BottomArea/Rental/Text (TMP)": {
+            "<indent=-7.3%><cspace=-3>レ<voffset=0.03em>ンタル": "租借"
+        },
+        "<cspace=-2>全て<cspace=0>解除": "全部解除"
     }
 }
