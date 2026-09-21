@@ -1,11 +1,15 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T09:50:55.942290+00:00",
-  "commit": "29e52f4b97f97dffecfcc7b4ddf92b1278f4331a",
+  "generatedAt": "2026-09-21T07:58:20.463266+00:00",
+  "commit": "a9f72d5a017c4ebdb98107ac926446b1e439a992",
   "files": {
     "alimama": {
-      "sha256": "6f552554c8a273148ca913c7285a275e3cb8c7cb963385d218212f76fb0baf4b",
-      "size": 13179012
+      "sha256": "9368f2742b8f7bf06a323513f3abfec6285e2ffb941356f8b4e5a4b77b1f27b4",
+      "size": 24226031
+    },
+    "android/alimama-android": {
+      "sha256": "5bbafcad35eed13a003b0bf31ffef4f793b3318f9ff5c95017ef6c921618a39d",
+      "size": 34286324
     }
   }
 }

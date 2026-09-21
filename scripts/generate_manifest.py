@@ -73,3 +73,5 @@ generate_manifest(
     excluded_names=EXCLUDED_NAMES,
 )
 generate_manifest(ASSETS)
+if (ASSETS / "android").is_dir():
+    generate_manifest(ASSETS / "android")
