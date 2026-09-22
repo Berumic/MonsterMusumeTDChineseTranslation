@@ -1,0 +1,77 @@
+{
+  "scenario_id": "1107012nml",
+  "asset_path": "Assets/AdvScene/ScenarioExcel/main/1107/1107012Nml.xlsx",
+  "cache_bundle": "C:\\Users\\77147\\Documents\\Codex\\2026-08-21\\bang\\outputs\\MonsterMusumeTDMod\\解包资源\\ab\\７章_01話後半_1107012Nml.ab",
+  "rows": [
+    {
+      "row": 8,
+      "speaker": "セレン",
+      "text": "おーっし、粗方片付いたな。\n今のうちに、さくっとここから逃げちまおうぜ。",
+      "voice": "ch_10023/Main/1107/1107_10023_025",
+      "command": ""
+    },
+    {
+      "row": 37,
+      "speaker": "リン",
+      "text": "じゃあ駆け落ちだぁ～♪",
+      "voice": "ch_10006/Main/1107/1107_10006_026",
+      "command": ""
+    },
+    {
+      "row": 38,
+      "speaker": "主人公",
+      "text": "違います。とりあえず、人気のない場所を探しましょう。\nこの辺りの地理には詳しくないので\n時間はかかるかもしれませんが……。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 39,
+      "speaker": "セレン",
+      "text": "誰かに聞ければいいんだけどな。",
+      "voice": "ch_10023/Main/1107/1107_10023_027",
+      "command": ""
+    },
+    {
+      "row": 46,
+      "speaker": "クロミ",
+      "text": "あっ、人です！　おーいっ！\nちょっと道を教えてくださ～い♪",
+      "voice": "ch_10021/Main/1107/1107_10021_028",
+      "command": ""
+    },
+    {
+      "row": 59,
+      "speaker": "スズ",
+      "text": "クロミ！？　なにやってるの！？",
+      "voice": "ch_10022/Main/1107/1107_10022_029",
+      "command": ""
+    },
+    {
+      "row": 60,
+      "speaker": "クロミ",
+      "text": "え？　だってこの辺りを知っている人に、\n道を尋ねた方が、隠れる場所も早く見つかるじゃないですか～。",
+      "voice": "ch_10021/Main/1107/1107_10021_030",
+      "command": ""
+    },
+    {
+      "row": 83,
+      "speaker": "スズ",
+      "text": "その前に私たちが見つかってるから！！",
+      "voice": "ch_10022/Main/1107/1107_10022_031",
+      "command": ""
+    },
+    {
+      "row": 84,
+      "speaker": "クロミ",
+      "text": "あら～？",
+      "voice": "ch_10021/Main/1107/1107_10021_032",
+      "command": ""
+    },
+    {
+      "row": 85,
+      "speaker": "主人公",
+      "text": "と、とにかく逃げましょう！",
+      "voice": "",
+      "command": ""
+    }
+  ]
+}

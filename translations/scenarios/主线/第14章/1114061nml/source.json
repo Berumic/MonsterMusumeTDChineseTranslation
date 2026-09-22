@@ -1,0 +1,336 @@
+{
+  "scenario_id": "1114061nml",
+  "asset_path": "Assets/AdvScene/ScenarioExcel/main/1114/1114061Nml.xlsx",
+  "cache_bundle": "C:\\Users\\77147\\Documents\\Codex\\2026-08-21\\bang\\outputs\\MonsterMusumeTDMod\\解包资源\\ab\\14章_06話前半_1114061Nml.ab",
+  "rows": [
+    {
+      "row": 7,
+      "speaker": "",
+      "text": "――宗教国家・ロシェル。<interval=0.4>\nその首都、ロシェルス。<interval=0.4>\n法王庁からほど近い場所に、主人公たちはひっそり到着した。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 8,
+      "speaker": "エロイーズ",
+      "text": "さて……<interval=1.5>ロ",
+      "voice": "en_40112/Main/1114/1114_40112_280",
+      "command": ""
+    },
+    {
+      "row": 10,
+      "speaker": "エロイーズ",
+      "text": "シェルに着いたはいいが、これからどうやって、\n法王庁の中にいるであろう法王猊下に会いに行くかねえ？<interval=2>\n何か、方策はあるのかい？",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 13,
+      "speaker": "*クロミと案を練る",
+      "text": "クロミと案を練る",
+      "voice": "",
+      "command": "Selection"
+    },
+    {
+      "row": 14,
+      "speaker": "*リンと案を練る",
+      "text": "リンと案を練る",
+      "voice": "",
+      "command": "Selection"
+    },
+    {
+      "row": 15,
+      "speaker": "*スズと案を練る",
+      "text": "スズと案を練る",
+      "voice": "",
+      "command": "Selection"
+    },
+    {
+      "row": 19,
+      "speaker": "クロミ",
+      "text": "色仕掛けですよっ！",
+      "voice": "ch_10021/Main/1114/1114_10021_00211",
+      "command": ""
+    },
+    {
+      "row": 22,
+      "speaker": "主人公",
+      "text": "既に駄目そうですが、一応、詳しく聞きましょう。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 44,
+      "speaker": "クロミ",
+      "text": "ご主人君くんが、肩をはだけながら、<interval=2>\n『",
+      "voice": "ch_10021/Main/1114/1114_10021_00212",
+      "command": ""
+    },
+    {
+      "row": 47,
+      "speaker": "クロミ",
+      "text": "法王orトリート』と言って誘惑するんですよ。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 54,
+      "speaker": "主人公",
+      "text": "既に趣旨がよく分からなくなりつつありますね。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 59,
+      "speaker": "クロミ",
+      "text": "そして、路地裏に連れ込んで倒し――を、法王",
+      "voice": "ch_10021/Main/1114/1114_10021_00213",
+      "command": ""
+    },
+    {
+      "row": 62,
+      "speaker": "クロミ",
+      "text": "庁に入っていって、\n咎められる度に行い、最終的に法王さんに会うまで",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 66,
+      "speaker": "クロミ",
+      "text": "続ける……、<interval=7>\nという戦法ですよっ。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 69,
+      "speaker": "主人公",
+      "text": "色々な意味で、気が遠くなる案ですね……。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 77,
+      "speaker": "リン",
+      "text": "壁を溶かすよ。",
+      "voice": "ch_10006/Main/1114/1114_10006_284",
+      "command": ""
+    },
+    {
+      "row": 80,
+      "speaker": "主人公",
+      "text": "なるほど。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 90,
+      "speaker": "リン",
+      "text": "法王のいる部屋まで、",
+      "voice": "ch_10006/Main/1114/1114_10006_285",
+      "command": ""
+    },
+    {
+      "row": 94,
+      "speaker": "リン",
+      "text": "一直線に壁を溶かしていくの。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 109,
+      "speaker": "主人公",
+      "text": "途中で、絶対誰かに見つかりそうですね……。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 114,
+      "speaker": "リン",
+      "text": "見つけた相手も溶かすよ。",
+      "voice": "ch_10006/Main/1114/1114_10006_286",
+      "command": ""
+    },
+    {
+      "row": 117,
+      "speaker": "主人公",
+      "text": "もうちょっと穏便な策はないんですか！？",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 123,
+      "speaker": "スズ",
+      "text": "空を飛んで中に入ればいいのでは？",
+      "voice": "ch_10022/Main/1114/1114_10022_00217",
+      "command": ""
+    },
+    {
+      "row": 126,
+      "speaker": "主人公",
+      "text": "なるほど……<interval=0.4>しかし、途中でどうしても、\n屋内に入って法王さまの居場所を探らないといけなくなりますね。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 134,
+      "speaker": "スズ",
+      "text": "空から見つけられないかしら……？",
+      "voice": "ch_10022/Main/1114/1114_10022_00218",
+      "command": ""
+    },
+    {
+      "row": 135,
+      "speaker": "主人公",
+      "text": "どうして、そんなに空万能な世界観なんですか……？",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 139,
+      "speaker": "スズ",
+      "text": "いっそ、法王さまにも空を飛んで貰えば、見つかりやすく……？",
+      "voice": "ch_10022/Main/1114/1114_10022_00219",
+      "command": ""
+    },
+    {
+      "row": 142,
+      "speaker": "主人公",
+      "text": "スズさん、思考回路がかなりクロミさん寄りになってきてますよ？",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 145,
+      "speaker": "スズ",
+      "text": "なにそれ、やばい！！",
+      "voice": "ch_10022/Main/1114/1114_10022_00220",
+      "command": ""
+    },
+    {
+      "row": 148,
+      "speaker": "",
+      "text": "{ニセハイヌウェレのネームを「？？？」黒シルエットで表示}",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 161,
+      "speaker": "ニセハイヌウェレ",
+      "text": "あの、すみません……。<interval=2>\nラシオネルさんですよね？",
+      "voice": "en_40301/Main/1114/1114_40301_291",
+      "command": ""
+    },
+    {
+      "row": 164,
+      "speaker": "主人公",
+      "text": "え！？<interval=0.4>\nあ、<interval=0.2>いえ、<interval=0.2>そ、<interval=0.2>それは……。<interval=0.8>\nというか、アナタは……？",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 165,
+      "speaker": "",
+      "text": "不意にフードを目深に被った人物に声をかけられ、\n主人公はギョッとなった。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 166,
+      "speaker": "ニセハイヌウェレ",
+      "text": "えっと、私は――<interval=2>っと、フードを被ったままでは分かりませんね。",
+      "voice": "en_40301/Main/1114/1114_40301_292",
+      "command": ""
+    },
+    {
+      "row": 167,
+      "speaker": "",
+      "text": "フードの人物は、そっと中から顔を覗かせる。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 172,
+      "speaker": "ニセハイヌウェレ",
+      "text": "失礼しました。<interval=2>\n私です、ご無沙汰しています。",
+      "voice": "en_40301/Main/1114/1114_40301_293",
+      "command": ""
+    },
+    {
+      "row": 175,
+      "speaker": "主人公",
+      "text": "ハ、ハイヌウェレさん……じゃなかった！<interval=0.4>\nニ",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 178,
+      "speaker": "主人公",
+      "text": "セハイヌウェレさん！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 180,
+      "speaker": "ニセハイヌウェレ",
+      "text": "お久しぶりです……<interval=2>さあ、急ぎ移動しましょう。<interval=2>\nここは兵たちが警戒を強めていますから、\n見つかったら拘束されてしまいます。",
+      "voice": "en_40301/Main/1114/1114_40301_294",
+      "command": ""
+    },
+    {
+      "row": 181,
+      "speaker": "主人公",
+      "text": "助かりました。\nどうやって法王庁に入ろうかと悩んでいたところでして。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 183,
+      "speaker": "ニセハイヌウェレ",
+      "text": "もう大丈夫です。私がご案内します。さあ、こちらへ。",
+      "voice": "en_40301/Main/1114/1114_40301_295",
+      "command": ""
+    },
+    {
+      "row": 185,
+      "speaker": "ニセハイヌウェレ",
+      "text": "誰にも見つからないように、隠れながら来ましたから。\n私がここにいるのはまだ誰も知らないはずです。<interval=6>\nな",
+      "voice": "en_40301/Main/1114/1114_40301_296",
+      "command": ""
+    },
+    {
+      "row": 188,
+      "speaker": "ニセハイヌウェレ",
+      "text": "ので安心して移動を――。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 194,
+      "speaker": "ロシェル兵",
+      "text": "ココにいたぞー！！　通報のあった不審者だ！　捕えろー！！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 196,
+      "speaker": "ニセハイヌウェレ",
+      "text": "あ……。",
+      "voice": "en_40301/Main/1114/1114_40301_297",
+      "command": ""
+    },
+    {
+      "row": 199,
+      "speaker": "タンタル",
+      "text": "恐ろしく早いフラグ回収だったね。",
+      "voice": "ch_10025/Main/1114/1114_10025_298",
+      "command": ""
+    },
+    {
+      "row": 202,
+      "speaker": "主人公",
+      "text": "み、皆さん！　迎撃を！\nここを突破しましょう！",
+      "voice": "",
+      "command": ""
+    }
+  ]
+}

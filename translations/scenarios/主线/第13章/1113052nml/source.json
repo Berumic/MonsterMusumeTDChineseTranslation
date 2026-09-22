@@ -1,0 +1,84 @@
+{
+  "scenario_id": "1113052nml",
+  "asset_path": "Assets/AdvScene/ScenarioExcel/main/1113/1113052Nml.xlsx",
+  "cache_bundle": "C:\\Users\\77147\\Documents\\Codex\\2026-08-21\\bang\\outputs\\MonsterMusumeTDMod\\解包资源\\ab\\13章_05話後半_1113052Nml.ab",
+  "rows": [
+    {
+      "row": 9,
+      "speaker": "エロイーズ",
+      "text": "完全に見失っちまったね……。",
+      "voice": "en_40112/Main/1113/1113_40112_169",
+      "command": ""
+    },
+    {
+      "row": 12,
+      "speaker": "メイジー",
+      "text": "追うっすか？",
+      "voice": "en_40113/Main/1113/1113_40113_170",
+      "command": ""
+    },
+    {
+      "row": 13,
+      "speaker": "エロイーズ",
+      "text": "一応、別働隊に連絡を入れて、追っ手をかけるさね。\nアタシらは、ここを押さえて叩き壊す。",
+      "voice": "en_40112/Main/1113/1113_40112_171",
+      "command": ""
+    },
+    {
+      "row": 19,
+      "speaker": "主人公",
+      "text": "僕らは、ダムストーさんを探しましょう。\n……無事だといいんですが。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 23,
+      "speaker": "クロミ",
+      "text": "無事でない場合は……、どうなっているんです？",
+      "voice": "ch_10021/Main/1113/1113_10021_172",
+      "command": ""
+    },
+    {
+      "row": 25,
+      "speaker": "リン",
+      "text": "実験台にされて……ゲログチャに……。",
+      "voice": "ch_10006/Main/1113/1113_10006_173",
+      "command": ""
+    },
+    {
+      "row": 28,
+      "speaker": "クロミ",
+      "text": "一旦、我々は帰った方がよくないです？",
+      "voice": "ch_10021/Main/1113/1113_10021_174",
+      "command": ""
+    },
+    {
+      "row": 31,
+      "speaker": "主人公",
+      "text": "<size=40>ゲログチャ前提で話を進めないで下さい！？</size>",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 32,
+      "speaker": "クロミ",
+      "text": "でも、私、ゲログチャさんを助ける時に必要なビニール袋を\n持ってなくて……。",
+      "voice": "ch_10021/Main/1113/1113_10021_175",
+      "command": ""
+    },
+    {
+      "row": 34,
+      "speaker": "主人公",
+      "text": "名前がゲログチャになっています！！\nあと、ゲログチャの状態を回収する感じの救出を\n想定しないで下さい！？",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 37,
+      "speaker": "セレン",
+      "text": "おい……グロい想像してないで、研究所の奥を調べるぞ？",
+      "voice": "ch_10023/Main/1113/1113_10023_176",
+      "command": ""
+    }
+  ]
+}

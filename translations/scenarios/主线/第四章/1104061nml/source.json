@@ -1,0 +1,49 @@
+{
+  "scenario_id": "1104061nml",
+  "asset_path": "Assets/AdvScene/ScenarioExcel/main/1104/1104061Nml.xlsx",
+  "cache_bundle": "C:\\Users\\77147\\Documents\\Codex\\2026-08-21\\bang\\outputs\\MonsterMusumeTDMod\\解包资源\\ab\\４章_06話前半_1104061Nml.ab",
+  "rows": [
+    {
+      "row": 8,
+      "speaker": "騎士Ａ",
+      "text": "なんでこんなに怒ってるんだこいつら！？\nひぃっ！？　殺られる！！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 14,
+      "speaker": "ペリリ",
+      "text": "言われなくても殺ってやるペン！\nどりゃぁぁぁっ！",
+      "voice": "ch_10030/Main/1104/1104_10030_205",
+      "command": ""
+    },
+    {
+      "row": 20,
+      "speaker": "騎士Ｂ",
+      "text": "いけません、このままでは押し切られてしまいます！？\nど、どうしましょう！？　撤退しますか！？",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 21,
+      "speaker": "騎士Ａ",
+      "text": "いいや、もう少し踏ん張れ！\n『あいつら』が到着するまで時間を稼ぐんだ！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 24,
+      "speaker": "主人公",
+      "text": "なんだか、相手の士気が盛り返してる！？\nで、でも、こちらが優勢なのは変わらないはず……！\n皆さん、このまま相手の陣形を突き崩します！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 30,
+      "speaker": "ペリリ&オキシー",
+      "text": "うぉぉぉっ！\nやったらぁぁぁぁぁ！",
+      "voice": "ch_10030/Main/1104/1104_10030_206",
+      "command": ""
+    }
+  ]
+}

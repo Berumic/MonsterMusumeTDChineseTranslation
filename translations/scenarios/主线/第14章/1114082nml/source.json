@@ -1,0 +1,266 @@
+{
+  "scenario_id": "1114082nml",
+  "asset_path": "Assets/AdvScene/ScenarioExcel/main/1114/1114082Nml.xlsx",
+  "cache_bundle": "C:\\Users\\77147\\Documents\\Codex\\2026-08-21\\bang\\outputs\\MonsterMusumeTDMod\\解包资源\\ab\\14章_08話後半_1114082Nml.ab",
+  "rows": [
+    {
+      "row": 6,
+      "speaker": "",
+      "text": "魔導兵器と冒険者たちを退けた主人公たちは、\nロシェル天使軍とカー・ルー悪魔軍の激突を止めるべく、\nふたたび話し合いを続ける。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 8,
+      "speaker": "天使憲兵",
+      "text": "ええと……どこまで話したんだ？\n子どもがなんか良い事言って、皇女姉妹が現れて……？",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 14,
+      "speaker": "ニセハイヌウェレ",
+      "text": "私からも、物申します！",
+      "voice": "en_40301/Main/1114/1114_40301_449",
+      "command": ""
+    },
+    {
+      "row": 17,
+      "speaker": "天使憲兵",
+      "text": "まだ人が増えるのか！？",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 19,
+      "speaker": "ニセハイヌウェレ",
+      "text": "私は法王猊下の補佐をしている者です！\n猊下は、現状を大変憂いておいでです！\n無用な血が流れることを猊下はお望みではありません！",
+      "voice": "en_40301/Main/1114/1114_40301_450",
+      "command": ""
+    },
+    {
+      "row": 21,
+      "speaker": "ニセハイヌウェレ",
+      "text": "あなた方も、ロシェルの兵であるならば、\n猊下の意を汲んでいただき、兵をお引き下さい！！",
+      "voice": "en_40301/Main/1114/1114_40301_451",
+      "command": ""
+    },
+    {
+      "row": 22,
+      "speaker": "天使憲兵",
+      "text": "ふ……<interval=0.4>む……",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 25,
+      "speaker": "天使憲兵",
+      "text": "。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 26,
+      "speaker": "",
+      "text": "――かつて。ゲシュペンス島でラシオン騎士団と相見えた時、\n最終決戦で追い詰められた主人公は、\n島中のモンスター娘たちの救援に救われた。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 28,
+      "speaker": "",
+      "text": "今、主人公は様々な形で出会った人々からの、\n彼を助けたいという気持ちを前に……。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 29,
+      "speaker": "",
+      "text": "あのゲシュペンス島での熱い大集結を思い起こし、\n少し目頭が熱くなった。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 35,
+      "speaker": "？？？",
+      "text": "ならーん！！　",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 37,
+      "speaker": "パンドロン",
+      "text": "そんな本当かどうか分からん使者の言葉など、\n耳を貸す必要はなーい！<interval=0.4>\n私の持つ、この真実の猫があれば、我が軍は無敵なのだ！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 39,
+      "speaker": "パンドロン",
+      "text": "そう！<interval=0.4>\n天使モンスター娘の力を何倍にも高めるこのアイテムがあれば！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 42,
+      "speaker": "主人公",
+      "text": "え！？<interval=0.4>\n真実かどうかを聞き分けるアイテムなのでは！？",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 43,
+      "speaker": "パンドロン",
+      "text": "貴様はあの時の小僧か。<interval=0.4>\nまあ、そういう力も頑張れば出ないではないかもしれない、\nと言っても過言ではないが。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 46,
+      "speaker": "主人公",
+      "text": "あるんですか、<interval=0.4>ないんですか……？",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 51,
+      "speaker": "天使憲兵",
+      "text": "………………。<interval=0.4>\n分",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 55,
+      "speaker": "天使憲兵",
+      "text": "かりました。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 57,
+      "speaker": "ダムストー",
+      "text": "え？<interval=0.4>\nどっち？　どっちに分かったんです？",
+      "voice": "ch_10295/Main/1114/1114_10295_452",
+      "command": ""
+    },
+    {
+      "row": 59,
+      "speaker": "天使憲兵",
+      "text": "悪魔モンスター娘は利用されているだけ。<interval=0.4>\n戦闘する必要はない、とそういうことですね。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 62,
+      "speaker": "主人公",
+      "text": "分かっていただけたんですね！？",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 65,
+      "speaker": "天使憲兵",
+      "text": "そして、利用する人間の浅ましさ、<interval=0.4>欲深さ……<interval=0.4>更に、\n人間同士で争う愚かしさ……、<interval=0.4>\nそれも肉親ですら……<interval=0.4>それらも十分に分かりました。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 69,
+      "speaker": "主人公",
+      "text": "え……？",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 74,
+      "speaker": "天使憲兵",
+      "text": "悪魔モンスター娘殲滅は棚上げです。<interval=0.4>\nまず、倒すべきは人間！<interval=0.4>\nそ",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 79,
+      "speaker": "天使憲兵",
+      "text": "うではありませんか、悪魔モンスター娘よ！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 84,
+      "speaker": "プラチナ",
+      "text": "一理ありますな。\n悪魔モンスター娘の力を悪用しようとする人間も、\n出てくる有り様ですから……。",
+      "voice": "ch_10026/Main/1114/1114_10026_453",
+      "command": ""
+    },
+    {
+      "row": 85,
+      "speaker": "プラチナ",
+      "text": "……そして一応、もう一度申し上げるが、<interval=2>\nそれがしは悪魔モンスター娘ではない。",
+      "voice": "ch_10026/Main/1114/1114_10026_454",
+      "command": ""
+    },
+    {
+      "row": 88,
+      "speaker": "主人公",
+      "text": "ちょっ……<interval=0.4>プラチナさん！？",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 91,
+      "speaker": "天使憲兵",
+      "text": "私はここに宣言します！<interval=0.4>\n天使・悪魔モンスター娘連合軍による、人類に対する宣戦布告を！<interval=0.4>\n",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 94,
+      "speaker": "天使憲兵",
+      "text": "そして、人類殲滅戦争の開戦を！！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 98,
+      "speaker": "主人公",
+      "text": "<speed=0.2>………………",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 101,
+      "speaker": "主人公",
+      "text": "。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 102,
+      "speaker": "",
+      "text": "主人公は頭を抱えた。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 106,
+      "speaker": "",
+      "text": "そして、\nこれまでここに救援に現れた、人々の顔を思い浮かべて思った。<interval=0.4>\n『",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 109,
+      "speaker": "",
+      "text": "どう考えても、メンバーの人選が悪いな……』<interval=0.4>と。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 111,
+      "speaker": "",
+      "text": "――時にロシェル暦６０２４年。<interval=0.4>\n事態は新たな局面を迎え、混迷の色を深めていった。",
+      "voice": "",
+      "command": ""
+    }
+  ]
+}

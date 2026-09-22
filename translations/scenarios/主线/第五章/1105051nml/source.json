@@ -1,0 +1,49 @@
+{
+  "scenario_id": "1105051nml",
+  "asset_path": "Assets/AdvScene/ScenarioExcel/main/1105/1105051Nml.xlsx",
+  "cache_bundle": "C:\\Users\\77147\\Documents\\Codex\\2026-08-21\\bang\\outputs\\MonsterMusumeTDMod\\解包资源\\ab\\５章_05話前半_1105051Nml.ab",
+  "rows": [
+    {
+      "row": 7,
+      "speaker": "ロッティ",
+      "text": "うっそー！！　なんでじゃん！？\n私の完璧な……完璧……な？　ん？　んんん？？",
+      "voice": "en_40125/Main/1105/1105_40125_086",
+      "command": ""
+    },
+    {
+      "row": 8,
+      "speaker": "主人公",
+      "text": "えっと……どうかしましたか？",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 21,
+      "speaker": "ロッティ",
+      "text": "ハッ！　よく見ると、これは劣化版の劣化版じゃん！\n紛らわしいから間違えちゃったじゃん。",
+      "voice": "en_40125/Main/1105/1105_40125_087",
+      "command": ""
+    },
+    {
+      "row": 22,
+      "speaker": "主人公",
+      "text": "それってもはやポンコツでは……。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 24,
+      "speaker": "ロッティ",
+      "text": "こっち！　こっちがモノホンの劣化版コピー軍団じゃん！\n今後こそボッコボコにしてやるじゃん！",
+      "voice": "en_40125/Main/1105/1105_40125_088",
+      "command": ""
+    },
+    {
+      "row": 27,
+      "speaker": "スズ",
+      "text": "結局、劣化版なのは変わらないんだ……。",
+      "voice": "ch_10022/Main/1105/1105_10022_089",
+      "command": ""
+    }
+  ]
+}

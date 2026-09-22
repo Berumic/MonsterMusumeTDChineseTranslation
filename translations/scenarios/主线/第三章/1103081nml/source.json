@@ -1,0 +1,56 @@
+{
+  "scenario_id": "1103081nml",
+  "asset_path": "Assets/AdvScene/ScenarioExcel/main/1103/1103081Nml.xlsx",
+  "cache_bundle": "C:\\Users\\77147\\Documents\\Codex\\2026-08-21\\bang\\outputs\\MonsterMusumeTDMod\\解包资源\\ab\\３章_08話前半_1103081Nml.ab",
+  "rows": [
+    {
+      "row": 7,
+      "speaker": "主人公",
+      "text": "くっ、さすが騎士団の本隊ですね……。\n竜騎士にあと一歩辿り着けない……っ！！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 23,
+      "speaker": "プラチナ",
+      "text": "むむ！　ドラゴンの咆哮？\nまさか……もうっ！？",
+      "voice": "ch_10026/Main/1103/1103_10026_267",
+      "command": ""
+    },
+    {
+      "row": 24,
+      "speaker": "主人公",
+      "text": "完全にテイム状態に入っていますね。\nこれはかなりまずいですよ……。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 25,
+      "speaker": "プラチナ",
+      "text": "テイムの気配を察知して、逆に攻め込んでくるとは。\nなかなかの判断力の持ち主だとお見受けした。",
+      "voice": "ch_10026/Main/1103/1103_10026_268",
+      "command": ""
+    },
+    {
+      "row": 28,
+      "speaker": "スズ",
+      "text": "ねえ、あれ見て！　ドラゴンの上に女の人が！\nあれが竜騎士……すごい迫力……！",
+      "voice": "ch_10022/Main/1103/1103_10022_269",
+      "command": ""
+    },
+    {
+      "row": 40,
+      "speaker": "シスイ",
+      "text": "ゆくぞ！　まずは連中を無力化する。\n少年は殺すな。だが、モンスター娘はどう扱ってもかまわん！\n全軍……突撃っ！",
+      "voice": "en_40147/Main/1103/1103_40147_270",
+      "command": ""
+    },
+    {
+      "row": 51,
+      "speaker": "主人公",
+      "text": "全員、対空戦用意！！\n今までで一番の強敵のはずです！！",
+      "voice": "",
+      "command": ""
+    }
+  ]
+}
