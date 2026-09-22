@@ -1,23 +1,23 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-22T11:14:47.979707+00:00",
-  "commit": "707fe6ec84a11e26a495ddfaaba62d304bcc9bc5",
+  "generatedAt": "2026-09-22T14:41:49.515070+00:00",
+  "commit": "13d327a7bb302d96845e89f5ec69158d3a67abcf",
   "files": {
     "UICanvas/quest_text/zh_Hans.json": {
       "sha256": "7c8ff79d4d57b833ed08629d20dd3ae7f671e698450292bec56c215a7d5e9745",
       "size": 3876
     },
     "UICanvas/ui_text/zh_Hans.json": {
-      "sha256": "fd266f2c621dd6a49df1ad2d8d24f51c44fa07490e64c7f8a70a9b795b7b9b2e",
-      "size": 144808
+      "sha256": "d8f65652e7d18943041131330a54dec82860b613e5634d434764af77fb5dc6a4",
+      "size": 145815
     },
     "UICanvas/unit_names/zh_Hans.json": {
       "sha256": "94d3fac6f15320efdd826abfc9682404ad6c000bd54b7421f4bae3bba50c1894",
       "size": 12232
     },
     "UICanvas/unit_skill/zh_Hans.json": {
-      "sha256": "09b9ff21d76f38398eef5d4cbe8508fe45a2358d81bbe1aecb66788e2bea7572",
-      "size": 2007
+      "sha256": "e3b0603436e7d06be9efdb93bc43a3fcf9e88890c1cf71a257b0e238f956fe1b",
+      "size": 2006
     },
     "UICanvas/unit_speech/zh_Hans.json": {
       "sha256": "f0821bfa5f0487a7fd17c91bd024f3fff7539e393130e7ec5fa700bfb7f1d5dc",
@@ -12566,102 +12566,6 @@
     "scenarios/活动/T.O.W.E.R.typeM!/ev1112032nml/zh_Hans.json": {
       "sha256": "02c84cc50f0951f345baf5d947e23e5b032dc4a45a40318a31c9cda67088a67b",
       "size": 4831
-    },
-    "scenarios/活动/eb105306anml/source.json": {
-      "sha256": "b2dc473a25d529a77be1e0a4464283dcdcf0cf151d8d8feb095bca05d9adb538",
-      "size": 3518
-    },
-    "scenarios/活动/eb105306anml/zh_Hans.json": {
-      "sha256": "008bceaa5bf93ec19977424de4213e671e735b42e5029be82b0bb5f94fa6f6d8",
-      "size": 2446
-    },
-    "scenarios/活动/ev1000011nml/source.json": {
-      "sha256": "c366d04ee2137f06e8da02435e184c7058f93ac072f498952b37eed73b91ebb8",
-      "size": 8313
-    },
-    "scenarios/活动/ev1000011nml/zh_Hans.json": {
-      "sha256": "d834bd90aa90de9e1ea9d09a2cb1bc399b6bf05f262a0a5e90589fe7d5069818",
-      "size": 7111
-    },
-    "scenarios/活动/ev1000012nml/source.json": {
-      "sha256": "b0a722c80af3cc8462d485ca69031de0f00fe651a960c371a61c536b631294ac",
-      "size": 9037
-    },
-    "scenarios/活动/ev1000012nml/zh_Hans.json": {
-      "sha256": "fb05446e23c5347a083ad360a3629f78129e9c247eea6cabef8396a9c216c055",
-      "size": 7130
-    },
-    "scenarios/活动/ev1000021nml/source.json": {
-      "sha256": "f18c4a82c531ad6bf6cb6ad240fffe795f659f125058701c663e459ff0a82010",
-      "size": 8190
-    },
-    "scenarios/活动/ev1000021nml/zh_Hans.json": {
-      "sha256": "ef6a7d2ecd911852e3720cbf5cc99c780d2738ec5ee52a31711aca983f52d640",
-      "size": 6552
-    },
-    "scenarios/活动/ev1000022nml/source.json": {
-      "sha256": "4c0b8334da62fbaecfed3d9b6a2061c9e168392ee83bd801237c009c39c1f4d4",
-      "size": 8868
-    },
-    "scenarios/活动/ev1000022nml/zh_Hans.json": {
-      "sha256": "85f1f976684684a08f193fbdfd700872046c159896af0ebc79dc3a3bf6f765fa",
-      "size": 7683
-    },
-    "scenarios/活动/ev1000031nml/source.json": {
-      "sha256": "8f2dfae10a9533812ce80702781c9c53508b47fbadc6d99e3f0fc025cedadf08",
-      "size": 8878
-    },
-    "scenarios/活动/ev1000031nml/zh_Hans.json": {
-      "sha256": "d36339cd595e0703b1947cd1d88e287ca486c56f0ac6ca2ae6c5cd22b6aca0be",
-      "size": 7591
-    },
-    "scenarios/活动/ev1000032nml/source.json": {
-      "sha256": "c6f4302064411604b921f7dbc21536a6a87b76e8bce00564ab863727e38edcbf",
-      "size": 9568
-    },
-    "scenarios/活动/ev1000032nml/zh_Hans.json": {
-      "sha256": "9e95133a2a148413027e18eb84b55fb3e7433279acb94bb40812c757000f4767",
-      "size": 8734
-    },
-    "scenarios/活动/ev1000041nml/source.json": {
-      "sha256": "455c3068fd91327804fbb6e85f4417c849e803122461aaab629c09a42931e411",
-      "size": 6119
-    },
-    "scenarios/活动/ev1000041nml/zh_Hans.json": {
-      "sha256": "121c1c19c08a7a2aefb269a882da23a80256cf2bd6ced6475c6fd6c54ddca3b1",
-      "size": 4880
-    },
-    "scenarios/活动/ev1000042nml/source.json": {
-      "sha256": "e82074b3945da4959ae586124ddcf0c0f68198a69c0bf07212e07bd729edc851",
-      "size": 8224
-    },
-    "scenarios/活动/ev1000042nml/zh_Hans.json": {
-      "sha256": "889da45fe8cb4239f9a49a836a9212b106ce13e8bf6aebd7a02c9fdbdd5d1ea0",
-      "size": 6533
-    },
-    "scenarios/活动/ev1000051nml/source.json": {
-      "sha256": "7bfc8ffe61e2b4d474bba4f93db670abe6497005695e2f927178efcb3e6e84c1",
-      "size": 14967
-    },
-    "scenarios/活动/ev1000051nml/zh_Hans.json": {
-      "sha256": "62a75c5991df6d7a8c094009160f676cc6aabb453af3254ad420728de725e17a",
-      "size": 13645
-    },
-    "scenarios/活动/ev1000052nml/source.json": {
-      "sha256": "415db7cb5973710724bb261390a132038250dc55d00b107b81098125619a251a",
-      "size": 10537
-    },
-    "scenarios/活动/ev1000052nml/zh_Hans.json": {
-      "sha256": "8e81d8897d7780e87421d5d7fa403a3bf36bd39979d3104885c84ef804f3210a",
-      "size": 9180
-    },
-    "scenarios/活动/ev1053062nml/source.json": {
-      "sha256": "8088158ef91b9bae466b2d3442a9cfaa3ba4b8b25c82502a20005d753e60352e",
-      "size": 7311
-    },
-    "scenarios/活动/ev1053062nml/zh_Hans.json": {
-      "sha256": "a43604395608ba039aed08a59e9a0a9f4d474782cec6310f12a3bf32ed5cbf0d",
-      "size": 5768
     },
     "scenarios/活动/勇战三期/eb111101anml/source.json": {
       "sha256": "8b057f6fa6ba221e5c2e2e21d698aa7e98782e817a2bc28ec88aeb2b5b4a9d1a",
