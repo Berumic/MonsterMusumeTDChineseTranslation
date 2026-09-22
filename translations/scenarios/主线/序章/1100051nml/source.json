@@ -1,0 +1,98 @@
+{
+  "scenario_id": "1100051nml",
+  "asset_path": "Assets/AdvScene/ScenarioExcel/main/1100/1100051Nml.xlsx",
+  "cache_bundle": "C:\\Users\\77147\\Documents\\Codex\\2026-08-21\\bang\\outputs\\MonsterMusumeTDMod\\解包资源\\ab\\序章_05話前半_1100051Nml.ab",
+  "rows": [
+    {
+      "row": 7,
+      "speaker": "主人公",
+      "text": "ヴィクトリーさん、今の『ガチャ』というのは一体……。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 8,
+      "speaker": "ビビ神",
+      "text": "ヴィヴィヴァーチェです。\n『ガチャ』とは……『ガチャ』なのです。\nそれ以上でも、それ以下でもありません。",
+      "voice": "ch_30005/Main/1100/1100_30005_104",
+      "command": ""
+    },
+    {
+      "row": 9,
+      "speaker": "主人公",
+      "text": "説明になってませんよねそれ？",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 38,
+      "speaker": "ビビ神",
+      "text": "いいですか、ご主人さま。　\n柔軟な思考――それこそが、\nこの島で生きていく秘訣なのです。",
+      "voice": "ch_30005/Main/1100/1100_30005_105",
+      "command": ""
+    },
+    {
+      "row": 41,
+      "speaker": "主人公",
+      "text": "（露骨に話を逸らされている気がする……）",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 44,
+      "speaker": "スズ",
+      "text": "たしかに、戦いになると臨機応変に対応しなきゃいけないよね。",
+      "voice": "ch_10022/Main/1100/1100_10022_106",
+      "command": ""
+    },
+    {
+      "row": 46,
+      "speaker": "サウラ",
+      "text": "そうねぇ。\n密猟者にもいろいろいるから…………",
+      "voice": "ch_10057/Main/1100/1100_10057_107",
+      "command": ""
+    },
+    {
+      "row": 59,
+      "speaker": "サウラ",
+      "text": "はっ！？\nご主人くん、危ない！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 68,
+      "speaker": "主人公",
+      "text": "矢だ！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 97,
+      "speaker": "リン",
+      "text": "わたしと離れるのがそんなにヤなの？\nじゃあ駆け落ちだね！",
+      "voice": "ch_10006/Main/1100/1100_10006_108",
+      "command": ""
+    },
+    {
+      "row": 98,
+      "speaker": "主人公",
+      "text": "言ってません！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 101,
+      "speaker": "ビビ神",
+      "text": "はいはい。ご主人さま、ここは反撃のついでに１人捕まえて、\n敵の情報を探り出すとしましょう。",
+      "voice": "ch_30005/Main/1100/1100_30005_109",
+      "command": ""
+    },
+    {
+      "row": 102,
+      "speaker": "主人公",
+      "text": "わかりました！",
+      "voice": "",
+      "command": ""
+    }
+  ]
+}
