@@ -1,0 +1,420 @@
+{
+  "scenario_id": "10379a0_nml",
+  "asset_path": "assets/advscene/scenarioexcel/character/10379/10379a0_nml.book.asset",
+  "cache_bundle": "C:\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\5af23f612e7f4396fa2083169986101df84aae595d079a766c0b4bbaa44df73d\\5af23f612e7f4396fa2083169986101d\\__data",
+  "rows": [
+    {
+      "row": 9,
+      "speaker": "",
+      "text": "その日、僕は",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 11,
+      "speaker": "",
+      "text": "のんびり森を歩いていた。\nそんな最中――。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 13,
+      "speaker": "ラビィ",
+      "text": "<size=20>あぶなーいっ！<interval=1.3>\nご主人くん、伏せてっ！！",
+      "voice": "ch_10379/R18/10379A0_10379_Nml/10379A0_10379_001",
+      "command": ""
+    },
+    {
+      "row": 14,
+      "speaker": "主人公",
+      "text": "え？<interval=0.4>　この声……？<interval=0.8>\n",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 22,
+      "speaker": "主人公",
+      "text": "…………<size=30>わ",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 25,
+      "speaker": "主人公",
+      "text": "あっ！？",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 39,
+      "speaker": "",
+      "text": "声につられ、思わず見上げると、\n頭上から大きな岩が、\n今にも僕を潰そうと落下してきていた。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 47,
+      "speaker": "",
+      "text": "そこに――。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 48,
+      "speaker": "ラビィ",
+      "text": "とりゃあーっ！",
+      "voice": "ch_10379/R18/10379A0_10379_Nml/10379A0_10379_002",
+      "command": ""
+    },
+    {
+      "row": 53,
+      "speaker": "ラビィ",
+      "text": "！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 59,
+      "speaker": "",
+      "text": "寸でのところで駆け付けた、\nラビィさんが岩を思い切り蹴飛ばした。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 66,
+      "speaker": "ラビィ",
+      "text": "間に合った……<interval=2>\n",
+      "voice": "ch_10379/R18/10379A0_10379_Nml/10379A0_10379_003",
+      "command": ""
+    },
+    {
+      "row": 91,
+      "speaker": "ラビィ",
+      "text": "無事、ご主人くん！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 95,
+      "speaker": "ラビィ",
+      "text": "？",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 97,
+      "speaker": "主人公",
+      "text": "ら、<interval=0.4>ラビィさん……？<interval=0.8>\n助かりました……<interval=0.4>ラ",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 100,
+      "speaker": "主人公",
+      "text": "ビィさんは命の恩人です！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 102,
+      "speaker": "ラビィ",
+      "text": "あはは……それは良かった……。",
+      "voice": "ch_10379/R18/10379A0_10379_Nml/10379A0_10379_004",
+      "command": ""
+    },
+    {
+      "row": 105,
+      "speaker": "主人公",
+      "text": "でも、どうしてこんなところに、\n突然岩が降ってきたんでしょう。<interval=0.4>\n別",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 108,
+      "speaker": "主人公",
+      "text": "に、上に崖とかがあるわけじゃないのに。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 109,
+      "speaker": "ラビィ",
+      "text": "そ、それはぁ……<interval=2>ご",
+      "voice": "ch_10379/R18/10379A0_10379_Nml/10379A0_10379_005",
+      "command": ""
+    },
+    {
+      "row": 111,
+      "speaker": "ラビィ",
+      "text": "、ごめん、ご主人くん！\n実はさっきの岩、私が原因というか……。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 112,
+      "speaker": "ラビィ",
+      "text": "島のみんなに依頼されて、鉱物を探してたんだ。<interval=2>\nそれでちょっと邪魔だったから……<interval=2.5>え",
+      "voice": "ch_10379/R18/10379A0_10379_Nml/10379A0_10379_006",
+      "command": ""
+    },
+    {
+      "row": 115,
+      "speaker": "ラビィ",
+      "text": "いって。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 119,
+      "speaker": "",
+      "text": "ラビィさんがキックのモーションを見せる。\nその可愛らしい掛け声とは真逆に、\n凄ま",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 120,
+      "speaker": "",
+      "text": "じい風圧が僕の頬を思いっきりかすめていった。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 121,
+      "speaker": "主人公",
+      "text": "な、<interval=0.4>なるほど……。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 122,
+      "speaker": "ラビィ",
+      "text": "…………<interval=1.5>は",
+      "voice": "ch_10379/R18/10379A0_10379_Nml/10379A0_10379_007",
+      "command": ""
+    },
+    {
+      "row": 124,
+      "speaker": "ラビィ",
+      "text": "っ、もしかして今、<interval=2>\n",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 137,
+      "speaker": "ラビィ",
+      "text": "私の足、なんだか太いなって思った！？　<interval=2>思",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 139,
+      "speaker": "ラビィ",
+      "text": "ったでしょ！？",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 142,
+      "speaker": "主人公",
+      "text": "い、<interval=0.4>いや、そんなこと少しも――。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 144,
+      "speaker": "ラビィ",
+      "text": "酷いよ、ご主人くん！？<interval=2>\n私",
+      "voice": "ch_10379/R18/10379A0_10379_Nml/10379A0_10379_008",
+      "command": ""
+    },
+    {
+      "row": 145,
+      "speaker": "ラビィ",
+      "text": "にもコンプレックスっていうのものがあるんだよ！？",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 149,
+      "speaker": "ラビィ",
+      "text": "気にしてるのに……<interval=0.4>ちょっとだけだけ",
+      "voice": "ch_10379/R18/10379A0_10379_Nml/10379A0_10379_009",
+      "command": ""
+    },
+    {
+      "row": 150,
+      "speaker": "ラビィ",
+      "text": "ど気にしてるのに……！<interval=2>\n私の唯一の欠点――<interval=2>い",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 151,
+      "speaker": "ラビィ",
+      "text": "や、そうでもないかもしれないけど、\n他にも割と……いっぱいあるかもしれないけどっ……！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 155,
+      "speaker": "ラビィ",
+      "text": "とにかくっ！　なんでか足の肉づきがいいってこと！",
+      "voice": "ch_10379/R18/10379A0_10379_Nml/10379A0_10379_010",
+      "command": ""
+    },
+    {
+      "row": 175,
+      "speaker": "ラビィ",
+      "text": "前なんて、お前の足は丸太みたいだ～みたいなこと、\n言われたり、言われなかったりしたんだよ？<interval=3.5>\n女の子相手に酷いと思わない！？",
+      "voice": "ch_10379/R18/10379A0_10379_Nml/10379A0_10379_011",
+      "command": ""
+    },
+    {
+      "row": 178,
+      "speaker": "主人公",
+      "text": "そ、そうだったんですか。<interval=0.4>すみません……。\n僕は別にそんなこと、思ってなかったですけど。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 186,
+      "speaker": "主人公",
+      "text": "と、ところでラビィさん、<interval=0.4>\n",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 217,
+      "speaker": "主人公",
+      "text": "島のみんなのお手伝いをしてくださってたんですね。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 219,
+      "speaker": "ラビィ",
+      "text": "あ、<interval=0.4>う",
+      "voice": "ch_10379/R18/10379A0_10379_Nml/10379A0_10379_012",
+      "command": ""
+    },
+    {
+      "row": 221,
+      "speaker": "ラビィ",
+      "text": "ん。\nゲシュペンス島に、なんでも屋２号店を開いたからね。<interval=2>\nしっかり働かなくちゃ！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 224,
+      "speaker": "主人公",
+      "text": "そうだったんですね……！<interval=0.4>\nラビィさんたちはお客様なのに、\n島のために働いてくれるなんて、すごく助かります……！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 225,
+      "speaker": "ラビィ",
+      "text": "まぁ、生活するためだよ。<interval=2>\nあ",
+      "voice": "ch_10379/R18/10379A0_10379_Nml/10379A0_10379_013",
+      "command": ""
+    },
+    {
+      "row": 227,
+      "speaker": "ラビィ",
+      "text": "なたたちは私たちに優しくしてくれるけど、\nただ甘えっぱなしになるのも性に合わないし。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 229,
+      "speaker": "ラビィ",
+      "text": "でも、さっきのは反省。横着はダメだねぇ。\nやみくもに探してても全然見つからないし。<interval=6>\n",
+      "voice": "ch_10379/R18/10379A0_10379_Nml/10379A0_10379_014",
+      "command": ""
+    },
+    {
+      "row": 241,
+      "speaker": "ラビィ",
+      "text": "さっきみたいな事故、また起こしちゃったら大変だし……。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 242,
+      "speaker": "主人公",
+      "text": "それじゃあ、ペントさんに聞いてみますか？<interval=0.4>\n鉱物探しが趣味のコボルト娘さんで、\nコツもいっぱい知っているでしょうから。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 245,
+      "speaker": "ラビィ",
+      "text": "ほんとっ！？　聞きたい聞きたい！<interval=2>\nそれってきっと、元の世界に戻ってからも役立つよね！？",
+      "voice": "ch_10379/R18/10379A0_10379_Nml/10379A0_10379_015",
+      "command": ""
+    },
+    {
+      "row": 246,
+      "speaker": "主人公",
+      "text": "断言はできないですけど……<interval=0.4>た",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 249,
+      "speaker": "主人公",
+      "text": "ぶん？",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 251,
+      "speaker": "ラビィ",
+      "text": "そっかそっか！\nそれじゃあすぐに行こう！<interval=2>\nほ",
+      "voice": "ch_10379/R18/10379A0_10379_Nml/10379A0_10379_016",
+      "command": ""
+    },
+    {
+      "row": 255,
+      "speaker": "ラビィ",
+      "text": "ら、ご主人くん、早くっ！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 257,
+      "speaker": "ラビィ",
+      "text": "のんびりしてると、\n貴重な鉱物が逃げちゃうかもしれないからね！",
+      "voice": "ch_10379/R18/10379A0_10379_Nml/10379A0_10379_017",
+      "command": ""
+    },
+    {
+      "row": 258,
+      "speaker": "主人公",
+      "text": "こ、<interval=0.4>鉱",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 261,
+      "speaker": "主人公",
+      "text": "物は逃げないと思いますけど……。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 274,
+      "speaker": "ラビィ",
+      "text": "いいや、逃げるよ……！\n同業者にかすめ取られる危険性が無いとは言えないからさ。<interval=3>\nほら、そうと決まれば走る走るっ！",
+      "voice": "ch_10379/R18/10379A0_10379_Nml/10379A0_10379_018",
+      "command": ""
+    },
+    {
+      "row": 283,
+      "speaker": "",
+      "text": "うっかり岩で潰しかけた時のしおらしさはすでになく、\nラビィさんは満面の笑みを浮かべながら、\n僕の手を引いて走り出すのだった。",
+      "voice": "",
+      "command": ""
+    }
+  ]
+}

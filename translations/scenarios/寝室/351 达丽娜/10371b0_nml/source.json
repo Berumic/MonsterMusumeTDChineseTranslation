@@ -1,0 +1,399 @@
+{
+  "scenario_id": "10371b0_nml",
+  "asset_path": "assets/advscene/scenarioexcel/character/10371/10371b0_nml.book.asset",
+  "cache_bundle": "C:\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\01cd6a3f709c6541909ef44ebd54ecee67baab94fe495a4b96a8a29712296660\\01cd6a3f709c6541909ef44ebd54ecee\\__data",
+  "rows": [
+    {
+      "row": 9,
+      "speaker": "",
+      "text": "その日、ダンジョン内の音声装置に不具合が起きた。<interval=0.4>\nメンテナンス中だったはずの魔導音声端末が、\n突",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 11,
+      "speaker": "",
+      "text": "如、作動を始めた。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 12,
+      "speaker": "ダリナ２",
+      "text": "『指揮官殿と密室で……ふたりきりの、逃げ場",
+      "voice": "ch_10371/R18/10371B0_10371_Nml/10371B0_10371_001",
+      "command": ""
+    },
+    {
+      "row": 14,
+      "speaker": "ダリナ２",
+      "text": "のない任務』",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 15,
+      "speaker": "主人公",
+      "text": "な、<interval=0.5>な",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 18,
+      "speaker": "主人公",
+      "text": "んだ今の声……？",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 24,
+      "speaker": "",
+      "text": "あわてて通路を引き返すと、<interval=0.4>\n",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 41,
+      "speaker": "",
+      "text": "案の定、ダリナさんが装置の前で凍りついていた。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 43,
+      "speaker": "ダリナ",
+      "text": "こ、これは……わたしの声……！？\nな、なぜ再生されて……！？",
+      "voice": "ch_10371/R18/10371B0_10371_Nml/10371B0_10371_002",
+      "command": ""
+    },
+    {
+      "row": 45,
+      "speaker": "ダリナ",
+      "text": "こんなはずじゃ……これは、\n緊急時用のバックアップ記録のはずで……！",
+      "voice": "ch_10371/R18/10371B0_10371_Nml/10371B0_10371_003",
+      "command": ""
+    },
+    {
+      "row": 48,
+      "speaker": "",
+      "text": "ダリナさんは真っ赤な顔で装置を止めようとするが、\n音声は再生され続けて――。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 52,
+      "speaker": "ダリナ２",
+      "text": "『指揮官殿の鎧を１枚ずつ剥ぎながら……、\n尋問への耐性を探るふりをして、関係性を確認……。<interval=5>\nふふ、ふたりきりの密室なら、逃げられません……』",
+      "voice": "ch_10371/R18/10371B0_10371_Nml/10371B0_10371_004",
+      "command": ""
+    },
+    {
+      "row": 57,
+      "speaker": "ダリナ",
+      "text": "やめてえええええええええ！！！",
+      "voice": "ch_10371/R18/10371B0_10371_Nml/10371B0_10371_005",
+      "command": ""
+    },
+    {
+      "row": 60,
+      "speaker": "",
+      "text": "ダリナさんが装置に飛びかかるが、<interval=0.4>音",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 64,
+      "speaker": "",
+      "text": "声は止まらない",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 67,
+      "speaker": "",
+      "text": "。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 68,
+      "speaker": "",
+      "text": "次に再生されたのは、\n『緊急封鎖下、狭所での心理戦：発情期を想定した実戦訓練』\nというタイトル。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 78,
+      "speaker": "主人公",
+      "text": "これ、タイトルからしてアウトでは……。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 80,
+      "speaker": "ダリナ",
+      "text": "わ、わたしは知らないっ、これは何かの誤作動ですっ……！！<interval=3.6>\nま",
+      "voice": "ch_10371/R18/10371B0_10371_Nml/10371B0_10371_006",
+      "command": ""
+    },
+    {
+      "row": 82,
+      "speaker": "ダリナ",
+      "text": "さか、本体の魔力保存領域から読み取られるなんて……、<interval=3.6>\nこ",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 85,
+      "speaker": "ダリナ",
+      "text": "んなの、聞かれるためのものじゃ……！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 88,
+      "speaker": "主人公",
+      "text": "いやいや、どう聞いてもあなたの声ですよ！？\nしかもテンションやたら高いし！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 106,
+      "speaker": "",
+      "text": "<speed=0><color=white><size=30>緊急封鎖下、狭所での心理戦：発情期を想定した実戦訓練",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 108,
+      "speaker": "",
+      "text": " ",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 112,
+      "speaker": "ダリナ２",
+      "text": "『指揮官殿の眼差しに、わたしは耐えられない……。<interval=2.4>\n",
+      "voice": "ch_10371/R18/10371B0_10371_Nml/10371B0_10371_007",
+      "command": ""
+    },
+    {
+      "row": 117,
+      "speaker": "ダリナ２",
+      "text": "その瞳に映るのは、<interval=2>冷静な戦術家",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 120,
+      "speaker": "ダリナ２",
+      "text": "、<interval=0.8>\n",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 131,
+      "speaker": "ダリナ２",
+      "text": "それとも……１匹の女……？』",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 134,
+      "speaker": "ダリナ２",
+      "text": "もうやめてえええっ！！　",
+      "voice": "ch_10371/R18/10371B0_10371_Nml/10371B0_10371_008",
+      "command": ""
+    },
+    {
+      "row": 145,
+      "speaker": "ダリナ２",
+      "text": "止まって、<interval=1.2>止まってえええ！！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 149,
+      "speaker": "ダリナ２",
+      "text": "！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 152,
+      "speaker": "",
+      "text": "床を転げ回りながら装",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 154,
+      "speaker": "",
+      "text": "置を揺さぶるダリナさん",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 158,
+      "speaker": "",
+      "text": "。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 175,
+      "speaker": "主人公",
+      "text": "あ",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 179,
+      "speaker": "主人公",
+      "text": "の、これってつまり……日記ですよね？",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 181,
+      "speaker": "ダリナ",
+      "text": "ち、違います！　これはっ、れっきとした“訓練記録”です！",
+      "voice": "ch_10371/R18/10371B0_10371_Nml/10371B0_10371_009",
+      "command": ""
+    },
+    {
+      "row": 182,
+      "speaker": "ダリナ",
+      "text": "もし密室でふたりきりになった場合の対応手順や、\n尋問中の心理耐性確認……<interval=4>す",
+      "voice": "ch_10371/R18/10371B0_10371_Nml/10371B0_10371_010",
+      "command": ""
+    },
+    {
+      "row": 183,
+      "speaker": "ダリナ",
+      "text": "べて、非常時に備えての、\n戦略的な……想定訓練で……！<interval=4.5>　本",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 185,
+      "speaker": "ダリナ",
+      "text": "当ですから……！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 186,
+      "speaker": "",
+      "text": "顔は真っ赤、声は裏返り、目はぐるぐる。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 189,
+      "speaker": "",
+      "text": "その場で停止呪文を唱えても、\n装置は律",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 192,
+      "speaker": "",
+      "text": "儀に次のエピソードを読み上げ続ける。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 195,
+      "speaker": "ダリナ２",
+      "text": "『主従逆転時の信頼性確認テスト？\nご主人様と呼ぶ日はいつ？』",
+      "voice": "ch_10371/R18/10371B0_10371_Nml/10371B0_10371_011",
+      "command": ""
+    },
+    {
+      "row": 197,
+      "speaker": "ダリナ",
+      "text": "ああああああああああああああっ",
+      "voice": "ch_10371/R18/10371B0_10371_Nml/10371B0_10371_012",
+      "command": ""
+    },
+    {
+      "row": 200,
+      "speaker": "ダリナ",
+      "text": "！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 201,
+      "speaker": "",
+      "text": "もうダメだ……<interval=0.4>僕が止めに入ろうとしたとき、\nようやく装置が力尽きたのか、音声が止まった。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 217,
+      "speaker": "",
+      "text": "遺跡に静寂が戻った。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 218,
+      "speaker": "",
+      "text": "ダリナさんは仰向けのまま動かず、<interval=0.4>\n顔だけこちらを見ている。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 222,
+      "speaker": "ダリナ",
+      "text": "……わたし、すべてを失った気がします……。<interval=5.5>\nい",
+      "voice": "ch_10371/R18/10371B0_10371_Nml/10371B0_10371_013",
+      "command": ""
+    },
+    {
+      "row": 223,
+      "speaker": "ダリナ",
+      "text": "え、それ以上に……もう２度と、\n指揮官殿の前で顔を上げられないかもしれません……。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 226,
+      "speaker": "主人公",
+      "text": "いや、失ってないですから！　<interval=0.4>む",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 230,
+      "speaker": "主人公",
+      "text": "しろ、得てますよね！？",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 232,
+      "speaker": "ダリナ",
+      "text": "これは誤作動です……<interval=2>誤作動ですから…",
+      "voice": "ch_10371/R18/10371B0_10371_Nml/10371B0_10371_014",
+      "command": ""
+    },
+    {
+      "row": 237,
+      "speaker": "ダリナ",
+      "text": "…。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 238,
+      "speaker": "",
+      "text": "そう言って顔を背けるその耳まで真っ赤で、\n僕はそれ以上何も言えなかった。",
+      "voice": "",
+      "command": ""
+    }
+  ]
+}
