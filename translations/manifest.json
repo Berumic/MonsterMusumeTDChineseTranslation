@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-23T13:17:12.146714+00:00",
-  "commit": "c565c86e309520203e4ef85371b1cc63c9c71af6",
+  "generatedAt": "2026-09-23T13:21:31.506371+00:00",
+  "commit": "cbde601efea6fe6d31685be64c588bd581e20e15",
   "files": {
     "UICanvas/quest_text/zh_Hans.json": {
       "sha256": "7c8ff79d4d57b833ed08629d20dd3ae7f671e698450292bec56c215a7d5e9745",
@@ -26,70 +26,6 @@
     "names/zh_Hans.json": {
       "sha256": "6c3ccf2893e0c9a7a8d56bd8dba02a356da391af572d3cb621372bc99ed26cfd",
       "size": 17280
-    },
-    "scenarios/temp/329 进化宝石龙露露/10348a0_nml/source.json": {
-      "sha256": "3a3cb614470fd0240303df95d60ebf5be13d73c36dd45949cd3769572a992f07",
-      "size": 7840
-    },
-    "scenarios/temp/329 进化宝石龙露露/10348a0_nml/zh_Hans.json": {
-      "sha256": "57dea6221cb4475d3c7576f7f691ba300770d9c6dfb71d41b69f67847b9cb701",
-      "size": 5599
-    },
-    "scenarios/temp/329 进化宝石龙露露/10348a1_r18/source.json": {
-      "sha256": "077d8a5d95d77acfb53dfcf279bc97a89d2c26bba0376f0196a109aba712ecef",
-      "size": 17607
-    },
-    "scenarios/temp/329 进化宝石龙露露/10348a1_r18/zh_Hans.json": {
-      "sha256": "c7ba390fbc94b21eebfdb5ae491438292c4f3de4d55e52b1064588a88934aaef",
-      "size": 13640
-    },
-    "scenarios/temp/329 进化宝石龙露露/10348b0_nml/source.json": {
-      "sha256": "6bd2406cfffd333535ad2477d7a4d63087b15ef26958e11db20d3dacbc07616c",
-      "size": 9912
-    },
-    "scenarios/temp/329 进化宝石龙露露/10348b0_nml/zh_Hans.json": {
-      "sha256": "9794cd9b1ddd518ef7a5f54b36fbbb974e089a6cd2c035dd042a9b92a7de4ec8",
-      "size": 6856
-    },
-    "scenarios/temp/329 进化宝石龙露露/10348b1_r18/source.json": {
-      "sha256": "87d427762c587bfb137400761cecbb24f89e56e61c4159fa9ee4a7db641d2005",
-      "size": 16951
-    },
-    "scenarios/temp/329 进化宝石龙露露/10348b1_r18/zh_Hans.json": {
-      "sha256": "7b03c3bf81d7f388c4b203b1c1f02d1acec16a403722990c965ffd896103caa3",
-      "size": 13118
-    },
-    "scenarios/temp/393 初春八乃/10399a0_nml/source.json": {
-      "sha256": "ab9c84b4f1880034db5e1a59e5725d1923204c71bb503a55dd3d920162bed267",
-      "size": 11713
-    },
-    "scenarios/temp/393 初春八乃/10399a0_nml/zh_Hans.json": {
-      "sha256": "ce89493dee8624243a72b3237bafd7d98db25bdbd41ed3cedfee71b18ed82cd3",
-      "size": 9410
-    },
-    "scenarios/temp/393 初春八乃/10399a1_r18/source.json": {
-      "sha256": "f725162664eef650b774b3b2601b1b42c0a6ac32de2e1ba3bf16a44b7ee79dac",
-      "size": 15361
-    },
-    "scenarios/temp/393 初春八乃/10399a1_r18/zh_Hans.json": {
-      "sha256": "fb387d693c69bbfcf15071d92c3150d859508c6f6cef091a760329990cfd2635",
-      "size": 13600
-    },
-    "scenarios/temp/393 初春八乃/10399b0_nml/source.json": {
-      "sha256": "f46162b5bd09e2fa6d730bcacdf04748232b2de411068753b1d788f1cfb64368",
-      "size": 11239
-    },
-    "scenarios/temp/393 初春八乃/10399b0_nml/zh_Hans.json": {
-      "sha256": "242166db5e3f8996ff8ab4b18d7f2f36f71d1832f24a49e6b06a40d86adea67b",
-      "size": 9069
-    },
-    "scenarios/temp/393 初春八乃/10399b1_r18/source.json": {
-      "sha256": "037be6b43afd92066670e96332b0192e6d3fe703486fb839fa698338d2a514c5",
-      "size": 16944
-    },
-    "scenarios/temp/393 初春八乃/10399b1_r18/zh_Hans.json": {
-      "sha256": "f9c70e435b5a4251b1fabe4e6236eb7ce7258f11a3fdab6fd0edadcb0408836e",
-      "size": 15134
     },
     "scenarios/主线/序章/10006a0_nml/10006a0source.json": {
       "sha256": "1f07f973961d3dfd7f70e26764bcda860a6d4561220df5950e19d283c243cbf6",
@@ -15920,8 +15856,8 @@
       "size": 7721
     },
     "styles.json": {
-      "sha256": "63f540f16fbdb162468018f188ff8579a9d909cdc43b17f51169ce4279969bfa",
-      "size": 28204
+      "sha256": "48357c19466ab33038a045c3daa22146510d503a1801632c38e4713ae58e7d31",
+      "size": 28546
     },
     "subskills/source.json": {
       "sha256": "d0033aebb0ae8e3770e8e3db552c0f9e0fa7eeb678cd3dd7c41cfdce9a1a843c",
