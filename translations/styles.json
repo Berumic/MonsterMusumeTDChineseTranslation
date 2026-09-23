@@ -10,6 +10,8 @@
     "QuestDetail_SubSkillPrize/WindowBase/ScrollView/Viewport/Mask/Content/SaleContent/BackImage/Text": {
       "font": "alimama",
       "fontColor": "#FFFFFF",
+      "outlineColor": "#544A4A",
+      "outline": true,
       "lineSpacing": 8
     },
     "LeftZone/Unit/Guide/GuideMessageText": {
@@ -961,6 +963,52 @@
       "faceDilate": 0.35,
       "outlineColor": "#FFFFFF",
       "lineSpacing": 8
+    },
+    "Rein/ReinBtn/Image": {
+      "font": "FZKane",
+      "faceDilate": 0.2,
+      "outline": true,
+      "outlineColor": "#544A4A",
+      "outlineWidth": 0.3,
+      "underlay": true,
+      "underlayColor": "#26211F",
+      "underlayOffsetX": 0.1,
+      "underlayOffsetY": -0.4,
+      "underlayDilate": 0.5,
+      "underlaySoftness": 0
+    },
+    "BottomArea/ReinforceUniqueWeapon_Btn/Image": {
+      "font": "FZKane",
+      "faceDilate": 0.2,
+      "outline": true,
+      "outlineColor": "#544A4A",
+      "outlineWidth": 0.3,
+      "underlay": true,
+      "underlayColor": "#26211F",
+      "underlayOffsetX": 0.1,
+      "underlayOffsetY": -0.4,
+      "underlayDilate": 0.5,
+      "underlaySoftness": 0
+    },
+    "WindowBase/EnemyDesc": {
+      "font": "alimama",
+      "outline": false,
+      "faceDilate": 0,
+      "fontColor": "#544A4A",
+      "outlineColor": "#FFFFFF",
+      "lineSpacing": 8
+    },
+    "AcquiredSkill/FeaturedSkillName": {
+      "outline": true,
+      "outlineColor": "#544A4A"
+    },
+    "AcquiredSkill/UniqueSkillName": {
+      "outline": true,
+      "outlineColor": "#544A4A"
+    },
+    "SaleContent(Clone)/BackImage/Name": {
+      "outline": true,
+      "outlineColor": "#544A4A"
     }
   }
 }

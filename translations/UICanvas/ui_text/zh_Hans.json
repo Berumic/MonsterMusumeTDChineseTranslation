@@ -1248,6 +1248,40 @@
         "消費<cspace=-<num>>ス<cspace=-<num>>タ<cspace=-.<num>>ミ<cspace=-<num>>ナ：": "消耗体力：",
         "CanvasManagerContent/Page/Quest_StandbyDelegation/WindowBase/Title/Text_Title": {
             "ス<cspace=-<num>>キッ<cspace=<num>>プ詳細": "跳过详细"
+        },
+        "ExtraCanvas/Common_FastToast/Text": {
+            "交換に必要なアイテムが不足しています。": "交换需要拥有的物品不足。"
+        },
+        "CanvasManagerContent/Page/QuestDetail/QuestDesc": {
+            "出張クエスト説明係のビビ神です。\n大変です、ご主人さま！<font=\"FOT-NewRodinProN-EB SDF\" material=\"FOT-NewRodinProN-EB SDF_01\"><color=#F08080>『超絶パス』</color></font>を持つ者のみが入場可能な超絶光・闇結晶の岩洞に、大量の光や闇の結晶を所有するプーパが出現しました！モンスター娘パワーアップの大チャンスです、ご主人さま！\n<font=\"FOT-NewRodinProN-EB SDF\" material=\"FOT-NewRodinProN-EB SDF_01\"><color=#88ffff>ギガントプーパを倒す事が出来れば、他のプーパ達の援軍も収まるそうですよ。</color></font>": "",
+            "出張クエスト説明係のビビ神です。\n大変です、ご主人さま！<font=\"FOT-NewRodinProN-EB SDF\" material=\"FOT-NewRodinProN-EB SDF_01\"><color=#F08080>『超絶パス』</color></font>を持つ者のみが入場可能な\n超絶ミルク牧場で、ホルスタイン達が大暴れしているようです！\nなだめる事が出来ればシルバが山ほどのミルクをくれるそうなので早速向かいましょう！\n<font=\"FOT-NewRodinProN-EB SDF\" material=\"FOT-NewRodinProN-EB SDF_01\"><color=#88ffff>ギガホルスタインをなだめる事が出来れば、他ホルスタインも鎮まるそうですよ。</color></font>": "",
+            "出張クエスト説明係のビビ神です。\n大変です、ご主人さま！<font=\"FOT-NewRodinProN-EB SDF\" material=\"FOT-NewRodinProN-EB SDF_01\"><color=#F08080>『超絶パス』</color></font>を持つ者のみが入場可能な超絶ゴールドコインの巌窟に、大量のゴールドコインを所有する。\nプーパが出現しました！倒してガッポリゴールドコインをゲットしましょう！\n<font=\"FOT-NewRodinProN-EB SDF\" material=\"FOT-NewRodinProN-EB SDF_01\"><color=#88ffff>ギガントプーパを倒す事が出来れば、他のプーパ達の援軍も収まるそうですよ。</color></font>": "",
+            "出張クエスト説明係のビビ神です。\n大変です、ご主人さま！<font=\"FOT-NewRodinProN-EB SDF\" material=\"FOT-NewRodinProN-EB SDF_01\"><color=#F08080>『超絶パス』</color></font>を持つ者のみが入場可能な超絶火・水結晶の洞窟に、大量の火や水の結晶を所有するプーパが出現しました！モンスター娘パワーアップの大チャンスです、ご主人さま！\n<font=\"FOT-NewRodinProN-EB SDF\" material=\"FOT-NewRodinProN-EB SDF_01\"><color=#88ffff>ギガントプーパを倒す事が出来れば、他のプーパ達の援軍も収まるそうですよ。</color></font>": "",
+            "出張クエスト説明係のビビ神です。\n大変です、ご主人さま！<font=\"FOT-NewRodinProN-EB SDF\" material=\"FOT-NewRodinProN-EB SDF_01\"><color=#F08080>『超絶パス』</color></font>を持つ者のみが入場可能な超絶地・風結晶の洞穴に、大量の地や風の結晶を所有するプーパが出現しました！モンスター娘パワーアップの大チャンスです、ご主人さま！\n<font=\"FOT-NewRodinProN-EB SDF\" material=\"FOT-NewRodinProN-EB SDF_01\"><color=#88ffff>ギガントプーパを倒す事が出来れば、他のプーパ達の援軍も収まるそうですよ。</color></font>": "",
+            "出張クエスト説明係のビビ神です。\n大変です、ご主人さま！魔物に襲われて驚いた\nホルスタインが暴走してこちらに向かってきます！\nホルスタインの暴走を止めましょう！シルバがお礼に\nEXPミルクをたくさんくれるそうですよ。": "",
+            "出張クエスト説明係のビビ神です。\n大変です、ご主人さま！魔物に襲われて驚いた\nホルスタインが暴走してこちらに向かってきます！\nホルスタインの暴走を止めましょう！シルバがお礼に\nEXPミルクをくれるそうですよ。": "",
+            "出張クエスト説明係のビビ神です。\n大変です、ご主人さま！魔物に襲われて驚いた\nホルスタインが暴走してこちらに向かってきます！\nホルスタインの暴走を止めましょう！シルバがお礼に\nEXPミルクを多めにくれるそうですよ。": "",
+            "出張クエスト説明係のビビ神です。\nここはゲシュペンス島に伝わる七不思議のひとつ、\nゴールドコインの巌窟です！ここのモンスターは\n山ほどのゴールドコインを所持しているんだとか。\nご主人さま。一獲千金のチャンスですよ！": "",
+            "出張クエスト説明係のビビ神です。\nここはゲシュペンス島に伝わる七不思議のひとつ、\nゴールドコインの巌窟です！ここのモンスターは\nたくさんのゴールドコインを所持しているんだとか。\nご主人さま。一獲千金のチャンスですよ！": "",
+            "出張クエスト説明係のビビ神です。\nここはゲシュペンス島に伝わる七不思議のひとつ、\nゴールドコインの巌窟です！ここのモンスターは\n潤沢なゴールドコインを所持しているんだとか。\nご主人さま。一獲千金のチャンスですよ！": "",
+            "出張クエスト説明係のビビ神です。\nここはゲシュペンス島に伝わる七不思議のひとつ、\nゴールドコインの巌窟です！ここのモンスターは\n大量のゴールドコインを所持しているんだとか。\nご主人さま。一獲千金のチャンスですよ！": ""
+        },
+        "CanvasManagerContent/Page/Unit_Detail_ExSkill/WindowBase/Rein/Confirm": {
+            "このEXスキルは最大強化されています": "这个EX技能已经强化到上限了",
+            "EXスキルのレベルをアップさせますか？": "要强化这个EX技能吗？"
+        },
+        "CanvasManagerContent/Page/Unit_Detail_ExSkill/WindowBase/Rein/Image/Text": {
+            " レベルアップ必要素材": "升级需要的素材"
+        },
+        "CanvasManagerContent/Page/Unit_Detail_ExSkill/WindowBase/Rein/ReinBtn/Image": {
+            "<indent=-1%><cspace=-2>強化<cspace=-5>する": "强化"
+        },
+        "CanvasManagerContent/Page/Unit_Detail_ExSkill/WindowBase/Title/Text": {
+            "<cspace=-0>E<cspace=-1>Xス<cspace=-2.5>キ<cspace=0>ル": "EX技能"
+        },
+        "これ以上強化できません": "不能再进行强化了",
+        "CanvasManagerContent/Page/UniqueWeapon_CreateDetailView/UniqueWeapon_StatusView/LayoutGroup/BottomArea/ReinforceUniqueWeapon_Btn/Image": {
+            "<line-indent=0.7%><cspace=-3>専用<cspace=-1>武<cspace=-2>器<cspace=0.5>強化</cspace>": "<line-indent=0.7%>专用武器强化"
         }
     }
 }
