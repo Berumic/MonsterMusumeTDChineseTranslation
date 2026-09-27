@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-27T01:29:39.895749+00:00",
-  "commit": "d8d1c1c6a85a67a1db86e3fce953456b89d005dd",
+  "generatedAt": "2026-09-27T16:19:06.897780+00:00",
+  "commit": "f20bfe35ceabde8c7638967050b4107b60482c24",
   "files": {
     "UICanvas/quest_text/zh_Hans.json": {
       "sha256": "7c8ff79d4d57b833ed08629d20dd3ae7f671e698450292bec56c215a7d5e9745",
@@ -1112,64 +1112,64 @@
       "size": 30592
     },
     "scenarios/主线/第二章/1102011nml/zh_Hans.json": {
-      "sha256": "93c269ee09943d101923913ada0018960dbdf3fa45e0efa186a85e3d9de65a02",
-      "size": 13817
+      "sha256": "61a8ddf6cc4436c5e4d3df223a58365bc3e2634adcc5f7afb37b1052103d9d94",
+      "size": 22863
     },
     "scenarios/主线/第二章/1102032nml/source.json": {
       "sha256": "d3aab48d448b887a745ba8d0305828d25569f4c73431511b7cc4930017edb05c",
       "size": 8502
     },
     "scenarios/主线/第二章/1102032nml/zh_Hans.json": {
-      "sha256": "52f206773ea3753fc85c24a9846eb1f2fa64b3082279192cd10c291153b1fe48",
-      "size": 3873
+      "sha256": "b06c4e8c16120667710f8c800e11cb67191480e910ef6bc8ab99728d5520b99d",
+      "size": 6382
     },
     "scenarios/主线/第二章/1102041nml/source.json": {
       "sha256": "1accd8c4aef6526b4fd6031a4feceeb1dd0fbd3047a7e2f5e1d8d488b388778c",
       "size": 13761
     },
     "scenarios/主线/第二章/1102041nml/zh_Hans.json": {
-      "sha256": "bdb8187829e069ceed1ff1c52a8f40063816404046766514989d3a07327a3dae",
-      "size": 6237
+      "sha256": "18968a584c181b630699b6d6297eef77f118cbf81a19947ad8ecfcd41e47facc",
+      "size": 10104
     },
     "scenarios/主线/第二章/1102051nml/source.json": {
       "sha256": "ccda5df6c190c1cf7bf2970f6c3eb543c5dc4ef382e23907534f4e65ed54b245",
       "size": 16614
     },
     "scenarios/主线/第二章/1102051nml/zh_Hans.json": {
-      "sha256": "f3d7acd81088319dde7db5970a076c2d0bc646a0a73595dd62e4464ffb15f7fc",
-      "size": 7781
+      "sha256": "0a4eabf2591236b677e12a4e4f2949a465f061ab36c8507a2a78076cd622923c",
+      "size": 12750
     },
     "scenarios/主线/第二章/1102061nml/source.json": {
       "sha256": "81eaf6cc5a3fa5b28ba4065fc1fceb9a755d3e85f77571113a30c580a928c96c",
       "size": 18178
     },
     "scenarios/主线/第二章/1102061nml/zh_Hans.json": {
-      "sha256": "a42ba774dbd4a05dd3a74da957b829d444741f18b3a3648cdd18f1dbd4e163cb",
-      "size": 8208
+      "sha256": "3a224f86e3ab6d62d5076f1dce5bc986d29ce16323ef10ebf2c34bdbea414c11",
+      "size": 13354
     },
     "scenarios/主线/第二章/1102062nml/source.json": {
       "sha256": "be6e522079c1e4e07a009bd4209f7db35ada0fcfc495c265b0400c229758a968",
       "size": 4777
     },
     "scenarios/主线/第二章/1102062nml/zh_Hans.json": {
-      "sha256": "3cea280589463da0448a7fe584a7091ecf8e1ebb9c56abf5ffba923768dc0b46",
-      "size": 2240
+      "sha256": "e05524bda4a0fb4843e7be9fce13ed2932ad0d9af888e6d7d8f494c577ccb42e",
+      "size": 3652
     },
     "scenarios/主线/第二章/1102081nml/source.json": {
       "sha256": "00e9a30f36b20b71e215cee3dfa0eeb3c99f38f50b4fc76ce9efa7bacee42edd",
       "size": 10315
     },
     "scenarios/主线/第二章/1102081nml/zh_Hans.json": {
-      "sha256": "1e781367bbb8ad32654c0180e58414da060d539c8bc978063ff00d138b6835ae",
-      "size": 4921
+      "sha256": "4ebafc8c9c9d47599563a5bbd313ed453cb63f7b68946cd81ea968dd7a22e8f5",
+      "size": 8184
     },
     "scenarios/主线/第二章/1102082nml/source.json": {
       "sha256": "1e2b22795066d9cdadf0f3abbbac15aa928c988d9def8e072446ce5dad5eaa9b",
       "size": 10834
     },
     "scenarios/主线/第二章/1102082nml/zh_Hans.json": {
-      "sha256": "8491a8e5c300ea3bb97f0435474be4576b077991b111c8c0eef9ec510615fa81",
-      "size": 4743
+      "sha256": "b0985b6d4956c5c6a7f11c2e1e7e8290bbd76b1d304917a3cebaa7d34b48fd6f",
+      "size": 7583
     },
     "scenarios/主线/第五章/1105011nml/source.json": {
       "sha256": "068618495f23b0444cab43c112cc92dbad4bc2e92a8ec206f33a0899e6cd4ac0",
