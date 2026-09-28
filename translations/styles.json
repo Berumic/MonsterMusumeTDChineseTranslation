@@ -1121,6 +1121,22 @@
     },
     "Basic/HighScore/Title": {
       "outlineColor": "#FFFFFF"
+    },
+    "BattleLogShareBanner(Clone)/TopArea/QuestName": {
+      "fontColor": "#FFFFFF",
+      "outlineColor": "#544A4A"
+    },
+    "BattleLogBanner(Clone)/TopArea/QuestName": {
+      "fontColor": "#FFFFFF",
+      "outlineColor": "#544A4A"
+    },
+    "WindowBase/Desc": {
+      "font": "alimama",
+      "outline": true,
+      "faceDilate": 0.35,
+      "fontColor": "#FFFFFF",
+      "outlineColor": "#544A4A",
+      "lineSpacing": 8
     }
   }
 }
