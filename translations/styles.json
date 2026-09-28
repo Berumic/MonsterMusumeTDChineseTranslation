@@ -1056,6 +1056,71 @@
       "fontColor": "#544A4A",
       "outlineColor": "#FFFFFF",
       "lineSpacing": 8
+    },
+    "TextBox/AbilityText": {
+      "font": "alimama",
+      "outlineColor": "#544A4A",
+      "lineSpacing": 8
+    },
+    "Btn_Reset/Image": {
+      "font": "FZKane",
+      "faceDilate": 0.2,
+      "outline": true,
+      "outlineColor": "#544A4A",
+      "outlineWidth": 0.3,
+      "underlay": true,
+      "underlayColor": "#26211F",
+      "underlayOffsetX": 0.1,
+      "underlayOffsetY": -0.4,
+      "underlayDilate": 0.5,
+      "underlaySoftness": 0
+    },
+    "Btn/Image": {
+      "font": "FZKane",
+      "faceDilate": 0.2,
+      "outline": true,
+      "outlineColor": "#544A4A",
+      "outlineWidth": 0.3,
+      "underlay": true,
+      "underlayColor": "#26211F",
+      "underlayOffsetX": 0.1,
+      "underlayOffsetY": -0.4,
+      "underlayDilate": 0.5,
+      "underlaySoftness": 0
+    },
+    "QuestContent(Clone)/Back/Basic/Lv": {
+      "outline": true,
+      "fontColor": "#FFFFFF",
+      "outlineColor": "#544A4A"
+    },
+    "Back/Basic/Stamina": {
+      "outline": true,
+      "fontColor": "#FFFFFF",
+      "outlineColor": "#544A4A"
+    },
+    "Btn2/Image": {
+      "font": "FZKane",
+      "faceDilate": 0.2,
+      "outline": true,
+      "outlineColor": "#544A4A",
+      "outlineWidth": 0.3,
+      "underlay": true,
+      "underlayColor": "#26211F",
+      "underlayOffsetX": 0.1,
+      "underlayOffsetY": -0.4,
+      "underlayDilate": 0.5,
+      "underlaySoftness": 0
+    },
+    "PointItem/PointItemName": {
+      "outline": false,
+      "faceDilate": 0
+    },
+    "Quest_TempleTower/LeftZone/InfoBase/Text (TMP)": {
+      "outline": false,
+      "faceDilate": 0
+    },
+    "Basic/HighScore/Title": {
+      "outlineColor": "#FFFFFF"
     }
   }
 }
