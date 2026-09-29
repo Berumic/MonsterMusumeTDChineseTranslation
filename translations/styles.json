@@ -1057,6 +1057,43 @@
       "outlineColor": "#FFFFFF",
       "lineSpacing": 8
     },
+    "Text_LoginNum": {
+      "font": "alimama",
+      "outline": false,
+      "faceDilate": 0,
+      "fontColor": "#544A4A",
+      "outlineColor": "#FFFFFF",
+      "lineSpacing": 8
+    },
+    "Text_ItemName": {
+      "font": "alimama",
+      "outline": false,
+      "faceDilate": 0.1,
+      "fontColor": "#544A4A",
+      "outlineColor": "#FFFFFF",
+      "lineSpacing": 8
+    },
+    "Text_ItemExplanation": {
+      "font": "alimama",
+      "faceDilate": 0,
+      "outline": false
+    },
+    "Friend_Content/Text": {
+      "font": "alimama",
+      "outline": false,
+      "faceDilate": 0,
+      "fontColor": "#544A4A",
+      "outlineColor": "#FFFFFF",
+      "lineSpacing": 8
+    },
+    "Text_RankNum/Text": {
+      "font": "alimama",
+      "outline": false,
+      "faceDilate": 0,
+      "fontColor": "#544A4A",
+      "outlineColor": "#FFFFFF",
+      "lineSpacing": 8
+    },
     "TextBox/AbilityText": {
       "font": "alimama",
       "outlineColor": "#544A4A",
