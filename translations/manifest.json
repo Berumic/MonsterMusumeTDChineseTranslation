@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-30T14:03:26.682039+00:00",
-  "commit": "e135e3043989f94d3007a6dcf98223966f7abb07",
+  "generatedAt": "2026-09-30T15:15:25.849703+00:00",
+  "commit": "5f5393e0f4827f776f8f7e6e98799f8776f8b971",
   "files": {
     "UICanvas/quest_text/zh_Hans.json": {
       "sha256": "7c8ff79d4d57b833ed08629d20dd3ae7f671e698450292bec56c215a7d5e9745",
@@ -188,64 +188,120 @@
       "size": 3805
     },
     "scenarios/主线/序章/1100041nml/zh_Hans.json": {
-      "sha256": "8865bebf64bec8cbd990a4ccc8c06b5a01340d4c7b0879fae9213793d9032523",
-      "size": 1759
+      "sha256": "5e7555498a9612af81517667945ea0a7bba4b00e95e9383050e2ab8b558eb674",
+      "size": 3024
+    },
+    "scenarios/主线/序章/1100051nml/1100051source.json": {
+      "sha256": "3a6e42681d4ac92ff5657292264dee42bd9fcdff69d8f5a005412f6400d86525",
+      "size": 2952
+    },
+    "scenarios/主线/序章/1100051nml/1100051source_zh.json": {
+      "sha256": "71f44525005cc1992207677f5ab1ec657e2a0588d8fd7f182250beef07dc5bbd",
+      "size": 2654
     },
     "scenarios/主线/序章/1100051nml/source.json": {
       "sha256": "065c20b9d8c05046ba776cd873e5e2e3bc96d4771a39a839ca1c0b381a244c1d",
       "size": 2923
     },
     "scenarios/主线/序章/1100051nml/zh_Hans.json": {
-      "sha256": "35ac4716e35bee9dd8aa19e5fa043224455ea7254232da1c9ef3f30c185cedd2",
-      "size": 1090
+      "sha256": "baf77e936846d4885a26e6482b4f6fc12d024e6dc9c82c6b48d458cf66716d36",
+      "size": 1752
+    },
+    "scenarios/主线/序章/1100052nml/1100052source.json": {
+      "sha256": "1c7a3a4429a533a824eb2909025ecbde22344da0edc5ee550d69032f0ea61273",
+      "size": 8304
+    },
+    "scenarios/主线/序章/1100052nml/1100052source_zh.json": {
+      "sha256": "bfea21f094fac248fcb695d3de66ef0da838c9460e0a14919b9e4f3281af1ccd",
+      "size": 7469
     },
     "scenarios/主线/序章/1100052nml/source.json": {
       "sha256": "19fd0f82a0cfd7795bf40ea8653f1d8aaa2caeea7bb76faa8aebf1fb191c0139",
       "size": 8275
     },
     "scenarios/主线/序章/1100052nml/zh_Hans.json": {
-      "sha256": "2aa240aa57582065166c4e7053ed24a6690d14f675feaf4360e36b9373e73733",
-      "size": 3647
+      "sha256": "9d010a7063d5b9e5a5e84697c678c7f3eac61605f17bb31cc28845be9205eac4",
+      "size": 6094
+    },
+    "scenarios/主线/序章/1100061nml/1100061source.json": {
+      "sha256": "c081c804824535a5446588ecac39d39a57a6f5ce6efd8e0c6c48cb122aaa3984",
+      "size": 6435
+    },
+    "scenarios/主线/序章/1100061nml/1100061source_zh.json": {
+      "sha256": "8d961bf919a83bb8768a3702950dbca5aefa36fbee00a05cebbaa9eba3349ac9",
+      "size": 5912
     },
     "scenarios/主线/序章/1100061nml/source.json": {
       "sha256": "98abfc7891f45714554673f671a27ba573c014e81a8ab7a06db8858762b1ad0e",
       "size": 6406
     },
     "scenarios/主线/序章/1100061nml/zh_Hans.json": {
-      "sha256": "02a9f2f839109c3327e608c49cea62b56e08c722f609ae6a73f9065871421bf9",
-      "size": 2388
+      "sha256": "d302bf552f6238ee0773b73b703608c87ddec5f63cb300d08c4b56bd1228760f",
+      "size": 3974
+    },
+    "scenarios/主线/序章/1100062nml/1100062source.json": {
+      "sha256": "ab6e0409222137d23520d15587750fc93b44ee0638815f29de7cf73865f5ebff",
+      "size": 6774
+    },
+    "scenarios/主线/序章/1100062nml/1100062source_zh.json": {
+      "sha256": "993fb983f2ee38ab703bc6019003c96205256910609442dbf09d12b0ddde1078",
+      "size": 6116
     },
     "scenarios/主线/序章/1100062nml/source.json": {
       "sha256": "8834c7755deb3d89ddb3c6e5cf6552078383cfafc785f9bc41f093e686831ab5",
       "size": 6745
     },
     "scenarios/主线/序章/1100062nml/zh_Hans.json": {
-      "sha256": "f71bdd276ed06a8b512ad4acd68431b4f556b4fed7711606a86983cdfee07e90",
-      "size": 3024
+      "sha256": "f7449b12c1d14d7647a994d0bd45f8f4521052667459d8cdae1053a811416126",
+      "size": 5121
+    },
+    "scenarios/主线/序章/1100071nml/1100071source.json": {
+      "sha256": "f9fbfa7628699709a16019df2ecf8f7288b2d546da39460216b523310c5ef825",
+      "size": 11981
+    },
+    "scenarios/主线/序章/1100071nml/1100071source_zh.json": {
+      "sha256": "f79aeb3dc8569f9b2a79e408b8c825908ddcfe4d7f05b58103c818fc4e0a67a4",
+      "size": 11017
     },
     "scenarios/主线/序章/1100071nml/source.json": {
       "sha256": "c67f08fbb56540a8b53787f4465b9bb89189441b924e1ff1ad313635ec2f78ba",
       "size": 11952
     },
     "scenarios/主线/序章/1100071nml/zh_Hans.json": {
-      "sha256": "9c3890b413bf2e61da64b9dfd70d4a06b48d1a4eb2d85c331d64bafdc7d47156",
-      "size": 4827
+      "sha256": "278c62658119f17fc977df5e28a975e767cb9476f5759f81ef75db4cf2601068",
+      "size": 8206
+    },
+    "scenarios/主线/序章/1100072nml/1100072source.json": {
+      "sha256": "5f1392525d0fbf89b408362b2cc2fbc9ef6237ac5e69613903c62d4419be9b65",
+      "size": 8531
+    },
+    "scenarios/主线/序章/1100072nml/1100072source_zh.json": {
+      "sha256": "59d79ad8b7cdcee07c127e253425f4f0ec8af3123ec78258af0e988553f9a943",
+      "size": 7804
     },
     "scenarios/主线/序章/1100072nml/source.json": {
       "sha256": "4c7d3ccf48df3dd1489af70ff73667b2d86a2aa76735651d51f38a14f9c41d15",
       "size": 8503
     },
     "scenarios/主线/序章/1100072nml/zh_Hans.json": {
-      "sha256": "bffe1f8be219df2ddb0f40acaf89f66d2ddc06eb79b4aafbf181a0e3d2bc084d",
-      "size": 3399
+      "sha256": "404cd363e98460e399256de66783c494bfc71231c2a6cbc1bb42f1d6c0a62101",
+      "size": 5721
+    },
+    "scenarios/主线/序章/1100073nml/1100073source.json": {
+      "sha256": "d0f9288b46b53086a5db9975496e1041a369d516c89a7728acf1e50ff27317c1",
+      "size": 6818
+    },
+    "scenarios/主线/序章/1100073nml/1100073source_zh.json": {
+      "sha256": "881ff98565e388c7cfeaf49e7c541919423899139b4ed8ecd39a18d06d09b3fc",
+      "size": 6085
     },
     "scenarios/主线/序章/1100073nml/source.json": {
       "sha256": "0dcb91e55240c36e1d8717f2b4e50586321e4f4bf5f23ada2416014a200d4c91",
       "size": 6790
     },
     "scenarios/主线/序章/1100073nml/zh_Hans.json": {
-      "sha256": "3ad040123b45d668b5f9d791bbf9bb1b6e9887aab4927a19a933762a03adca1c",
-      "size": 3095
+      "sha256": "daaf6c2848c72f6914be3bced50b72095763212b397eaf512e12b803530178a4",
+      "size": 5188
     },
     "scenarios/主线/第10章/1110011nml/source.json": {
       "sha256": "9391744d8e2442947207e7ea5b795bc4bda5a4a83880b9f043a2c58577d6223c",
