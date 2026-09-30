@@ -1,0 +1,98 @@
+{
+  "scenario_id": "1100051nml",
+  "asset_path": "assets/advscene/scenarioexcel/main/1100/1100051nml.book.asset",
+  "cache_bundle": "C:\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\c2a18cc90cb01b8fd961a02f13e7ff6fe317fddd4921fa07d67475b2b6fb5608\\c2a18cc90cb01b8fd961a02f13e7ff6f\\__data",
+  "rows": [
+    {
+      "row": 7,
+      "speaker": "主人公",
+      "text": "维克托利小姐，刚才那个『抽卡』究竟是……。",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 8,
+      "speaker": "薇薇神",
+      "text": "是薇薇帕蒂。\n所谓『抽卡』……便是『抽卡』。\n既不多，也不少。",
+      "voice": "ch_30005/Main/1100/1100_30005_104",
+      "command": ""
+    },
+    {
+      "row": 9,
+      "speaker": "主人公",
+      "text": "那根本算不上说明吧？",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 38,
+      "speaker": "薇薇神",
+      "text": "听好了，主人。\n灵活的思维——那正是\n在这座岛上生存下去的秘诀。",
+      "voice": "ch_30005/Main/1100/1100_30005_105",
+      "command": ""
+    },
+    {
+      "row": 41,
+      "speaker": "主人公",
+      "text": "（总觉得话题被刻意岔开了……）",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 44,
+      "speaker": "铃",
+      "text": "确实，一旦打起来就不得不随机应变呢。",
+      "voice": "ch_10022/Main/1100/1100_10022_106",
+      "command": ""
+    },
+    {
+      "row": 46,
+      "speaker": "萨拉",
+      "text": "是呢。\n毕竟偷猎者也是形形色色…………",
+      "voice": "ch_10057/Main/1100/1100_10057_107",
+      "command": ""
+    },
+    {
+      "row": 59,
+      "speaker": "萨拉",
+      "text": "啊！？\n主人，危险！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 68,
+      "speaker": "主人公",
+      "text": "是箭！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 97,
+      "speaker": "琳",
+      "text": "和我分开有那么讨厌吗？\n那就私奔吧！",
+      "voice": "ch_10006/Main/1100/1100_10006_108",
+      "command": ""
+    },
+    {
+      "row": 98,
+      "speaker": "主人公",
+      "text": "我没说过！",
+      "voice": "",
+      "command": ""
+    },
+    {
+      "row": 101,
+      "speaker": "薇薇神",
+      "text": "好啦好啦。主人，这里就趁反击之际抓一个人，\n来探听敌人的情报吧。",
+      "voice": "ch_30005/Main/1100/1100_30005_109",
+      "command": ""
+    },
+    {
+      "row": 102,
+      "speaker": "主人公",
+      "text": "明白了！",
+      "voice": "",
+      "command": ""
+    }
+  ]
+}
