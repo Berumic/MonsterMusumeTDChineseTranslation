@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-04T10:27:27.168022+00:00",
-  "commit": "6c8d5c0477972063ba2563366e97b42e7b710f6f",
+  "generatedAt": "2026-10-04T14:25:32.756752+00:00",
+  "commit": "9ad998c50496cefee287430a7c34d78eca53118a",
   "files": {
     "UICanvas/quest_text/zh_Hans.json": {
       "sha256": "c6e8926cabbfa933cad4c790250eda5444df2190505e6f01bb7a8fb9e752b52f",
@@ -23803,6 +23803,10 @@
       "sha256": "819b2457ab6de01b5f215d235da1c048959cb9dbae4d81faa2189c6612d7ed0f",
       "size": 4124
     },
+    "scenarios/活动/犬耳对猫耳+禁忌塔/eb111305bnml/zh_Hans.json": {
+      "sha256": "a0b49c834610eb80a77e15bdff88f9419082448281bcfdda36fa7a4536a0b4bb",
+      "size": 2719
+    },
     "scenarios/活动/犬耳对猫耳+禁忌塔/ev1113011nml/source.json": {
       "sha256": "33f47d87feb86fb8fe77ae921d05afd384b4a144e04945a6e8762d4392804b04",
       "size": 5971
@@ -23842,6 +23846,26 @@
     "scenarios/活动/犬耳对猫耳+禁忌塔/ev1113042nml/zh_Hans.json": {
       "sha256": "5f2acfba1bac0502266370d2f52466d6fd3b2919f2cbab8c68462e40cd69f454",
       "size": 6463
+    },
+    "scenarios/活动/犬耳对猫耳+禁忌塔/ev1113051nml/zh_Hans.json": {
+      "sha256": "b795012092a294197e6b8e67bd4ec7713270ae1e282132614be428d238a82f33",
+      "size": 7774
+    },
+    "scenarios/活动/犬耳对猫耳+禁忌塔/ev1113061nml/zh_Hans.json": {
+      "sha256": "637abbab1b6bbba3aa15920ef52624695ec7e098a99633bc683270a40bf62659",
+      "size": 6540
+    },
+    "scenarios/活动/犬耳对猫耳+禁忌塔/ev1113062nml/zh_Hans.json": {
+      "sha256": "ee3a257e79b6cca2eb933f30d9f3a00c44de9a04a90adcd22e9d21941b21c8d1",
+      "size": 8806
+    },
+    "scenarios/活动/犬耳对猫耳+禁忌塔/ev1113071nml/zh_Hans.json": {
+      "sha256": "41fb21daef83efe6f3793cfe0087d8d342461575df510830edc20df711b3fe86",
+      "size": 5352
+    },
+    "scenarios/活动/犬耳对猫耳+禁忌塔/ev1113072nml/zh_Hans.json": {
+      "sha256": "37f1a2b2dff4b22eb9e00677793d17d2713d50bf247d23ff2d8dc8901d67e280",
+      "size": 8213
     },
     "scenarios/活动/犬耳对猫耳+禁忌塔/ev1114011nml/source.json": {
       "sha256": "46307e2e496e43c646a7646e4800307792b0ab5f601f9c117543ce8ad3f63d07",
