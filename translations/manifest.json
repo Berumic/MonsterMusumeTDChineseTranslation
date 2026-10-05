@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-04T10:27:27.168022+00:00",
-  "commit": "6c8d5c0477972063ba2563366e97b42e7b710f6f",
+  "generatedAt": "2026-10-04T16:28:46.079538+00:00",
+  "commit": "2227d10be5b24d3aca2af38c98d11b42a85a9526",
   "files": {
     "UICanvas/quest_text/zh_Hans.json": {
       "sha256": "c6e8926cabbfa933cad4c790250eda5444df2190505e6f01bb7a8fb9e752b52f",
@@ -1500,88 +1500,88 @@
       "size": 36921
     },
     "scenarios/主线/第四章/1104011nml/zh_Hans.json": {
-      "sha256": "c2a6c751203c350d9c946b0e392e4c22849b47afa074129c2e4956c626335719",
-      "size": 16567
+      "sha256": "fc64a0ee701c9086d32e9b7cd45343a909d930f56af808de7fc58b81ffc83482",
+      "size": 27612
     },
     "scenarios/主线/第四章/1104021nml/source.json": {
       "sha256": "b8a99600b0817d78acff8769e693034832606c65d41411a3845f1d26a673e6b3",
       "size": 2125
     },
     "scenarios/主线/第四章/1104021nml/zh_Hans.json": {
-      "sha256": "2a6744d6d7574180b8ef246f059859dca6d70fb1718b08eeb7bf52657ad29036",
-      "size": 939
+      "sha256": "8affa08e12426452dbbaef5fc6f2b3dc746aa099e449a00954100f14e11857d1",
+      "size": 1635
     },
     "scenarios/主线/第四章/1104031nml/source.json": {
       "sha256": "ecfa75ee0e7d141d382a358374fa2eee7852b8187ef84fbb98ea7f8b9c46e3af",
       "size": 13975
     },
     "scenarios/主线/第四章/1104031nml/zh_Hans.json": {
-      "sha256": "06e2341992779a7f7fe831b9c1da316b132c41762c017b15d29cdbbf0e1c84b2",
-      "size": 6191
+      "sha256": "1dfc1403f198d6e06cd9f798db2ec409e721e36d399919e663c15fbbf97b5043",
+      "size": 10345
     },
     "scenarios/主线/第四章/1104041nml/source.json": {
       "sha256": "72920f038c2bd273ad56fed4354bd28a989a279dac48824e3709c87c16635567",
       "size": 2400
     },
     "scenarios/主线/第四章/1104041nml/zh_Hans.json": {
-      "sha256": "89195a1b97c99a3cd3dba6756247a002f28f971eb1050277f95eec5542ce56bb",
-      "size": 1146
+      "sha256": "2bb5bbe6b88cc42ffde601bad9fafc3c342e96af66e633e779c1cc6f5a0cf376",
+      "size": 1944
     },
     "scenarios/主线/第四章/1104051nml/source.json": {
       "sha256": "4be4f0d9cf44589659504a1379bdd69c1dc6d76c59c1c8065ff20cb914ddf5a8",
       "size": 16064
     },
     "scenarios/主线/第四章/1104051nml/zh_Hans.json": {
-      "sha256": "7ee4a3e4a7e167ff0eac8faa54d06ee8aeac707076e484db8f1b0a48308a7e28",
-      "size": 6022
+      "sha256": "675bba155bc3080b13bbee046400b4114a11b6048f7a4c191ccda3e1c8736bbf",
+      "size": 10072
     },
     "scenarios/主线/第四章/1104061nml/source.json": {
       "sha256": "2bdf4754c9eb012ab2397c278f43a146d17d04c8200b208993253d4a62de4170",
       "size": 1713
     },
     "scenarios/主线/第四章/1104061nml/zh_Hans.json": {
-      "sha256": "86db6b3d8b9513fca3db0d0853eb7441e8de506015d6368cc2e97ca460daa6c1",
-      "size": 728
+      "sha256": "27508424dcdc659425c132ac711446b6eb799be2a9e2fb2c74c202e024f5328c",
+      "size": 1216
     },
     "scenarios/主线/第四章/1104062nml/source.json": {
       "sha256": "c8d4de0f1425b0ca293ab1cb898dd8bf67b6e8959cebb7dbad6c85627e7b12d4",
       "size": 3460
     },
     "scenarios/主线/第四章/1104062nml/zh_Hans.json": {
-      "sha256": "5da76d4d989fa0687bb27cf8ff09e7db7ff516532464365a48788b957debe9b4",
-      "size": 1401
+      "sha256": "230ef1bbfdd125f2125d5e608bdcb50eadce929d7c53588a7d8ff3c9bd9fde3d",
+      "size": 2349
     },
     "scenarios/主线/第四章/1104071nml/source.json": {
       "sha256": "d2e41a639705ab8b871c106b107363702fa54f71eeef06d5f6472eec5cef808d",
       "size": 3501
     },
     "scenarios/主线/第四章/1104071nml/zh_Hans.json": {
-      "sha256": "a35066d9f7b76eae5030848e6d7ed5d8bc4c7c9dc14b806e3f9534cb95751cb8",
-      "size": 1716
+      "sha256": "adddf3212966ba97b88b76de2f4d24fda46252e495ccb5750653e4ac2d14c920",
+      "size": 2934
     },
     "scenarios/主线/第四章/1104081nml/source.json": {
       "sha256": "3daaa5efc848ebe6b06496737214576512d4908eea52e1fa983c449d4ea30e88",
       "size": 28359
     },
     "scenarios/主线/第四章/1104081nml/zh_Hans.json": {
-      "sha256": "93af8e4d24412067f6e4a6d1a33deac3115a4a53ebbd7d74c032b5eada834779",
-      "size": 12831
+      "sha256": "a252e4eada021d6d54c9053746b31e8b70f7c395700b7ae59b3267022918554a",
+      "size": 21449
     },
     "scenarios/主线/第四章/1104082nml/source.json": {
       "sha256": "8d34b08f47a228f54d0c34c682ed23a7acdacc865b45c5869cf240ef132db474",
       "size": 5257
     },
     "scenarios/主线/第四章/1104082nml/zh_Hans.json": {
-      "sha256": "0a08be6f0b9271a89b2c593fb2e980e452fc220c38614d1cdbe4c65ebbffb705",
-      "size": 2487
+      "sha256": "6745ef35b505c2d707d920d6fae0a1700ba2749c2a23d21cddc1dab25df84a2c",
+      "size": 4193
     },
     "scenarios/主线/第四章/1104083nml/source.json": {
       "sha256": "89dafffd0e5ca03abcae3aac9cf841092c4974b5673028eda402c65b7cff1c84",
       "size": 9617
     },
     "scenarios/主线/第四章/1104083nml/zh_Hans.json": {
-      "sha256": "706409ed0ed001ee763ec76e26ffa09ecd7470f91221cb65d054a8a7d6d8c486",
-      "size": 4783
+      "sha256": "6f63cecb3328d3be7ac8e971d619e93d9760e3a401f1416005bfd5be8e1856f8",
+      "size": 8136
     },
     "scenarios/寝室/1 阿泰洛/10049a0_nml/source.json": {
       "sha256": "e79e9bee1638d64ed94b24da63df0b1086b2e663efb2f14d6307a88f674f0307",
@@ -23803,6 +23803,10 @@
       "sha256": "819b2457ab6de01b5f215d235da1c048959cb9dbae4d81faa2189c6612d7ed0f",
       "size": 4124
     },
+    "scenarios/活动/犬耳对猫耳+禁忌塔/eb111305bnml/zh_Hans.json": {
+      "sha256": "a0b49c834610eb80a77e15bdff88f9419082448281bcfdda36fa7a4536a0b4bb",
+      "size": 2719
+    },
     "scenarios/活动/犬耳对猫耳+禁忌塔/ev1113011nml/source.json": {
       "sha256": "33f47d87feb86fb8fe77ae921d05afd384b4a144e04945a6e8762d4392804b04",
       "size": 5971
@@ -23842,6 +23846,26 @@
     "scenarios/活动/犬耳对猫耳+禁忌塔/ev1113042nml/zh_Hans.json": {
       "sha256": "5f2acfba1bac0502266370d2f52466d6fd3b2919f2cbab8c68462e40cd69f454",
       "size": 6463
+    },
+    "scenarios/活动/犬耳对猫耳+禁忌塔/ev1113051nml/zh_Hans.json": {
+      "sha256": "b795012092a294197e6b8e67bd4ec7713270ae1e282132614be428d238a82f33",
+      "size": 7774
+    },
+    "scenarios/活动/犬耳对猫耳+禁忌塔/ev1113061nml/zh_Hans.json": {
+      "sha256": "637abbab1b6bbba3aa15920ef52624695ec7e098a99633bc683270a40bf62659",
+      "size": 6540
+    },
+    "scenarios/活动/犬耳对猫耳+禁忌塔/ev1113062nml/zh_Hans.json": {
+      "sha256": "ee3a257e79b6cca2eb933f30d9f3a00c44de9a04a90adcd22e9d21941b21c8d1",
+      "size": 8806
+    },
+    "scenarios/活动/犬耳对猫耳+禁忌塔/ev1113071nml/zh_Hans.json": {
+      "sha256": "41fb21daef83efe6f3793cfe0087d8d342461575df510830edc20df711b3fe86",
+      "size": 5352
+    },
+    "scenarios/活动/犬耳对猫耳+禁忌塔/ev1113072nml/zh_Hans.json": {
+      "sha256": "37f1a2b2dff4b22eb9e00677793d17d2713d50bf247d23ff2d8dc8901d67e280",
+      "size": 8213
     },
     "scenarios/活动/犬耳对猫耳+禁忌塔/ev1114011nml/source.json": {
       "sha256": "46307e2e496e43c646a7646e4800307792b0ab5f601f9c117543ce8ad3f63d07",
