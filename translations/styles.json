@@ -34,6 +34,18 @@
       "lineSpacing": 8,
       "faceDilate": 0
     },
+    "Common_FilterButtonOrigin(Clone)/Off/Image":{
+      "font": "alimama",
+      "outline": false,
+      "lineSpacing": 8,
+      "faceDilate": 0.2
+    },
+    "Common_FilterButtonOrigin(Clone)/On/Image":{
+      "font": "alimama",
+      "outline": false,
+      "lineSpacing": 8,
+      "faceDilate": 0.2
+    },
     "Canvas/UICanvas/CanvasManagerContent/WindowState/Home_Quest/PageParent/Page/Quest_Entrance/LeftZone/Guide/GuideMessageText": {
       "font": "alimama",
       "outline": false,
@@ -807,6 +819,32 @@
       "faceDilate": 0.1
     },
     "uiCanvas/Dialog/Decide/Image": {
+      "font": "FZKane",
+      "faceDilate": 0.2,
+      "outline": true,
+      "outlineColor": "#544A4A",
+      "outlineWidth": 0.3,
+      "underlay": true,
+      "underlayColor": "#26211F",
+      "underlayOffsetX": 0.1,
+      "underlayOffsetY": -0.4,
+      "underlayDilate": 0.5,
+      "underlaySoftness": 0
+    },
+    "WindowBase/Cancel/TextMesh":{
+      "font": "FZKane",
+      "faceDilate": 0.2,
+      "outline": true,
+      "outlineColor": "#544A4A",
+      "outlineWidth": 0.3,
+      "underlay": true,
+      "underlayColor": "#26211F",
+      "underlayOffsetX": 0.1,
+      "underlayOffsetY": -0.4,
+      "underlayDilate": 0.5,
+      "underlaySoftness": 0
+    },
+    "WindowBase/Ok/TextMesh":{
       "font": "FZKane",
       "faceDilate": 0.2,
       "outline": true,
