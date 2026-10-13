@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-09T04:01:28.259404+00:00",
-  "commit": "a7c1b10f2202f2d05284acee4258f9f47ad005cd",
+  "generatedAt": "2026-10-12T02:59:56.540865+00:00",
+  "commit": "9750c8d97e26e5b18cc44bf66d78e28b028629a5",
   "files": {
     "UICanvas/quest_text/zh_Hans.json": {
       "sha256": "c6e8926cabbfa933cad4c790250eda5444df2190505e6f01bb7a8fb9e752b52f",
@@ -30,6 +30,86 @@
     "names/zh_Hans.json": {
       "sha256": "e63a600a74c5fc6b007db2f9fb4b9cee20266b6a2093d1722012c6e64f7f5483",
       "size": 17938
+    },
+    "scenarios/261009/寝室/10475a0_nml/zh_Hans.json": {
+      "sha256": "1c28219bb0f7ddedf4ef2567eebbea15d408e15cbb9c6065a8e53a277b3beaea",
+      "size": 5705
+    },
+    "scenarios/261009/寝室/10475a1_r18/zh_Hans.json": {
+      "sha256": "eb2e2ddcc3df5d8e67e889e51e0e16049e7676b76245fe5682589a17d6da9f0e",
+      "size": 13355
+    },
+    "scenarios/261009/寝室/10475b0_nml/zh_Hans.json": {
+      "sha256": "63f177d731368d9914138a29ee73793b9322109881a45a76dd05d4640c394c8c",
+      "size": 5398
+    },
+    "scenarios/261009/寝室/10475b1_r18/zh_Hans.json": {
+      "sha256": "16bb78c75a7f61b2b2896049bac213b408ae20cbfae85d400c4dc26be6cb3147",
+      "size": 14408
+    },
+    "scenarios/261009/寝室/10483a0_nml/zh_Hans.json": {
+      "sha256": "8ee9b1b3df246ffe293d13f8b03cd7aba8fec20ab80c1fa7623d773c14449a69",
+      "size": 6753
+    },
+    "scenarios/261009/寝室/10483a1_r18/zh_Hans.json": {
+      "sha256": "f9484b7e22a159161774be76b415dd4271da91cfee9e29525d3bcaf215969a1e",
+      "size": 13181
+    },
+    "scenarios/261009/寝室/10483b0_nml/zh_Hans.json": {
+      "sha256": "0d2c59709a086278db0d6b043262501e7069cb5a59a8354d2a0b062565f2aad3",
+      "size": 7089
+    },
+    "scenarios/261009/寝室/10483b1_r18/zh_Hans.json": {
+      "sha256": "399e0f085db50884e769039e8aa93aa510ec6e9e9a82d0bdf7a71afdb78b4442",
+      "size": 11231
+    },
+    "scenarios/261009/寝室/10484a0_nml/zh_Hans.json": {
+      "sha256": "2fdaa7bda381581c33e8acbba014121da04bbed24fc6561bb43d230e7266de91",
+      "size": 7339
+    },
+    "scenarios/261009/寝室/10484a1_r18/zh_Hans.json": {
+      "sha256": "672985f9663020a45f96cd089e2b08bbc3b31f5f72c44608e374deb09ee0d57d",
+      "size": 11867
+    },
+    "scenarios/261009/寝室/10484b0_nml/zh_Hans.json": {
+      "sha256": "1e0e37e503c7baa011a13f953ac2a49045923bcad60213cedb8cc4038cb82435",
+      "size": 6443
+    },
+    "scenarios/261009/寝室/10484b1_r18/zh_Hans.json": {
+      "sha256": "f258f35b13b0bdf329904069e1580a978b22b37d1a8a6b3a73d8a83f4698133c",
+      "size": 12464
+    },
+    "scenarios/261009/活动/eb111502anml/zh_Hans.json": {
+      "sha256": "8ebacebc97bc3cb650b9eb0a43251fb23b533cf11b2360d1a0fccc9da5abc081",
+      "size": 2726
+    },
+    "scenarios/261009/活动/eb111502bnml/zh_Hans.json": {
+      "sha256": "f938b161bea7e509b4f8a62a66ed7a1621c45f73bf4cf6fe28b3346c0c77773c",
+      "size": 2084
+    },
+    "scenarios/261009/活动/eb111503anml/zh_Hans.json": {
+      "sha256": "29d7c5fc3bb7f4d542ea7a6898a4f51d840e3d4a23a3be9eb909dd9874f55611",
+      "size": 3470
+    },
+    "scenarios/261009/活动/eb111503bnml/zh_Hans.json": {
+      "sha256": "3bb58b0605c620e0c42afdc6414a3221da41ab620ea797b8bdfaa1639df27d3c",
+      "size": 3600
+    },
+    "scenarios/261009/活动/ev1115011nml/zh_Hans.json": {
+      "sha256": "6bcd9d154c6ec3c9d0eaca6be90063d73f47b4c2562ddcea9eee8a1718f9f668",
+      "size": 4330
+    },
+    "scenarios/261009/活动/ev1115012nml/zh_Hans.json": {
+      "sha256": "e39fbed51ddef79ad6e258aae7a0a074ea3b3eff730be2f01fae4be3ef55bf13",
+      "size": 6385
+    },
+    "scenarios/261009/活动/ev1115041nml/zh_Hans.json": {
+      "sha256": "42b9537bf2ce5ca060fb7d4c3b027bfd0f5910342572b53495f6b3ded911a9c5",
+      "size": 6604
+    },
+    "scenarios/261009/活动/ev1115042nml/zh_Hans.json": {
+      "sha256": "aa5591d58b71fbc4958a9dc75279b11da203a5adfc6706e368cca240d88fedef",
+      "size": 8263
     },
     "scenarios/主线/序章/1100011nml/1100011nmlsource.json": {
       "sha256": "0364a61267594d0952a58345429ea70c1e54ca0cf2bdfcb03c6728872ad231cf",
