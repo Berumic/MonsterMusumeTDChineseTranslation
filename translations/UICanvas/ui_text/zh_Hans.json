@@ -683,8 +683,8 @@
       "フラガラッハ": "弗拉加拉赫",
       "スロワー": "投掷手",
       "マスタースロワー": "投掷大师",
-      "アキュラシー": "精准度",
-      "ジャイロマスター": "陀螺大师"
+      "アキュラシー": "精密投掷者",
+      "ジャイロマスター": "螺旋之主"
     },
     "<cspace=0>消<cspace=-1>費<cspace=-1>ス<cspace=-2>タ<cspace=0>ミ<cspace=4>ナ:": "<cspace=4>消费体力：",
     "推<cspace=1>奨<cspace=-0.6>ﾓﾝｽﾀｰ<cspace=1>娘<cspace=-2>L<cspace=4>v:": "推荐魔物娘Lv：",
@@ -710,7 +710,6 @@
     "エンシェントキー<ex>": "古老钥匙<ex>",
     "前日に<color=#FFFF00><num>人</color>から挨拶されました<br><color=#FFFF00>(フレンドpt+<num>)</color>": "昨天有<color=#FFFF00><num>人</color>打了招呼<br><color=#FFFF00>(友情点+<num>)</color>",
     "フレンドpt": "友情点",
-    "【<ex>】<ex>": "【<ex>】<ex>",
     "名前： <ex>": "名称： <ex>",
     "種族名： <ex>": "种族名： <ex>",
     "報酬:<ex>×<num>,<ex>×<num>,<ex>×<num>": "报酬:<ex>×<num>,<ex>×<num>,<ex>×<num>",
@@ -1354,6 +1353,71 @@
     },
     "魔法剣": "魔法剑",
     "ブーメラン": "回旋镖",
-    "このモンスター娘を持っていないため、操作することができません": "由于未持有该魔物娘，无法进行操作"
+    "このモンスター娘を持っていないため、操作することができません": "由于未持有该魔物娘，无法进行操作",
+    "CanvasManagerContent/Page/QuestDetail_CharaUnWishEvent/Info/MenuScrollView/MaxRank/Title": {
+      "最高降魔ランク:": "最高降魔等级:"
+    },
+    "CanvasManagerContent/Page/QuestDetail_CharaUnWishEvent/MenuToggleScrollView/Viewport/Content/QuestDetail_TrainingEvent_MenuToggle/ToggleButton/Off/Text": {
+      "<num>.HPアップ": "<num>.HP提升",
+      "<num>.コスト\n自然回復なし": "<num>.费用\n无自然回复",
+      "<num>.属性バリア(水)": "<num>.属性屏障(水)",
+      "<num>.属性耐性強化": "<num>.属性抗性强化",
+      "<num>.拠点ライフ<num>": "<num>.据点生命<num>",
+      "<num>.攻撃アップ": "<num>.攻击提升",
+      "<num>.攻撃速度アップ": "<num>.攻击速度提升",
+      "<num>.物理防御アップ": "<num>.物理防御提升",
+      "<num>.移動速度アップ": "<num>.移动速度提升",
+      "<num>.魔法防御アップ": "<num>.魔法防御提升",
+      "SP.味方弱体化": "SP.我方弱化"
+    },
+    "CanvasManagerContent/Page/QuestDetail_CharaUnWishEvent/MenuToggleScrollView/Viewport/Content/QuestDetail_TrainingEvent_MenuToggle/ToggleButton/Rank/Title": {
+      "ランク:": "等级:"
+    },
+    "CanvasManagerContent/Page/QuestDetail_CharaUnWishEvent/QuestName": {
+      "降魔戦 水飛竜": "降魔战 水飞龙"
+    },
+    "CanvasManagerContent/Page/QuestDetail_CharaUnWishEvent/TextInfoRoot/NextRewardText": {
+      "最高降魔ランク<num>到達で\nE以上確定ガチャチケット(<num>/<num>)x<num> 獲得": "达到最高降魔等级<num>时\n获得E以上确定扭蛋券(<num>/<num>)x<num>"
+    },
+    "CanvasManagerContent/Page/QuestDetail_CharaUnWishEvent/TextInfoRoot/NextText": {
+      "次の報酬：": "下一个奖励："
+    },
+    "CanvasManagerContent/Page/QuestDetail_CharaUnWishEvent/TextInfoRoot/QuestDesc": {
+      "強力なボスと戦う<color=#FFF450>高難易度</color>の期間限定イベントです。": "与强大Boss战斗的<color=#FFF450>高难度</color>期间限定活动。"
+    },
+    "CanvasManagerContent/Page/QuestDetail_CharaUnWishEvent/TotalRank/Title": {
+      "降魔ランク合計:": "降魔等级合计:"
+    },
+    "CanvasManagerContent/WindowState/Home_Quest/PageParent/Page/Quest_Event/Main/event_back/ChallengeButton/CostText": {
+      "消費スタミナ<num>": "消耗体力<num>"
+    },
+    "CanvasManagerContent/WindowState/Home_Quest/PageParent/Page/Quest_Event/Main/event_back/ChallengeButton/TitleText": {
+      "<cspace=-2>降<cspace=-1>魔<size=24>に</size><cspace=-1>挑戦": "<cspace=-2>挑<cspace=-1>战<size=24>降</size><cspace=-1>魔"
+    },
+    "CanvasManagerContent/WindowState/Home_Quest/PageParent/Page/Quest_Event/Main/event_back/GachaNumberText/TitleText": {
+      "<cspace=-0.5>最高降魔<cspace=-2.5>ラ<cspace=-1.5>ン<cspace=0>ク<cspace=0.5>合計:": "<cspace=-0.5>最高降魔<cspace=-2.5>等<cspace=-1.5>级<cspace=0>合<cspace=0.5>计:"
+    },
+    "CanvasManagerContent/WindowState/Home_Quest/PageParent/Page/Quest_Event/Main/event_back/GrowthListView/Event_CharacterGrowthScrollView/Viewport/Mask/Content/Event_CharacterGrowthListContent/StarCount/RankText": {
+      "降魔<cspace=-1>ランク": "降魔<cspace=-1>等级"
+    },
+    "CanvasManagerContent/WindowState/Home_Quest/PageParent/Page/Quest_Event/Main/event_back/GrowthListView/Event_CharacterGrowthScrollView/Viewport/Mask/Content/Event_CharacterGrowthListContent/Text": {
+      "<num> ゴールドコイン獲得": "获得<num>金币",
+      "C装備選択ボックス(<num>年<num>月<num>日)x<num> 獲得": "获得C装备选择箱(<num>年<num>月<num>日)x<num>",
+      "EXPミルク<num>x<num> 獲得": "获得EXP牛奶<num>x<num>",
+      "E以上確定ガチャチケット(<num>/<num>)x<num> 獲得": "获得E以上确定扭蛋券(<num>/<num>)x<num>",
+      "E装備選択ボックス(<num>年<num>月<num>日)x<num> 獲得": "获得E装备选择箱(<num>年<num>月<num>日)x<num>",
+      "R装備選択ボックス(<num>年<num>月<num>日)x<num> 獲得": "获得R装备选择箱(<num>年<num>月<num>日)x<num>",
+      "宝箱(Eサブスキル)x<num> 獲得": "获得宝箱(E副技能)x<num>",
+      "宝箱(L覚醒丹)x<num> 獲得": "获得宝箱(L觉醒丹)x<num>",
+      "幻獣石(無償)x<num> 獲得": "获得幻兽石(免费)x<num>",
+      "水飛竜の討魔証獲得x<num> 獲得": "获得水飞龙讨魔证x<num>",
+      "精巧な砥石x<num> 獲得": "获得精巧磨刀石x<num>"
+    },
+    "CanvasManagerContent/WindowState/Home_Shop/PageParent/Page/Shop_1/WindowBase/ArrowToggleScrollView/Viewport/Mask/TabGroup/ShopTab/Off/Text": {
+      "マンスリー": "月度",
+      "幻獣石購入": "幻兽石购买",
+      "特別パック": "特别礼包",
+      "ウィークリー": "周度"
+    }
   }
 }

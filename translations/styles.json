@@ -1212,6 +1212,21 @@
       "fontColor": "#FFFFFF",
       "outlineColor": "#544A4A",
       "lineSpacing": 8
+    },
+    "QuestDetail_TrainingEvent_MenuToggle/ToggleButton/Off/Text": {
+      "font": "alimama",
+      "outlineColor": "#FFFFFF",
+      "lineSpacing": 8
+    },
+    "QuestDetail_TrainingEvent_MenuToggle/ToggleButton/On/Text": {
+      "font": "alimama",
+      "outlineColor": "#FFFFFF",
+      "lineSpacing": 8
+    },
+    "PointItemGroup1/InfoBase/Text (TMP)": {
+      "font": "alimama",
+      "outline": false,
+      "faceDilate": 0.2
     }
   }
 }
