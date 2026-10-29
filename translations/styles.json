@@ -1227,6 +1227,33 @@
       "font": "alimama",
       "outline": false,
       "faceDilate": 0.2
+    },
+    "Ef_GetSkill/Skill/Name": {
+      "fontColor": "#FFFFFF",
+      "outlineColor": "#544A4A"
+    },
+    "Ef_GetSkill/Skill/Text": {
+      "fontColor": "#FFFFFF",
+      "outlineColor": "#544A4A",
+      "lineSpacing": 8
+    },
+    "CombineIcon/Title": {
+      "fontColor": "#FFFFFF",
+      "outlineColor": "#544A4A"
+    },
+    "MaterialIcon/Title": {
+      "fontColor": "#FFFFFF",
+      "outlineColor": "#544A4A"
+    },
+    "Main/UI/SkillDialog/UniqueWeaponBtn/UniqueWeapon_NameView/OwnerText": {
+      "faceDilate": 0.3,
+      "outline": true,
+      "fontColor": "#FFFFFF",
+      "outlineColor": "#544A4A"
+    },
+    "CreateMenu/UniqueWeapon_NameView/OwnerText": {
+      "faceDilate": 0.2,
+      "outline": false
     }
   }
 }
