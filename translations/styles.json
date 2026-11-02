@@ -1262,7 +1262,12 @@
     },
     "Viewport/Text_Explanation": {
       "faceDilate": 0.1,
-      "outline": false
+      "outline": false,
+      "lineSpacing": 8
+    },
+    "Content/Node/Name": {
+      "outline": false,
+      "faceDilate": 0.1
     }
   }
 }
