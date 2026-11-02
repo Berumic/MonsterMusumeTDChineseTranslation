@@ -1254,6 +1254,15 @@
     "CreateMenu/UniqueWeapon_NameView/OwnerText": {
       "faceDilate": 0.2,
       "outline": false
+    },
+    "BomListIcon/AbilityText": {
+      "fontColor": "#FFFFFF",
+      "outlineColor": "#544A4A",
+      "lineSpacing": 8
+    },
+    "Viewport/Text_Explanation": {
+      "faceDilate": 0.1,
+      "outline": false
     }
   }
 }
