@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T02:34:15.266984+00:00",
-  "commit": "d4daf3159b1394f492d26644763facedd5427bdb",
+  "generatedAt": "2026-11-02T02:37:11.373335+00:00",
+  "commit": "f5e73390d5a2326068f951193e4bd4cba88332dd",
   "files": {
     "UICanvas/quest_text/zh_Hans.json": {
       "sha256": "c6e8926cabbfa933cad4c790250eda5444df2190505e6f01bb7a8fb9e752b52f",
@@ -28,8 +28,8 @@
       "size": 3
     },
     "names/zh_Hans.json": {
-      "sha256": "e790164107e7a7b6b5238ff116735d0bf9843eb8c8f99dc1b0507f188ef5ea62",
-      "size": 20614
+      "sha256": "429885f4eaeece6b09745c5be8b702ff9847e2ca6898f1eb0a5b733fe0116899",
+      "size": 20635
     },
     "scenarios/261024/eb111601anml/zh_Hans.json": {
       "sha256": "5eb74db289f86fc6de07dc5e6aad336f3c5c589d0ef8741f012cc7c7f555337a",
