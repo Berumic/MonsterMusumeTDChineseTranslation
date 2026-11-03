@@ -1,10 +1,8 @@
 {
   "$global": {
     "font": "alimama",
-    "outline": true,
-    "outlineColor": "#544A4A",
-    "outlineWidth": 0.3,
-    "faceDilate": 0.35
+    "faceDilate": 0.35,
+    "lineSpacing": 8
   },
   "$styles": {
     "QuestDetail_SubSkillPrize/WindowBase/ScrollView/Viewport/Mask/Content/SaleContent/BackImage/Text": {
