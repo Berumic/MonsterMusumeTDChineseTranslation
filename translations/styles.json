@@ -2,7 +2,7 @@
   "$global": {
     "font": "alimama",
     "outline": true,
-    "outlineColor": "#FFFFFF",
+    "outlineColor": "#544A4A",
     "outlineWidth": 0.3,
     "faceDilate": 0.35
   },
