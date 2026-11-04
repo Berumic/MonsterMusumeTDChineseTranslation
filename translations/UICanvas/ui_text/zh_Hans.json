@@ -982,7 +982,6 @@
     "L専用武器素材選択ボックス": "L专用武器素材选择箱",
     "幻獣石(無償) x<num>": "幻兽石(免费) x<num>",
     "10連ガチャチケット(<num>/<num>)": "10连扭蛋券(<num>/<num>)",
-    "あと<num>日": "还剩<num>日",
     "ビビメダル": "薇薇代币",
     "※潜在覚醒が最大のモンスター娘は交換できません": "※潜在觉醒上限的魔物娘无法交换",
     "∞トロフィーpt": "∞无限奖章pt",
@@ -1014,7 +1013,6 @@
     "ランク：": "等级：",
     "スタミナ": "体力",
     "ランク": "等级",
-    "<num>日まで": "还剩<num>天",
     "閉じる": "关闭",
     "前日に<color=#FFFF00><num>人</color>から挨拶されました<br><color=#FFFF00>(フレンドpt+<num>)</color><br><br>前日に<color=#FFFF00><num>人</color>からレンタルされました<br><color=#FFFF00>(フレンドpt+<num>)": "昨天有<color=#FFFF00><num>人</color>给你打了招呼<br><color=#FFFF00>(友情点+<num>)</color><br><br>昨天有<color=#FFFF00><num>人</color>借用了你的魔物娘<br><color=#FFFF00>(友情点+<num>)",
     "<cspace=-1>メ<cspace=-1.5>イ<cspace=-1>ンストー<cspace=-2>リー": "主线故事",
@@ -1420,22 +1418,24 @@
       "ウィークリー": "周度"
     },
     "CanvasManagerContent/WindowState/Home_Mission/PageParent/Page/Mission/RightZone/MissionListView/EventMissionScroll/ScrollView_Mission/Viewport/Mask/Content/Node/Mission": {
-      "いずれかのプレミアムダンジョンを<num>回クリアしよう": "",
-      "期間内にいずれかのクエストを<num>回クリア": ""
-    },
-    "CanvasManagerContent/WindowState/Home_Mission/PageParent/Page/Mission/RightZone/MissionListView/CommonMissionScroll/ScrollView_Mission/Viewport/Mask/Content/Node/Mission": {
-      "魔導巡洋艦カッツォメガMAXをクリアする": "",
-      "忠臣の竜騎士シスイメガMAXをクリアする": "",
-      "双角型キングスライムメガMAXをクリアする": ""
+      "いずれかのプレミアムダンジョンを<num>回クリアしよう": "任意高级地下城通关<num>次",
+      "期間内にいずれかのクエストを<num>回クリア": "期间内完成任意关卡<num>次"
     },
     "CanvasManagerContent/WindowState/Home_Unit/PageParent/Page/Unit_Select/LeftZone/Dialog/uiCanvas/UnitStatus/Unit_StatusView/Class/SpeciesText": {
-      "デミ,進化": "",
-      "デミ,禁忌": "",
-      "デミ,魔獣": "",
-      "ミステリアス,進化": "",
-      "アンデッド,進化": "",
-      "進化": "",
-      "魔獣": ""
+      "デミ,進化": "亚人,进化",
+      "デミ,禁忌": "亚人,禁忌",
+      "デミ,魔獣": "亚人,魔兽",
+      "ミステリアス,進化": "神秘,进化",
+      "アンデッド,進化": "不死族,进化",
+      "進化": "进化",
+      "魔獣": "魔兽"
+    },
+    "CanvasManagerContent/WindowState/Home_Mission/PageParent/Page/Mission/RightZone/MissionListView/CommonMissionScroll/ScrollView_Mission/Viewport/Mask/Content/Node/Mission": {
+      "魔導巡洋艦カッツォメガMAXをクリアする": "通关魔导巡洋舰卡佐MegaMAX",
+      "忠臣の竜騎士シスイメガMAXをクリアする": "通关忠臣的龙骑士希丝伊MegaMAX",
+      "双角型キングスライムメガMAXをクリアする": "通关双角型史莱姆王MegaMAX",
+      "DMMアカウントと連携しよう": "",
+      "DMM GAME PLAYER版をプレイしよう": ""
     }
   }
 }

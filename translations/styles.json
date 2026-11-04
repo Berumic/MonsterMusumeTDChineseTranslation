@@ -1282,6 +1282,14 @@
     "CategoryCollectiveToggle/On/Text": {
       "outlineColor": "#FFFFFF",
       "faceDilate": 0.35
+    },
+    "UniqueWeapon_NameView/OwnerText": {
+      "outline": false,
+      "faceDilate": 0.1
+    },
+    "CreateMenu/UniqueWeapon_NameView/NameText": {
+      "outline": false,
+      "faceDilate": 0.1
     }
   }
 }
