@@ -1,35 +1,31 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T06:54:37.558274+00:00",
-  "commit": "7f11bdef492e86f91c471488147076f0933c6b72",
+  "generatedAt": "2026-11-05T05:04:51.424405+00:00",
+  "commit": "63d771462e61576d9bc09f7439e182555b0c39d8",
   "files": {
     "UICanvas/quest_text/zh_Hans.json": {
       "sha256": "c6e8926cabbfa933cad4c790250eda5444df2190505e6f01bb7a8fb9e752b52f",
       "size": 4203
     },
     "UICanvas/ui_text/zh_Hans.json": {
-      "sha256": "ccc4e8069676be0c8951306de8d9eed1ff46d56615c6272a22b3595405616362",
-      "size": 211553
+      "sha256": "e15f47ebce0e903c50a685f8e9ee1a5b5a97ae558de52f7b182d40340570d63d",
+      "size": 215318
     },
     "UICanvas/unit_names/zh_Hans.json": {
-      "sha256": "0269b4b69ffb9e10c0b64f7dbd5061b6d6a1b9c8260255871675085da6c26b9c",
-      "size": 83385
+      "sha256": "afd7a4e47333a1e1411a69fc9287ed0aa9da68e00d89c7a2b77b790555e5ba1f",
+      "size": 83489
     },
     "UICanvas/unit_skill/zh_Hans.json": {
-      "sha256": "936d44a62ac491278e60c7c008f94521453da787cdac12216da1bb8a383f42fc",
-      "size": 392459
+      "sha256": "24894f7ac0b5ef7f4bb6bf84491ee126221531d836c0ac0d7c6f0eb8bb7640c4",
+      "size": 405880
     },
     "UICanvas/unit_speech/zh_Hans.json": {
       "sha256": "f0821bfa5f0487a7fd17c91bd024f3fff7539e393130e7ec5fa700bfb7f1d5dc",
       "size": 1012
     },
-    "names/source.json": {
-      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
-      "size": 3
-    },
-    "names/zh_Hans.json": {
-      "sha256": "429885f4eaeece6b09745c5be8b702ff9847e2ca6898f1eb0a5b733fe0116899",
-      "size": 20635
+    "UICanvas/unit_weapon/zh_Hans.json": {
+      "sha256": "803c9211330757a62c941a30c1e876c5eef1fe84573ce3f15ebb560fa4287a4b",
+      "size": 2571
     },
     "scenarios/261024/eb111601anml/zh_Hans.json": {
       "sha256": "5eb74db289f86fc6de07dc5e6aad336f3c5c589d0ef8741f012cc7c7f555337a",
@@ -24807,9 +24803,13 @@
       "sha256": "145f74090f9a981338fce5902328ee7bcbef6197a2d9c2fc4760682d2329219d",
       "size": 12734
     },
+    "story_names/zh_Hans.json": {
+      "sha256": "429885f4eaeece6b09745c5be8b702ff9847e2ca6898f1eb0a5b733fe0116899",
+      "size": 20635
+    },
     "styles.json": {
-      "sha256": "99bf175d8982b18a086475e6d3e927f0a39dbb8e2499be5c881ed4d8ca01e792",
-      "size": 35325
+      "sha256": "c2ba882338cba89b350e47d4adfbbe56625dc43fa712d829d27f3b5ed53c0a4b",
+      "size": 35445
     },
     "subskills/zh_Hans.json": {
       "sha256": "ef0d53dbff4075a42ecb329a684f708034db8a5aeb74403378233b3f3fe218a4",
