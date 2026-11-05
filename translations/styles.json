@@ -1295,6 +1295,11 @@
       "fontColor": "#FFFFFF",
       "outline": true,
       "outlineColor": "#544A4A"
+    },
+    "StockRoot/Text": {
+      "outline": false,
+      "faceDilate": 0.1,
+      "lineSpacing": 8
     }
   }
 }
