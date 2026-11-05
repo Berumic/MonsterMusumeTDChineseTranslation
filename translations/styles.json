@@ -1290,6 +1290,11 @@
     "CreateMenu/UniqueWeapon_NameView/NameText": {
       "outline": false,
       "faceDilate": 0.1
+    },
+    "Item/Text_ItemName": {
+      "fontColor": "#FFFFFF",
+      "outline": true,
+      "outlineColor": "#544A4A"
     }
   }
 }
