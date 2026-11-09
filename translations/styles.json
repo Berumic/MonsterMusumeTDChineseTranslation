@@ -1300,6 +1300,24 @@
       "outline": false,
       "faceDilate": 0.1,
       "lineSpacing": 8
+    },
+    "CategoryButton/SupportCategory/Off/Image": {
+      "fontColor": "#FFFFFF"
+    },
+    "CategoryButton/SupportCategory/On/Image": {
+      "fontColor": "#FFFFFF"
+    },
+    "CategoryButton/DefenseCategory/Off/Image": {
+      "fontColor": "#FFFFFF"
+    },
+    "CategoryButton/DefenseCategory/On/Image": {
+      "fontColor": "#FFFFFF"
+    },
+    "CategoryButton/AttackCategory/Off/Image": {
+      "fontColor": "#FFFFFF"
+    },
+    "CategoryButton/AttackCategory/On/Image": {
+      "fontColor": "#FFFFFF"
     }
   }
 }
