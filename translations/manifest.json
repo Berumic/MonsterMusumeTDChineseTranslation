@@ -1,23 +1,23 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T13:55:33.261521+00:00",
-  "commit": "f871e25edd6732e96200334b3eee58b35c86af4b",
+  "generatedAt": "2026-11-09T14:53:00.647256+00:00",
+  "commit": "e4d91992ff55aeba36ca6d1a5d0135cf7da37980",
   "files": {
     "UICanvas/quest_text/zh_Hans.json": {
       "sha256": "c6e8926cabbfa933cad4c790250eda5444df2190505e6f01bb7a8fb9e752b52f",
       "size": 4203
     },
     "UICanvas/ui_text/zh_Hans.json": {
-      "sha256": "fefcfb18286b9cd19090d268681c60b980ca6a7009fb7f83752515be0ca90d89",
-      "size": 217830
+      "sha256": "21d5f18c46f48d94af183516099cf2067ac2e2f9c613622d89d429d595cfdbc6",
+      "size": 217761
     },
     "UICanvas/unit_names/zh_Hans.json": {
       "sha256": "25548df86e44f07f850ea4591a67d6be067a2df984ec5554fae491ca354097a5",
       "size": 83498
     },
     "UICanvas/unit_skill/zh_Hans.json": {
-      "sha256": "7c8d89e94abae7db37e5791f29eedc93b8f970ea83b2064171b70282c6240122",
-      "size": 415559
+      "sha256": "65283f0c28ba3b60ef758225f45c218de629875bf7fd3fe2e447318bf66c1865",
+      "size": 415608
     },
     "UICanvas/unit_speech/zh_Hans.json": {
       "sha256": "f0821bfa5f0487a7fd17c91bd024f3fff7539e393130e7ec5fa700bfb7f1d5dc",
