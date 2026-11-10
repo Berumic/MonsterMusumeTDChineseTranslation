@@ -1,31 +1,31 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T04:10:28.930979+00:00",
-  "commit": "c977e0bbd7425cf5e0584bdd5cc0e2d530f6d5f4",
+  "generatedAt": "2026-11-10T05:17:53.479672+00:00",
+  "commit": "23e6b2e818326be979f669e5a5dbdfe70fbee9e6",
   "files": {
     "UICanvas/quest_text/zh_Hans.json": {
       "sha256": "c6e8926cabbfa933cad4c790250eda5444df2190505e6f01bb7a8fb9e752b52f",
       "size": 4203
     },
     "UICanvas/ui_text/zh_Hans.json": {
-      "sha256": "71f0ced022e869097710da7ca4e30400b7637a175de073e9e2427a2e4d0c1f51",
-      "size": 235440
+      "sha256": "03bacf480f644dee42c6994f8495fabf62d282fddc656eed6233d6e1f0025796",
+      "size": 243120
     },
     "UICanvas/unit_names/zh_Hans.json": {
       "sha256": "25548df86e44f07f850ea4591a67d6be067a2df984ec5554fae491ca354097a5",
       "size": 83498
     },
     "UICanvas/unit_skill/zh_Hans.json": {
-      "sha256": "bec6d21fdf7bc422fdee3f90a287a341340f0cf77f2873448008d19ffaf4c33b",
-      "size": 416436
+      "sha256": "decffc0fcb8bcd5a4b8b083388c49a0bed5466b9f072e44c7346084911652a15",
+      "size": 416918
     },
     "UICanvas/unit_speech/zh_Hans.json": {
       "sha256": "f0821bfa5f0487a7fd17c91bd024f3fff7539e393130e7ec5fa700bfb7f1d5dc",
       "size": 1012
     },
     "UICanvas/unit_weapon/zh_Hans.json": {
-      "sha256": "d431e905ae95d306ad0fc76beb6a22f100e05f276279c30b1cf123b79195f914",
-      "size": 3927
+      "sha256": "bf088f69b67413e34d503c5ea030b5d9faf24c45a473114027efc200d151c278",
+      "size": 4126
     },
     "names/zh_Hans.json": {
       "sha256": "429885f4eaeece6b09745c5be8b702ff9847e2ca6898f1eb0a5b733fe0116899",
@@ -224,8 +224,8 @@
       "size": 3197
     },
     "scenarios/261105/eb111702bnml/zh_Hans.json": {
-      "sha256": "31557e2e2ef0cf89b59ae234920f27f51130b44d76f78cf1d64729ded2e4fa2d",
-      "size": 2140
+      "sha256": "885259b642a684da7f48896b561902a2b3331577bf5e64b9a4aea10a6ba027a3",
+      "size": 2166
     },
     "scenarios/261105/eb111703anml/zh_Hans.json": {
       "sha256": "18041a862acb2f5ea8381b1998bed309b9b38b2686273bff8964f0a38bcbbc9d",
