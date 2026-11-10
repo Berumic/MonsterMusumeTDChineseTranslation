@@ -1,5 +1,24 @@
 {
   "$global": {
+    "CanvasManagerContent/WindowState/Home_Unit/PageParent/Page/Unit_Select/LeftZone/Dialog/uiCanvas/UniqueWeaponStatus/UniqueWeapon_CreateView/UniqueWeapon_StatusView/LayoutGroup/UniqueWeapon_NameView/NameText": {
+      "ノクターンエッジ": "夜曲之刃",
+      "獄久の炎": "狱久之炎",
+      "秘弓嵐穿": "秘弓岚穿",
+      "ラブリーアックス": "可爱之斧",
+      "夜渡り隠弓": "夜渡隐弓",
+      "真球・ソレイユ＋<num>": "真球·太阳＋<num>",
+      "深淵の古龍剣＋<num>": "深渊之古龙剑＋<num>",
+      "霊布人形ソウルメア": "灵布人偶·魂魇",
+      "ジャックルスタッフ": "豺狼法杖",
+      "ニャンダーブレイド": "喵雷之刃",
+      "去来する黒眼＋<num>": "往来黑眼+<num>",
+      "ねずみ人形ネッネネ": "鼠人偶捏捏捏",
+      "刻刻棘棘": "刻刻荆棘",
+      "潮騒ロッド": "潮骚法杖",
+      "巨人対抗砲＋<num>": "巨人对抗炮+<num>",
+      "フェニックスウィング": "凤凰之翼",
+      "太白・弩鈍": "太白・弩钝"
+    },
     "CanvasManagerContent/WindowState/Home_Unit/PageParent/Page/Unit_Select/LeftZone/Dialog/uiCanvas/UniqueWeaponStatus/UniqueWeapon_CreateView/UniqueWeapon_StatusView/LayoutGroup/Ability/AbilityText": {
       "スキル発動時、自身配置マスを闇属性に変化させる": "技能发动时，将自身部署格变为暗属性",
       "攻撃行動時、自身の基本攻撃力<num>%分射程内の味方のHPを回復": "攻击行动时，回复射程内我方单位相当于自身基本攻击力<num>%的HP",
@@ -20,26 +39,9 @@
       "自身がボスへ与えるダメージ<num>倍": "自身对首领造成的伤害变为<num>倍",
       "射程内の全敵に毎秒自身の攻撃力<num>％の継続ダメージを与える": "对射程内所有敌人每秒造成自身攻击力<num>%的持续伤害",
       "移動コスト-<num>、移動速度がさらに+<num>%": "移动费用-<num>，移动速度额外+<num>%",
-      "自身へのスタン/火傷を無効化": "自身免疫眩晕与灼伤"
-    },
-    "CanvasManagerContent/WindowState/Home_Unit/PageParent/Page/Unit_Select/LeftZone/Dialog/uiCanvas/UniqueWeaponStatus/UniqueWeapon_CreateView/UniqueWeapon_StatusView/LayoutGroup/UniqueWeapon_NameView/NameText": {
-      "ノクターンエッジ": "夜曲之刃",
-      "獄久の炎": "狱久之炎",
-      "秘弓嵐穿": "秘弓岚穿",
-      "ラブリーアックス": "可爱之斧",
-      "夜渡り隠弓": "夜渡隐弓",
-      "真球・ソレイユ＋<num>": "真球·太阳＋<num>",
-      "深淵の古龍剣＋<num>": "深渊之古龙剑＋<num>",
-      "霊布人形ソウルメア": "灵布人偶·魂魇",
-      "ジャックルスタッフ": "豺狼法杖",
-      "ニャンダーブレイド": "喵雷之刃",
-      "去来する黒眼＋<num>": "往来黑眼+<num>",
-      "ねずみ人形ネッネネ": "鼠人偶捏捏捏",
-      "刻刻棘棘": "刻刻荆棘",
-      "潮騒ロッド": "潮骚法杖",
-      "巨人対抗砲＋<num>": "巨人对抗炮+<num>",
-      "フェニックスウィング": "凤凰之翼",
-      "太白・弩鈍": "太白・弩钝"
+      "自身へのスタン/火傷を無効化": "自身免疫眩晕与灼伤",
+      "スキル中、攻撃時対象の現在HP<num>％分のダメージを与える": "",
+      "配置中、自身を除く味方のドラゴンが配置された時コストを<num>回復": ""
     }
   }
 }
