@@ -733,7 +733,8 @@
     "ビビメダル": "薇薇代币",
     "※潜在覚醒が最大のモンスター娘は交換できません": "※潜在觉醒上限的魔物娘无法交换",
     "∞トロフィーpt": "∞无限奖章pt",
-    "[<ex>]<ex>のEXスキル<ex>": "[<ex>]<ex>的EX技能<ex>",
+    "<ex>のEXスキル<ex>": "<ex>的EX技能<ex>",
+    "<ex>のEXスキル II": "<ex>的EX技能 II",
     "CanvasManagerContent/WindowState/Home_Deck/PageParent/Page/Unit_DeckList/RightZone/Deck/DeckView_Main/RightZone/DeckObject/BtnGraup/AutoSelect/Image": {
       "<cspace=-1>おまか</cspace>せ編成</cspace>": "自动编队"
     },
