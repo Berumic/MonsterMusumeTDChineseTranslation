@@ -1,238 +1,171 @@
 {
-  "scenario_id": "10332a0_nml",
-  "asset_path": "assets/advscene/scenarioexcel/character/10332/10332a0_nml.book.asset",
-  "cache_bundle": "C:\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\886a6da9d24d8dad8e56d3a348ae86d77469b9c15142933dc1b1e8d4e6771389\\886a6da9d24d8dad8e56d3a348ae86d7\\__data",
+  "scenario": "scenario:character/10332/10332A0_Nml",
+  "title": "特製弁当のひ・み・つ",
   "rows": [
     {
-      "row": 7,
       "speaker": "",
       "text": "その日、僕は思い出した――。\nモンスター娘たちが本能に忠実であることを。\nここが、煩悩と快楽が渦巻く学園であることを。  ",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 8,
       "speaker": "",
       "text": "校庭の片隅にある物陰で絡み合う学生たち。\n肌を重ね、熱っぽい吐息を漏らし、\nまるで発情した獣のように――。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 10,
       "speaker": "主人公",
       "text": "待って、これ、完全にアウトじゃないですか！？  ",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 13,
       "speaker": "",
       "text": "全力で踵を返し、購買部へ駆け込む。\nこの異常事態の原因は、おそらく――。 ",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 19,
-      "speaker": "マージェル学園",
+      "speaker": "マージェル",
       "text": "おや、先生もお弁当買いに来たんですか？\n今日の特製弁当は大人気なんですよ～。  ",
-      "voice": "ch_10332/R18/10332A0_10332_Nml/10332A0_10332_001",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 20,
       "speaker": "",
       "text": "思った通り、マージェルさんが教室で弁当を売っていた。\n高級なそろばんを弾きながら、優雅な笑みを浮かべている。  ",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 21,
       "speaker": "主人公",
       "text": "この特製弁当って……変なモノを入れてませんか？ ",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 22,
-      "speaker": "マージェル学園",
+      "speaker": "マージェル",
       "text": "あはは、嫌ですねぇ、入ってませんよ。\n隠し味にちょっとしたスパイスを使用してますけども。",
-      "voice": "ch_10332/R18/10332A0_10332_Nml/10332A0_10332_002",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 23,
       "speaker": "主人公",
       "text": "そのスパイスってまさか……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 25,
-      "speaker": "マージェル学園",
+      "speaker": "マージェル",
       "text": "学生たちが青春の１ページを豊かに彩るための、スパイス……。\nまあ、一言でいえば媚薬です♪  ",
-      "voice": "ch_10332/R18/10332A0_10332_Nml/10332A0_10332_003",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 29,
       "speaker": "主人公",
       "text": "青春のひとコマってレベルじゃないですよ！\n学園のあちこちで、\nこのお弁当を食べた学生たちが合体してるんです！  ",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 30,
-      "speaker": "マージェル学園",
+      "speaker": "マージェル",
       "text": "おやおや、仲睦まじくていいじゃありませんか。\n微笑ましい光景です♪  ",
-      "voice": "ch_10332/R18/10332A0_10332_Nml/10332A0_10332_004",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 31,
       "speaker": "主人公",
       "text": "微笑ましくないです！ 今すぐ販売を中止してください！  ",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 32,
-      "speaker": "マージェル学園",
+      "speaker": "マージェル",
       "text": "それは困りますねぇ。\nお客様の満足を第一に考えるのが商売人ですから。",
-      "voice": "ch_10332/R18/10332A0_10332_Nml/10332A0_10332_005",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 33,
       "speaker": "",
       "text": "そろばんを軽く弾きながら、涼しい顔で言うマージェルさん。\nこのままでは学園中がひみつの花園になってしまう。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 34,
       "speaker": "主人公",
       "text": "なら、回収します。今ある分をすべて渡してください。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 35,
-      "speaker": "マージェル学園",
+      "speaker": "マージェル",
       "text": "もちろん、対価をいただけるなら。 ",
-      "voice": "ch_10332/R18/10332A0_10332_Nml/10332A0_10332_006",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 37,
       "speaker": "主人公",
       "text": "なんで僕が買い取らないといけないんですか！？  ",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 38,
-      "speaker": "マージェル学園",
+      "speaker": "マージェル",
       "text": "売り物ですから。あ、それとですねぇ……。\n回収だけじゃ不十分ですよ？ これを食べた学生さんたち、\nもうだいぶ盛り上がっているでしょう？  ",
-      "voice": "ch_10332/R18/10332A0_10332_Nml/10332A0_10332_007",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 39,
       "speaker": "主人公",
       "text": "……つまり、解毒剤が必要だと？  ",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 40,
-      "speaker": "マージェル学園",
+      "speaker": "マージェル",
       "text": "さすが先生、話が早いですねぇ。安心してください。\nちゃんと用意してあります。特別価格で♪  ",
-      "voice": "ch_10332/R18/10332A0_10332_Nml/10332A0_10332_008",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 41,
       "speaker": "主人公",
       "text": "ぐぬぬ……仕方ありませんね。背に腹は代えられませんから。\nそれが教師としての勤めですし。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 44,
-      "speaker": "マージェル学園",
+      "speaker": "マージェル",
       "text": "毎度あり～♪　お買い上げありがとうございます。",
-      "voice": "ch_10332/R18/10332A0_10332_Nml/10332A0_10332_009",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 49,
       "speaker": "",
       "text": "そうして、僕が配り歩いた解毒剤のおかげで、\n学園のあちこちで合体している学生たちの分離に成功した。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 53,
       "speaker": "主人公",
       "text": "ふう……これで一件落着ですね。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 54,
-      "speaker": "マージェル学園",
+      "speaker": "マージェル",
       "text": "そうですねぇ。ところで先生、お腹は空いてませんか？\nちょうど特製弁当を一つ、お取り置きしておいたんですが。 ",
-      "voice": "ch_10332/R18/10332A0_10332_Nml/10332A0_10332_010",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 55,
       "speaker": "主人公",
       "text": "いや、いりませんよ。\nそれってあのスパイス入りのお弁当ですよね？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 56,
-      "speaker": "マージェル学園",
+      "speaker": "マージェル",
       "text": "違いますよ～。どんなものよりも価値のある、\n私のお手製弁当です♪",
-      "voice": "ch_10332/R18/10332A0_10332_Nml/10332A0_10332_011",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 57,
       "speaker": "主人公",
       "text": "え、マージェルさんの……？\nそ、それなら……ありがたくいただきます。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 67,
       "speaker": "",
       "text": "手渡された弁当を受け取る。そして、ひと口――。  ",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 76,
       "speaker": "主人公",
       "text": "……あれ、なんだか体が熱くなってきたような……？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 81,
-      "speaker": "マージェル学園",
+      "speaker": "マージェル",
       "text": "ふふふ。お代は先生のお身体で、\nきーっちり回収させていただきますね♪ ",
-      "voice": "ch_10332/R18/10332A0_10332_Nml/10332A0_10332_012",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 83,
       "speaker": "",
       "text": "視界がかすむ中、マージェルさんの笑顔だけが\nやけに鮮明に見えた気がしたのだった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     }
   ]
 }

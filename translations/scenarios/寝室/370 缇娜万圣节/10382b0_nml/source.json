@@ -1,266 +1,191 @@
 {
-  "scenario_id": "10382b0_nml",
-  "asset_path": "assets/advscene/scenarioexcel/character/10382/10382b0_nml.book.asset",
-  "cache_bundle": "C:\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\0f992c85e5ad60c177dc10cec93db057a279b941f6261fa7248c6e03826909a6\\0f992c85e5ad60c177dc10cec93db057\\__data",
+  "scenario": "scenario:character/10382/10382B0_Nml",
+  "title": "シていいよぉ♪",
   "rows": [
     {
-      "row": 7,
       "speaker": "",
       "text": "テナさんが島中に罠をしかけた数日後。\nゲシュペンス島はいつもの落ち着きを取り戻していた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 8,
       "speaker": "主人公",
       "text": "テナさんが僕に用事って……一体何だろう？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 11,
       "speaker": "",
       "text": "考えるが、何も思いつかない。\nやけに静かな森を進んでいくと――。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 14,
-      "speaker": "テナハロウィン",
+      "speaker": "テナ",
       "text": "待ってたよぉ～ご主人くぅん～。",
-      "voice": "ch_10382/R18/10382B0_10382_Nml/10382B0_10382_001",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 17,
       "speaker": "主人公",
       "text": "あっ、テナさん――<interval=0.5>眠そうですね？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 18,
       "speaker": "",
       "text": "テナさんの目はほとんど開いていなかった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 20,
-      "speaker": "テナハロウィン",
+      "speaker": "テナ",
       "text": "眠くないよぉ～。\nたしかに、あたしは昼夜逆転生活だしぃ～、\nハロウィン熱がちょっと冷めちゃって、疲れちゃってるけどぉ～。",
-      "voice": "ch_10382/R18/10382B0_10382_Nml/10382B0_10382_002",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 23,
-      "speaker": "テナハロウィン",
+      "speaker": "テナ",
       "text": "ゼンゼン、眠くふぁんふぁふぁぁいんんぅっ～……。",
-      "voice": "ch_10382/R18/10382B0_10382_Nml/10382B0_10382_003",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 26,
       "speaker": "主人公",
       "text": "めちゃくちゃ眠そうです！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 27,
-      "speaker": "テナハロウィン",
+      "speaker": "テナ",
       "text": "細かいことは気にしないでよぉ～。\nえっとねぇ～今日、ご主人くんに来てもらったのはぁ～……。",
-      "voice": "ch_10382/R18/10382B0_10382_Nml/10382B0_10382_004",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 29,
-      "speaker": "テナハロウィン",
+      "speaker": "テナ",
       "text": "アタシにぃ……ふぁふぁふぁ～して、\nふぁぁ～↑　うふぁふぁ、ふぁ～～～……。",
-      "voice": "ch_10382/R18/10382B0_10382_Nml/10382B0_10382_005",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 32,
       "speaker": "",
       "text": "テナさんはあくび混じりに何かを言って、そのまま寝てしまった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 35,
       "speaker": "主人公",
       "text": "えっ、ち",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 37,
       "speaker": "主人公",
       "text": "ょっ！？　寝",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 39,
       "speaker": "主人公",
       "text": "ないでください！\nテナさんっ！　起きてください！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 41,
-      "speaker": "テナハロウィン",
+      "speaker": "？？？",
       "text": "すまない、ご主人くん。\nテナは寝てしまったようだ。",
-      "voice": "ch_10382/R18/10382B0_10382_Nml/10382B0_10382_006",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 44,
       "speaker": "主人公",
       "text": "え……？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 47,
-      "speaker": "テナハロウィン",
+      "speaker": "カボチャくん",
       "text": "あたしはテナのパートナー「カボチャくん」だ。よろしく。\nここからは、あたしが説明を変わろう。",
-      "voice": "ch_10382/R18/10382B0_10382_Nml/10382B0_10382_007",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 48,
       "speaker": "主人公",
       "text": "カボチャくん……<interval=0.5>？\n<interval=0.5>喋ってるのはテナさんですよね？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 50,
-      "speaker": "テナハロウィン",
+      "speaker": "カボチャくん",
       "text": "チガウヨー。\nカボチャくんダヨー",
-      "voice": "ch_10382/R18/10382B0_10382_Nml/10382B0_10382_008",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 53,
       "speaker": "主人公",
       "text": "……<interval=0.5>口調変わってません？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 78,
-      "speaker": "テナハロウィン",
+      "speaker": "カボチャくん",
       "text": "カボチャくんの口調は元からこうだったヨー。",
-      "voice": "ch_10382/R18/10382B0_10382_Nml/10382B0_10382_009",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 97,
       "speaker": "",
       "text": "テナさんを見ると、口がもごもごと動いていた。\nどう考えても彼女が喋っているが、\n人形が話していることにしたいらしい。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 108,
       "speaker": "主人公",
       "text": "……まあ、<interval=0.5>いいですけど……。\n<interval=0.5>ところで、僕に用というのは？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 110,
-      "speaker": "テナハロウィン",
+      "speaker": "カボチャくん",
       "text": "この前、島中に罠をしかけちゃって、\nご主人くんをビビリ散らかせちゃったでしょぉ～？",
-      "voice": "ch_10382/R18/10382B0_10382_Nml/10382B0_10382_010",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 112,
-      "speaker": "テナハロウィン",
+      "speaker": "カボチャくん",
       "text": "だからぁ～、今度はぁ～、\nあたしに……じゃない、テナにイタズラしていいよぉ～。",
-      "voice": "ch_10382/R18/10382B0_10382_Nml/10382B0_10382_011",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 114,
-      "speaker": "テナハロウィン",
+      "speaker": "カボチャくん",
       "text": "テナは今、寝てます……。\n今がチャンスデース！！",
-      "voice": "ch_10382/R18/10382B0_10382_Nml/10382B0_10382_012",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 115,
       "speaker": "主人公",
       "text": "チャンスって言われても……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 118,
       "speaker": "",
       "text": "テナさんを見ると、頬が少し赤くなっていた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 122,
       "speaker": "主人公",
       "text": "えーっと……<interval=0.5>分かりました。\n<interval=0.5>ではちょっとだけ……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 125,
-      "speaker": "テナハロウィン",
+      "speaker": "カボチャくん",
       "text": "ドキドキ……！　ドキドキ……！",
-      "voice": "ch_10382/R18/10382B0_10382_Nml/10382B0_10382_013",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 126,
       "speaker": "",
       "text": "寝たふりをするテナさんへ手を伸ばし――",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 130,
       "speaker": "",
       "text": "その髪を撫でた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 131,
       "speaker": "主人公",
       "text": "えっと……<interval=0.5>いつもありがとうございます、テナさん。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 136,
-      "speaker": "テナハロウィン",
+      "speaker": "テナ",
       "text": "どっ、<interval=0.5>どういたしましてぇ～♪\nもっと、過激なことしてもいいよぉ……？",
-      "voice": "ch_10382/R18/10382B0_10382_Nml/10382B0_10382_014",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 137,
       "speaker": "主人公",
       "text": "最後まで寝たふりをしといてくださいよ……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 138,
       "speaker": "",
       "text": "僕はもはや眠るフリすらしなくなったテナさんの髪を、\n黙って撫で続けるのだった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     }
   ]
 }

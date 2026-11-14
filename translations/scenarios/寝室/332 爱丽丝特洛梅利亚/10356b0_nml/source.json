@@ -1,266 +1,191 @@
 {
-  "scenario_id": "10356b0_nml",
-  "asset_path": "assets/advscene/scenarioexcel/character/10356/10356b0_nml.book.asset",
-  "cache_bundle": "C:\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\2012bb0b60fc619bfafb8771f1bbc6c31490806e04705c546d5023a911268343\\2012bb0b60fc619bfafb8771f1bbc6c3\\__data",
+  "scenario": "scenario:character/10356/10356B0_Nml",
+  "title": "おイモ",
   "rows": [
     {
-      "row": 9,
       "speaker": "",
       "text": "その日、僕が見回りから部屋に戻ると、ウィッチさんがいた。\n机に陣取り、分厚い魔導書を広げている。帽子を少し持ち上げ、\n指先でページをめくる姿は、ずいぶん馴染んでいるように見えた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 10,
       "speaker": "主人公",
       "text": "ウィッチさん、どうして僕の部屋に。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 11,
-      "speaker": "ウィッチもんくえ",
+      "speaker": "ウィッチ",
       "text": "読書よ。静かな場所を探していたの。",
-      "voice": "ch_10356/R18/10356B0_10356_Nml/10356B0_10356_001",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 12,
       "speaker": "",
       "text": "当然のように言われてしまう。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 13,
       "speaker": "主人公",
       "text": "まぁ、いいですけど……おやつ、食べますか。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 14,
       "speaker": "",
       "text": "机の上に焼きイモを置く。\n湯気が立ち、香ばしい甘い匂いが広がると、\nウィッチさんがふいに視線を上げた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 15,
-      "speaker": "ウィッチもんくえ",
+      "speaker": "ウィッチ",
       "text": "イモ？",
-      "voice": "ch_10356/R18/10356B0_10356_Nml/10356B0_10356_002",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 16,
       "speaker": "主人公",
       "text": "焼きイモです。読書のお供にどうぞ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 20,
       "speaker": "",
       "text": "ウィッチさんの顔が曇った。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 23,
-      "speaker": "ウィッチもんくえ",
+      "speaker": "ウィッチ",
       "text": "イモ……！？\nまさか、またアイツの影響じゃないでしょうね。",
-      "voice": "ch_10356/R18/10356B0_10356_Nml/10356B0_10356_003",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 24,
       "speaker": "主人公",
       "text": "アイツ？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 26,
-      "speaker": "ウィッチもんくえ",
+      "speaker": "ウィッチ",
       "text": "サキュバス村の村長よ。あのイモびいき、何かにつけて\nイモを持ち上げて、\"イモは世界を救う\"なんて言うのよ。\nまったく、イモごときに惑わされるなんて、少年も染まったのね。",
-      "voice": "ch_10356/R18/10356B0_10356_Nml/10356B0_10356_004",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 27,
       "speaker": "主人公",
       "text": "いや、ただの焼きイモですけど……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 28,
       "speaker": "",
       "text": "ウィッチさんは腕を組み、顔をそむけた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 29,
       "speaker": "主人公",
       "text": "食べませんか。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 30,
-      "speaker": "ウィッチもんくえ",
+      "speaker": "ウィッチ",
       "text": "食べないわ。私はイモに踊らされるつもりはないの。",
-      "voice": "ch_10356/R18/10356B0_10356_Nml/10356B0_10356_005",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 31,
       "speaker": "主人公",
       "text": "おいしいですから、騙されたと思って食べてください。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 32,
-      "speaker": "ウィッチもんくえ",
+      "speaker": "ウィッチ",
       "text": "騙されたくない。",
-      "voice": "ch_10356/R18/10356B0_10356_Nml/10356B0_10356_006",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 35,
       "speaker": "",
       "text": "帽子をバサッと揺らし、ぷんすかと怒る。\nここまで頑なに拒否されるとは思わなかった。\n困った僕は、考えた末に切り札を出す。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 36,
       "speaker": "主人公",
       "text": "じゃあ、ティーレさんおすすめの珍しい魔導書、\n差し上げますから。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 39,
       "speaker": "",
       "text": "ウィッチさんの指がピクリと動く。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 40,
-      "speaker": "ウィッチもんくえ",
+      "speaker": "ウィッチ",
       "text": "……珍しい魔導書？",
-      "voice": "ch_10356/R18/10356B0_10356_Nml/10356B0_10356_007",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 41,
       "speaker": "主人公",
       "text": "はい。ダークエルフ娘さんたちの間でも\n１冊しかなかった貴重なものです。どうでしょう。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 42,
       "speaker": "",
       "text": "ウィッチさんが焼きイモをチラリと見た。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 48,
       "speaker": "",
       "text": "少し悩んだ末、",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 53,
       "speaker": "",
       "text": "ため息をつく。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 55,
-      "speaker": "ウィッチもんくえ",
+      "speaker": "ウィッチ",
       "text": "……仕方ないわね。少年がそこまで言うなら。",
-      "voice": "ch_10356/R18/10356B0_10356_Nml/10356B0_10356_008",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 56,
       "speaker": "",
       "text": "ようやく折れたらしい。焼きイモを手に取り、口へ運ぶ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 57,
-      "speaker": "ウィッチもんくえ",
+      "speaker": "ウィッチ",
       "text": "……あーん。はむっ……もぐもぐ……ごっくん。",
-      "voice": "ch_10356/R18/10356B0_10356_Nml/10356B0_10356_009",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 58,
       "speaker": "主人公",
       "text": "味はどうですか。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 60,
-      "speaker": "ウィッチもんくえ",
+      "speaker": "ウィッチ",
       "text": "……わからないわ。\nだって飲み込んじゃったから。",
-      "voice": "ch_10356/R18/10356B0_10356_Nml/10356B0_10356_010",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 61,
       "speaker": "主人公",
       "text": "えぇ……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 62,
-      "speaker": "ウィッチもんくえ",
+      "speaker": "ウィッチ",
       "text": "ほら、食べるのに集中しても仕方ないでしょ。\nさっさと済ませて、魔導書を受け取るほうが効率的だもの。",
-      "voice": "ch_10356/R18/10356B0_10356_Nml/10356B0_10356_011",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 63,
       "speaker": "主人公",
       "text": "いやいや、味わう気ゼロじゃないですか。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 66,
       "speaker": "",
       "text": "ウィッチさんは気にした様子もなく、手を差し出す。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 67,
-      "speaker": "ウィッチもんくえ",
+      "speaker": "ウィッチ",
       "text": "それより、魔導書。",
-      "voice": "ch_10356/R18/10356B0_10356_Nml/10356B0_10356_012",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 69,
       "speaker": "",
       "text": "目の前のウィッチさんは、まるで取引を成立させた商人のように\n満足げだ。焼きイモを受け取ってもらったはずなのに、\nなぜか僕は敗北した気分だった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     }
   ]
 }

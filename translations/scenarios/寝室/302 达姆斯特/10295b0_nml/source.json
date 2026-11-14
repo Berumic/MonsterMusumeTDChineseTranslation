@@ -1,245 +1,176 @@
 {
-  "scenario_id": "10295b0_nml",
-  "asset_path": "assets/advscene/scenarioexcel/character/10295/10295b0_nml.book.asset",
-  "cache_bundle": "C:\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\aea19c6ce5ba289f2bb518f52e73279fde89bccec15879983c0c12bac19a24c3\\aea19c6ce5ba289f2bb518f52e73279f\\__data",
+  "scenario": "scenario:character/10295/10295B0_Nml",
+  "title": "快適な生活",
   "rows": [
     {
-      "row": 9,
       "speaker": "ダムストー",
       "text": "ふふっ、はははっ……！\nご主人様、見て下さいこのマンガ……面白いですよ、ふふっ。",
-      "voice": "ch_10295/R18/10295B0_10295_Nml/10295B0_10295_001",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 10,
       "speaker": "",
       "text": "ベッドに寝そべりながら、\nダムストーさんが僕に漫画本を近づけてくる。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 11,
       "speaker": "ダムストー",
       "text": "この作家さんのギャグは最高なんです！\n私の何もない日常に笑いと刺激を提供してくれるんですよ。",
-      "voice": "ch_10295/R18/10295B0_10295_Nml/10295B0_10295_002",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 12,
       "speaker": "主人公",
       "text": "……は、はぁ……後で読んでみますね。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 13,
       "speaker": "ダムストー",
       "text": "もう、そう言って何冊も積読になっちゃってるじゃないですか～。\n感想を語り合いたいので、早めに読んでくださいね？",
-      "voice": "ch_10295/R18/10295B0_10295_Nml/10295B0_10295_003",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 14,
       "speaker": "",
       "text": "凶悪なモンスター娘だという噂のせいで騒動に巻き込まれ、\nダムストーさんは島中から追われていた。\nそこで僕の部屋へと非難してきたのだが……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 15,
       "speaker": "主人公",
       "text": "ところでダムストーさん……。\nいつまで僕の部屋にいるつもりなんですか？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 17,
       "speaker": "ダムストー",
       "text": "ええっ！？\nや、やっぱり私、ここに居たらダメでしたか……？",
-      "voice": "ch_10295/R18/10295B0_10295_Nml/10295B0_10295_004",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 18,
       "speaker": "ダムストー",
       "text": "って、すみませんっ！\nそうですよね、いきなり転がりこんできて、\n迷惑じゃないはずがありませんし……すみませんすみませんっ！",
-      "voice": "ch_10295/R18/10295B0_10295_Nml/10295B0_10295_005",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 21,
       "speaker": "",
       "text": "さっきまでベッドでごろごろしてたのに、\nダムストーさんはすぐにフライング土下座を決めてくる。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 24,
       "speaker": "ダムストー",
       "text": "ごめんなさいごめんなさいっ！\nあまりにも快適過ぎて、つい長居しちゃったんですっ！",
-      "voice": "ch_10295/R18/10295B0_10295_Nml/10295B0_10295_006",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 27,
       "speaker": "ダムストー",
       "text": "邪魔だというならすぐに出ていきますのでっ！\nすみませんすみませんっ、お世話になりましたっ！",
-      "voice": "ch_10295/R18/10295B0_10295_Nml/10295B0_10295_007",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 30,
       "speaker": "",
       "text": "ダムストーさんは土下座のまま器用に部屋を出て行こうとする。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 31,
       "speaker": "主人公",
       "text": "いや、ちょっと待ってください！\n今すぐ出て行ったら噂のせいでまた狙われちゃいますよ！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 32,
       "speaker": "ダムストー",
       "text": "いえ！　私のことはお気になさらず！\nそれでは、今までお世話になりました！",
-      "voice": "ch_10295/R18/10295B0_10295_Nml/10295B0_10295_008",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 33,
       "speaker": "主人公",
       "text": "だから待ってくださいってば！\nここに居ていいですっ！　いいですから！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 36,
       "speaker": "",
       "text": "出て行こうとするダムストーさんの腕を掴み、\n部屋へと無理やり引きずり込んだ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 37,
       "speaker": "ダムストー",
       "text": "い、いいんですか！？\n私のような穀潰しが部屋を占拠しても！？",
-      "voice": "ch_10295/R18/10295B0_10295_Nml/10295B0_10295_009",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 38,
       "speaker": "主人公",
       "text": "……いいですから。気にせず居て下さい。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 40,
       "speaker": "ダムストー",
       "text": "あっ、ありがとうございますご主人様っ！\nお礼と言っては何ですが、このクッキーを一緒に食べませんか？",
-      "voice": "ch_10295/R18/10295B0_10295_Nml/10295B0_10295_010",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 41,
       "speaker": "",
       "text": "そう言ってダムストーさんは、\n高級そうな箱に入ったクッキーを丸ごと差し出してきた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 42,
       "speaker": "ダムストー",
       "text": "これ、ついさっき届いたんですよ！\nこのクッキー、私のお気に入りで……さあ、どうぞご主人様っ！",
-      "voice": "ch_10295/R18/10295B0_10295_Nml/10295B0_10295_011",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 43,
       "speaker": "主人公",
       "text": "あ、ありがとうございます。\n……もぐもぐ、うっ、うっまーーいっ！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 45,
       "speaker": "ダムストー",
       "text": "ですよねー！　このクッキーをつまみながらゲームしたり、\nマンガを読んだりするのが最高なんです！",
-      "voice": "ch_10295/R18/10295B0_10295_Nml/10295B0_10295_012",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 46,
       "speaker": "ダムストー",
       "text": "さあさ、ご主人様も一緒にゴロゴロしましょう！\nあっ、クッキーの箱は取りやすいように枕元に置いてください！",
-      "voice": "ch_10295/R18/10295B0_10295_Nml/10295B0_10295_013",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 47,
       "speaker": "主人公",
       "text": "ええ、分かりまし――。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 48,
       "speaker": "",
       "text": "言われた通りに行動しようとして、立ち止まる。\nダムストーさんはいわゆる「ひとたらし」だ。\n懐に入ることには天性のものがある。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 49,
       "speaker": "主人公",
       "text": "そ、そうか……僕も自然に共同生活を受け入れていたし、\nだからダムストーさんは方々から誤解されて……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 50,
       "speaker": "ダムストー",
       "text": "ご主人様？　どうされました？",
-      "voice": "ch_10295/R18/10295B0_10295_Nml/10295B0_10295_014",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 51,
       "speaker": "主人公",
       "text": "ダムストーさん！　やっぱり外に出ましょう！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 65,
       "speaker": "ダムストー",
       "text": "えっ、ええっ！？　今すぐですか！？　クッキーゴロゴロは！？",
-      "voice": "ch_10295/R18/10295B0_10295_Nml/10295B0_10295_015",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 66,
       "speaker": "主人公",
       "text": "このままではふたりともダメになりますから！\nダムストーさんの新居を一緒に探しに行きましょう！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 67,
       "speaker": "ダムストー",
       "text": "ごっ、ご主人様が急にヤる気に！？\n一体なにが…………まっ、待ってくださ～い！",
-      "voice": "ch_10295/R18/10295B0_10295_Nml/10295B0_10295_016",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 74,
       "speaker": "",
       "text": "ダムストーさんの手を引き、部屋を飛び出す。\n流されるままに過ごしていたら、\n僕も大変な目にあう気がして、新居探しに全力を尽くすのだった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     }
   ]
 }

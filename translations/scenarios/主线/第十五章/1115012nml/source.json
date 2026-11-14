@@ -1,294 +1,206 @@
 {
-  "scenario_id": "1115012nml",
-  "asset_path": "assets/advscene/scenarioexcel/main/1115/1115012nml.book.asset",
-  "cache_bundle": "D:\\mms\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\96aa68665122b3b9de186e52f3e1441e7aca51a8a186f2d27e935135eab6c66d\\96aa68665122b3b9de186e52f3e1441e\\__data",
+  "scenario": "scenario:main/1115/1115012Nml",
+  "title": "15章_01話後半",
   "rows": [
     {
-      "row": 4,
       "speaker": "",
       "text": "主人公たちは賞金稼ぎを撃退した後、\n森の奥へと移動し、身を隠していた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 12,
       "speaker": "リン",
       "text": "ねえ、ご主人くん。\nそれで天使軍と悪魔軍、どっちから止めるの？",
-      "voice": "ch_10006/Main/1115/1115_10006_053",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 15,
       "speaker": "主人公",
       "text": "そうですね……今、入っている情報ですと、\nカー・ルーの情勢が圧倒的に悪いようです。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 17,
       "speaker": "エロイーズ",
       "text": "元々、防御が手薄だった上に、\n長期にわたる内戦状態で国内がボロボロになってるからねえ。\n本格的に攻められたら、そう長くは保たないだろうさね。",
-      "voice": "en_40112/Main/1115/1115_40112_054",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 19,
       "speaker": "メイジー",
       "text": "群雄割拠状態でしたっすから、ゲリラ戦は出来るでしょうが、\n首都を落とされてしまうと、\n戦意ががた落ちになる可能性は高いっすよ。",
-      "voice": "en_40113/Main/1115/1115_40113_055",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 20,
       "speaker": "主人公",
       "text": "ではまず、カー・ルーの首都防衛戦を行いつつ、\n何とか情勢を互角に持っていったところで、\n再度、停戦を持ちかけてみましょう。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 36,
       "speaker": "セレン",
       "text": "素直に聞くかね……？",
-      "voice": "ch_10023/Main/1115/1115_10023_056",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 37,
       "speaker": "主人公",
       "text": "恐らくですが悪魔モンスター娘側は、\nそれほど長期の戦闘を想定していないはず。\nそれこそ内戦中の国なんて簡単に落とせる、と。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 38,
       "speaker": "主人公",
       "text": "突くべき隙はそこにあります。<interval=0.4>\n『",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 41,
       "speaker": "主人公",
       "text": "あれ？　意外と手強いぞ？　戦闘継続するの厄介で、面倒臭い』と思わせてしまえば、こちらのものです。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 43,
       "speaker": "セレン",
       "text": "そこで停戦、って訳か。\n心理戦の色合いが強いな。",
-      "voice": "ch_10023/Main/1115/1115_10023_057",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 50,
       "speaker": "クロミ",
       "text": "おピンク色ですかね？",
-      "voice": "ch_10021/Main/1115/1115_10021_058",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 51,
       "speaker": "スズ",
       "text": "おピンク色ではないんじゃないかしら――<interval=2>っ",
-      "voice": "ch_10022/Main/1115/1115_10022_059",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 55,
       "speaker": "スズ",
       "text": "て、ちょっと！\nクロミ！　私にそういう話を振らないでよ！　周りの視線が、\nまたアホアホコンビがアホな話を、みたいになってるでしょっ！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 57,
       "speaker": "カミラ",
       "text": "いえ、そんなことは……。",
-      "voice": "en_40114/Main/1115/1115_40114_060",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 58,
       "speaker": "クロミ",
       "text": "ほらー、スズちゃんの思い過ごしですよー。",
-      "voice": "ch_10021/Main/1115/1115_10021_061",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 60,
       "speaker": "スズ",
       "text": "そんなことはないっ！<interval=1.5>\n",
-      "voice": "ch_10022/Main/1115/1115_10022_062",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 65,
       "speaker": "スズ",
       "text": "ほら、あの人なんか、露骨にアホを見る視線になってるでしょ！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 66,
-      "speaker": "メイジー",
-      "text": "………………。",
-      "voice": "en_40113/Main/1115/1115_40113_063",
-      "command": ""
-    },
-    {
-      "row": 68,
       "speaker": "クロミ",
       "text": "あの人、視線、なくないです？",
-      "voice": "ch_10021/Main/1115/1115_10021_064",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 74,
       "speaker": "スズ",
       "text": "……確かに。",
-      "voice": "ch_10022/Main/1115/1115_10022_065",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 77,
       "speaker": "セレン",
       "text": "おい、アホアホコンビ。\nアホな会話で話を混乱させるな。",
-      "voice": "ch_10023/Main/1115/1115_10023_066",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 80,
       "speaker": "スズ",
       "text": "ほらあ！　私まで同類にされたじゃん！！",
-      "voice": "ch_10022/Main/1115/1115_10022_067",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 82,
       "speaker": "メイジー",
       "text": "いやいや、道化を演じるのは、\nチームワーク上、必要だったりするんすよ。\nなかなか出来ることじゃないっす。",
-      "voice": "en_40113/Main/1115/1115_40113_068",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 91,
       "speaker": "クロミ",
       "text": "分かりますか！\nこの、女優・クロミさんの演じている感が！\nいやあ、辛いんですよねえ、道化は！",
-      "voice": "ch_10021/Main/1115/1115_10021_069",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 97,
       "speaker": "セレン",
       "text": "……おい、初耳だぞ。",
-      "voice": "ch_10023/Main/1115/1115_10023_070",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 99,
       "speaker": "スズ",
       "text": "あれで演じてるんだとしたら、神様でも騙せるレベルだわ……。",
-      "voice": "ch_10022/Main/1115/1115_10022_071",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 100,
       "speaker": "主人公",
       "text": "でも確かに、クロミさんのお陰で、\n重くなりがちな場の空気が和らいだりもしますね……、\n５割ぐらいの確率で。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 101,
       "speaker": "スズ",
       "text": "和らぐっていうか、色々なことがどうでもよくなるわね……。",
-      "voice": "ch_10022/Main/1115/1115_10022_072",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 103,
       "speaker": "セレン",
       "text": "そして残り５割は、コイツ、殴ったろか……と思って、\n場の空気は険悪になるけどな。",
-      "voice": "ch_10023/Main/1115/1115_10023_073",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 106,
       "speaker": "メイジー",
       "text": "打率５割と考えると、かなり確率の高い感じっすよ。",
-      "voice": "en_40113/Main/1115/1115_40113_074",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 108,
       "speaker": "スズ",
       "text": "打率あるんだ……この世界……。\n野球があるの……？",
-      "voice": "ch_10022/Main/1115/1115_10022_075",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 110,
       "speaker": "セレン",
       "text": "野球はあるだろ。\nボールを持って襲いかかってくる奴を、\nバットでボコボコにする野蛮な競技な。",
-      "voice": "ch_10023/Main/1115/1115_10023_076",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 113,
       "speaker": "スズ",
       "text": "私の知ってる野球と違う！？",
-      "voice": "ch_10022/Main/1115/1115_10022_077",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 119,
       "speaker": "リン",
       "text": "……ご主人くん。何の話をしてたんだっけ……？",
-      "voice": "ch_10006/Main/1115/1115_10006_078",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 120,
       "speaker": "主人公",
       "text": "えー……と。\nでは、皆さん、対悪魔モンスター娘さん戦は、\nカー・ルー首都防衛戦になります。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 121,
       "speaker": "主人公",
       "text": "強敵ではありますが、皆さん、がんばりましょう。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 125,
       "speaker": "クロミ",
       "text": "はーい。",
-      "voice": "ch_10021/Main/1115/1115_10021_079",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 130,
       "speaker": "メイジー",
       "text": "……なんちゅーか、緊張感ないっすね。",
-      "voice": "en_40113/Main/1115/1115_40113_080",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 131,
       "speaker": "エロイーズ",
       "text": "まあ、それはこっちも同じさね。",
-      "voice": "en_40112/Main/1115/1115_40112_081",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 132,
       "speaker": "主人公",
       "text": "それでは、首都へ出発です！",
-      "voice": "",
-      "command": ""
+      "choice": false
     }
   ]
 }

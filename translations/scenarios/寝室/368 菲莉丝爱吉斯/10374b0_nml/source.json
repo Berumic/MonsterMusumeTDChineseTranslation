@@ -1,336 +1,241 @@
 {
-  "scenario_id": "10374b0_nml",
-  "asset_path": "assets/advscene/scenarioexcel/character/10374/10374b0_nml.book.asset",
-  "cache_bundle": "C:\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\856ad02cc6f0a6dde72cec568f9d9d061bf675a078f7cd7227442c5a49ec5f1a\\856ad02cc6f0a6dde72cec568f9d9d06\\__data",
+  "scenario": "scenario:character/10374/10374B0_Nml",
+  "title": "もっと愛してください",
   "rows": [
     {
-      "row": 5,
       "speaker": "主人公",
       "text": "うーん……雨、全然やまないなぁ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 7,
       "speaker": "",
       "text": "その日、ゲシュペンス島は酷い嵐に見舞われていた。\n僕もずっと家の中に足止めを喰らっていて、\nどうしたものかと困っていたのだけど――。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 11,
-      "speaker": "フィリスアイギスコス",
+      "speaker": "フィリス",
       "text": "ごきげんよう、ご主人様。",
-      "voice": "ch_10374/R18/10374B0_10374_Nml/10374B0_10374_001",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 14,
       "speaker": "主人公",
       "text": "えっ、<interval=0.5>フィリスさん！？\nごきげん……<interval=0.5>っ",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 16,
       "speaker": "主人公",
       "text": "て、嵐、大丈夫でしたか！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 17,
       "speaker": "",
       "text": "突然、何の前触れもなくフィリスさんが部屋までやってきた。\n外はすごい嵐なのに、",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 19,
       "speaker": "",
       "text": "涼しい顔をしている……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 21,
       "speaker": "主人公",
       "text": "というか、雨にも全然濡れてない……？\nええと、フィリスさん、どうやってここまで来られたんですか？\n外、すごい嵐なのに。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 22,
-      "speaker": "フィリスアイギスコス",
+      "speaker": "フィリス",
       "text": "どうやってとは……<interval=0.5>普",
-      "voice": "ch_10374/R18/10374B0_10374_Nml/10374B0_10374_002",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 24,
-      "speaker": "フィリスアイギスコス",
+      "speaker": "フィリス",
       "text": "通にふわふわ～っと飛んできましたよ？\n<interval=3>こ",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 25,
-      "speaker": "フィリスアイギスコス",
+      "speaker": "フィリス",
       "text": "の嵐も、特段障害にはなりません。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 40,
-      "speaker": "フィリスアイギスコス",
+      "speaker": "フィリス",
       "text": "なぜなら、この嵐を起こしているのはわたくしですから♪",
-      "voice": "ch_10374/R18/10374B0_10374_Nml/10374B0_10374_003",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 43,
       "speaker": "主人公",
       "text": "ふぃ、<interval=0.5>フ",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 46,
       "speaker": "主人公",
       "text": "ィリスさんが！？\nどうして！？　<interval=0.5>というか、<interval=0.5>ど",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 48,
       "speaker": "主人公",
       "text": "うやって！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 50,
-      "speaker": "フィリスアイギスコス",
+      "speaker": "フィリス",
       "text": "わたくし、異界の神の力を授かったでしょう？\nこの神様がどうやら、嵐を操る力を有しているようなのです。",
-      "voice": "ch_10374/R18/10374B0_10374_Nml/10374B0_10374_004",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 51,
-      "speaker": "フィリスアイギスコス",
+      "speaker": "フィリス",
       "text": "せっかくなのでお力を顕現してみたところ……、\n<interval=2>ふ",
-      "voice": "ch_10374/R18/10374B0_10374_Nml/10374B0_10374_005",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 53,
-      "speaker": "フィリスアイギスコス",
+      "speaker": "フィリス",
       "text": "ふふっ、見事に暴走してしまいまして♪",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 56,
       "speaker": "主人公",
       "text": "ええええええっ！？　暴走！？\nマズいじゃないですか、それ！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 58,
-      "speaker": "フィリスアイギスコス",
+      "speaker": "フィリス",
       "text": "はい、なんとかしなければ島がまるごと、\n沈んでしまうかもしれません。",
-      "voice": "ch_10374/R18/10374B0_10374_Nml/10374B0_10374_006",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 60,
-      "speaker": "フィリスアイギスコス",
+      "speaker": "フィリス",
       "text": "ですので、なんとかしなければ……<interval=1.5>と",
-      "voice": "ch_10374/R18/10374B0_10374_Nml/10374B0_10374_007",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 61,
-      "speaker": "フィリスアイギスコス",
+      "speaker": "フィリス",
       "text": "思い、\nご主人様のもとに、こうしてやってきたのです。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 64,
       "speaker": "主人公",
       "text": "分かるところは分かりましたけど、\nでもどうして僕に……？\n神様の力の鎮め方なんて分かりませんけど……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 65,
-      "speaker": "フィリスアイギスコス",
+      "speaker": "フィリス",
       "text": "暴走と言いましても、<interval=1>要はわたくしが、\nこの力を上手くコントロールし切れていないのが原因です。",
-      "voice": "ch_10374/R18/10374B0_10374_Nml/10374B0_10374_008",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 67,
-      "speaker": "フィリスアイギスコス",
+      "speaker": "フィリス",
       "text": "であれば、わたくしが相応に力をつければ、\nこの力も制御できるようになるかと……<interval=4>そ",
-      "voice": "ch_10374/R18/10374B0_10374_Nml/10374B0_10374_009",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 68,
-      "speaker": "フィリスアイギスコス",
+      "speaker": "フィリス",
       "text": "して、\n力をつけるのには、ご主人様のご助力が必要不可欠なのです。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 71,
       "speaker": "主人公",
       "text": "ご助力って……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 74,
-      "speaker": "フィリスアイギスコス",
+      "speaker": "フィリス",
       "text": "既に周知の通り、わたくしの力の源は、\nご主人様から与えられる愛です。",
-      "voice": "ch_10374/R18/10374B0_10374_Nml/10374B0_10374_010",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 78,
       "speaker": "主人公",
       "text": "周知されてる情報なんですか、それ！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 79,
-      "speaker": "フィリスアイギスコス",
+      "speaker": "フィリス",
       "text": "ですので、わたくしが力をつけるには、\nご主人様から直接愛を注いでいただくのが一番！",
-      "voice": "ch_10374/R18/10374B0_10374_Nml/10374B0_10374_011",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 80,
-      "speaker": "フィリスアイギスコス",
+      "speaker": "フィリス",
       "text": "というわけで……<interval=2>ぎ",
-      "voice": "ch_10374/R18/10374B0_10374_Nml/10374B0_10374_012",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 84,
-      "speaker": "フィリスアイギスコス",
+      "speaker": "フィリス",
       "text": "ゅ～～～～～♪",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 87,
       "speaker": "主人公",
       "text": "わあっ！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 88,
       "speaker": "",
       "text": "フィリスさんが突然抱きついてきた。\n<interval=0.8>さ",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 91,
       "speaker": "",
       "text": "らに胸に顔を擦りつけてきて……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 94,
       "speaker": "主人公",
       "text": "（ううっ。いい香りが……！？）",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 95,
-      "speaker": "フィリスアイギスコス",
+      "speaker": "フィリス",
       "text": "さあ、ご主人様。\n生まれたての子猫を愛でるように、\nこのわたくしに愛を注いでくださいませ♪",
-      "voice": "ch_10374/R18/10374B0_10374_Nml/10374B0_10374_013",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 97,
       "speaker": "主人公",
       "text": "ええっ！？　<interval=0.5>えーとぉ……、\n<interval=0.5>こ、<interval=0.5>こうですかね……？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 101,
       "speaker": "",
       "text": "僕は混乱しつつ、フィリスさんの頭を撫でてみる。\n髪がさらさらで、触れているだけで気持ちが良い……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 103,
-      "speaker": "フィリスアイギスコス",
+      "speaker": "フィリス",
       "text": "ああ、ご主人様からの愛を感じますぅ……。\n優しく、しっとりとした手つき……素晴らしいです♪",
-      "voice": "ch_10374/R18/10374B0_10374_Nml/10374B0_10374_014",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 105,
-      "speaker": "フィリスアイギスコス",
+      "speaker": "フィリス",
       "text": "ああ、力が溢れてきますぅ……！\n<interval=3>う",
-      "voice": "ch_10374/R18/10374B0_10374_Nml/10374B0_10374_015",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 106,
-      "speaker": "フィリスアイギスコス",
+      "speaker": "フィリス",
       "text": "にゃ～ん♪",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 108,
       "speaker": "主人公",
       "text": "へっ！？　フィリスさん！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 109,
-      "speaker": "フィリスアイギスコス",
+      "speaker": "フィリス",
       "text": "ふふふっ、ご主人様の手つきがあまりに良すぎて、\nつい子猫のような気分になってしまいました♪\nこれならご主人様もより愛情を注ぎやすいでしょう？",
-      "voice": "ch_10374/R18/10374B0_10374_Nml/10374B0_10374_016",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 110,
-      "speaker": "フィリスアイギスコス",
+      "speaker": "フィリス",
       "text": "さぁさぁ、ご主人様。ぼーっとなさらず、\nもっと、も～っとそなたの愛を注いでくださいませ。\nにゃんにゃんにゃん♪",
-      "voice": "ch_10374/R18/10374B0_10374_Nml/10374B0_10374_017",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 113,
       "speaker": "主人公",
       "text": "は、<interval=0.5>はいぃ……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 114,
       "speaker": "",
       "text": "僕は求められるがまま、彼女を抱きしめ、撫で続けた。\nとっくのとうに嵐が止んでいるのに気がつかないまま……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     }
   ]
 }

@@ -1,287 +1,206 @@
 {
-  "scenario_id": "10348b0_nml",
-  "asset_path": "assets/advscene/scenarioexcel/character/10348/10348b0_nml.book.asset",
-  "cache_bundle": "D:\\mms\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\fecc14d420aff9efd4e72a9cb4ec4a644a00a99f2a945becb7524d517776f7df\\fecc14d420aff9efd4e72a9cb4ec4a64\\__data",
+  "scenario": "scenario:character/10348/10348B0_Nml",
+  "title": "もふもふルルゥ",
   "rows": [
     {
-      "row": 7,
       "speaker": "",
       "text": "ある朝、僕の部屋に遊びに来ていたルルゥさんから、\nふわふわした羽毛が舞っていることに気づいた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 9,
       "speaker": "主人公",
       "text": "うわぁ……ルルゥさん、進化してずいぶん\n翼がふわふわになりましたね。\nでも、なんだかかなり抜けているような……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 10,
-      "speaker": "ルルゥカーバンクルドラゴン",
+      "speaker": "ルルゥ",
       "text": "そ、それは……進化したら、翼も尻尾もふかふかになったの！\nでも、お手入れが間に合わなくて、\nちょっとだけ羽毛が舞いやすくなっちゃったの……！",
-      "voice": "ch_10348/R18/10348B0_10348_Nml/10348B0_10348_001",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 13,
       "speaker": "",
       "text": "ふわっ。ルルゥさんが少し動いた瞬間、\nさらなる羽毛がふわりと舞い上がる。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 15,
       "speaker": "主人公",
       "text": "……<size=40>ハックシュンッ！！</size>",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 16,
-      "speaker": "ルルゥカーバンクルドラゴン",
+      "speaker": "ルルゥ",
       "text": "ご主人様！？",
-      "voice": "ch_10348/R18/10348B0_10348_Nml/10348B0_10348_002",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 17,
       "speaker": "主人公",
       "text": "うぅ……なんでだろう……？\nなんだか鼻がムズムズしますね。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 20,
-      "speaker": "ルルゥカーバンクルドラゴン",
+      "speaker": "ルルゥ",
       "text": "ひゃあああ！？ ルルゥの羽毛のせいなの！？",
-      "voice": "ch_10348/R18/10348B0_10348_Nml/10348B0_10348_003",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 21,
       "speaker": "主人公",
       "text": "いや、まだわかりませんよ。\nきっと偶然で――ハックシュンッ！！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 22,
-      "speaker": "ルルゥカーバンクルドラゴン",
+      "speaker": "ルルゥ",
       "text": "偶然じゃないのぉぉ！？\nダメなの！ ルルゥの羽毛で、\nご主人様の呼吸が奪われてしまうの！",
-      "voice": "ch_10348/R18/10348B0_10348_Nml/10348B0_10348_004",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 23,
       "speaker": "主人公",
       "text": "そんな大袈裟な……ハックシュンッ！！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 24,
-      "speaker": "ルルゥカーバンクルドラゴン",
+      "speaker": "ルルゥ",
       "text": "わわわっ！ ルルゥ、ご主人様の命を守るために、\n一度距離を取るの！！　そーしゃるでぃすたんすなの！",
-      "voice": "ch_10348/R18/10348B0_10348_Nml/10348B0_10348_005",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 25,
       "speaker": "主人公",
       "text": "そーしゃ……え？　ま、まあ……あの、\nそこまで深刻に考えなくても……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 30,
       "speaker": "",
       "text": "ルルゥさんが必死に翼を畳みながら、部屋の隅へと移動する。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 31,
-      "speaker": "ルルゥカーバンクルドラゴン",
+      "speaker": "ルルゥ",
       "text": "……どう？ くしゃみ、止まった……なの？",
-      "voice": "ch_10348/R18/10348B0_10348_Nml/10348B0_10348_006",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 32,
       "speaker": "主人公",
       "text": "ええ、少し落ち着きましたね。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 33,
-      "speaker": "ルルゥカーバンクルドラゴン",
+      "speaker": "ルルゥ",
       "text": "ほっ……よかったの……。",
-      "voice": "ch_10348/R18/10348B0_10348_Nml/10348B0_10348_007",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 35,
       "speaker": "",
       "text": "ルルゥさんが安堵した瞬間――バサッ。\n翼を動かしてしまい、新たな羽毛がふわりと舞った。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 37,
       "speaker": "主人公",
       "text": "<size=40>ハ、ハックシュンッ！！</size>",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 38,
-      "speaker": "ルルゥカーバンクルドラゴン",
+      "speaker": "ルルゥ",
       "text": "うわぁぁん！！ どうしたらいいのぉぉ！？\nも、もしかして、ご主人様、ルルゥの羽毛アレルギーなの！？\nそんなの、やなのぉ……！",
-      "voice": "ch_10348/R18/10348B0_10348_Nml/10348B0_10348_008",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 39,
       "speaker": "主人公",
       "text": "いや、まだ確定したわけでは……ハックシュンッ！！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 40,
-      "speaker": "ルルゥカーバンクルドラゴン",
+      "speaker": "ルルゥ",
       "text": "うわぁぁぁん！！ ルルゥ、ご主人様に嫌われちゃうの！？",
-      "voice": "ch_10348/R18/10348B0_10348_Nml/10348B0_10348_009",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 41,
       "speaker": "主人公",
       "text": "嫌いにはなりませんよ。ただ、今は鼻が限界です。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 44,
-      "speaker": "ルルゥカーバンクルドラゴン",
+      "speaker": "ルルゥ",
       "text": "ど、どうしよう……なの！ そ、そうだ！\nルルゥ、すぐに解決策を探してくるの！！",
-      "voice": "ch_10348/R18/10348B0_10348_Nml/10348B0_10348_010",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 49,
       "speaker": "",
       "text": "バタバタと駆け出していったルルゥさんを見送りながら、\n落ち着いた空気を吸い込む。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 50,
       "speaker": "主人公",
       "text": "……ふぅ。羽毛が落ち着いたら、\nくしゃみも少しマシになった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 51,
       "speaker": "",
       "text": "しばらくして、ルルゥさんが何かを持って戻ってきた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 52,
-      "speaker": "ルルゥカーバンクルドラゴン",
+      "speaker": "ルルゥ",
       "text": "ご、ご主人様！ これ！ これなの！",
-      "voice": "ch_10348/R18/10348B0_10348_Nml/10348B0_10348_011",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 53,
       "speaker": "主人公",
       "text": "……鼻炎の薬ですね。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 54,
-      "speaker": "ルルゥカーバンクルドラゴン",
+      "speaker": "ルルゥ",
       "text": "う、うん！ アテエルちゃんがお薬持ってきてくれたの！\nご主人様、これを飲めばお鼻の粘膜が焼けて、\nくしゃみがとまるらしいの！",
-      "voice": "ch_10348/R18/10348B0_10348_Nml/10348B0_10348_012",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 55,
       "speaker": "主人公",
       "text": "は、はぁ……なんだか怖いですが……。\nこのままじゃいられませんし……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 57,
       "speaker": "主人公",
       "text": "えーい……ごくっ……ごくっ……ごく！\n……おぉ、なんだか鼻のムズムズが落ち着いてきましたね。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 58,
-      "speaker": "ルルゥカーバンクルドラゴン",
+      "speaker": "ルルゥ",
       "text": "ほ、本当なの！？ ルルゥ、ご主人様の役に立てたの！？",
-      "voice": "ch_10348/R18/10348B0_10348_Nml/10348B0_10348_013",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 59,
       "speaker": "主人公",
       "text": "ええ、ありがとうございます。くしゃみも止まりました。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 60,
-      "speaker": "ルルゥカーバンクルドラゴン",
+      "speaker": "ルルゥ",
       "text": "よかったの……！ でも、ルルゥ、決めたの！\nこれからは羽毛をちゃんとお手入れするの！\nご主人様に迷惑をかけないようにするの！",
-      "voice": "ch_10348/R18/10348B0_10348_Nml/10348B0_10348_014",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 61,
       "speaker": "主人公",
       "text": "それはいいことですね。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 63,
       "speaker": "",
       "text": "バサッ。\n勢いよく翼を広げ、決意を見せるルルゥさん。\nしかし、その動きで部屋いっぱいに金色の羽毛が舞い上がった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 65,
       "speaker": "主人公",
       "text": "……<size=40>ハックシュンッ！！</size>",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 66,
-      "speaker": "ルルゥカーバンクルドラゴン",
+      "speaker": "ルルゥ",
       "text": "ひゃあああああ！！！ ルルゥのバカー！！！",
-      "voice": "ch_10348/R18/10348B0_10348_Nml/10348B0_10348_015",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 67,
       "speaker": "",
       "text": "結局、その日はルルゥさんが涙目で\n必死に羽毛をかき集めることになったのだった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     }
   ]
 }

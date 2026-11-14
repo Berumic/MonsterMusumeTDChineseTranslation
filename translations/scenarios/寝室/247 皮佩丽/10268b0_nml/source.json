@@ -1,224 +1,161 @@
 {
-  "scenario_id": "10268b0_nml",
-  "asset_path": "assets/advscene/scenarioexcel/character/10268/10268b0_nml.book.asset",
-  "cache_bundle": "C:\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\03b5f8303d3f08d2a32c1cf26ceebe1977f88058d3fc6edb3aba8610b00b0c10\\03b5f8303d3f08d2a32c1cf26ceebe19\\__data",
+  "scenario": "scenario:character/10268/10268B0_Nml",
+  "title": "島と星の友好の証！",
   "rows": [
     {
-      "row": 7,
       "speaker": "",
       "text": "ある日の夜。僕が部屋で本を読んでいると\nピペリさんが突撃してきた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 11,
       "speaker": "ピペリ",
       "text": "ショウネン、ショウネン！\nちょっといいか！",
-      "voice": "ch_10268/R18/10268B0_10268_Nml/10268B0_10268_001",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 12,
       "speaker": "主人公",
       "text": "わわっ！　って、ピペリさん、またですか……。\nもう股間を狙うのはやめてくださいよ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 13,
       "speaker": "",
       "text": "ピペリさんは僕の股間にあるアレに興味津々のようで\n暇があればロックオンし、\n解析しようと狙ってくるのだ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 14,
       "speaker": "ピペリ",
       "text": "ははは、そんなに無下にしないでくれ！\n今回はこれをショウネンに渡したくてきたんだ、ホレ！",
-      "voice": "ch_10268/R18/10268B0_10268_Nml/10268B0_10268_002",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 16,
       "speaker": "",
       "text": "ピペリさんは懐から、\n紫色のとても怪しい薬を差し出してきた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 17,
       "speaker": "主人公",
       "text": "……なんですか、これ。\nすごくまがまがしい色をしていますが。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 18,
       "speaker": "ピペリ",
       "text": "大丈夫。ぜんぜん怪しくないぞ！",
-      "voice": "ch_10268/R18/10268B0_10268_Nml/10268B0_10268_003",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 20,
       "speaker": "ピペリ",
       "text": "これはショウネンと同じように\n股間に触手があるモンスター娘と作った、\n愛と努力の結晶なのだからな！",
-      "voice": "ch_10268/R18/10268B0_10268_Nml/10268B0_10268_004",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 22,
       "speaker": "主人公",
       "text": "な、なるほど……？\n股間に触手って、タンタルさんとルププさんですか？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 23,
       "speaker": "ピペリ",
       "text": "おお、正解だ。タンタルとルププは\n触手が気になると言ったら、\n自ら股間の触手を見せてきてな、ははは！",
-      "voice": "ch_10268/R18/10268B0_10268_Nml/10268B0_10268_005",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 40,
       "speaker": "主人公",
       "text": "何しているんですか、あの２人！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 48,
       "speaker": "ピペリ",
       "text": "そして彼女たちから相談されたのだ。\nもっと触手を元気にさせてくれないか、と。",
-      "voice": "ch_10268/R18/10268B0_10268_Nml/10268B0_10268_006",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 49,
       "speaker": "ピペリ",
       "text": "そこでワタシたちは手を取り合って\nすごい媚薬をつくるという協定を結んだのだ！",
-      "voice": "ch_10268/R18/10268B0_10268_Nml/10268B0_10268_007",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 65,
       "speaker": "主人公",
       "text": "何やってるんですか、３人とも！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 74,
       "speaker": "ピペリ",
       "text": "まあ、聞け！\nワタシたちは実験に実験を重ね……ときには失敗もした。",
-      "voice": "ch_10268/R18/10268B0_10268_Nml/10268B0_10268_008",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 75,
       "speaker": "ピペリ",
       "text": "触手が増えたり、\n変な汁が垂れ流しになったり、破裂してしまったり……と。",
-      "voice": "ch_10268/R18/10268B0_10268_Nml/10268B0_10268_009",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 76,
       "speaker": "ピペリ",
       "text": "だが、そのたびに慰めあい、\n励ましあってようやく完成した薬……。",
-      "voice": "ch_10268/R18/10268B0_10268_Nml/10268B0_10268_010",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 78,
       "speaker": "ピペリ",
       "text": "そう、これが「触手ビンビン薬」なのだ！！",
-      "voice": "ch_10268/R18/10268B0_10268_Nml/10268B0_10268_011",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 79,
       "speaker": "ピペリ",
       "text": "飲むと立ちどころに触手が元気になって\nしばらく服の下に隠れられなくなるぞ！！",
-      "voice": "ch_10268/R18/10268B0_10268_Nml/10268B0_10268_012",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 80,
       "speaker": "主人公",
       "text": "むしろもっと危ない薬じゃないですか！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 82,
       "speaker": "ピペリ",
       "text": "危なくないぞ！\n言うならば、これはワタシの星とこの島の友好の証なのだ！",
-      "voice": "ch_10268/R18/10268B0_10268_Nml/10268B0_10268_013",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 83,
       "speaker": "主人公",
       "text": "そんな友好の証、嫌ですよ！？\n……ってなんで迫ってくるんです？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 87,
       "speaker": "",
       "text": "ピペリさんは触手ビンビン薬を手に僕に徐々に近づいてきた。\n僕の頭のなかで警報が鳴り響く。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 88,
       "speaker": "ピペリ",
       "text": "ナンでもナニもこれはショウネンのために作ったのだ。",
-      "voice": "ch_10268/R18/10268B0_10268_Nml/10268B0_10268_014",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 89,
       "speaker": "ピペリ",
       "text": "さあ、ショウネン、これを飲んで、\n元気ビンビンになった触手を解析させてくれ！",
-      "voice": "ch_10268/R18/10268B0_10268_Nml/10268B0_10268_015",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 90,
       "speaker": "主人公",
       "text": "いやですよ！\n僕じゃなくてタンタルさんやルププさんに頼んでください！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 91,
       "speaker": "ピペリ",
       "text": "あの２人はもうとっくに試飲済みだ！\nだから次はオマエの番だ！　さあ、飲め！",
-      "voice": "ch_10268/R18/10268B0_10268_Nml/10268B0_10268_016",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 93,
       "speaker": "主人公",
       "text": "わあ、勘弁してください～～～！！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 99,
       "speaker": "",
       "text": "モンスター娘たちと交流を深めてくれるのは\nとてもいいことなのに、こんな弊害があるなんて。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 100,
       "speaker": "",
       "text": "僕はそう思いながら、迫ってくるピペリさんから\n必死に逃げるのだった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     }
   ]
 }

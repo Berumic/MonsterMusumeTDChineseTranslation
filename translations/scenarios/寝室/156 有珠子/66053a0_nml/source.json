@@ -1,259 +1,186 @@
 {
-  "scenario_id": "66053a0_nml",
-  "asset_path": "assets/advscene/scenarioexcel/character/66053/66053a0_nml.book.asset",
-  "cache_bundle": "C:\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\caec947ef336cb7e21b851d531e34b5c6e3c1cd419b5457fb9da72dc5703f12d\\caec947ef336cb7e21b851d531e34b5c\\__data",
+  "scenario": "scenario:character/66053/66053A0_Nml",
+  "title": "お祭りといえば。",
   "rows": [
     {
-      "row": 7,
       "speaker": "",
       "text": "その日。\nスズさんの提案でお祭りが開かれていた。\n森の中にモンスター娘さんたちの出店が並んでいる。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 11,
-      "speaker": "ウスコ浴衣",
+      "speaker": "ウスコ",
       "text": "あーお祭り面白かったぁ！\n出店もいっぺぇで、楽しかったねー！",
-      "voice": "ch_66053/R18/66053A0_66053_Nml/66053A0_66053_001",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 12,
       "speaker": "主人公",
       "text": "そ、そうですね……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 13,
       "speaker": "",
       "text": "出店をかたっぱしから周った僕たちは、\nひとけの居ない場所で休憩していた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 15,
-      "speaker": "ウスコ浴衣",
+      "speaker": "ウスコ",
       "text": "んん？　めんこちゃん、元気ないねー。\nはしゃぎ過ぎて疲れですまった？",
-      "voice": "ch_66053/R18/66053A0_66053_Nml/66053A0_66053_002",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 16,
       "speaker": "主人公",
       "text": "……そう、<interval=0.6>ですね……<interval=0.6>疲れました……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 17,
       "speaker": "",
       "text": "僕は両手に抱えている超徳用＆特大ボリュームのスキュウ、\n絶対に割ってはいけない水風船やウネウネしたナニか……を見た。\nこれらは全てはウスコさんが出店で手に入れたものだ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 18,
       "speaker": "主人公",
       "text": "ウスコさん……<interval=0.6>これ、全部食べられるんですか……？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 20,
-      "speaker": "ウスコ浴衣",
+      "speaker": "ウスコ",
       "text": "もちろん！\nこーゆーのはお腹にいくらでもはいるよ！",
-      "voice": "ch_66053/R18/66053A0_66053_Nml/66053A0_66053_003",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 26,
-      "speaker": "ウスコ浴衣",
+      "speaker": "ウスコ",
       "text": "めんこちゃんも食ぇー？\nほれ、この触手飴ちゃんあげっから元気出して―。",
-      "voice": "ch_66053/R18/66053A0_66053_Nml/66053A0_66053_004",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 27,
       "speaker": "",
       "text": "ウスコさんが棒に触手が刺さった飴を差し出してくる。\nそれはまだ生きているらしく、ウネウネと動いていた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 28,
       "speaker": "主人公",
       "text": "これ……<interval=0.6>食べられるんですか……？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 29,
-      "speaker": "ウスコ浴衣",
+      "speaker": "ウスコ",
       "text": "食べられるよぉ～！\nうめーって評判だったもん！　食べたごとないげど。",
-      "voice": "ch_66053/R18/66053A0_66053_Nml/66053A0_66053_005",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 31,
-      "speaker": "ウスコ浴衣",
+      "speaker": "ウスコ",
       "text": "めんこちゃん、ほれ、イッキに食ぇ！\nあーんってしてける！",
-      "voice": "ch_66053/R18/66053A0_66053_Nml/66053A0_66053_006",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 36,
       "speaker": "主人公",
       "text": "<size=40>んぶぅっ！？</size>",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 38,
       "speaker": "",
       "text": "ウネウネとした触手飴を突っ込まれる。\n口の中にねっとりとした感触と甘い味が広がっていく。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 39,
-      "speaker": "ウスコ浴衣",
+      "speaker": "ウスコ",
       "text": "んふふ……♪　めんこちゃん、うめがー？\n舌をいっぺぇ動がして、ペロペロしてね……♪",
-      "voice": "ch_66053/R18/66053A0_66053_Nml/66053A0_66053_007",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 40,
-      "speaker": "ウスコ浴衣",
+      "speaker": "ウスコ",
       "text": "んだ、上手上手。うめえよぉ～♪\nよーぐ味わって、ん……歯は立でだらめーだよ？",
-      "voice": "ch_66053/R18/66053A0_66053_Nml/66053A0_66053_008",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 41,
       "speaker": "",
       "text": "ウスコさんが僕に飴を食べさせながら、\nやたら艶っぽく、囁いてくる。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 43,
       "speaker": "主人公",
       "text": "んむぅっ！　<interval=0.6>がぶがりがぶっ……<interval=0.6>――ぷはっ！？\n<interval=0.6>はぁ、<interval=0.6>はぁ……",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 45,
       "speaker": "主人公",
       "text": "なんですか！　その妙な言い方は！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 49,
-      "speaker": "ウスコ浴衣",
+      "speaker": "ウスコ",
       "text": "あー！　めんこちゃん飴噛んだー！\n噛まねえでって言ったのに―！",
-      "voice": "ch_66053/R18/66053A0_66053_Nml/66053A0_66053_009",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 51,
-      "speaker": "ウスコ浴衣",
+      "speaker": "ウスコ",
       "text": "それにベルティオちゃんが言ってだよ。\n「この触手飴はめんこちゃんの口さ突っ込んで、\nぺろぺろ舐めさせるごどで、見ているひともオイシイ」って。",
-      "voice": "ch_66053/R18/66053A0_66053_Nml/66053A0_66053_010",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 63,
-      "speaker": "ウスコ浴衣",
+      "speaker": "ウスコ",
       "text": "んだがら、おらもオイシイ思いしたかったのにー。",
-      "voice": "ch_66053/R18/66053A0_66053_Nml/66053A0_66053_011",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 64,
       "speaker": "主人公",
       "text": "……それ、<interval=0.6>違う意味の「オイシイ」だと思います。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 65,
-      "speaker": "ウスコ浴衣",
+      "speaker": "ウスコ",
       "text": "？　そうなの？\nまあ、味は分がんねがったがらもういいや。",
-      "voice": "ch_66053/R18/66053A0_66053_Nml/66053A0_66053_012",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 68,
-      "speaker": "ウスコ浴衣",
+      "speaker": "ウスコ",
       "text": "めんこちゃんめんこちゃん、今度はこっちのボールで遊ぼ！\n地面にたたきづげっと、ぴょーんって跳ねで――。",
-      "voice": "ch_66053/R18/66053A0_66053_Nml/66053A0_66053_013",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 73,
       "speaker": "",
       "text": "ウスコさんが小さなボールを地面に向かって投げると、\n恐ろしい反発力で跳ね返り、そして――。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 77,
-      "speaker": "ウスコ浴衣",
+      "speaker": "ウスコ",
       "text": "……ん？　落ちてごないね。\nどごまで飛んでった？",
-      "voice": "ch_66053/R18/66053A0_66053_Nml/66053A0_66053_014",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 78,
       "speaker": "主人公",
       "text": "消えましたね……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 79,
       "speaker": "",
       "text": "空に向かって消えていった金色のボールは、\n一向に落ちてくる気配がなかった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 80,
-      "speaker": "ウスコ浴衣",
+      "speaker": "ウスコ",
       "text": "ほぇー、タンタルちゃんって凄いんだねー。\n確がに投げたら最後、痛がりの金のボールは、\nもう２度と持ち主の元さ帰らねえって言ってだげど。",
-      "voice": "ch_66053/R18/66053A0_66053_Nml/66053A0_66053_015",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 81,
       "speaker": "主人公",
       "text": "確かにすごいですけど、\nゲシュペンス島の出店に普通のものが何１つないですね……。\n<interval=0.6>まあ、分かってましたけど。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 84,
-      "speaker": "ウスコ浴衣",
+      "speaker": "ウスコ",
       "text": "おら、タンタルちゃんのボールまたやりだぐなってぎだ！\nめんこちゃん！　もう１回やりにいくべ！",
-      "voice": "ch_66053/R18/66053A0_66053_Nml/66053A0_66053_016",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 89,
       "speaker": "主人公",
       "text": "えっ！？　僕はもうイヤなんですけど――<interval=0.6>って、\nウスコさんっ！　ひっぱらないでください～～！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 96,
       "speaker": "",
       "text": "ウスコさんに強引に手を引かれ、\nまた出店の並ぶ通りへと連れていかれる。\nこうして僕はエンドレスに祭りを楽しむことになるのだった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     }
   ]
 }

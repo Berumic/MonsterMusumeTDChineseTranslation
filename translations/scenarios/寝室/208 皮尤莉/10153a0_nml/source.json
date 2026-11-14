@@ -1,301 +1,216 @@
 {
-  "scenario_id": "10153a0_nml",
-  "asset_path": "assets/advscene/scenarioexcel/character/10153/10153a0_nml.book.asset",
-  "cache_bundle": "C:\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\119fc276191082d10cbe53c86837e287f0e3c211a57e0b8481868d980515488d\\119fc276191082d10cbe53c86837e287\\__data",
+  "scenario": "scenario:character/10153/10153A0_Nml",
+  "title": "専用のアレ",
   "rows": [
     {
-      "row": 7,
       "speaker": "",
       "text": "とある日のこと。\n気分転換に散歩していると、ピューリさんに声をかけられた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 8,
       "speaker": "ピューリ",
       "text": "やっほ～、主く～ん♪\n何してんのー？　ヒマしてるなら、イイモノあげるからおいでー♪",
-      "voice": "ch_10153/R18/10153A0_10153_Nml/10153A0_10153_001",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 9,
       "speaker": "主人公",
       "text": "えっ、良い物ですか？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 10,
       "speaker": "",
       "text": "自分でも浅はかだと思うが、\n楽しげな彼女の声につい反応してしまっていた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 11,
       "speaker": "ピューリ",
       "text": "主くんもゲンキンなヤツだなぁ～。\nイイモノっていうのは、主くん専用武器だよ～。",
-      "voice": "ch_10153/R18/10153A0_10153_Nml/10153A0_10153_002",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 13,
       "speaker": "主人公",
       "text": "ぼっ、僕の専用武器ですか！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 14,
       "speaker": "",
       "text": "『専用武器』という男ゴコロ擽る言葉に、胸が高鳴る。\nピューリさんは皆さんの武器制作を一手に引き受けている為に、\n期待が大きく膨らんでしまう。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 43,
       "speaker": "ピューリ",
       "text": "おぉ～食いつくね～！\nそうだよ、主くん専用のすんごい武器だ・よ♪",
-      "voice": "ch_10153/R18/10153A0_10153_Nml/10153A0_10153_003",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 44,
       "speaker": "主人公",
       "text": "ぜひ！　ぜひお願いします！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 45,
       "speaker": "ピューリ",
       "text": "よぉし、それならうちに着いてきなさぁ～い！",
-      "voice": "ch_10153/R18/10153A0_10153_Nml/10153A0_10153_004",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 46,
       "speaker": "",
       "text": "薄桃色の羽を羽ばたかせて空へと舞い上がるピューリさんを、\n僕は走って追いかけた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 55,
       "speaker": "ピューリ",
       "text": "さあ、着いたよ！\nここで、主くん専用武器を作ってあげちゃうからね！",
-      "voice": "ch_10153/R18/10153A0_10153_Nml/10153A0_10153_005",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 56,
       "speaker": "",
       "text": "辿り着いた先は、熱風が滞留する火山地帯だった。\nピューリさんが作業場にしているらしく、\n辺りには作りかけの武器や鍛冶道具が転がっている。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 57,
       "speaker": "ピューリ",
       "text": "さて、それでは主くんの身体のサイズを調べようかねー。\nささ、腕を上げて、ジッとしてなね。",
-      "voice": "ch_10153/R18/10153A0_10153_Nml/10153A0_10153_006",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 58,
       "speaker": "主人公",
       "text": "は、はいっ。分かりました。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 59,
       "speaker": "",
       "text": "ピューリさんに言われた通り、両腕を上げる。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 62,
       "speaker": "ピューリ",
       "text": "んー、イイコだね～主くん！\nまずは腕の長さを測っていくからね～、動いちゃダメだよぉ～？",
-      "voice": "ch_10153/R18/10153A0_10153_Nml/10153A0_10153_007",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 63,
       "speaker": "主人公",
       "text": "うっ……は、はいっ……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 64,
       "speaker": "ピューリ",
       "text": "みなさん、こうされてますからねー♪\n作った武器が身体に合わないと、タイヘンだからぁ～♪",
-      "voice": "ch_10153/R18/10153A0_10153_Nml/10153A0_10153_008",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 65,
       "speaker": "主人公",
       "text": "は、はい……",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 69,
       "speaker": "主人公",
       "text": "ひゃっ！？　ふぁっ！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 70,
       "speaker": "",
       "text": "小さなピューリさんに腋から指先を弄られると、\nどうにも擽ったかった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 71,
       "speaker": "ピューリ",
       "text": "いひひ……♪\n腋にじっとりと汗が滲んで、少年の芳醇な薫りが立ち昇ってぇ♪\nこんなニオイをうちに嗅がせるなんて、主くんのえっちぃ～！",
-      "voice": "ch_10153/R18/10153A0_10153_Nml/10153A0_10153_009",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 72,
       "speaker": "主人公",
       "text": "えっ、えっちって……ピューリさんがこうしろって",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 76,
       "speaker": "主人公",
       "text": "……あぁっ！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 77,
       "speaker": "ピューリ",
       "text": "えぇ～？　うちのせいにするとか、ひっどーい♪\nくんくん、やだぁ～♪　汗、いっぱい掻いちゃってるねー！\n緊張したの～？　きゃはははは♪",
-      "voice": "ch_10153/R18/10153A0_10153_Nml/10153A0_10153_010",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 78,
       "speaker": "主人公",
       "text": "こ、これは熱くて……",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 82,
       "speaker": "主人公",
       "text": "あっ、ふぁっ！？　擽らないでくださいっ！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 83,
       "speaker": "ピューリ",
       "text": "きゃはは♪　主くん顔まっかじゃん！　おもしろーい！\n長さはもう分かったし、専用武器をあげよっかね～。",
-      "voice": "ch_10153/R18/10153A0_10153_Nml/10153A0_10153_011",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 84,
       "speaker": "主人公",
       "text": "えっ？　今から作るんじゃないんですか？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 85,
       "speaker": "ピューリ",
       "text": "いやぁ、もう作ったのがあるんだよねー！\nそれがピッタリ合うと思ったからさぁー……",
-      "voice": "ch_10153/R18/10153A0_10153_Nml/10153A0_10153_012",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 89,
       "speaker": "ピューリ",
       "text": "はい、コレ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 94,
       "speaker": "",
       "text": "ピューリさんに渡された物は、手のひらサイズの小さな箱だった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 95,
       "speaker": "主人公",
       "text": "？　なんですかコレは……？　これが僕の専用武器なんですか？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 96,
       "speaker": "ピューリ",
       "text": "とりま、開けてみてよぉー。ビックリすると思うからさぁ♪",
-      "voice": "ch_10153/R18/10153A0_10153_Nml/10153A0_10153_013",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 97,
       "speaker": "主人公",
       "text": "は、はい……",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 100,
       "speaker": "主人公",
       "text": "――うわあぁぁっ！？！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 103,
       "speaker": "",
       "text": "箱を開けると、キス顔のクロミさん（人形）が飛び出してきた。\n驚きすぎて、僕は思わず腰を抜かしてしまう。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 105,
       "speaker": "ピューリ",
       "text": "きゃはは♪　ひっかかったひっかかった～！\n主くんチョーびっくりしてたねー！　マジウケるー！！",
-      "voice": "ch_10153/R18/10153A0_10153_Nml/10153A0_10153_014",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 106,
       "speaker": "主人公",
       "text": "うぅっ……やっぱり僕をからかってたんですね！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 107,
       "speaker": "ピューリ",
       "text": "騙された主くんが悪いんだよぉー？\nうちが魅力的だからって、ホイホイついてきちゃダメじゃん♪",
-      "voice": "ch_10153/R18/10153A0_10153_Nml/10153A0_10153_015",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 108,
       "speaker": "",
       "text": "専用武器の言葉に心を擽られ、舞い上がっていた自覚がある。\n屈託のない笑顔に、僕は言い返せないのだった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     }
   ]
 }

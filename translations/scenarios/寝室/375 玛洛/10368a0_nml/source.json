@@ -1,315 +1,226 @@
 {
-  "scenario_id": "10368a0_nml",
-  "asset_path": "assets/advscene/scenarioexcel/character/10368/10368a0_nml.book.asset",
-  "cache_bundle": "C:\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\98e17a51743c52d84a40cfa597ce635fc4e55c65e1ef40fed9a6844280a9678d\\98e17a51743c52d84a40cfa597ce635f\\__data",
+  "scenario": "scenario:character/10368/10368A0_Nml",
+  "title": "忠義の形",
   "rows": [
     {
-      "row": 6,
       "speaker": "",
       "text": "その日、僕はマウロさんに呼び出されて、\n山岳地帯へと足を運んでいた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 7,
       "speaker": "",
       "text": "マウロさんの根城の奥には、財宝がずらりと並んでいて、\n中央の石の台座には、",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 21,
       "speaker": "",
       "text": "胸を張って座る彼女の姿がある。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 24,
-      "speaker": "マウロ俱利伽羅龍王",
+      "speaker": "マウロ",
       "text": "ふふん、来たなアルジ！　\n今日からボクの『臣下』として、しつけてあげるよ！",
-      "voice": "ch_10368/R18/10368A0_10368_Nml/10368A0_10368_001",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 25,
-      "speaker": "マウロ俱利伽羅龍王",
+      "speaker": "マウロ",
       "text": "ふっふっふー！　このボクの力、思い知っちゃってよ！\n進化して、ソレイアにも認められたこの力をさー！",
-      "voice": "ch_10368/R18/10368A0_10368_Nml/10368A0_10368_002",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 28,
-      "speaker": "マウロ俱利伽羅龍王",
+      "speaker": "マウロ",
       "text": "日和ってるショタいるー！？　いないよねぇーっ！？",
-      "voice": "ch_10368/R18/10368A0_10368_Nml/10368A0_10368_003",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 31,
       "speaker": "主人公",
       "text": "な、<interval=0.5>なんですか、急に……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 34,
-      "speaker": "マウロ俱利伽羅龍王",
+      "speaker": "マウロ",
       "text": "急にじゃないよ！　ちゃんとソレイアに教わったんだ。\n部下は支配して導くもの、って！",
-      "voice": "ch_10368/R18/10368A0_10368_Nml/10368A0_10368_004",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 35,
-      "speaker": "マウロ俱利伽羅龍王",
+      "speaker": "マウロ",
       "text": "だからボクも導く側に進化したってワケ。\nふふん、ボクの指導、光栄に思ってよねー♪",
-      "voice": "ch_10368/R18/10368A0_10368_Nml/10368A0_10368_005",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 38,
       "speaker": "主人公",
       "text": "……また随分と都合のいい解釈を……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 51,
       "speaker": "",
       "text": "彼女は台座から飛び降り、\n宝の山に足を乗せながら、",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 54,
       "speaker": "",
       "text": "ビシッと僕を指差す。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 55,
-      "speaker": "マウロ俱利伽羅龍王",
+      "speaker": "マウロ",
       "text": "いい？　まずは言葉遣いから！\n<interval=3>ボ",
-      "voice": "ch_10368/R18/10368A0_10368_Nml/10368A0_10368_006",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 57,
-      "speaker": "マウロ俱利伽羅龍王",
+      "speaker": "マウロ",
       "text": "クのことは『閣下』って呼ぶよーに！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 59,
-      "speaker": "マウロ俱利伽羅龍王",
+      "speaker": "マウロ",
       "text": "これは最低限の礼儀だよ？\nソレイアだってそう言ってた……気がする！",
-      "voice": "ch_10368/R18/10368A0_10368_Nml/10368A0_10368_007",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 62,
       "speaker": "主人公",
       "text": "えーっと…………<interval=0.5>わかりました、閣下。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 63,
       "speaker": "",
       "text": "断ると長引きそうだったので、僕は素直に従うことにした。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 65,
-      "speaker": "マウロ俱利伽羅龍王",
+      "speaker": "マウロ",
       "text": "よろしい。では次、『忠義』の実践ね！\nボクの言うことをちゃんと聞いて、忠義を形にするんだ！\n<interval=6.5>ボ",
-      "voice": "ch_10368/R18/10368A0_10368_Nml/10368A0_10368_008",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 67,
-      "speaker": "マウロ俱利伽羅龍王",
+      "speaker": "マウロ",
       "text": "クに仕えるってことは、そういうことなんだからさ！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 69,
       "speaker": "",
       "text": "そう言って、",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 72,
       "speaker": "",
       "text": "彼女はガサゴソと宝の山をかき分け、\nやたらゴツい首輪を取り出す。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 75,
       "speaker": "主人公",
       "text": "まさか……<interval=0.5>それをつけろと……？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 78,
-      "speaker": "マウロ俱利伽羅龍王",
+      "speaker": "マウロ",
       "text": "主従関係には印が必要でしょー？",
-      "voice": "ch_10368/R18/10368A0_10368_Nml/10368A0_10368_009",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 79,
-      "speaker": "マウロ俱利伽羅龍王",
+      "speaker": "マウロ",
       "text": "このドラゴン印の首輪をアルジにつけて、\nボクの家来ってちゃんと分かるようにしておかないと！\n<interval=4.5>あ",
-      "voice": "ch_10368/R18/10368A0_10368_Nml/10368A0_10368_010",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 80,
-      "speaker": "マウロ俱利伽羅龍王",
+      "speaker": "マウロ",
       "text": "、でもデザインはちょっと可愛いほうがいいかもねー。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 82,
       "speaker": "主人公",
       "text": "あの、<interval=0.5>それは流石に……<interval=0.5>閣下、別の方法でお願いします。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 85,
-      "speaker": "マウロ俱利伽羅龍王",
+      "speaker": "マウロ",
       "text": "ふん、じゃあ別の方法！\n『忠義のふみふみ』でいいや！",
-      "voice": "ch_10368/R18/10368A0_10368_Nml/10368A0_10368_011",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 88,
-      "speaker": "マウロ俱利伽羅龍王",
+      "speaker": "マウロ",
       "text": "ボクの体重に耐えてこそ真の家来！\nさあ、その覚悟見せてもらうよ！",
-      "voice": "ch_10368/R18/10368A0_10368_Nml/10368A0_10368_012",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 89,
       "speaker": "",
       "text": "彼女は宝の上に僕を座らせると、\n",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 95,
       "speaker": "",
       "text": "ドヤ顔で膝に乗ってきた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 96,
-      "speaker": "マウロ俱利伽羅龍王",
+      "speaker": "マウロ",
       "text": "どう？　忠義ってのが湧いてくるでしょ？\nこのボクがお尻でふみふみしてあげてるんだから、\nもっとありがたがっていいよ！",
-      "voice": "ch_10368/R18/10368A0_10368_Nml/10368A0_10368_013",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 99,
       "speaker": "主人公",
       "text": "……いや、これはただ重いだけです……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 102,
-      "speaker": "マウロ俱利伽羅龍王",
+      "speaker": "マウロ",
       "text": "うそだっ！　アルジ、ニヤけてるもんっ！\n絶対に嬉しい顔してた！\nボクにはバレバレなんだからな！",
-      "voice": "ch_10368/R18/10368A0_10368_Nml/10368A0_10368_014",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 103,
       "speaker": "",
       "text": "しばらく得意げに乗っかっていた彼女だったが、\nふ",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 105,
       "speaker": "",
       "text": "と真剣な顔になる。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 107,
-      "speaker": "マウロ俱利伽羅龍王",
+      "speaker": "マウロ",
       "text": "……あのさ、ソレイアにこれバレたら怒られると思う？\nほら、『真の忠義は慎み深くあれ』って、\nそんなことも言ってた気がするし……。",
-      "voice": "ch_10368/R18/10368A0_10368_Nml/10368A0_10368_015",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 110,
       "speaker": "主人公",
       "text": "ええ、全力で怒られると思います。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 111,
       "speaker": "",
       "text": "むしろちょっと厳しめに怒られてほしい。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 113,
-      "speaker": "マウロ俱利伽羅龍王",
+      "speaker": "マウロ",
       "text": "う、うう……じゃ、じゃあ今日のは全部ナイショね！",
-      "voice": "ch_10368/R18/10368A0_10368_Nml/10368A0_10368_016",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 114,
-      "speaker": "マウロ俱利伽羅龍王",
+      "speaker": "マウロ",
       "text": "今日のことは墓場まで持っていくんだぞ！\n<interval=2>絶",
-      "voice": "ch_10368/R18/10368A0_10368_Nml/10368A0_10368_017",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 117,
-      "speaker": "マウロ俱利伽羅龍王",
+      "speaker": "マウロ",
       "text": "対に言うなよ！？\n<interval=1.5>ボ",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 119,
-      "speaker": "マウロ俱利伽羅龍王",
+      "speaker": "マウロ",
       "text": "ク、あとで泣くかもしれないからな！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 122,
       "speaker": "主人公",
       "text": "だったら最初からしなければよかったのでは……？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 124,
       "speaker": "",
       "text": "膝の上からジロッと睨まれる。\n僕は忠義の心に従って、それ以上の言葉を飲みこむのだった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     }
   ]
 }

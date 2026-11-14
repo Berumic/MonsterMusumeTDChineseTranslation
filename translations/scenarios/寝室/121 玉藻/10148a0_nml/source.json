@@ -1,280 +1,196 @@
 {
-  "scenario_id": "10148a0_nml",
-  "asset_path": "assets/advscene/scenarioexcel/character/10148/10148a0_nml.book.asset",
-  "cache_bundle": "C:\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\d02fa795d9c4246fdfa2c8a36495370b4baa2d0b7d5acfc66e04beefd2d1b204\\d02fa795d9c4246fdfa2c8a36495370b\\__data",
+  "scenario": "scenario:character/10148/10148A0_Nml",
+  "title": "きつね先生のおベンキョウ",
   "rows": [
     {
-      "row": 7,
       "speaker": "",
       "text": "それは、たまもさんとルカさんが\n僕に知恵を貸して欲しいと頼んできた日のこと。\n僕は彼女たちに、兵法について説明をしていた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 8,
       "speaker": "主人公",
       "text": "――と、ここまでが陣形や兵法についての説明となります。\n何か分からないところや質問はありますか？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 9,
       "speaker": "",
       "text": "用意して貰った黒板に要点を書き終えて、ルカさんを振り返る。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 11,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "なるほど。すごく理解できたよ。\nご主人くんは頭もいい上に、教えるのもうまいんだね。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 12,
       "speaker": "主人公",
       "text": "い、いやぁ……そんな。\nありがとうございます、ルカさん。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 13,
-      "speaker": "たまももんくえ",
+      "speaker": "たまも",
       "text": "お主の説明はウチにも分かりやすかったぞ。\nその上で、今の応用についてウチに説明してみるのじゃ、ルカ。",
-      "voice": "ch_10148/R18/10148A0_10148_Nml/10148A0_10148_001",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 14,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "えっ！？　ええっと、横陣は縦陣に弱くて……？\n<size=20>柵などの援護がないとダメ、だから……んん？</size>　",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 20,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "<size=32>あたっ！</size>",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 21,
-      "speaker": "たまももんくえ",
+      "speaker": "たまも",
       "text": "声が小さい上にどもりすぎじゃ。\nルカは理解力が高すぎる分、\n他者に対する説明能力が低いようじゃの。",
-      "voice": "ch_10148/R18/10148A0_10148_Nml/10148A0_10148_002",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 22,
-      "speaker": "たまももんくえ",
+      "speaker": "たまも",
       "text": "さて、講義は終わりじゃ。\nここからは言葉で教えるより、\n体に叩き込んだ方が良さそうじゃの。",
-      "voice": "ch_10148/R18/10148A0_10148_Nml/10148A0_10148_003",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 23,
       "speaker": "",
       "text": "たまもさんにデコピンされただけなのに、\nルカさんは草原をゴロゴロ転がりまくっていた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 25,
       "speaker": "主人公",
       "text": "たまもさんって噂通り、見た目によらずかなりの怪力……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 26,
-      "speaker": "たまももんくえ",
+      "speaker": "たまも",
       "text": "んー？　なにか言ったかの？",
-      "voice": "ch_10148/R18/10148A0_10148_Nml/10148A0_10148_004",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 27,
       "speaker": "主人公",
       "text": "いっ、いえ！　なにも言ってないです！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 28,
-      "speaker": "たまももんくえ",
+      "speaker": "たまも",
       "text": "ふむ……まあいいがの。\nではルカ、講義は終わり。ここからは実戦じゃ。",
-      "voice": "ch_10148/R18/10148A0_10148_Nml/10148A0_10148_005",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 31,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "えっ、じっ、実戦！？　僕がたまもと！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 32,
-      "speaker": "たまももんくえ",
+      "speaker": "たまも",
       "text": "そうじゃ。もちろん、手加減はするつもりじゃ。\nまあでも、お主のようなザコ勇者じゃウチに勝つのは無理かの。",
-      "voice": "ch_10148/R18/10148A0_10148_Nml/10148A0_10148_006",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 34,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "いや、やる！　今の僕でだって、たまもと戦える！！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 35,
-      "speaker": "たまももんくえ",
+      "speaker": "たまも",
       "text": "よく言ったのじゃ♪\n弱虫でザコ勇者じゃが、心意気は認めてやろうかの。",
-      "voice": "ch_10148/R18/10148A0_10148_Nml/10148A0_10148_007",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 36,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "ぼっ、僕は弱虫じゃないしザコでもないっ！　",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 40,
-      "speaker": "たまももんくえ",
+      "speaker": "たまも",
       "text": "ほれほれ、悔しかったらかかってくるのじゃ。\nウチからは手を出さん。攻撃が当たれば勝ちにして良いぞー？",
-      "voice": "ch_10148/R18/10148A0_10148_Nml/10148A0_10148_008",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 41,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "うっ、このっ！　このぉっ！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 51,
-      "speaker": "たまももんくえ",
+      "speaker": "たまも",
       "text": "おおー、鋭い攻撃じゃのー♪　おおっ、今のは危なかったのじゃ♪\nさすがは魔王アリスフィーズ16世が認めた勇者じゃのう♪",
-      "voice": "ch_10148/R18/10148A0_10148_Nml/10148A0_10148_009",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 52,
       "speaker": "",
       "text": "たまもさんはルカさんの攻撃をヒラヒラと右へ左に躱しながらも、\n攻撃に圧倒されているのか、少しずつ後ろへ下がっていく。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 53,
       "speaker": "主人公",
       "text": "（……ん？　おかしい、どこかに誘導してるような……）",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 59,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "このっこのっ！　くっ、全然攻撃が当たらな――",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 65,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "うわああぁっ！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 69,
       "speaker": "",
       "text": "攻撃を繰り出していたルカさんが、落とし穴に落下する。\n見事に罠にハマっていた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 70,
-      "speaker": "たまももんくえ",
+      "speaker": "たまも",
       "text": "とまあ、こうなるワケじゃ。\n剣の腕を鍛えるだけでは、頭の回る強敵には勝てんのじゃ。",
-      "voice": "ch_10148/R18/10148A0_10148_Nml/10148A0_10148_010",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 71,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "う、うう……動けないっ！　く、くやしいっ……！！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 72,
       "speaker": "",
       "text": "たまもさんは穴にハマるルカさんを見下ろしながら、\n悪戯っぽく笑っていた。さすがは――。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 74,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "さすが年の功……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 75,
-      "speaker": "たまももんくえ",
-      "text": "――",
-      "voice": "ch_10148/R18/10148A0_10148_Nml/10148A0_10148_011",
-      "command": ""
-    },
-    {
-      "row": 81,
-      "speaker": "たまももんくえ",
+      "speaker": "たまも",
       "text": "月光きゃのん。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 94,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "<size=30>あっひぃいぃぃぃぃぃっ！？</size>",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 99,
       "speaker": "",
       "text": "身動きを封じられていたルカさんは、\nたまもさんの攻撃をまともに喰らっていた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 102,
-      "speaker": "たまももんくえ",
+      "speaker": "たまも",
       "text": "……お主はウチに失礼なことは考えておらぬよな？",
-      "voice": "ch_10148/R18/10148A0_10148_Nml/10148A0_10148_012",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 103,
       "speaker": "主人公",
       "text": "もっ、もちろんです！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 104,
       "speaker": "",
       "text": "幼く可愛らしい容姿に似合わず、\nたまもさんの威圧感は半端なかった。\n今回の講義は、危機管理の面でとても勉強になったのだった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     }
   ]
 }

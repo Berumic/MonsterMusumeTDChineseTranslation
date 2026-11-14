@@ -1,259 +1,186 @@
 {
-  "scenario_id": "10149b0_nml",
-  "asset_path": "assets/advscene/scenarioexcel/character/10149/10149b0_nml.book.asset",
-  "cache_bundle": "C:\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\386eb9897090954a12dfd15f99a3424eafbfbc1047871d66d75603923ff0748f\\386eb9897090954a12dfd15f99a3424e\\__data",
+  "scenario": "scenario:character/10149/10149B0_Nml",
+  "title": "バレたくない過去",
   "rows": [
     {
-      "row": 22,
       "speaker": "",
       "text": "ゲシュペンス島に滞在して数日、\n僕はグランベリアと一緒に釣りをしていた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 23,
       "speaker": "",
       "text": "溶岩地帯で釣りなんてできるのか、と疑問に感じていたが、\nどうやらこの島では僕の知っている常識は\nまったく通用しないようだ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 29,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "……こ、こんなところで魚が釣れるなんて……、\nゲシュペンス島って本当に不思議だね、グランベリア。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 30,
-      "speaker": "グランベリアもんくえ",
+      "speaker": "グランベリア",
       "text": "……そうだな。\n私はもう驚きすぎて考えるのを止めた。",
-      "voice": "ch_10149/R18/10149B0_10149_Nml/10149B0_10149_001",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 53,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "そ、そうなんだ……僕も考えるの止めようかなぁ……ははは。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 54,
-      "speaker": "グランベリアもんくえ",
+      "speaker": "グランベリア",
       "text": "――なんだ、その乾いた笑いは……、\n先ほどのアルマエルマの言葉を気にしてるんじゃないだろうな？",
-      "voice": "ch_10149/R18/10149B0_10149_Nml/10149B0_10149_002",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 55,
       "speaker": "",
       "text": "……そう。つい先ほどまでアルマエルマが、\n釣りをしているグランベリアの隣で\nあれやこれやと一方的に絡んできていたのだ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 56,
       "speaker": "",
       "text": "アルマエルマに挑発されたグランベリアが、\n彼女を追い払うまでそれはもう色んな思い出話を聞かされていた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 58,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "べ、別に、きっ、気にしてないよ！？\n「グランベリアは、意外に初心で可愛いところがある」\nなんて言葉は！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 59,
-      "speaker": "グランベリアもんくえ",
+      "speaker": "グランベリア",
       "text": "めちゃくちゃ気にしてるではないか……。\n全く、困ったやつだ……。",
-      "voice": "ch_10149/R18/10149B0_10149_Nml/10149B0_10149_003",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 60,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "だって……可愛いとか、初心なグランベリアって、\nどんなだろうって気になって……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 61,
       "speaker": "",
       "text": "言いながら、一向にヒットしない釣り竿を引く。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 62,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "それに、アルマエルマの含んだものの言い方とか、\nあんなに触られてるのに、グランベリアも本気で\n嫌がってないというか……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 75,
-      "speaker": "グランベリアもんくえ",
+      "speaker": "グランベリア",
       "text": "みょ、妙なことを言うな！\nまさか……ヤキモチでも焼いているのか？",
-      "voice": "ch_10149/R18/10149B0_10149_Nml/10149B0_10149_004",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 76,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "そっ、そんなんじゃないよ！\nただ、２人はすごく仲がいいんだぁって思っただけで。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 77,
-      "speaker": "グランベリアもんくえ",
+      "speaker": "グランベリア",
       "text": "フン、アルマエルマとは何度も戦ったことがある。\nしかし４３連敗中……ヤツは敗者の私をからかっただけだ。",
-      "voice": "ch_10149/R18/10149B0_10149_Nml/10149B0_10149_005",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 78,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "よっ。４３連敗って、そんなに！？\nほとんどボロ負けじゃないか……！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 79,
-      "speaker": "グランベリアもんくえ",
+      "speaker": "グランベリア",
       "text": "――フン、悪かったな。ぼろ負けで。",
-      "voice": "ch_10149/R18/10149B0_10149_Nml/10149B0_10149_006",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 80,
       "speaker": "",
       "text": "グランベリアも僕と同じように釣り竿を引き上げた。\n魚のようなナニかが釣れるポイントだったが、結局釣れなかった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 81,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "ねぇ、グランベリア。\nアルマエルマと決闘したときに何があったの？\n彼女も強いけど、君が負けたなんてまだ信じられなくて。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 82,
-      "speaker": "グランベリアもんくえ",
+      "speaker": "グランベリア",
       "text": "……そんなこと、誰が教えるか。\nヤツに負けたのは一生の恥だ。",
-      "voice": "ch_10149/R18/10149B0_10149_Nml/10149B0_10149_007",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 83,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "そう言わずにさ、僕もグランベリアのことをもっと知りたいよ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 94,
-      "speaker": "グランベリアもんくえ",
+      "speaker": "グランベリア",
       "text": "……はぁ……。\nヤツはクイーンサキュバス。速度を活かした体術だけでなく、\n得意な攻撃方法があるだろう――それに、油断しただけだ。",
-      "voice": "ch_10149/R18/10149B0_10149_Nml/10149B0_10149_008",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 95,
       "speaker": "",
       "text": "グランベリアは大剣を手に取りながら、\n負けた過去を思い出したらしく、苦々しげに呟く。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 96,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "アルマエルマが得意な攻撃……？\nもしかして、サキュバスの手練手管にやられたってこと？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 97,
-      "speaker": "グランベリアもんくえ",
+      "speaker": "グランベリア",
       "text": "フンっ！！",
-      "voice": "ch_10149/R18/10149B0_10149_Nml/10149B0_10149_009",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 101,
       "speaker": "",
       "text": "足の間に、大剣が振り下ろされる。\n僕は間一髪のところで、グランベリアの斬撃を避けた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 102,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "うわぁっ！？\nなっ、なにするんだよ！？　危ないだろ！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 103,
-      "speaker": "グランベリアもんくえ",
+      "speaker": "グランベリア",
       "text": "うるさい！　やはり休暇というのは私には合わん。\n鍛錬のほうが気分が紛れる！",
-      "voice": "ch_10149/R18/10149B0_10149_Nml/10149B0_10149_010",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 108,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "いっ、いきなり鍛錬って……これじゃ辻斬りじゃないか！\n恥ずかしいからって誤魔化さなくても――うぉっ！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 109,
-      "speaker": "グランベリアもんくえ",
+      "speaker": "グランベリア",
       "text": "うるさいっ！　誤魔化してない！\n私はただ急に鍛錬したくなっただけだ！",
-      "voice": "ch_10149/R18/10149B0_10149_Nml/10149B0_10149_011",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 110,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "いやいや、嘘だよね！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 117,
       "speaker": "",
       "text": "剣を抜き、グランベリアの斬撃を受け止める。\n重い大剣を弾き返し、距離をとった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 118,
-      "speaker": "グランベリアもんくえ",
+      "speaker": "グランベリア",
       "text": "フン……ルカ、やはりお前の剣は鈍っている。\nここで私がたっぷりと鍛え直してやろう。",
-      "voice": "ch_10149/R18/10149B0_10149_Nml/10149B0_10149_012",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 119,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "は、恥ずかしい過去を知られたからって……\nわわっ！？　ストップ！　ストップ！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 123,
       "speaker": "",
       "text": "横薙ぎに振るわれる大剣を、ぎりぎり避ける。\n結局、僕たちは気分転換の釣りを止め、\n日が暮れるまで鍛錬するのだった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     }
   ]
 }

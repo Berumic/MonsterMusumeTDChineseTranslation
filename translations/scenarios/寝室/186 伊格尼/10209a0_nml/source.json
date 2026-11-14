@@ -1,280 +1,201 @@
 {
-  "scenario_id": "10209a0_nml",
-  "asset_path": "assets/advscene/scenarioexcel/character/10209/10209a0_nml.book.asset",
-  "cache_bundle": "C:\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\57a3f48162849a7061fcc5a9079695151166e99b671502ac5b913c860eec231d\\57a3f48162849a7061fcc5a907969515\\__data",
+  "scenario": "scenario:character/10209/10209A0_Nml",
+  "title": "限界トレーニング",
   "rows": [
     {
-      "row": 7,
       "speaker": "主人公",
       "text": "はぁ……はぁ、はぁ……イグニさんっ……！\nもっ、もう無理ですよぉ……！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 8,
-      "speaker": "イグニファイアードレイク",
+      "speaker": "イグニ",
       "text": "何言ってんだご主人っ！\nまだ始めたばっかだろ！　熱くなれ！　諦めんなよぉっ！",
-      "voice": "ch_10209/R18/10209A0_10209_Nml/10209A0_10209_001",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 9,
       "speaker": "",
       "text": "ある日の午後。\n部屋で休んでいた僕はイグニさんに連れだされ、\n火山地帯でトレーニングをさせられていた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 11,
-      "speaker": "イグニファイアードレイク",
+      "speaker": "イグニ",
       "text": "人間熱くなった時が、ホントの自分に出会えるんだッ！",
-      "voice": "ch_10209/R18/10209A0_10209_Nml/10209A0_10209_002",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 16,
-      "speaker": "イグニファイアードレイク",
+      "speaker": "イグニ",
       "text": "だからっ！　もっと熱くなれよぉぉぉぉっっ！！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 26,
       "speaker": "主人公",
       "text": "なっ、なんでそんなに気合が入ってるんですか？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 27,
       "speaker": "",
       "text": "張り切りすぎたイグニさんは\nこの火山地帯に負けないくらいに熱くなっている。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 29,
-      "speaker": "イグニファイアードレイク",
+      "speaker": "イグニ",
       "text": "なんでだと！？　アタシをよく見ろっ！",
-      "voice": "ch_10209/R18/10209A0_10209_Nml/10209A0_10209_003",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 32,
-      "speaker": "イグニファイアードレイク",
+      "speaker": "イグニ",
       "text": "このパワーアップした姿を！！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 34,
       "speaker": "",
       "text": "ムンと胸を張るイグニさん。\n彼女はサラマンダー娘からファイアードレイク娘へと変化していた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 37,
-      "speaker": "イグニファイアードレイク",
+      "speaker": "イグニ",
       "text": "アタシは！　他のモンスター娘に負けまいと\n一生懸命自分を鍛えて、鍛えて、鍛えまくった！",
-      "voice": "ch_10209/R18/10209A0_10209_Nml/10209A0_10209_004",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 38,
-      "speaker": "イグニファイアードレイク",
+      "speaker": "イグニ",
       "text": "そしてっ！　限界まで身体を鍛えたことで、\nこうして真の自分に出会えたんだ！",
-      "voice": "ch_10209/R18/10209A0_10209_Nml/10209A0_10209_005",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 39,
       "speaker": "主人公",
       "text": "限界まで身体を鍛える……\nそんなことがきっかけで種族の壁を……？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 40,
-      "speaker": "イグニファイアードレイク",
+      "speaker": "イグニ",
       "text": "きっかけは……そう、『本気』！！\n本気になれば自分が変わる！　本気になれば種族も変わる！",
-      "voice": "ch_10209/R18/10209A0_10209_Nml/10209A0_10209_006",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 41,
-      "speaker": "イグニファイアードレイク",
+      "speaker": "イグニ",
       "text": "だからご主人も！",
-      "voice": "ch_10209/R18/10209A0_10209_Nml/10209A0_10209_007",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 42,
-      "speaker": "イグニファイアードレイク",
+      "speaker": "イグニ",
       "text": "もっと！　熱くなれよおおおおぉぉぉぉぉぉっっ！！！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 69,
       "speaker": "",
       "text": "イグニさんの気合に呼応するように\nマグマが噴き出し、熱風が顔に吹き付けた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 70,
       "speaker": "主人公",
       "text": "あ、熱いですね……熱すぎですよ……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 71,
-      "speaker": "イグニファイアードレイク",
+      "speaker": "イグニ",
       "text": "熱い血燃やしてけよ！\nドントウォリー！　ビーハッピー！",
-      "voice": "ch_10209/R18/10209A0_10209_Nml/10209A0_10209_008",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 72,
       "speaker": "",
       "text": "意味は良く分からなかったけど、\nイグニさんの気合に当てられて頑張ろうという気持ちになった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 73,
-      "speaker": "イグニファイアードレイク",
+      "speaker": "イグニ",
       "text": "さあ、今こそ自分の壁を打ち破れ！\n新しいご主人に生まれ変わるんだ！",
-      "voice": "ch_10209/R18/10209A0_10209_Nml/10209A0_10209_009",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 74,
       "speaker": "主人公",
       "text": "わかりました……。\n僕、がんばります！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 75,
-      "speaker": "イグニファイアードレイク",
+      "speaker": "イグニ",
       "text": "よく言った！！\nその意気だぞ、ご主人！！",
-      "voice": "ch_10209/R18/10209A0_10209_Nml/10209A0_10209_010",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 79,
       "speaker": "",
       "text": "僕とイグニさんはガッチリと握手を交わした。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 82,
-      "speaker": "イグニファイアードレイク",
+      "speaker": "イグニ",
       "text": "それじゃあトレーニングを再開するぞ！\n次はマグマ泳ぎ５００キロだ！",
-      "voice": "ch_10209/R18/10209A0_10209_Nml/10209A0_10209_011",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 83,
       "speaker": "主人公",
       "text": "ごひゃっ！？　無理無理！　無理ですよ！\nさっきの腕立て伏せ１００回だってしんどかったのに！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 84,
-      "speaker": "イグニファイアードレイク",
+      "speaker": "イグニ",
       "text": "おいおいご主人、さっきまでの気合はどうしたんだ！\nいつものなよなよした美少年に逆戻りじゃんか！",
-      "voice": "ch_10209/R18/10209A0_10209_Nml/10209A0_10209_012",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 85,
       "speaker": "主人公",
       "text": "言い返したいですけど、もうそれで良いです！\n僕はなよなよしたままで構いません！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 99,
-      "speaker": "イグニファイアードレイク",
+      "speaker": "イグニ",
       "text": "なっ……！！？\nほっ、本気で言ってるのか！？",
-      "voice": "ch_10209/R18/10209A0_10209_Nml/10209A0_10209_013",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 100,
       "speaker": "主人公",
       "text": "そっそうです！　本気です！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 101,
       "speaker": "",
       "text": "ここで負けてはいけないと、僕は力強く頷いた。\nこうして「本気」で向き合えば、\nイグニさんも引いてくれるかと思ったが――。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 128,
-      "speaker": "イグニファイアードレイク",
+      "speaker": "イグニ",
       "text": "ダメダメダメダメ諦めたら！！\nあともうちょっとのところなんだからさあ！",
-      "voice": "ch_10209/R18/10209A0_10209_Nml/10209A0_10209_015",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 129,
-      "speaker": "イグニファイアードレイク",
+      "speaker": "イグニ",
       "text": "必ず目標達成できる！\nだからこそっ！",
-      "voice": "ch_10209/R18/10209A0_10209_Nml/10209A0_10209_016",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 132,
-      "speaker": "イグニファイアードレイク",
+      "speaker": "イグニ",
       "text": "ネバーギブアップ！（シャキーン！）",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 133,
       "speaker": "",
       "text": "熱い……熱すぎる……。\nイグニさんの圧が半端じゃない……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 136,
-      "speaker": "イグニファイアードレイク",
+      "speaker": "イグニ",
       "text": "さあ！　気合を入れなおして腕立て１００回だ！\nご主人、今度は諦めんなよ！　絶対出来る！　さあ頑張れ！",
-      "voice": "ch_10209/R18/10209A0_10209_Nml/10209A0_10209_017",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 137,
       "speaker": "主人公",
       "text": "えぇっ！？　また１００回ってそんなの――。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 138,
-      "speaker": "イグニファイアードレイク",
+      "speaker": "イグニ",
       "text": "はい無理って言わない！！\nとにかくやる！！　ご主人なら出来る！　頑張れ！！",
-      "voice": "ch_10209/R18/10209A0_10209_Nml/10209A0_10209_018",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 139,
       "speaker": "",
       "text": "今のイグニさんに僕の言葉は届かなかった。\nこうして彼女の猛トレーニングは\n僕が完全に燃え尽きるまで続けられるのだった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     }
   ]
 }

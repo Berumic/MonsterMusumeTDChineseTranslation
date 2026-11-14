@@ -1,294 +1,211 @@
 {
-  "scenario_id": "66034a0_nml",
-  "asset_path": "assets/advscene/scenarioexcel/character/66034/66034a0_nml.book.asset",
-  "cache_bundle": "C:\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\c978ca8a630640ac6d2b6cb2943fea142206584eb1aa475b850d9e200757d516\\c978ca8a630640ac6d2b6cb2943fea14\\__data",
+  "scenario": "scenario:character/66034/66034A0_Nml",
+  "title": "初めてのクリスマス",
   "rows": [
     {
-      "row": 10,
       "speaker": "主人公",
       "text": "……うわぁ、凄いことになってる。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 11,
       "speaker": "",
       "text": "クリスマスになってから魔道巡洋艦が凄いことになっている。\nそんな噂を聞いた僕は気になって様子を見に来たのだが……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 12,
       "speaker": "主人公",
       "text": "電飾で外観がギラギラに飾り付けされてる。\nいったい誰がこんなことを……？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 19,
       "speaker": "",
       "text": "中に入ってみるが、そこもあらゆる場所が飾り付けられ、\nパーティー会場のようだ。ふと、鼻歌が聞こえてくる。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 48,
-      "speaker": "ラプルムXmas",
+      "speaker": "ラプルム",
       "text": "ふふふふん～♪　ふふふふん～♪\nこっちは完璧だねっ！　次は、モミの木を用意して～♪",
-      "voice": "ch_66034/R18/66034A0_66034_Nml/66034A0_66034_001",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 50,
       "speaker": "主人公",
       "text": "……ラプルムさん？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 54,
       "speaker": "",
       "text": "戦艦の内部に住んでいるラプルムさんが、\n満面の笑みで戦艦の飾り付けをしていた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 57,
-      "speaker": "ラプルムXmas",
+      "speaker": "ラプルム",
       "text": "ふふふ～……ん？",
-      "voice": "ch_66034/R18/66034A0_66034_Nml/66034A0_66034_002",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 71,
-      "speaker": "ラプルムXmas",
+      "speaker": "ラプルム",
       "text": "えっ？　あ、じょ、助手くん！？\nちょ、ちょっと待って！　いきなり失礼じゃないかな！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 72,
       "speaker": "主人公",
       "text": "えっ、えっと、失礼って……？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 73,
-      "speaker": "ラプルムXmas",
+      "speaker": "ラプルム",
       "text": "まさか私が子供みたいに浮かれて飾りつけをしながら、\nクリスマスを楽しんでいるなんて思ってないよね！？",
-      "voice": "ch_66034/R18/66034A0_66034_Nml/66034A0_66034_003",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 74,
       "speaker": "主人公",
       "text": "ええっと……まさにそう思ってますけど……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 75,
-      "speaker": "ラプルムXmas",
+      "speaker": "ラプルム",
       "text": "これはあくまでも！　実験なんだ！\n私の知識にあるクリスマスを再現するための実験だからね！\nだから、ウッキウキして楽しんでたわけじゃないんだよ！",
-      "voice": "ch_66034/R18/66034A0_66034_Nml/66034A0_66034_004",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 76,
-      "speaker": "ラプルムXmas",
+      "speaker": "ラプルム",
       "text": "そういうわけだから飾りつけもモミの木も、\n全部は実験のため！　私のことを子供なんて思わないように！",
-      "voice": "ch_66034/R18/66034A0_66034_Nml/66034A0_66034_005",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 78,
       "speaker": "",
       "text": "……どうやらラプルムさんは初めてのクリスマスで、\nウキウキになって浮かれて準備をしていたらしい。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 79,
       "speaker": "主人公",
       "text": "そうですか……ラプルムさんの衣装も、\nクリスマスらしくて可愛いですね。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 80,
-      "speaker": "ラプルムXmas",
+      "speaker": "ラプルム",
       "text": "む、助手くんも見る目があるね。\nこれもクリスマスのために用意をした特製の衣装だよ。",
-      "voice": "ch_66034/R18/66034A0_66034_Nml/66034A0_66034_006",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 81,
-      "speaker": "ラプルムXmas",
+      "speaker": "ラプルム",
       "text": "やっぱりこういう催し事でのドレスコードは大切だからね。\nクリスマスに向けた準備は完璧さ。\nやっぱり知識だけではなく実践も必要だからね。",
-      "voice": "ch_66034/R18/66034A0_66034_Nml/66034A0_66034_007",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 82,
       "speaker": "主人公",
       "text": "準備って……パーティーでもするんですか？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 83,
-      "speaker": "ラプルムXmas",
+      "speaker": "ラプルム",
       "text": "何を言っているんだい、助手くん？\nパーティーじゃないよ、これはあの人を呼ぶ準備さ！",
-      "voice": "ch_66034/R18/66034A0_66034_Nml/66034A0_66034_008",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 112,
-      "speaker": "ラプルムXmas",
+      "speaker": "ラプルム",
       "text": "そう、あの赤い服に赤い帽子、白いおひげのあの人をね！",
-      "voice": "ch_66034/R18/66034A0_66034_Nml/66034A0_66034_009",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 113,
       "speaker": "主人公",
       "text": "えっ、ええ……！？\nあの方を……ですか！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 114,
-      "speaker": "ラプルムXmas",
+      "speaker": "ラプルム",
       "text": "そうとも！　なにせ、良い子にしかプレゼントはくれないからね。\n確かに私は良い子で、プレゼントを貰えるかもしれないけど、\n万が一のことも考えて準備をしてるんだよ。",
-      "voice": "ch_66034/R18/66034A0_66034_Nml/66034A0_66034_010",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 115,
-      "speaker": "ラプルムXmas",
+      "speaker": "ラプルム",
       "text": "歓迎の気持ちも込めて飾りつけをするのは大切だよね？\nそれに、こんなに光っていればすぐに見つけられるはずだよ。",
-      "voice": "ch_66034/R18/66034A0_66034_Nml/66034A0_66034_011",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 116,
       "speaker": "",
       "text": "ニコニコとしながら嬉しそうにいうラプルムさん。\n……ただ、困った事がある。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 117,
       "speaker": "主人公",
       "text": "（ゲシュペンス島だとあのおじいさんがプレゼントを、\n良い子にくれるって話は聞かないんだよね……）",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 118,
       "speaker": "",
       "text": "このままではラプルムさんの元に来なくて、\n彼女は悲しくて号泣してしまうかもしれない……。\nそんな風に考えた僕は、とある決意をしたのだった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 133,
       "speaker": "主人公",
       "text": "……よし。準備完了だ。\nラプルムさんの寝室はこっちだったよね……？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 134,
       "speaker": "",
       "text": "赤い帽子を被ってあの方のコスプレをした僕は、\nプレゼントを渡すためにラプルムさんの元へ向かっていた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 135,
       "speaker": "主人公",
       "text": "こっちかな？　ええっと、ラプルムさんは……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 144,
       "speaker": "",
       "text": "ぐっすり眠っているラプルムさんの元へと近づく。\n……すると、",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 147,
       "speaker": "",
       "text": "突然警報が鳴り響いた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 152,
-      "speaker": "ラプルムXmas",
+      "speaker": "ラプルム",
       "text": "侵入者だって！？　いったい誰だい！？\n……って、まさかあの人……！？",
-      "voice": "ch_66034/R18/66034A0_66034_Nml/66034A0_66034_012",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 153,
       "speaker": "",
       "text": "僕を見て驚くラプルムさんだが、\n険しい顔を浮かべる。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 156,
-      "speaker": "ラプルムXmas",
+      "speaker": "ラプルム",
       "text": "いいや、そっくりに見えるけど……赤い服のあの人なら、\nこんなミスなんてするはずがない！　偽物め、正体を現せ！",
-      "voice": "ch_66034/R18/66034A0_66034_Nml/66034A0_66034_013",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 158,
       "speaker": "主人公",
       "text": "ご、ごめんなさい！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 159,
       "speaker": "",
       "text": "バレてしまって、観念して声を出した僕。\nああ、このままだとラプルムさんは真実を\n知ってがっかりして……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 162,
-      "speaker": "ラプルムXmas",
+      "speaker": "ラプルム",
       "text": "……助手くんじゃないか！\nまさか、エッチな助手くんが欲しいってお願いに……。\nわざわざ本人が来てくれるだなんて！",
-      "voice": "ch_66034/R18/66034A0_66034_Nml/66034A0_66034_014",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 163,
-      "speaker": "ラプルムXmas",
+      "speaker": "ラプルム",
       "text": "ふふふ、こんな気の利いたプレゼントを贈ってくれるなんて、\n流石は赤い服のあの人だね……！",
-      "voice": "ch_66034/R18/66034A0_66034_Nml/66034A0_66034_015",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 164,
       "speaker": "主人公",
       "text": "……え、ええ……？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 165,
       "speaker": "",
       "text": "結果的にラプルムさんは悲しむことはなく、\n欲しかったプレゼントを手に入れたけども……。\n何となくボクは納得できない気持ちになるのだった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     }
   ]
 }

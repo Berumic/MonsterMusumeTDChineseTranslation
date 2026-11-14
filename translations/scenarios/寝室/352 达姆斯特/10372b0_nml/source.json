@@ -1,280 +1,201 @@
 {
-  "scenario_id": "10372b0_nml",
-  "asset_path": "assets/advscene/scenarioexcel/character/10372/10372b0_nml.book.asset",
-  "cache_bundle": "C:\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\cea9dfafebcf8d0d006addb352e3549a2a3e0757f5b184b3e33bab5c7cb1c4ca\\cea9dfafebcf8d0d006addb352e3549a\\__data",
+  "scenario": "scenario:character/10372/10372B0_Nml",
+  "title": "れっつしゅーてぃんぐ",
   "rows": [
     {
-      "row": 11,
       "speaker": "",
       "text": "その日、僕はダムストーさんと巡回に出ていた。\nと",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 15,
       "speaker": "",
       "text": "言っても島は平和で、特に警戒すべきところはない。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 45,
-      "speaker": "ダムストー城娘コス",
+      "speaker": "ダムストー",
       "text": "いや～平和ですね～！\nこういう日は、自作ゲームのネタを考えるのに最適ですね！",
-      "voice": "ch_10372/R18/10372B0_10372_Nml/10372B0_10372_001",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 46,
       "speaker": "主人公",
       "text": "そういえば、\nダムストーさんは自分でゲームを作ってるんでしたね。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 48,
-      "speaker": "ダムストー城娘コス",
+      "speaker": "ダムストー",
       "text": "ええ、そうです！\nご主人様、私の作った格ゲーにドハマりしてましたよね！",
-      "voice": "ch_10372/R18/10372B0_10372_Nml/10372B0_10372_002",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 62,
-      "speaker": "ダムストー城娘コス",
+      "speaker": "ダムストー",
       "text": "私と何",
-      "voice": "ch_10372/R18/10372B0_10372_Nml/10372B0_10372_003",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 64,
-      "speaker": "ダムストー城娘コス",
+      "speaker": "ダムストー",
       "text": "度も何度も対戦して、<interval=1>何度",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 66,
-      "speaker": "ダムストー城娘コス",
+      "speaker": "ダムストー",
       "text": "も何度も負けて――。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 75,
       "speaker": "ダムストー",
       "text": "ふふっ♪\n屈伸あおりに顔真っ赤になってたご主人様、可愛かったです♪",
-      "voice": "ch_10372/R18/10372B0_10372_Nml/10372B0_10372_004",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 78,
       "speaker": "主人公",
       "text": "ぐ……嫌な記憶が……。<interval=0.8>\n",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 84,
       "speaker": "主人公",
       "text": "僕はゲームのことは良く分かりませんけど、\nそもそも、あのゲームは色々調整がおかしかったですよ！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 92,
       "speaker": "主人公",
       "text": "それに、ダムストーさんのプレイ作法も良くなかったと思います。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 93,
-      "speaker": "ダムストー城娘コス",
+      "speaker": "ダムストー",
       "text": "ひぃぃっ！　かなり",
-      "voice": "ch_10372/R18/10372B0_10372_Nml/10372B0_10372_005",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 94,
-      "speaker": "ダムストー城娘コス",
+      "speaker": "ダムストー",
       "text": "御不満な様子！\nすみませぇえんっっ！！　ゲームはもっと改善しますしっ！\n屈伸あおりも控えますぅっ！　すみま",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 96,
-      "speaker": "ダムストー城娘コス",
+      "speaker": "ダムストー",
       "text": "せぇんんんんんっ！！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 99,
-      "speaker": "ダムストー城娘コス",
+      "speaker": "ダムストー",
       "text": "きっと……きっとご主人様の満足のいくゲームを作りますぅっ！\nですからっ、なにとぞっ！　なにとぞお許しをぉぉぉっ！！",
-      "voice": "ch_10372/R18/10372B0_10372_Nml/10372B0_10372_006",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 100,
       "speaker": "",
       "text": "ダムストーさんが特技（？）のフライング土下座で謝罪してくる。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 103,
       "speaker": "主人公",
       "text": "そ、そこまで全力で謝らないでください。\n僕が満足するようなゲームだって、別に作らなくても――。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 105,
-      "speaker": "ダムストー城娘コス",
+      "speaker": "ダムストー",
       "text": "いえ！　すぐに作ります！\nゲーム作りは勢いが大切ですからっ！",
-      "voice": "ch_10372/R18/10372B0_10372_Nml/10372B0_10372_007",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 117,
       "speaker": "",
       "text": "そう言うと、ダムストーさんはふわりと宙に浮かんだ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 126,
-      "speaker": "ダムストー城娘コス",
+      "speaker": "ダムストー",
       "text": "うーん……ご主人様が楽しめるゲームは……。\n格ゲーをブラッシュアップする……？\nいや、思い切ってジャンルを変えて……？",
-      "voice": "ch_10372/R18/10372B0_10372_Nml/10372B0_10372_008",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 127,
       "speaker": "主人公",
       "text": "ダムストーさん？　何をしているんです？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 129,
       "speaker": "",
       "text": "ダムストーさんは宙に浮かんだまま、<interval=0.8>\nうなったり、<interval=1.2>怒",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 131,
       "speaker": "",
       "text": "ったり<interval=1.2>泣",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 133,
       "speaker": "",
       "text": "き顔になったりと落ち着かない様子だ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 134,
-      "speaker": "ダムストー城娘コス",
+      "speaker": "ダムストー",
       "text": "ご主人様が楽しめる、新作ゲームの構想を練ってるんです！",
-      "voice": "ch_10372/R18/10372B0_10372_Nml/10372B0_10372_009",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 135,
-      "speaker": "ダムストー城娘コス",
+      "speaker": "ダムストー",
       "text": "最近はふわふわ浮かぶのが好きで、\nこうしてると良いアイディアが湧いてくるんですっ！",
-      "voice": "ch_10372/R18/10372B0_10372_Nml/10372B0_10372_010",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 138,
       "speaker": "主人公",
       "text": "もともと飛べましたよね……？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 139,
-      "speaker": "ダムストー城娘コス",
+      "speaker": "ダムストー",
       "text": "そうですよ～！\nでも、私ゲームしながら飛んでましたから、\n木にぶつかっちゃったりして危なかったんですけど――。",
-      "voice": "ch_10372/R18/10372B0_10372_Nml/10372B0_10372_011",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 140,
-      "speaker": "ダムストー城娘コス",
+      "speaker": "ダムストー",
       "text": "今はぶつかってもガッキーン！　ですしっ、\nそれに浮かんでるとなんだか気分がいいんですっ！",
-      "voice": "ch_10372/R18/10372B0_10372_Nml/10372B0_10372_012",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 141,
-      "speaker": "ダムストー城娘コス",
+      "speaker": "ダムストー",
       "text": "ややっ！\n喋ってたら早速アイディアが下りてきましたよっ！",
-      "voice": "ch_10372/R18/10372B0_10372_Nml/10372B0_10372_013",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 154,
       "speaker": "",
       "text": "ダムストーさんは興奮した様子で、シュタッと地面に降り立った。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 158,
-      "speaker": "ダムストー城娘コス",
+      "speaker": "ダムストー",
       "text": "テーマは空に浮く島を見つける冒険！\n横スクロールのシューティングゲームにしましょう！",
-      "voice": "ch_10372/R18/10372B0_10372_Nml/10372B0_10372_014",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 159,
       "speaker": "主人公",
       "text": "シューティング……なるほど？\nダムストーさん、すごいヤル気ですね。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 160,
-      "speaker": "ダムストー城娘コス",
+      "speaker": "ダムストー",
       "text": "はいっ！\nではっ、早速ゲーム制作に入りたいと思います！　ではっ！",
-      "voice": "ch_10372/R18/10372B0_10372_Nml/10372B0_10372_015",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 163,
       "speaker": "",
       "text": "ダムストーさんはこの勢いを逃すまいと、\n急いで空へ飛んで行った。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 164,
       "speaker": "主人公",
       "text": "頑張って下さ――<interval=1>って、",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 167,
       "speaker": "主人公",
       "text": "待って下さい！　まだ巡回中ですよ！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 169,
       "speaker": "",
       "text": "僕の声は大空へと舞い上がったダムストーさんには届かなかった。\nそして、後に完成したゲームは物騒なセリフが多いと言うことで、\n偉大な獣神の手によってお蔵入りにされてしまうのだった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     }
   ]
 }

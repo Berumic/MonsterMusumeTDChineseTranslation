@@ -1,364 +1,261 @@
 {
-  "scenario_id": "10384a0_nml",
-  "asset_path": "assets/advscene/scenarioexcel/character/10384/10384a0_nml.book.asset",
-  "cache_bundle": "C:\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\21409db077e821f018949f45f9a939dac6f80dc871d2290ec099b6f5c46a4906\\21409db077e821f018949f45f9a939da\\__data",
+  "scenario": "scenario:character/10384/10384A0_Nml",
+  "title": "海のおねショタ警察",
   "rows": [
     {
-      "row": 15,
       "speaker": "",
       "text": "真っ青な空の下に――",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 20,
       "speaker": "",
       "text": "同じくらい美しい海が広がっている。\nその日、僕はノノアさんと一緒に海岸線を巡回していた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 23,
       "speaker": "ノノア",
       "text": "ワッ、ワワ～ン♪\n",
-      "voice": "ch_10384/R18/10384A0_10384_Nml/10384A0_10384_001",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 28,
       "speaker": "ノノア",
       "text": "今日のーノノアはぁ～♪　ご主人のパートナーポリスだワーン♪",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 29,
       "speaker": "ノノア",
       "text": "今日のーノノアはー♪\nご主人のフィアンセ＆ポリスだワーン♪",
-      "voice": "ch_10384/R18/10384A0_10384_Nml/10384A0_10384_002",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 32,
       "speaker": "主人公",
       "text": "えっと……<interval=0.4>ノノアさん。\n歌うのは構わないんですけど、\n僕はノノアさんのフィアンセじゃないですからね？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 34,
       "speaker": "ノノア",
       "text": "それは違うワン！\nノノアはご主人のフィアンセなんだワン！！",
-      "voice": "ch_10384/R18/10384A0_10384_Nml/10384A0_10384_003",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 37,
       "speaker": "主人公",
       "text": "な、<interval=0.4>なぜそう言い切れるんです！？　本人の僕が否定してるのに！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 38,
       "speaker": "ノノア",
       "text": "ご主人は記憶を失って、海岸に倒れていたワン？",
-      "voice": "ch_10384/R18/10384A0_10384_Nml/10384A0_10384_004",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 39,
       "speaker": "主人公",
       "text": "ええ、そうですね。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 42,
       "speaker": "ノノア",
       "text": "そのご主人を海岸へ運んだのは……<interval=2>実は、\nノ",
-      "voice": "ch_10384/R18/10384A0_10384_Nml/10384A0_10384_005",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 44,
       "speaker": "ノノア",
       "text": "ノアなんだワーン！　<size=20>なんだワーン、<size=18>ワーン、<size=16>ワーン……！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 45,
       "speaker": "",
       "text": "ノノアさんは得意げに胸を張った。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 48,
       "speaker": "主人公",
       "text": "じ、自分でエコーをかけなくても……<interval=0.4>それ、本当なんですか？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 49,
       "speaker": "ノノア",
       "text": "本当だワン！\nその時、ノノアは海のおねショタ警察として、\n海中をパトロールしてたんだワン！",
-      "voice": "ch_10384/R18/10384A0_10384_Nml/10384A0_10384_006",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 50,
       "speaker": "ノノア",
       "text": "そして、見つけたワン！\nとんでもない美少年を――それが、<interval=4.5>ご主人……",
-      "voice": "ch_10384/R18/10384A0_10384_Nml/10384A0_10384_007",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 51,
       "speaker": "ノノア",
       "text": "だったと思うワン！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 54,
       "speaker": "",
       "text": "ノノアさんの自信が後半急速に失速した。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 55,
       "speaker": "主人公",
       "text": "なんかうろ覚えじゃないですか……？　<interval=0.4>見間違えなんじゃあ……？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 57,
       "speaker": "ノノア",
       "text": "ちっ、違うワン！　あれはご主人ワン！\nワカメっぽいのがプカプカ浮かんで、\nコンブっぽいのも、ゆらゆら～って波に揺られてたワン！",
-      "voice": "ch_10384/R18/10384A0_10384_Nml/10384A0_10384_008",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 60,
       "speaker": "主人公",
       "text": "……それ、僕の要素あります？　<interval=0.4>完全に海藻では……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 61,
       "speaker": "ノノア",
       "text": "ご主人ワン！　水の中で言ってたワン！\n「ノノアチャーン、ミーのフィアンセになるのデース」って！",
-      "voice": "ch_10384/R18/10384A0_10384_Nml/10384A0_10384_009",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 63,
       "speaker": "主人公",
       "text": "僕の要素皆無ですね。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 65,
       "speaker": "ノノア",
       "text": "何を言うワン！　あ、あれはご主人だったワン！\nノノアが見間違えるはずないワン！",
-      "voice": "ch_10384/R18/10384A0_10384_Nml/10384A0_10384_010",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 66,
       "speaker": "ノノア",
       "text": "だって、ノノアはおねショタ警察隊長ワン！\n隊長が間違えるはずないワン！",
-      "voice": "ch_10384/R18/10384A0_10384_Nml/10384A0_10384_011",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 68,
       "speaker": "主人公",
       "text": "いや、そんなことは――<interval=0.4>…",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 70,
       "speaker": "主人公",
       "text": "…って、<interval=0.4>\nノノアさんがおねショタ警察の隊長？　<interval=0.4>テルルさんじゃなく？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 72,
       "speaker": "ノノア",
       "text": "はぁ……ご主人も騙されてるワン。\nその昔、おねショタ警察隊長の座を巡って、\nノノアとテルルは争っていたんだワン。",
-      "voice": "ch_10384/R18/10384A0_10384_Nml/10384A0_10384_012",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 73,
       "speaker": "ノノア",
       "text": "お互いが隊長の座を一歩も譲らず、\nわんワン言い争う日々が続き――。",
-      "voice": "ch_10384/R18/10384A0_10384_Nml/10384A0_10384_013",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 74,
       "speaker": "ノノア",
       "text": "結局、隊長の座は決まらないまま、\nノノアはファロルーチェさまの命で、\n海の美少年を守る旅へと出かけたんだワン。",
-      "voice": "ch_10384/R18/10384A0_10384_Nml/10384A0_10384_014",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 76,
       "speaker": "ノノア",
       "text": "以上だワン！\nご主人、これでどっちが隊長か分かったはずだワン！",
-      "voice": "ch_10384/R18/10384A0_10384_Nml/10384A0_10384_015",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 79,
       "speaker": "主人公",
       "text": "えぇっ！？　隊長は決まってないって話では！？\nどちらがって、そんな決定的なところありました！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 80,
       "speaker": "ノノア",
       "text": "じゃあ今決めるワン！\nおねショタ警察の隊長を、今、ご主人が決めるワーン！",
-      "voice": "ch_10384/R18/10384A0_10384_Nml/10384A0_10384_016",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 81,
       "speaker": "ノノア",
       "text": "ご主人が選ぶ、おねショタ警察の真の隊長は――！！\nド",
-      "voice": "ch_10384/R18/10384A0_10384_Nml/10384A0_10384_017",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 83,
       "speaker": "ノノア",
       "text": "ルルルルルルゥ……！！！！（ドラムロール）",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 84,
       "speaker": "",
       "text": "僕が選ぶ、おねショタ警察の隊長は――。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 85,
-      "speaker": "*テルル",
+      "speaker": "",
       "text": "テルル",
-      "voice": "",
-      "command": "Selection"
+      "choice": true
     },
     {
-      "row": 86,
-      "speaker": "*ノノア",
+      "speaker": "",
       "text": "ノノア",
-      "voice": "",
-      "command": "Selection"
+      "choice": true
     },
     {
-      "row": 89,
       "speaker": "ノノア",
       "text": "<size=30>ワーーーーーーーーーン！！！！？",
-      "voice": "ch_10384/R18/10384A0_10384_Nml/10384A0_10384_018",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 91,
       "speaker": "ノノア",
       "text": "なんてことだワン！！！\nご主人っ！　信じてたのに裏切ったワンっ！！！！\nオンドルルラギッタワン！！！",
-      "voice": "ch_10384/R18/10384A0_10384_Nml/10384A0_10384_019",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 94,
       "speaker": "主人公",
       "text": "おっ、落ち着いてください！\nべつに裏切ったわけでは――。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 95,
       "speaker": "ノノア",
       "text": "この誤った選択が、冥界への入り口となることを、\nご主人は、まだ知る由もなかったワン……。",
-      "voice": "ch_10384/R18/10384A0_10384_Nml/10384A0_10384_020",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 99,
       "speaker": "主人公",
       "text": "不穏な予告をしないでください！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 103,
       "speaker": "ノノア",
       "text": "ワフッフー♪　ワンワンワン！！　さっすがご主人ワン！",
-      "voice": "ch_10384/R18/10384A0_10384_Nml/10384A0_10384_021",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 104,
       "speaker": "ノノア",
       "text": "ノノアの隊長オーラを感じとるとは流石ワン！\nはなまるあげるワン！",
-      "voice": "ch_10384/R18/10384A0_10384_Nml/10384A0_10384_022",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 107,
       "speaker": "主人公",
       "text": "ど、<interval=0.4>どうも……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 108,
       "speaker": "ノノア",
       "text": "ご主人がおっ死んだら、\nノノアが直々に魂を来世に運んであげるワン！",
-      "voice": "ch_10384/R18/10384A0_10384_Nml/10384A0_10384_023",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 111,
       "speaker": "主人公",
       "text": "あ、<interval=0.4>ありがとうございます……。\nなんか、素直に喜べませんね……それ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 114,
       "speaker": "主人公",
       "text": "ま、<interval=0.4>まあどちらが隊長かはともかくとして。\nノノアさん、海岸の見回りを続けましょう。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 116,
       "speaker": "ノノア",
       "text": "なんでワン！　そこっ、大事なとこワン！\nご主人っ、ノノアの思い出話も交えつつ、\n真の隊長について、たっぷり議論するワーンっ！",
-      "voice": "ch_10384/R18/10384A0_10384_Nml/10384A0_10384_024",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 120,
       "speaker": "",
       "text": "ノノアさんに抱き着かれながら、海岸線を進む。\nどちらが隊長かはともかく、\nテルルさんもノノアさんもよく似ていると思うのだった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     }
   ]
 }

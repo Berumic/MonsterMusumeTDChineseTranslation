@@ -1,224 +1,161 @@
 {
-  "scenario_id": "66048a0_nml",
-  "asset_path": "assets/advscene/scenarioexcel/character/66048/66048a0_nml.book.asset",
-  "cache_bundle": "C:\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\30052ca93851786fadecd7a8d1913beb7381799bf592dccc12e4236d30f26491\\30052ca93851786fadecd7a8d1913beb\\__data",
+  "scenario": "scenario:character/66048/66048A0_Nml",
+  "title": "純愛おねショタひな祭り",
   "rows": [
     {
-      "row": 7,
       "speaker": "",
       "text": "あたたかな陽気に包まれたある日、\n僕はマズルさんに食堂へと呼び出されていた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 8,
       "speaker": "主人公",
       "text": "なんだろう、マズルさんの用事って。\nしかも妙な着替えまで事前に送ってきて……。\n頑張って着てみたけど、これで合ってるのかなぁ？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 11,
-      "speaker": "マズルひな祭り",
+      "speaker": "マズル",
       "text": "あっ、主人さま～♪\nようこそっす！",
-      "voice": "ch_66048/R18/66048A0_66048_Nml/66048A0_66048_001",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 12,
       "speaker": "主人公",
       "text": "えっ！？　どうしたんですか、その恰好！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 13,
-      "speaker": "マズルひな祭り",
+      "speaker": "マズル",
       "text": "これはお雛様っすよ！\nなんたって今日はひな祭りっすから！",
-      "voice": "ch_66048/R18/66048A0_66048_Nml/66048A0_66048_002",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 14,
       "speaker": "主人公",
       "text": "ひな祭り……？　そういえば、\nココノハさんから、妖怪島にはそういうお祭りがあるって、\n前に聞いたような……？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 16,
-      "speaker": "マズルひな祭り",
+      "speaker": "マズル",
       "text": "そうっす、そうっす！\nなんでも、健康や幸せを祈るためのお祭りみたいで、\n純愛おねショタを正義とする者として見逃せないと思ったっす！",
-      "voice": "ch_66048/R18/66048A0_66048_Nml/66048A0_66048_003",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 17,
       "speaker": "主人公",
       "text": "そ、そうなんですね。\nでもマズルさん、普段と違う雰囲気で……、\nえっと、すっごく綺麗です！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 20,
-      "speaker": "マズルひな祭り",
+      "speaker": "マズル",
       "text": "本当っすか！？　嬉しいっす！！\n十二単っていうらしいんすけど、結構着るの大変で……。\nでもキミに褒めてもらえたなら、頑張ったかいがあったっす！",
-      "voice": "ch_66048/R18/66048A0_66048_Nml/66048A0_66048_004",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 21,
-      "speaker": "マズルひな祭り",
+      "speaker": "マズル",
       "text": "主人さまもすごく似合ってるっすよ！\n主人さまのは束帯衣装っていうらしいっす。\nマズルと主人さま、二人合わせて、お内裏様なんすって！",
-      "voice": "ch_66048/R18/66048A0_66048_Nml/66048A0_66048_005",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 22,
       "speaker": "主人公",
       "text": "お内裏様……？　あまり聞いたことのない言葉ですけど、\nそれってどういうものなんですか？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 23,
-      "speaker": "マズルひな祭り",
+      "speaker": "マズル",
       "text": "お内裏様っていうのはざっくり、ひな祭りで一番偉い人っす！\nなので、今日の主役は主人さまとマズルなんすよ！",
-      "voice": "ch_66048/R18/66048A0_66048_Nml/66048A0_66048_006",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 24,
       "speaker": "主人公",
       "text": "へぇ……詳しいですね、マズルさん！　すごいです！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 25,
-      "speaker": "マズルひな祭り",
+      "speaker": "マズル",
       "text": "ふっふっふっ……今日を迎えるために、たくさん勉強したっすから。\n今のマズルはゲシュペンス島一のひな祭りマスターと言っても、\n過言じゃないっすよ！",
-      "voice": "ch_66048/R18/66048A0_66048_Nml/66048A0_66048_007",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 26,
-      "speaker": "マズルひな祭り",
+      "speaker": "マズル",
       "text": "あっ、お菓子もたくさん用意したんすよ！\nこっちっす、主人さま！",
-      "voice": "ch_66048/R18/66048A0_66048_Nml/66048A0_66048_008",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 38,
       "speaker": "",
       "text": "ご機嫌なマズルさんについていくと、\nテーブルには見たことのないカラフルなお菓子が並んでいた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 41,
       "speaker": "主人公",
       "text": "なんだか、すごく綺麗なお菓子ですね。\nこれも、ひな祭りの？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 42,
-      "speaker": "マズルひな祭り",
+      "speaker": "マズル",
       "text": "ひなあられっていうらしいっすよ。\n色にもそれぞれ意味があって～……。\nえーっと……ま、まあ、どれもいい意味だったはずっす！",
-      "voice": "ch_66048/R18/66048A0_66048_Nml/66048A0_66048_009",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 43,
-      "speaker": "マズルひな祭り",
+      "speaker": "マズル",
       "text": "さあ、主人さま。\nえ、えーとぉ……あっ、あ～～～んっ！",
-      "voice": "ch_66048/R18/66048A0_66048_Nml/66048A0_66048_010",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 44,
       "speaker": "",
       "text": "マズルさんがひなあられを一つ摘まんで、僕の口元へと運ぶ。\n顔を真っ赤にしたマズルさんを前に、僕も照れくささを感じつつ、\n言われた通り、口を開けた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 45,
       "speaker": "主人公",
       "text": "あ、あーん……んっ。\n甘じょっぱくて美味しいです！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 46,
-      "speaker": "マズルひな祭り",
+      "speaker": "マズル",
       "text": "えへへっ、主人さま、主人さま！\nマズルにも、あーんして欲しいっす！",
-      "voice": "ch_66048/R18/66048A0_66048_Nml/66048A0_66048_011",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 47,
       "speaker": "主人公",
       "text": "え、あ……は、はい。\nあ～ん……！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 49,
-      "speaker": "マズルひな祭り",
+      "speaker": "マズル",
       "text": "あ～～～んっ！\nへへへっ、主人様に食べさせてもらうと、\n何倍マシで美味しいっす。やっぱり純愛は最高っす！",
-      "voice": "ch_66048/R18/66048A0_66048_Nml/66048A0_66048_012",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 50,
-      "speaker": "マズルひな祭り",
+      "speaker": "マズル",
       "text": "それに、こうやって一緒のお祭りの衣装を着て、\nお菓子を食べさせあってたら……、\nな、なんだか、夫婦みたいじゃないっすか！？",
-      "voice": "ch_66048/R18/66048A0_66048_Nml/66048A0_66048_013",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 51,
       "speaker": "主人公",
       "text": "ふ、夫婦！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 52,
-      "speaker": "マズルひな祭り",
+      "speaker": "マズル",
       "text": "……なんて、はしゃぎすぎかもっすけど、\nでも、せっかくのお祭りっすから！\nちょっとくらい……いいっすよね？",
-      "voice": "ch_66048/R18/66048A0_66048_Nml/66048A0_66048_014",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 53,
       "speaker": "",
       "text": "恥ずかしがりながらも、嬉しそうに目を輝かせるマズルさん。\n僕を喜ばせるためにいっぱい準備してくれたのが伝わってくる。\nそんなまっすぐな好意が、素直に嬉しかった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 54,
-      "speaker": "マズルひな祭り",
+      "speaker": "マズル",
       "text": "ほ、ほら、主人さま！　お餅もあるっすよ！\nすっごく美味しいっすよ！",
-      "voice": "ch_66048/R18/66048A0_66048_Nml/66048A0_66048_015",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 55,
       "speaker": "主人公",
       "text": "はいっ。いただきますっ！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 56,
       "speaker": "",
       "text": "僕らはこの二人っきりの小さなお祭りを、\n心ゆくまで全力で楽しむのだった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     }
   ]
 }

@@ -1,224 +1,161 @@
 {
-  "scenario_id": "10199b0_nml",
-  "asset_path": "assets/advscene/scenarioexcel/character/10199/10199b0_nml.book.asset",
-  "cache_bundle": "C:\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\39ae96743952d2ad8f912e0a9e4c34d17ac89d71b63283e759630ae2a60690e5\\39ae96743952d2ad8f912e0a9e4c34d1\\__data",
+  "scenario": "scenario:character/10199/10199B0_Nml",
+  "title": "お菓子をくれなきゃ……",
   "rows": [
     {
-      "row": 8,
-      "speaker": "ラゴスハロウィン",
+      "speaker": "ラゴス(ライオン)",
       "text": "トリックオアトリート！！\nお菓子をくれないと、エッチなイタズラをしちゃうぞ～！",
-      "voice": "ch_10199/R18/10199B0_10199_Nml/10199B0_10199_001",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 9,
       "speaker": "主人公",
       "text": "ラゴスさん、来てくれたんですね。\nお菓子を用意して待っていたんですよ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 10,
       "speaker": "",
       "text": "今宵はハロウィンナイト。\n仮装をしたラゴスさんがお菓子をもらいにやってきた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 22,
-      "speaker": "ラゴスハロウィン",
+      "speaker": "ラゴス(ライオン)",
       "text": "クソッ！　ご主人、用意が良すぎるぜ……。\nお菓子なんかよりもエッチなイタズラをさせて欲しかったのに！",
-      "voice": "ch_10199/R18/10199B0_10199_Nml/10199B0_10199_002",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 23,
       "speaker": "主人公",
       "text": "はは、残念でしたね。\nそう言わずにお菓子だけでも受け取ってください。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 24,
       "speaker": "",
       "text": "貞操を守れてホッとした僕。\nお菓子の入ったカゴをラゴスさんへと差し出した。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 26,
       "speaker": "",
       "text": "ラゴスさんはしぶしぶお菓子を受け取ろうとする。\nだけどその手が急に止まって……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 27,
-      "speaker": "ラゴスハロウィン",
+      "speaker": "ラゴス(ライオン)",
       "text": "おい、ご主人。お菓子はこれで全部なのか？\n１つだけしか残ってないじゃないか。",
-      "voice": "ch_10199/R18/10199B0_10199_Nml/10199B0_10199_003",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 28,
       "speaker": "主人公",
       "text": "はい。今日はたくさんのお客さんが来てくれたから、\nお菓子があらかた売れてしまって……ラゴスさんには\n余りもので申し訳ないですけど。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 30,
-      "speaker": "ラゴスハロウィン",
+      "speaker": "ラゴス(ライオン)",
       "text": "ほーう。そうか、そうなんだな～……♪",
-      "voice": "ch_10199/R18/10199B0_10199_Nml/10199B0_10199_004",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 31,
       "speaker": "主人公",
       "text": "ど、どうしたんですか？　急にニヤッとして。\nなにか悪い予感がするんですけど……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 34,
-      "speaker": "ラゴスハロウィン",
+      "speaker": "ラゴス(蛇)",
       "text": "――ねぇねぇご主人、わたしの分のお菓子はないの？",
-      "voice": "ch_10199/R18/10199B0_10199_Nml/10199B0_10199_005",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 35,
       "speaker": "主人公",
       "text": "ですからそのお菓子が最後で――\n……って、その口調はもしかして！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 37,
-      "speaker": "ラゴスハロウィン",
+      "speaker": "ラゴス(ヤギ)",
       "text": "あの。もしやわたくしたちみんなの分は\n用意してくれていないってことですか？",
-      "voice": "ch_10199/R18/10199B0_10199_Nml/10199B0_10199_006",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 39,
-      "speaker": "ラゴスハロウィン",
+      "speaker": "ラゴス(ライオン)",
       "text": "お菓子が１つしかないんなら、\nどの人格がご主人のお菓子を食べられるか、\n壮絶な争奪戦になっちまうな！",
-      "voice": "ch_10199/R18/10199B0_10199_Nml/10199B0_10199_007",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 40,
       "speaker": "",
       "text": "ラゴスさんは不思議な性格をしていて、\n３つの人格と１つの主人格が存在している。\nそのことをうっかり忘れていた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 41,
       "speaker": "主人公",
       "text": "も、もしかして……ラゴスさんの人格、\n全員分のお菓子を用意しないといけなかったですか？\nでも、今さらどこへ行ってもお菓子は手に入りませんよ……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 43,
-      "speaker": "ラゴスハロウィン",
+      "speaker": "ラゴス(ライオン)",
       "text": "じゃあ、お菓子が足りないってことでイタズラ確定だな！\nおっし！　ご主人、覚悟はできてるか？",
-      "voice": "ch_10199/R18/10199B0_10199_Nml/10199B0_10199_008",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 44,
       "speaker": "主人公",
       "text": "や、やっぱり僕にヒドイことをする気なんですね……。\nエッチな同人誌みたいに！！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 74,
-      "speaker": "ラゴスハロウィン",
+      "speaker": "ラゴス(蛇)",
       "text": "ふふっ、安心して……。\nご主人の嫌がることをするつもりはないよ。",
-      "voice": "ch_10199/R18/10199B0_10199_Nml/10199B0_10199_009",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 78,
       "speaker": "",
       "text": "そう言うとラゴスさんから不思議な光が放たれた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 80,
       "speaker": "",
       "text": "光がおさまると、カゴの中はお菓子で山盛りとなり、\nさらには部屋中にカボチャの置物や飾りつけまで現れる。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 82,
-      "speaker": "ラゴスハロウィン",
+      "speaker": "ラゴス(ヤギ)",
       "text": "今日のご主人さまは、\n島のみなさんにひたすらお菓子を配っていたんですよね？\nであればたまには、わたくしたちに甘えちゃってください。",
-      "voice": "ch_10199/R18/10199B0_10199_Nml/10199B0_10199_010",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 83,
       "speaker": "主人公",
       "text": "それってどういう……もしかして、\n僕がこのお菓子をもらっていいってことですか？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 85,
-      "speaker": "ラゴスハロウィン",
+      "speaker": "ラゴス(ライオン)",
       "text": "当然だろ？\n好きなだけもらってくれていいからな！\n遠慮なく食べてくれ♪",
-      "voice": "ch_10199/R18/10199B0_10199_Nml/10199B0_10199_011",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 86,
       "speaker": "主人公",
       "text": "あ……ありがとうございます！！\nイタズラされるって、勝手に勘違いしてすみませんでした。\nそれじゃあ早速、いただきます！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 87,
       "speaker": "",
       "text": "僕はラゴスさんにお礼を言いつつ、\nおいしそうなお菓子をいくつか口に放り込んだ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 89,
-      "speaker": "ラゴスハロウィン",
+      "speaker": "ラゴス(蛇)",
       "text": "ふふっ、手をつけたね……。言っておくけどこのお菓子は\n<size=30>『わたしたち４人』</size>からだから。\n今度はご主人がその分のお返しをしないといけないよぉ♪",
-      "voice": "ch_10199/R18/10199B0_10199_Nml/10199B0_10199_012",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 90,
       "speaker": "主人公",
       "text": "え、それってまさか……ラゴスさんがくれたお菓子から、\n僕のあげたお菓子の差額分をお返ししろってことですか？\nもうあげる物のない僕に、いったいどうやって……！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 93,
-      "speaker": "ラゴスハロウィン",
+      "speaker": "ラゴス(蛇)",
       "text": "ふふふふっ♪　今日はハロウィンだよ……。\nまさか何もイタズラされずに済むと、本気で思ってた？",
-      "voice": "ch_10199/R18/10199B0_10199_Nml/10199B0_10199_013",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 94,
       "speaker": "",
       "text": "こうして僕は対策の甲斐なく、\nやはりエッチなことを迫られてしまうのであった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     }
   ]
 }

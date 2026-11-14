@@ -1,287 +1,206 @@
 {
-  "scenario_id": "10372a0_nml",
-  "asset_path": "assets/advscene/scenarioexcel/character/10372/10372a0_nml.book.asset",
-  "cache_bundle": "C:\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\31f546bc4a59609c0621b11e7e3faa9c0cc6c65d22ed040f53e3d46bc245e467\\31f546bc4a59609c0621b11e7e3faa9c\\__data",
+  "scenario": "scenario:character/10372/10372A0_Nml",
+  "title": "狙い撃ちます！",
   "rows": [
     {
-      "row": 29,
       "speaker": "",
       "text": "その日、\n僕はダムストーさんに誘われ、森へ狩りに出かけていた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 32,
-      "speaker": "ダムストー城娘コス",
+      "speaker": "ダムストー",
       "text": "ふっふ～♪　フゥッフーゥッ♪\nいい天気ですね～！　絶好の狩猟日和ですね～！",
-      "voice": "ch_10372/R18/10372A0_10372_Nml/10372A0_10372_001",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 34,
-      "speaker": "ダムストー城娘コス",
+      "speaker": "ダムストー",
       "text": "皆さんのために！\n私っ、獲物い～っぱいとっちゃいますよぉ～っ！",
-      "voice": "ch_10372/R18/10372A0_10372_Nml/10372A0_10372_002",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 35,
       "speaker": "",
       "text": "いつものゲーム機ではなく、\n銃を抱えているダムストーさんはなんだか上機嫌だった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 39,
-      "speaker": "ダムストー城娘コス",
+      "speaker": "ダムストー",
       "text": "獲物を前に、私はこう言うんです。<interval=3>\n「私たちに見つかった以上、逃げられませんよ……」",
-      "voice": "ch_10372/R18/10372A0_10372_Nml/10372A0_10372_003",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 42,
       "speaker": "主人公",
       "text": "私たち……？<interval=0.4>　僕とダムストーさんのことですか？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 43,
-      "speaker": "ダムストー城娘コス",
+      "speaker": "ダムストー",
       "text": "フッ……。\nこの銃『アダマント・レイ』と……<interval=4>私、ですっ……！",
-      "voice": "ch_10372/R18/10372A0_10372_Nml/10372A0_10372_004",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 47,
       "speaker": "",
       "text": "ダムストーさんは「ドヤァ！」みたいなキメ顔をしている。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 48,
       "speaker": "主人公",
       "text": "……なんだかダムストーさん、<interval=0.4>テ",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 51,
       "speaker": "主人公",
       "text": "ンション高いですね。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 55,
-      "speaker": "ダムストー城娘コス",
+      "speaker": "ダムストー",
       "text": "ひぃっ！？　すみませんっ！\nご不快でしたか！？　ご不快でしたよね！？\nすみませんすみませんっすみませんんんんぅぅぅぅぅっ！！！",
-      "voice": "ch_10372/R18/10372A0_10372_Nml/10372A0_10372_005",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 60,
       "speaker": "",
       "text": "さっきまで上機嫌だったダムストーさんは、\n目にもとまらぬ早さでフライング土下座をキメた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 62,
-      "speaker": "ダムストー城娘コス",
+      "speaker": "ダムストー",
       "text": "ごめんなさいごめんなさいっ！\n銃を持つことができてっ、テンション上がっちゃったんですぅっ！",
-      "voice": "ch_10372/R18/10372A0_10372_Nml/10372A0_10372_006",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 65,
-      "speaker": "ダムストー城娘コス",
+      "speaker": "ダムストー",
       "text": "ご不快でしたよね！？　すみませんすみませんっ！\n私なんか狩りなんかせず、\n牢獄で楽隠居してたほうがいいですよねっ！　すみませんぅっ！",
-      "voice": "ch_10372/R18/10372A0_10372_Nml/10372A0_10372_007",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 69,
       "speaker": "主人公",
       "text": "そこまで言ってませんよ！<interval=0.4>\n土下座はいいですから、立ち上がって……、<interval=0.4>\nあっ、見て下さい！　鳥がいますよ！　狙えるんじゃないですか？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 75,
       "speaker": "",
       "text": "僕は木々の間から辛うじて見える小鳥を指さした。\n",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 82,
       "speaker": "",
       "text": "「ビーチ",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 85,
       "speaker": "",
       "text": "ク<interval=0.4>チンピク<interval=0.4>センシティブ」と、\n不愉快な鳴き声を響かせている。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 88,
-      "speaker": "ダムストー城娘コス",
+      "speaker": "ダムストー",
       "text": "あっ、あれは『ショタウカラ』！\n見た目可愛いのに、言うことは下品な小鳥です！",
-      "voice": "ch_10372/R18/10372A0_10372_Nml/10372A0_10372_008",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 91,
       "speaker": "主人公",
       "text": "この島は本当にロクな動物がいない……。\nしかし、向こうはこちらに気づいていません。\nダムストーさん、チャンスですよ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 95,
-      "speaker": "ダムストー城娘コス",
+      "speaker": "ダムストー",
       "text": "そうですね！<interval=1>\nでは……<interval=3>狙い撃ちます！",
-      "voice": "ch_10372/R18/10372A0_10372_Nml/10372A0_10372_009",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 98,
       "speaker": "",
       "text": "ダムストーさんが鳥に銃口を向ける。\nそして、引き金に指をかけて――。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 103,
-      "speaker": "ダムストー城娘コス",
+      "speaker": "ダムストー",
       "text": "すっ、すみませんんんぅぅぅぅっ！！！<interval=1.5>\n撃",
-      "voice": "ch_10372/R18/10372A0_10372_Nml/10372A0_10372_010",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 105,
-      "speaker": "ダムストー城娘コス",
+      "speaker": "ダムストー",
       "text": "てませぇぇぇんんんんんんんっ！！！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 110,
       "speaker": "",
       "text": "ダムストーさんは恐ろしい速度で再び土下座をキメた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 120,
       "speaker": "主人公",
       "text": "撃てないって……、\nああもう、土下座はいいですから、ほら立ってください。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 121,
-      "speaker": "ダムストー城娘コス",
+      "speaker": "ダムストー",
       "text": "うぅ……すみませんぅ……。\nなんだか、撃つのが可哀想だと思っちゃったんですぅ……。",
-      "voice": "ch_10372/R18/10372A0_10372_Nml/10372A0_10372_011",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 122,
       "speaker": "主人公",
       "text": "……なるほど。ダムストーさんらしいですね。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 125,
-      "speaker": "ダムストー城娘コス",
+      "speaker": "ダムストー",
       "text": "えっ……？\nそれって、<interval=2>役立たずで<interval=2>穀潰しで<interval=2>シスコンの無能ってことです……？",
-      "voice": "ch_10372/R18/10372A0_10372_Nml/10372A0_10372_012",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 128,
       "speaker": "主人公",
       "text": "そこまでは言ってません！\n優しいってことです！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 130,
-      "speaker": "ダムストー城娘コス",
+      "speaker": "ダムストー",
       "text": "ご……ご主人様ぁ……♪　うぅ、お優しい……。",
-      "voice": "ch_10372/R18/10372A0_10372_Nml/10372A0_10372_013",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 132,
-      "speaker": "ダムストー城娘コス",
+      "speaker": "ダムストー",
       "text": "でっ、でもでもっ！\nせっかく狩りに出たのに収穫がないと……、\nご主人様は……困りますよね？",
-      "voice": "ch_10372/R18/10372A0_10372_Nml/10372A0_10372_014",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 133,
       "speaker": "主人公",
       "text": "それは……まあ、そうかもしれませんね？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 136,
-      "speaker": "ダムストー城娘コス",
+      "speaker": "ダムストー",
       "text": "……よぉし、わかりました！\nでは、撃って撃って、撃ちまくります！\nいっぱい獲って、ご主人様をお腹いっぱい食べさせるんです！",
-      "voice": "ch_10372/R18/10372A0_10372_Nml/10372A0_10372_015",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 139,
-      "speaker": "ダムストー城娘コス",
+      "speaker": "ダムストー",
       "text": "怠惰な者には不幸を！　下品な鳥には冷たい絶望を！\n私の相棒が火を吹きますよ！！！",
-      "voice": "ch_10372/R18/10372A0_10372_Nml/10372A0_10372_016",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 140,
       "speaker": "",
       "text": "ダムストーさんが瞳に妖しい火を灯し、\n木々を舐めるように視線を動かし、潜む獲物を探す。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 141,
       "speaker": "主人公",
       "text": "ちょっ、ちょっとダムストーさん！\n少し落ち着きましょう、\n物騒な感じが……いや、危険な感じがしますよ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 145,
-      "speaker": "ダムストー城娘コス",
+      "speaker": "ダムストー",
       "text": "ええぇっ！？\nまた調子に乗りすぎました！？　すみませんすみませんっ！",
-      "voice": "ch_10372/R18/10372A0_10372_Nml/10372A0_10372_017",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 149,
       "speaker": "",
       "text": "再び土下座するダムストーさん。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 151,
       "speaker": "",
       "text": "アップダウンの激しい彼女を落ち着かせるのに手いっぱいで、\n結局、狩りの継続は不可能になるのだった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     }
   ]
 }

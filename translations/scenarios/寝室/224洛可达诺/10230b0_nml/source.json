@@ -1,273 +1,196 @@
 {
-  "scenario_id": "10230b0_nml",
-  "asset_path": "assets/advscene/scenarioexcel/character/10230/10230b0_nml.book.asset",
-  "cache_bundle": "C:\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\0b7e8c0cef3c1f3f23609d68008dd6d76b8c22e5cb53e4d944d5f6ce6408c3e4\\0b7e8c0cef3c1f3f23609d68008dd6d7\\__data",
+  "scenario": "scenario:character/10230/10230B0_Nml",
+  "title": "大事なものは卵の殻に",
   "rows": [
     {
-      "row": 8,
       "speaker": "主人公",
       "text": "あいたたっ……！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 9,
       "speaker": "",
       "text": "僕は今、足を擦りむいてうずくまっている。\n山を散歩している途中に派手に転んでしまったのだ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 10,
       "speaker": "主人公",
       "text": "……はあ、ちょっと恥ずかしいな――",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 20,
       "speaker": "主人公",
       "text": "うわっ、また暗く！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 24,
       "speaker": "ログダンノ",
       "text": "お、あるじじゃないか！\nさらに小さくなってどうかしたのか？",
-      "voice": "ch_10230/R18/10230B0_10230_Nml/10230B0_10230_001",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 25,
       "speaker": "",
       "text": "また周囲が突然暗くなったかと思うと、\nログダンノさんが空から降りてきた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 35,
       "speaker": "主人公",
       "text": "小さくなっては余計ですよ……！\n実はちょっと怪我をしちゃいまして。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 38,
       "speaker": "ログダンノ",
       "text": "<size=30>けが！？　だ、誰かに襲われたのか！？\nもしかして、さっき船で島にきた人間か！？</size>",
-      "voice": "ch_10230/R18/10230B0_10230_Nml/10230B0_10230_002",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 52,
       "speaker": "ログダンノ",
       "text": "まったく、われのつがいを襲うなんて！\n踏みつぶしてやらねば！",
-      "voice": "ch_10230/R18/10230B0_10230_Nml/10230B0_10230_003",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 53,
       "speaker": "主人公",
       "text": "違いますよ！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 54,
       "speaker": "",
       "text": "いつもはおおらかなログダンノさんが怒りをあらわにしている。\n……このままでは本当に\n島にきたばかりの人間たちを踏みつぶしに行きそうだ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 55,
       "speaker": "ログダンノ",
       "text": "われのつがいは優しいな。\nかばわなくていいんだぞ？　すぐ戻るからな！",
-      "voice": "ch_10230/R18/10230B0_10230_Nml/10230B0_10230_004",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 56,
       "speaker": "主人公",
       "text": "いや、本当に違うんです。ただ転んだだけですって！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 57,
       "speaker": "ログダンノ",
       "text": "転んだ……？",
-      "voice": "ch_10230/R18/10230B0_10230_Nml/10230B0_10230_005",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 60,
       "speaker": "ログダンノ",
       "text": "そうか、あるじはドジなんだな。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 61,
       "speaker": "主人公",
       "text": "う、否定できないです。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 62,
       "speaker": "",
       "text": "転んだことをこんなに強調するのは恥ずかしいが、\nその甲斐あってログダンノさんの怒りは落ち着いたようだ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 64,
       "speaker": "ログダンノ",
       "text": "しかし、大丈夫なのか？\n血も出ているし、痛そうだぞ。",
-      "voice": "ch_10230/R18/10230B0_10230_Nml/10230B0_10230_006",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 65,
       "speaker": "主人公",
       "text": "大丈夫ですよ。すぐに消毒して治療しますから。\nそのうち治ります。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 66,
       "speaker": "ログダンノ",
       "text": "ふむ、それならいいが、人間は本当にもろいのだな。",
-      "voice": "ch_10230/R18/10230B0_10230_Nml/10230B0_10230_007",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 69,
       "speaker": "ログダンノ",
       "text": "そうだ、いいことを思いついたぞ！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 70,
       "speaker": "主人公",
       "text": "いいこと、ですか？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 71,
       "speaker": "ログダンノ",
       "text": "ああ！　もうすぐわれは産卵の時期なのだ。\nだから、その卵の殻にあるじを住ませてやろう！",
-      "voice": "ch_10230/R18/10230B0_10230_Nml/10230B0_10230_008",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 72,
       "speaker": "主人公",
       "text": "どういうことです！？\nツッコミどころが多いんですけど！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 73,
       "speaker": "ログダンノ",
       "text": "あ、誤解するな。\nわれは雄がいなくても卵が産めるのだ。\nだから、浮気はしてないぞ！",
-      "voice": "ch_10230/R18/10230B0_10230_Nml/10230B0_10230_009",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 74,
       "speaker": "主人公",
       "text": "それはよかったです。\n……じゃなくて、なんで僕を卵の殻に住ませるんです！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 75,
       "speaker": "ログダンノ",
       "text": "われの卵はとっても大きく、\n温かくて人間には快適だと聞いた！",
-      "voice": "ch_10230/R18/10230B0_10230_Nml/10230B0_10230_010",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 76,
       "speaker": "ログダンノ",
       "text": "実際一度、人間が勝手に\n『ドーム状の家だ』と住み着いたことがあってな。\nその時は勝手に割るなと踏みつけたが。",
-      "voice": "ch_10230/R18/10230B0_10230_Nml/10230B0_10230_011",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 77,
       "speaker": "主人公",
       "text": "踏みつけたんですか？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 78,
       "speaker": "ログダンノ",
       "text": "卵を傷つけたのだ。当たり前だろう？",
-      "voice": "ch_10230/R18/10230B0_10230_Nml/10230B0_10230_012",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 79,
       "speaker": "主人公",
       "text": "た、確かに大事なものですから、仕方ないですかね……？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 80,
       "speaker": "ログダンノ",
       "text": "そうだろう。そうだろう！\nけれど、つがいのおまえさんも卵と同じように大事なものだ。\n絶対に守らないといけない。",
-      "voice": "ch_10230/R18/10230B0_10230_Nml/10230B0_10230_013",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 83,
       "speaker": "ログダンノ",
       "text": "というわけで大事な卵に大事なつがいを囲えば、\n守りやすいし、万事解決かと思ってな！　わはは！\nどうだ、いい考えだろう！",
-      "voice": "ch_10230/R18/10230B0_10230_Nml/10230B0_10230_014",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 84,
       "speaker": "主人公",
       "text": "ええと、大切に思ってくれるのはうれしいですが、\nつがいって卵に住ませるものですか？\nそもそも子どものものじゃ……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 86,
       "speaker": "ログダンノ",
       "text": "おおっと、それはそうだな。\nまあ、細かいことは気にするな！　わはは！",
-      "voice": "ch_10230/R18/10230B0_10230_Nml/10230B0_10230_015",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 87,
       "speaker": "主人公",
       "text": "いや、細かいことですかね！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 88,
       "speaker": "",
       "text": "豪快に笑うログダンノさんに僕はツッコミを入れた。\nこのままでは本当に卵に\n住ませそうだと思って説得を続ける。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 89,
       "speaker": "",
       "text": "だが、先ほどのように怒りをあらわにするより、\nこっちのほうが彼女らしいなと思い、\nどこか安心もする僕なのだった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     }
   ]
 }

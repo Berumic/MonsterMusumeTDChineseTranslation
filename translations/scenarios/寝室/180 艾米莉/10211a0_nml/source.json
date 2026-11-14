@@ -1,294 +1,211 @@
 {
-  "scenario_id": "10211a0_nml",
-  "asset_path": "assets/advscene/scenarioexcel/character/10211/10211a0_nml.book.asset",
-  "cache_bundle": "C:\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\b04f93ae8fa49f7fbe10248c1f60223b8bd38f3d5ae884e1749dea90fa82cc10\\b04f93ae8fa49f7fbe10248c1f60223b\\__data",
+  "scenario": "scenario:character/10211/10211A0_Nml",
+  "title": "シャウティング効果",
   "rows": [
     {
-      "row": 7,
       "speaker": "",
       "text": "運動会が間近に迫った日のこと。\n「放課後の校庭から奇妙な声が聞こえる」\nと報告があり、僕は調査にやってきていた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 8,
       "speaker": "主人公",
       "text": "うぅ……。\n奇妙な声って一体……怖いなぁ……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 9,
       "speaker": "",
       "text": "校庭を恐る恐る探索していると、\n噂の声はすぐに聞こえてきた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 11,
-      "speaker": "アメリ運動会",
+      "speaker": "？？？",
       "text": "<size=30>どぉぉりゃぁああっ！\n地獄の果てまでかっとべ！　ゴーストハンマぁぁあぁっ！</size>",
-      "voice": "ch_10211/R18/10211A0_10211_Nml/10211A0_10211_001",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 13,
       "speaker": "主人公",
       "text": "ぴっ、ぴぃぃぃっ！？　ごめんなさぁいっ！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 15,
       "speaker": "",
       "text": "驚き過ぎてなぜか謝ってしまう。\n校庭で叫んでいたのは――",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 23,
-      "speaker": "アメリ運動会",
+      "speaker": "アメリ",
       "text": "おや？　先生じゃないですか。\nどうしました？　こんなところで土下座して……。",
-      "voice": "ch_10211/R18/10211A0_10211_Nml/10211A0_10211_002",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 24,
-      "speaker": "アメリ運動会",
+      "speaker": "アメリ",
       "text": "まさか、放課後の学校に忍び込んで\n着換えやらリコーダーやらを物色するつもりで……？\n言ってくだされば、私のを差し上げますよ？",
-      "voice": "ch_10211/R18/10211A0_10211_Nml/10211A0_10211_003",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 25,
       "speaker": "主人公",
       "text": "ちっ、違います！！\n奇妙な声が聞こえるっていうから、調査に来たんです！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 36,
-      "speaker": "アメリ運動会",
+      "speaker": "アメリ",
       "text": "……そんな迷惑な方が居るんですか？\nやれやれ……困りましたね。",
-      "voice": "ch_10211/R18/10211A0_10211_Nml/10211A0_10211_004",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 37,
       "speaker": "主人公",
       "text": "いやいや、アメリさんのことですからね！？\nさっき「地獄の果てまで～」とか叫んでたじゃないですか！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 38,
-      "speaker": "アメリ運動会",
+      "speaker": "アメリ",
       "text": "フ……バレてしまっては仕方ありません。\n今度の運動会で活躍するため、\nコーチと特訓中だったのです。",
-      "voice": "ch_10211/R18/10211A0_10211_Nml/10211A0_10211_005",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 39,
       "speaker": "主人公",
       "text": "なるほど――って、コーチはどちらに……？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 40,
       "speaker": "",
       "text": "校庭には僕とアメリさんしか居ない。\nどこにもコーチの姿はなかった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 41,
-      "speaker": "アメリ運動会",
+      "speaker": "アメリ",
       "text": "“はい、こちらゴースト１。\n先生に……ええ、分かりました。\n協力を依頼、ですね？　もちろんです”",
-      "voice": "ch_10211/R18/10211A0_10211_Nml/10211A0_10211_006",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 42,
       "speaker": "主人公",
       "text": "えっと、アメリさん？\nひとりでブツブツ呟いて……何してるんですか？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 43,
-      "speaker": "アメリ運動会",
+      "speaker": "アメリ",
       "text": "虚構と現実の狭間に存在する、\nコーチイマジナリーと連絡を取っていました。",
-      "voice": "ch_10211/R18/10211A0_10211_Nml/10211A0_10211_007",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 44,
       "speaker": "主人公",
       "text": "は、はぁ……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 46,
       "speaker": "",
       "text": "それって空想上の存在ってことじゃないのだろうか。\n思わずそう言いかけたが、\nアメリさんが真剣な顔をしているのでやめる。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 47,
-      "speaker": "アメリ運動会",
+      "speaker": "アメリ",
       "text": "コーチがシャウトの練習を先生にも手伝ってほしいそうです。\n良かったら協力してもらえませんか？",
-      "voice": "ch_10211/R18/10211A0_10211_Nml/10211A0_10211_008",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 48,
       "speaker": "主人公",
       "text": "手伝うのはいいですけど……叫ぶ必要があるんですか？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 49,
-      "speaker": "アメリ運動会",
+      "speaker": "アメリ",
       "text": "ハンマーを投げる際、思い切り叫ぶと飛距離が伸びるんです。\nたとえばですね――",
-      "voice": "ch_10211/R18/10211A0_10211_Nml/10211A0_10211_009",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 52,
       "speaker": "",
       "text": "アメリさんがくるっと回転し、ハンマーを投げる真似をする。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 61,
-      "speaker": "アメリ運動会",
+      "speaker": "アメリ",
       "text": "えーーーーいっ☆　ぶっとび～～～っ☆",
-      "voice": "ch_10211/R18/10211A0_10211_Nml/10211A0_10211_010",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 62,
-      "speaker": "アメリ運動会",
+      "speaker": "アメリ",
       "text": "という萌え声でシャウトしてみたり、あとは――",
-      "voice": "ch_10211/R18/10211A0_10211_Nml/10211A0_10211_011",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 65,
       "speaker": "",
       "text": "再びくるっと回転し、ハンマーを投げる真似をする。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 73,
-      "speaker": "アメリ運動会",
+      "speaker": "アメリ",
       "text": "うおっしゃあ！　鉄球入魂！　大遠投ーっ！",
-      "voice": "ch_10211/R18/10211A0_10211_Nml/10211A0_10211_012",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 74,
-      "speaker": "アメリ運動会",
+      "speaker": "アメリ",
       "text": "と、野太い声でやってみたりと、\nいろいろ試しているのですが……なかなかしっくりいかなくて。",
-      "voice": "ch_10211/R18/10211A0_10211_Nml/10211A0_10211_013",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 75,
-      "speaker": "アメリ運動会",
+      "speaker": "アメリ",
       "text": "ですので先生。\n先生のシャウトを聴かせてくれませんか？",
-      "voice": "ch_10211/R18/10211A0_10211_Nml/10211A0_10211_014",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 77,
       "speaker": "",
       "text": "アメリさんが僕に向かってぺこりと頭を下げる。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 78,
       "speaker": "主人公",
       "text": "ぼっ、僕が叫ぶんですか！？　今！？　ここで！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 79,
-      "speaker": "アメリ運動会",
+      "speaker": "アメリ",
       "text": "ええ、そうです。\n伸び悩んでいる生徒の為に、ぜひお願いします。",
-      "voice": "ch_10211/R18/10211A0_10211_Nml/10211A0_10211_015",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 80,
       "speaker": "主人公",
       "text": "くっ……そう言われては断れませんね。では――",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 83,
       "speaker": "",
       "text": "生徒の為に力を尽くすのは教師の務めだ。\nくるっと回転し、ハンマーを投げる真似をする。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 86,
       "speaker": "主人公",
       "text": "いっ、いっけぇぇーっ！！　僕のハンマーッ！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 87,
       "speaker": "",
       "text": "恥ずかしい絶叫が夕暮れのグラウンドに響き渡った。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 93,
-      "speaker": "アメリ運動会",
+      "speaker": "アメリ",
       "text": "なるほど……流石は先生。\nあざとく可愛く、応援したくなる良いシャウトでした。",
-      "voice": "ch_10211/R18/10211A0_10211_Nml/10211A0_10211_016",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 94,
       "speaker": "主人公",
       "text": "う、うぅ……冷静に言われるとなんだか恥ずかしいです……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 95,
-      "speaker": "アメリ運動会",
+      "speaker": "アメリ",
       "text": "ああ……良いですね。\n投げ終わったあとの、その恥じらい……。\nなるほどなるほど……素晴らしいです。",
-      "voice": "ch_10211/R18/10211A0_10211_Nml/10211A0_10211_017",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 96,
       "speaker": "主人公",
       "text": "とっ、というか！\n叫ぶ練習じゃなくて、投げる練習をしましょうよ！！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 97,
       "speaker": "",
       "text": "魂の籠った叫びが響き渡っていく。\nこの件がきっかけで、放課後の校庭で少年の萌え声が聞こえる\nという新たな噂が広がることを、この時の僕はまだ知らなかった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     }
   ]
 }

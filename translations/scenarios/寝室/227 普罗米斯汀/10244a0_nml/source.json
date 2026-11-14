@@ -1,266 +1,191 @@
 {
-  "scenario_id": "10244a0_nml",
-  "asset_path": "assets/advscene/scenarioexcel/character/10244/10244a0_nml.book.asset",
-  "cache_bundle": "C:\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\663341b31661bdfd60a9501165bb4770093ae1c0759d1bf09aa2a26394b0c48f\\663341b31661bdfd60a9501165bb4770\\__data",
+  "scenario": "scenario:character/10244/10244A0_Nml",
+  "title": "食べられてみてください",
   "rows": [
     {
-      "row": 22,
       "speaker": "",
       "text": "ゲシュペンス島に滞在して数日、\n僕は森を散歩していた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 30,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "わあ、珍しい植物がいっぱいだな",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 31,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "……ん？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 35,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "プロメスティン！\nそんなところで何してるの？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 37,
-      "speaker": "プロメスティンもんくえ",
+      "speaker": "プロメスティン",
       "text": "ああ、私はゲシュペンス島の\n食虫植物の生態について研究していたんです。",
-      "voice": "ch_10244/R18/10244A0_10244_Nml/10244A0_10244_001",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 38,
-      "speaker": "プロメスティンもんくえ",
+      "speaker": "プロメスティン",
       "text": "ほら、見てください。\nこれはこの島でしか見られない食虫植物です。\nあざやかな花弁の下にある葉で捕食するんですよ。",
-      "voice": "ch_10244/R18/10244A0_10244_Nml/10244A0_10244_002",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 39,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "へえ……これ、食虫植物なんだ。\n綺麗なのにちょっとショックかも。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 40,
-      "speaker": "プロメスティンもんくえ",
+      "speaker": "プロメスティン",
       "text": "どうしてですか？　綺麗なのは当たり前でしょう？\n餌をおびき寄せなければならないんですから。",
-      "voice": "ch_10244/R18/10244A0_10244_Nml/10244A0_10244_003",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 41,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "それはそうなんだけどさ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 43,
-      "speaker": "プロメスティンもんくえ",
+      "speaker": "プロメスティン",
       "text": "それよりちょうどいいところに来てくれました。",
-      "voice": "ch_10244/R18/10244A0_10244_Nml/10244A0_10244_004",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 44,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "え、ちょうどいいって……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 46,
       "speaker": "",
       "text": "そういうとプロメスティンは目を輝かせて僕に近づいてきた。\n……なんだかとても嫌な予感がする。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 48,
-      "speaker": "プロメスティンもんくえ",
+      "speaker": "プロメスティン",
       "text": "ちょっとこの植物に食べられてくれません？",
-      "voice": "ch_10244/R18/10244A0_10244_Nml/10244A0_10244_005",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 53,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "いやだよ！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 54,
-      "speaker": "プロメスティンもんくえ",
+      "speaker": "プロメスティン",
       "text": "なぜですか？　この植物について観察したいのです。",
-      "voice": "ch_10244/R18/10244A0_10244_Nml/10244A0_10244_006",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 55,
-      "speaker": "プロメスティンもんくえ",
+      "speaker": "プロメスティン",
       "text": "虫や小動物を与えてはいますが、\nこの個体はもっと巨大なものを食せるみたいですし。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 56,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "だからって、なんで僕が",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 60,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "――うわっ！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 61,
       "speaker": "",
       "text": "プロメスティンの要望を断固拒否していたら、\nいきなり食虫植物のツルが伸び、僕を拘束してしまう。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 63,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "え、ええええ！？　何このツル！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 64,
-      "speaker": "プロメスティンもんくえ",
+      "speaker": "プロメスティン",
       "text": "な、まさか捕食するために\nツルをここまで伸ばすとは……",
-      "voice": "ch_10244/R18/10244A0_10244_Nml/10244A0_10244_007",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 65,
-      "speaker": "プロメスティンもんくえ",
+      "speaker": "プロメスティン",
       "text": "大変興味深いです！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 69,
       "speaker": "",
       "text": "ツルでぐるぐる巻きにされた僕は\nだんだんと植物の口に引きずられていく。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 70,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "うわあああ、ほどけない！\nぐうっ……このままじゃ……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 71,
-      "speaker": "プロメスティンもんくえ",
+      "speaker": "プロメスティン",
       "text": "ふむ、急に活動的になりましたね。\n今までの餌ではこのような行動はとらなかったのですが。",
-      "voice": "ch_10244/R18/10244A0_10244_Nml/10244A0_10244_008",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 72,
-      "speaker": "プロメスティンもんくえ",
+      "speaker": "プロメスティン",
       "text": "もしかしたらモンスター娘の性質が\n植物にも適用されているのかもしれません。",
-      "voice": "ch_10244/R18/10244A0_10244_Nml/10244A0_10244_009",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 73,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "何呑気に言って……",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 74,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "いやあ、やめてーーー！！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 76,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "ぎゃあああ！！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 105,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "はあ、はあ、死ぬかと思った……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 106,
       "speaker": "",
       "text": "口の中に入れられはしたが、\n危機一髪、何とか脱出することができた。\nほっと息をついていると……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 107,
-      "speaker": "プロメスティンもんくえ",
+      "speaker": "プロメスティン",
       "text": "いや、この食虫植物\nまだあなたのことを捕食しようとしていますよ。",
-      "voice": "ch_10244/R18/10244A0_10244_Nml/10244A0_10244_010",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 108,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "ええええ、なんで！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 109,
-      "speaker": "プロメスティンもんくえ",
+      "speaker": "プロメスティン",
       "text": "先ほど提言した通り、モンスター娘と同じように\nこの食虫植物の好物は少年のようです。\n捕食するとどうなるのでしょう。興味があります。",
-      "voice": "ch_10244/R18/10244A0_10244_Nml/10244A0_10244_011",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 110,
-      "speaker": "プロメスティンもんくえ",
+      "speaker": "プロメスティン",
       "text": "ということで、もう一度食べられませんか？",
-      "voice": "ch_10244/R18/10244A0_10244_Nml/10244A0_10244_012",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 112,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "絶対いやだよ！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 113,
       "speaker": "",
       "text": "僕は伸びてくるツルを必死によけつつ、\nその場から命からがら逃げ出すのだった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     }
   ]
 }

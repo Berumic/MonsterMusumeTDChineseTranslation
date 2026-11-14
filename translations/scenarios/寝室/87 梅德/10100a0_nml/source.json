@@ -1,308 +1,216 @@
 {
-  "scenario_id": "10100a0_nml",
-  "asset_path": "assets/advscene/scenarioexcel/character/10100/10100a0_nml.book.asset",
-  "cache_bundle": "C:\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\441d3d1031b59a460ec0c04d141a944caa358aee6ab6912e8254d5f2b69a61da\\441d3d1031b59a460ec0c04d141a944c\\__data",
+  "scenario": "scenario:character/10100/10100A0_Nml",
+  "title": "壊れるほど愛したい",
   "rows": [
     {
-      "row": 7,
       "speaker": "",
       "text": "ゲシュペンス島で過ごす僕に、平和な日常は訪れない。\nそんなことは分かりきっていたはずなのに、\nどこか平和ボケしていた自分を殴ってやりたかった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 36,
       "speaker": "メド",
       "text": "チビ～、愛しているぜ！\nほら、安心してオレの胸に飛び込んでこいよ！",
-      "voice": "ch_10100/R18/10100A0_10100_Nml/10100A0_10100_001",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 37,
       "speaker": "主人公",
       "text": "え、遠慮します！\nまた僕の骨をバキバキに折っちゃうつもりでしょう！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 38,
       "speaker": "メド",
       "text": "いや、次はバキバキじゃなくて、粉々に粉砕するつもりだ。",
-      "voice": "ch_10100/R18/10100A0_10100_Nml/10100A0_10100_002",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 39,
       "speaker": "主人公",
       "text": "なお悪い！！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 40,
       "speaker": "",
       "text": "かれこれ数時間――。\n僕はデーモン娘のメドさんと追いかけっこをしていた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 41,
       "speaker": "",
       "text": "ゲシュペンス島へやってきた彼女は、\n求愛行動と称して、常に僕の命を狙ってくる。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 42,
       "speaker": "メド",
       "text": "素直になれよな、チビ。\nこのオレが自ら壊してやろう、\nなんて人間はオマエが初めてなんだぜ！",
-      "voice": "ch_10100/R18/10100A0_10100_Nml/10100A0_10100_003",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 43,
       "speaker": "メド",
       "text": "つまり、オマエはオレの初恋。\n壊したくて壊したくて仕方ないんだよ！\n嬉しいだろ、このメド様に愛されるんだぜ？",
-      "voice": "ch_10100/R18/10100A0_10100_Nml/10100A0_10100_004",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 44,
       "speaker": "主人公",
       "text": "僕はまだ命が惜しいです！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 46,
       "speaker": "メド",
       "text": "別にヤっちまおうってワケじゃなくて、\nオレの手で壊してやろうってだけだ。物理的にな！",
-      "voice": "ch_10100/R18/10100A0_10100_Nml/10100A0_10100_005",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 47,
       "speaker": "",
       "text": "メドさんは愛するモノほど壊したい、という\n破壊衝動を抱えているらしい。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 48,
       "speaker": "",
       "text": "その昔、彼女が生まれた世界にいた頃は、\n故郷そのものを愛し、壊そうと目論んでいたという。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 49,
       "speaker": "メド",
       "text": "人間ばっかりの世界に追放されてからは、\n毎日がつまんなくてつまんなくて仕方なかったけどよ。\nオマエに会えて、オレの世界は変わった！",
-      "voice": "ch_10100/R18/10100A0_10100_Nml/10100A0_10100_006",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 50,
       "speaker": "メド",
       "text": "上手く言えねーけど、オマエは強い人間だ。\nちっとやそっとじゃ壊れない、そんなニオイがする。",
-      "voice": "ch_10100/R18/10100A0_10100_Nml/10100A0_10100_007",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 51,
       "speaker": "主人公",
       "text": "さすがにメドさんに全力で抱き締められたら、\n僕は潰れてしまいますよ！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 80,
       "speaker": "メド",
       "text": "いいじゃねーか、本望だろ？",
-      "voice": "ch_10100/R18/10100A0_10100_Nml/10100A0_10100_008",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 81,
       "speaker": "主人公",
       "text": "はぁ、はぁ……！\nあーもぅ、この会話が不毛すぎる！！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 85,
       "speaker": "",
       "text": "森の中を全速力で駆け抜けて疲労が増していた僕は、\n荒い呼吸を整えながら、その場で立ち止まった。\nそれに合わせて、メドさんも僕を追いかけるのをやめる。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 87,
       "speaker": "メド",
       "text": "ようやく観念したか？　ほら、諦めてオレに愛されろよ。\n骨が砕けるまで抱き締めて、\n皮膚がすりきれるまで頬ずりしてやる。",
-      "voice": "ch_10100/R18/10100A0_10100_Nml/10100A0_10100_009",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 88,
       "speaker": "",
       "text": "モンスター娘さんならではの、過剰な愛情表現に\n慣れてきた僕でも、身を削られるような抱擁は遠慮したい。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 89,
       "speaker": "主人公",
       "text": "ぼ、僕はか弱い人間です……。\nメドさんなら簡単に壊しちゃえますよ？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 118,
       "speaker": "メド",
       "text": "この間も試してみたけど、\nオマエはうまくオレから逃げて、壊れなかったじゃねーか♪",
-      "voice": "ch_10100/R18/10100A0_10100_Nml/10100A0_10100_010",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 119,
       "speaker": "主人公",
       "text": "あ、愛してるから壊したい、っていう、\nメドさんの考えを否定したいわけじゃありませんけど……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 120,
       "speaker": "メド",
       "text": "あん？　まさかお説教でもする気かよ？",
-      "voice": "ch_10100/R18/10100A0_10100_Nml/10100A0_10100_011",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 121,
       "speaker": "主人公",
       "text": "そ、そうじゃなくて……。\n壊した後はどうするんですか？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 122,
       "speaker": "メド",
       "text": "あぁん？　そんなことは壊した後で考える。",
-      "voice": "ch_10100/R18/10100A0_10100_Nml/10100A0_10100_012",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 123,
       "speaker": "主人公",
       "text": "でも、家とか、武器とかは壊しても直せば、また使えますけど、\n壊れてしまったら、もう２度と\n元に戻らないものもあるじゃないですか。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 124,
       "speaker": "メド",
       "text": "例えば？",
-      "voice": "ch_10100/R18/10100A0_10100_Nml/10100A0_10100_013",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 125,
       "speaker": "主人公",
       "text": "……命です。たとえば、メドさんが僕のことが大好きだから\n壊したいって言ってくれますけど……。\n僕は壊れちゃったら、あなたの前から消えることになります。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 138,
       "speaker": "メド",
       "text": "チビが、オレの前から消える……？\nつまり、物理的に壊したらもう戻らねーってことか？",
-      "voice": "ch_10100/R18/10100A0_10100_Nml/10100A0_10100_014",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 139,
       "speaker": "主人公",
       "text": "はい……。\nそれは、ちょっと僕も寂しいからやめてほしいなぁ……なんて。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 140,
-      "speaker": "メド",
-      "text": "…………。",
-      "voice": "ch_10100/R18/10100A0_10100_Nml/10100A0_10100_015",
-      "command": ""
-    },
-    {
-      "row": 141,
       "speaker": "",
       "text": "メドさんに対して、道徳心や良心に訴えかけても意味はない。\nだからちょっとした質問を投げかけてみたのだが、\n思ったよりも効果的だったのか、彼女は押し黙った。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 153,
       "speaker": "メド",
       "text": "チビがいなくなっちまうのは、つまんねぇからイヤだな。\nでも、オレは愛してるからオマエを壊したい……。",
-      "voice": "ch_10100/R18/10100A0_10100_Nml/10100A0_10100_016",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 155,
       "speaker": "メド",
       "text": "……あー……んー……んん～～～……？",
-      "voice": "ch_10100/R18/10100A0_10100_Nml/10100A0_10100_017",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 158,
       "speaker": "メド",
       "text": "だぁあ！！　面倒くせぇーこと考えるのはやめだ！",
-      "voice": "ch_10100/R18/10100A0_10100_Nml/10100A0_10100_018",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 159,
       "speaker": "主人公",
       "text": "いや、もう少し悩んでくださいよ！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 162,
       "speaker": "メド",
       "text": "いいから、オレに愛されろチビ！\nほら、ぎゅーっ！！",
-      "voice": "ch_10100/R18/10100A0_10100_Nml/10100A0_10100_019",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 163,
       "speaker": "主人公",
       "text": "ヒッ……",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 166,
       "speaker": "主人公",
       "text": "アーっ！！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 167,
       "speaker": "",
       "text": "悪魔の抱擁。まさしくその名にふさわしいほど、\nメドさんからの強烈な抱き締めを喰らってしまう。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 168,
       "speaker": "",
       "text": "そのまま骨が砕ける音を聞きながら\n僕は次第に意識を失っていくのであった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     }
   ]
 }

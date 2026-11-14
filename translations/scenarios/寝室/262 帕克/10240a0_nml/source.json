@@ -1,294 +1,211 @@
 {
-  "scenario_id": "10240a0_nml",
-  "asset_path": "assets/advscene/scenarioexcel/character/10240/10240a0_nml.book.asset",
-  "cache_bundle": "C:\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\5161befda0ee1ce3ad8ca1c562267691f9e726be42174a92d068ec1aa50b8d75\\5161befda0ee1ce3ad8ca1c562267691\\__data",
+  "scenario": "scenario:character/10240/10240A0_Nml",
+  "title": "嘘は許しませんですよ",
   "rows": [
     {
-      "row": 7,
       "speaker": "",
       "text": "僕は妖精の森をひとりで散歩していた。\nのどが渇いたため、川の水で喉を潤す。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 8,
       "speaker": "主人公",
       "text": "……ふう、冷たくておいしい。\nこの森の水は本当に綺麗だなぁ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 9,
       "speaker": "",
       "text": "川の水を両手ですくって、\n改めてその透明さに感心していると――。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 11,
-      "speaker": "パーク",
+      "speaker": "？？？",
       "text": "そこ、何をしてるです！\nこの森で悪さしたら許さないですよ！",
-      "voice": "ch_10240/R18/10240A0_10240_Nml/10240A0_10240_001",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 12,
       "speaker": "主人公",
       "text": "ひええ！？　ご、ごめんなさい……！\nの、喉が渇いたから、お水が飲みたくて。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 13,
       "speaker": "",
       "text": "いきなり注意されてとっさに謝ると、\nパークさんが草むらから音を立てて飛び出してきた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 18,
       "speaker": "パーク",
       "text": "む、誰かと思えば主さんですか。\n……よし、それならいいですよ。\n許してあげます。",
-      "voice": "ch_10240/R18/10240A0_10240_Nml/10240A0_10240_002",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 19,
       "speaker": "パーク",
       "text": "ここの水はおいしいですからね。\n特別です。感謝するのです。",
-      "voice": "ch_10240/R18/10240A0_10240_Nml/10240A0_10240_003",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 20,
       "speaker": "主人公",
       "text": "あ、ありがとうございます……？\nあの、パークさんはどうしてここに？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 21,
       "speaker": "パーク",
       "text": "ふふん、決まってるのです。\n森のパトロールですよ！",
-      "voice": "ch_10240/R18/10240A0_10240_Nml/10240A0_10240_004",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 22,
       "speaker": "主人公",
       "text": "パトロール……？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 23,
       "speaker": "パーク",
       "text": "そうです。森を荒らす悪いやつが多いから、\nわたしが自警団として、\n日夜森の平和を守っているのです！",
-      "voice": "ch_10240/R18/10240A0_10240_Nml/10240A0_10240_005",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 24,
       "speaker": "パーク",
       "text": "そうだ。さっきも森をうろうろしてた悪いやつを、\n懲らしめてきたんですよ。\nどうです、褒めていいんですよ？",
-      "voice": "ch_10240/R18/10240A0_10240_Nml/10240A0_10240_006",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 25,
       "speaker": "主人公",
       "text": "えっ、密猟者ですかね……？\nパトロールお疲れ様です、パークさん。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 26,
       "speaker": "パーク",
       "text": "ふふん、さすが主さん、話がわかります。\nけど、これくらい当たり前――。",
-      "voice": "ch_10240/R18/10240A0_10240_Nml/10240A0_10240_007",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 29,
       "speaker": "",
       "text": "その時、ぐうと大きな音がなる。\nなんだろうと周囲を見渡すと、\nパークさんがお腹を押さえていた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 32,
       "speaker": "パーク",
       "text": "……ううう、お腹が空きました。\nパトロールは体力を使うのです。",
-      "voice": "ch_10240/R18/10240A0_10240_Nml/10240A0_10240_008",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 33,
       "speaker": "主人公",
       "text": "今のはお腹の音だったんですね。\nうーん、何か食べ物があればいいんですけど……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 34,
       "speaker": "パーク",
       "text": "え～……ないんですか？\n人間なら何かおいしいもの持ってると思ったのに……。",
-      "voice": "ch_10240/R18/10240A0_10240_Nml/10240A0_10240_009",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 35,
       "speaker": "主人公",
       "text": "えっと、ごめんなさい。\nいつもならリンさんに貰ったグミとかを持っているんですが、\nちょうど切らしてまして……あ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 36,
       "speaker": "主人公",
       "text": "そういえば、さっき通った道でりんごがなっていました！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 38,
       "speaker": "パーク",
       "text": "りんご！？　わたし、りんご大好きです！",
-      "voice": "ch_10240/R18/10240A0_10240_Nml/10240A0_10240_010",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 39,
       "speaker": "主人公",
       "text": "あはは、それならよかったです。\nえっと、たしかこっちに木が……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 51,
       "speaker": "",
       "text": "パークさんと一緒にりんごの木に向かう。\nしかし、先ほどまでなっていたりんごの実は、\n根こそぎなくなっていた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 52,
       "speaker": "主人公",
       "text": "あれ、おかしいですね。\n誰かにもう食べられて――。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 56,
       "speaker": "パーク",
       "text": "主さん、わたしに嘘ついたんです！？",
-      "voice": "ch_10240/R18/10240A0_10240_Nml/10240A0_10240_011",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 57,
       "speaker": "主人公",
       "text": "ええ！？　嘘じゃないですよ！\n僕が見たときにはりんごはちゃんと――",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 63,
       "speaker": "主人公",
       "text": "ぐえ！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 64,
       "speaker": "パーク",
       "text": "でも、今はないもん！\n主さん、今なってるって言ってたもん！\n嘘は許さないですよ！！",
-      "voice": "ch_10240/R18/10240A0_10240_Nml/10240A0_10240_012",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 65,
       "speaker": "主人公",
       "text": "それも、う、嘘換算ですか……！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 66,
       "speaker": "パーク",
       "text": "わたしが嘘だと思ったから嘘です！",
-      "voice": "ch_10240/R18/10240A0_10240_Nml/10240A0_10240_013",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 70,
       "speaker": "",
       "text": "パークさんは体全体で僕の首を締め出す。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 71,
       "speaker": "主人公",
       "text": "ぐえ……苦しい……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 72,
       "speaker": "パーク",
       "text": "ほら、嘘だって認めるです！\nじゃないともっとお仕置きするですよ！",
-      "voice": "ch_10240/R18/10240A0_10240_Nml/10240A0_10240_014",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 73,
       "speaker": "主人公",
       "text": "ま……まずは、はな……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 74,
       "speaker": "",
       "text": "「まずは放してくれ」と言おうとするも、\n首を絞めつけられ声が出ない。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 75,
       "speaker": "パーク",
       "text": "むむむ、認めない気ですか！？\n主さん、悪い子です！",
-      "voice": "ch_10240/R18/10240A0_10240_Nml/10240A0_10240_015",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 76,
       "speaker": "パーク",
       "text": "ちゃんと悪いことをしたって認めるまで\n絶対放しません！",
-      "voice": "ch_10240/R18/10240A0_10240_Nml/10240A0_10240_016",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 79,
       "speaker": "",
       "text": "嘘は絶対許さないマンのパークさんが、\n小さな手でさらに僕の首をぎゅうっと強く締め付ける。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 80,
       "speaker": "主人公",
       "text": "（や、やばい……息ができなくて、い、いしきが……）",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 81,
       "speaker": "",
       "text": "彼女もやはりモンスター娘なのだ、\nと小さなパークさんを見つめながら、\n僕はすーっと意識が遠のいていくのを感じていたのだった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     }
   ]
 }

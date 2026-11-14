@@ -1,308 +1,221 @@
 {
-  "scenario_id": "10351b0_nml",
-  "asset_path": "assets/advscene/scenarioexcel/character/10351/10351b0_nml.book.asset",
-  "cache_bundle": "C:\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\1bce529bc727c20260ccfbd20ef35a6a78e6fc9c1499bdc7896236ed144f534e\\1bce529bc727c20260ccfbd20ef35a6a\\__data",
+  "scenario": "scenario:character/10351/10351B0_Nml",
+  "title": "一日の終わりに",
   "rows": [
     {
-      "row": 14,
-      "speaker": "ファロリエット水着",
+      "speaker": "ファロリエット",
       "text": "ふわぁ～あ……。\n疲れたぁ～……。",
-      "voice": "ch_10351/R18/10351B0_10351_Nml/10351B0_10351_001",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 15,
       "speaker": "",
       "text": "砂浜に敷いたシートに、",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 17,
       "speaker": "",
       "text": "ファロリエットさんが脱力して倒れ込む。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 33,
-      "speaker": "ファロリエット水着",
+      "speaker": "ファロリエット",
       "text": "えへへぇ。\nご主人様、今日はすごく楽しかったねぇ。",
-      "voice": "ch_10351/R18/10351B0_10351_Nml/10351B0_10351_002",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 34,
       "speaker": "主人公",
       "text": "はい……こんなに思いっきり遊んだの、\nすごく久しぶりでした！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 36,
       "speaker": "",
       "text": "今日はほぼ丸一日、二人でひたすら遊んだ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 48,
       "speaker": "",
       "text": "泳いだり、",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 62,
       "speaker": "",
       "text": "砂でお城を作ったり――。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 69,
       "speaker": "",
       "text": "ずっと遊んでいたものだから、",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 71,
       "speaker": "",
       "text": "日が暮れる頃にはもうすっかり疲れ果ててしまった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 86,
-      "speaker": "ファロリエット水着",
+      "speaker": "ファロリエット",
       "text": "ふふ……いい気分転換になったぁ？",
-      "voice": "ch_10351/R18/10351B0_10351_Nml/10351B0_10351_003",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 87,
       "speaker": "主人公",
       "text": "え？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 88,
-      "speaker": "ファロリエット水着",
+      "speaker": "ファロリエット",
       "text": "ご主人様はゲシュペンス島の主。\nいつもトラブルに巻き込まれて、大変でしょう？",
-      "voice": "ch_10351/R18/10351B0_10351_Nml/10351B0_10351_004",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 90,
-      "speaker": "ファロリエット水着",
+      "speaker": "ファロリエット",
       "text": "だからぁ、たまには頭空っぽにして、\n息抜きさせてあげたいなぁって思ってたのぉ！",
-      "voice": "ch_10351/R18/10351B0_10351_Nml/10351B0_10351_005",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 91,
       "speaker": "主人公",
       "text": "それじゃあ、全部、僕のために……！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 93,
-      "speaker": "ファロリエット水着",
+      "speaker": "ファロリエット",
       "text": "ふふふっ♪\n私の姉の友達の……遠戚に、\n獣神のファロルーチェ様がいらっしゃるでしょう？",
-      "voice": "ch_10351/R18/10351B0_10351_Nml/10351B0_10351_006",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 94,
       "speaker": "主人公",
       "text": "（面倒くさくなって省いた……！）",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 95,
-      "speaker": "ファロリエット水着",
+      "speaker": "ファロリエット",
       "text": "獣神様も、モンスター娘たちを導く存在として、\nあまり気を抜けない日々を送っているでしょ？\nだからご主人様の気持ちが分かるっていうかぁ～。",
-      "voice": "ch_10351/R18/10351B0_10351_Nml/10351B0_10351_007",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 97,
-      "speaker": "ファロリエット水着",
+      "speaker": "ファロリエット",
       "text": "たまには、ぜ～んぶ忘れて、\nぱーっと遊ぶ時間があってもいいと思ったのぉ♪",
-      "voice": "ch_10351/R18/10351B0_10351_Nml/10351B0_10351_008",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 99,
-      "speaker": "ファロリエット水着",
+      "speaker": "ファロリエット",
       "text": "それを提供できるのは、モンスター娘たちでも、\n当然、ビビでもない……この私、\nファロルーチェ様のぉ…………ファロリエットさんだけだよぉ！",
-      "voice": "ch_10351/R18/10351B0_10351_Nml/10351B0_10351_009",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 100,
-      "speaker": "ファロリエット水着",
+      "speaker": "ファロリエット",
       "text": "だって、私は、\nご主人様とのおねショタ、ロリショタを極める、\n最強無敵のお姉ちゃんなんだからぁ！",
-      "voice": "ch_10351/R18/10351B0_10351_Nml/10351B0_10351_010",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 101,
       "speaker": "",
       "text": "得意げに笑うファロリエットさん。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 103,
       "speaker": "",
       "text": "冗談めかしているけれど、\n僕を思ってくれているのが伝わってくる……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 105,
-      "speaker": "ファロリエット水着",
+      "speaker": "ファロリエット",
       "text": "だからぁ……♪\nショタはお姉ちゃんを敬って、\nいーっぱいじゃれてくるべきだと思うのぉ～♪",
-      "voice": "ch_10351/R18/10351B0_10351_Nml/10351B0_10351_011",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 106,
       "speaker": "主人公",
       "text": "（……思ってくれてるんだよね？）",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 107,
       "speaker": "",
       "text": "よだれをだらだら垂らして、",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 109,
       "speaker": "",
       "text": "粘っこい視線を飛ばしてくるファロリエットさんに、\n僕はちょっと不安になった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 110,
-      "speaker": "ファロリエット水着",
+      "speaker": "ファロリエット",
       "text": "んふふっ。\nそういうわけだから、ご主人様、\nご主人様の気分転換になったなら、私は本望だよぉ♪",
-      "voice": "ch_10351/R18/10351B0_10351_Nml/10351B0_10351_012",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 111,
       "speaker": "主人公",
       "text": "でも、そういう意味なら、\nファロリエットさんにも気分転換は必要ですよね。\nなんだか僕ばかり楽しませてもらっちゃったみたいで……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 112,
-      "speaker": "ファロリエット水着",
+      "speaker": "ファロリエット",
       "text": "へ？　私ぃ？\n私は全然、大丈夫だよぉ？\nだ、だって、私、ファロルーチェ様じゃないしぃ……！",
-      "voice": "ch_10351/R18/10351B0_10351_Nml/10351B0_10351_013",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 113,
-      "speaker": "ファロリエット水着",
+      "speaker": "ファロリエット",
       "text": "でも……やっぱり優しいねぇ、ご主人様。\n私はファロルーチェ様じゃないけどぉ……、\nでも、気苦労に無縁ってわけじゃ全然ないし、むしろぉ……。",
-      "voice": "ch_10351/R18/10351B0_10351_Nml/10351B0_10351_014",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 114,
       "speaker": "主人公",
       "text": "ファロリエットさん？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 115,
-      "speaker": "ファロリエット水着",
+      "speaker": "ファロリエット",
       "text": "……ううっ、だめだめぇ！\n私がご主人様に愚痴を吐くとか、\nおねショタ逆転は教義に反するのぉ！",
-      "voice": "ch_10351/R18/10351B0_10351_Nml/10351B0_10351_015",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 116,
-      "speaker": "ファロリエット水着",
+      "speaker": "ファロリエット",
       "text": "まったく、油断も隙もない包容力なんだからぁ。\nこうなったら……えいっ！",
-      "voice": "ch_10351/R18/10351B0_10351_Nml/10351B0_10351_016",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 120,
       "speaker": "",
       "text": "ファロリエットさんは意気込んで……、\nいきなり、水着の端をぺろんとめくってみせてきた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 121,
       "speaker": "主人公",
       "text": "な、なにやってるんですか！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 122,
-      "speaker": "ファロリエット水着",
+      "speaker": "ファロリエット",
       "text": "どう～？　一日中遊んだから、少し日焼けしちゃったのぉ。\n日焼け跡、色っぽいでしょ～？",
-      "voice": "ch_10351/R18/10351B0_10351_Nml/10351B0_10351_017",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 123,
       "speaker": "",
       "text": "挑発されながらも、確かに僕の視線は、",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 125,
       "speaker": "",
       "text": "白と小麦色のコントラストに引き寄せられてしまう。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 126,
-      "speaker": "ファロリエット水着",
+      "speaker": "ファロリエット",
       "text": "ご主人様ぁ？　ちょっと目、怖いよぉ？\nオスの目になっちゃってるよぉ？",
-      "voice": "ch_10351/R18/10351B0_10351_Nml/10351B0_10351_018",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 127,
-      "speaker": "ファロリエット水着",
+      "speaker": "ファロリエット",
       "text": "でも、遠慮しなくていいからねぇ。\nお姉ちゃんに、いーっぱい、\n好きなだけ甘えていいんだからねぇ。",
-      "voice": "ch_10351/R18/10351B0_10351_Nml/10351B0_10351_019",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 128,
       "speaker": "",
       "text": "ファロリエットさんの言葉に、疲れのせいもあって、\n僕は理性をじわじわ奪われていく。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 131,
       "speaker": "",
       "text": "そして誘われるまま、身を委ねてしまうのだった……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     }
   ]
 }

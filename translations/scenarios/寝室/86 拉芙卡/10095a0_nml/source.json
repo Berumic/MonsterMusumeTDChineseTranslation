@@ -1,245 +1,176 @@
 {
-  "scenario_id": "10095a0_nml",
-  "asset_path": "assets/advscene/scenarioexcel/character/10095/10095a0_nml.book.asset",
-  "cache_bundle": "C:\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\feb9924609f51304d7711f12a9f650872694787d5a0825d9bdd338c05ba94625\\feb9924609f51304d7711f12a9f65087\\__data",
+  "scenario": "scenario:character/10095/10095A0_Nml",
+  "title": "夢のお告げと砂掘り",
   "rows": [
     {
-      "row": 10,
       "speaker": "ラフーカ",
       "text": "主人さまっ！　大変だっ！　たいへんだぁ！",
-      "voice": "ch_10095/R18/10095A0_10095_Nml/10095A0_10095_001",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 11,
       "speaker": "",
       "text": "朝、というには早すぎる時間帯に、\nラフーカさんが僕の部屋に飛び込んできた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 12,
       "speaker": "主人公",
       "text": "ぇ……？　あ……？　ラフーカさん……？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 14,
       "speaker": "ラフーカ",
       "text": "主人さまっ！　大変だ！　私は大切なことを思い出したのだ！",
-      "voice": "ch_10095/R18/10095A0_10095_Nml/10095A0_10095_002",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 15,
       "speaker": "主人公",
       "text": "お、落ち着いてください……一体何を思い出したんですか？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 16,
       "speaker": "ラフーカ",
       "text": "かつて、創世記の少年は夢の中で\n「スフィンクス娘ちゃん人形を砂漠から掘り出し、修復すれば、\n玉座を与えられる」というお告げを受け――王となったそうだ！",
-      "voice": "ch_10095/R18/10095A0_10095_Nml/10095A0_10095_003",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 17,
       "speaker": "ラフ―カ",
       "text": "私はその『伝説のスフィンクス娘ちゃん人形』を探していたのだ！\n主人さまと出会い、遊び、すっかりその使命を忘れていた！\nクッ……！　なぜこんな大事なことを……ッ！",
-      "voice": "ch_10095/R18/10095A0_10095_Nml/10095A0_10095_004",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 18,
       "speaker": "主人公",
       "text": "え、えっと……？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 20,
       "speaker": "",
       "text": "興奮しているラフーカさんは、フンスフンスと鼻を鳴らしている。\nなんというか、深夜テンションだ。いつも以上にハイだった。\n大きなリュックを背負い、スコップまで振り回している。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 21,
       "speaker": "主人公",
       "text": "えっと……ラフーカさんは、その人形を探しに行くんですか？\nもしかして、今から……？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 23,
       "speaker": "ラフーカ",
       "text": "その通りだッ！！\n必ずや、伝説のスフィンクス娘ちゃん人形を見つけてみせるぞ！！\nそして、主人さまにプレゼントするからな！！",
-      "voice": "ch_10095/R18/10095A0_10095_Nml/10095A0_10095_005",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 24,
       "speaker": "主人公",
       "text": "ちょ、ちょっと待ってください！　夜の砂漠は危険ですし――\nそれにお告げ通りなら、見つけたラフーカさんが王になるのでは？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 53,
       "speaker": "ラフーカ",
       "text": "はっはっはっ！　案ずるな！　\nもしそうなっても私はすぐに退位し、次の王を主人さまにする！",
-      "voice": "ch_10095/R18/10095A0_10095_Nml/10095A0_10095_006",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 54,
       "speaker": "主人公",
       "text": "（……それはそれでどうなんだろう……）",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 55,
       "speaker": "ラフーカ",
       "text": "ではな！！　行ってくるぞ！！！",
-      "voice": "ch_10095/R18/10095A0_10095_Nml/10095A0_10095_007",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 56,
       "speaker": "主人公",
       "text": "えっ！？　本当に今から！？　そんな装備で大丈夫ですか！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 57,
       "speaker": "ラフーカ",
       "text": "大丈夫だ！！！　問題ない！！！",
-      "voice": "ch_10095/R18/10095A0_10095_Nml/10095A0_10095_008",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 69,
       "speaker": "ラフーカ",
       "text": "ふぅっ……主人さま、どうだろう？　そっちは見つかったか？",
-      "voice": "ch_10095/R18/10095A0_10095_Nml/10095A0_10095_009",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 70,
       "speaker": "主人公",
       "text": "はぁっ……はぁっ……こ、こっちには埋まってないですね……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 71,
       "speaker": "",
       "text": "部屋を飛び出していったラフーカさんが心配になり、\n僕は砂漠にまでついて行っていた。\nお告げの人形を見つける為に、ひたすら穴を掘っている。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 72,
       "speaker": "ラフーカ",
       "text": "伝説のスフィンクス娘ちゃん人形……やはり、手ごわいな！\nしかし私は必ず見つけるぞ！！",
-      "voice": "ch_10095/R18/10095A0_10095_Nml/10095A0_10095_010",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 73,
       "speaker": "主人公",
       "text": "ほ、本当にあるんですか？　伝説のスフィンクス娘ちゃん人形……\nというか僕、その人形の持ち主に心当たりが――。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 75,
       "speaker": "ラフーカ",
       "text": "創世記の少年は\n「スフィンクス娘ちゃん人形をんほぉらし、完堕ちさせれば、\n便座を与えられる」とお告げを受けたらしい！　これは確かだ！",
-      "voice": "ch_10095/R18/10095A0_10095_Nml/10095A0_10095_011",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 76,
       "speaker": "主人公",
       "text": "お告げ、なんか微妙に変わってません……？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 77,
       "speaker": "ラフーカ",
       "text": "そうか……？　気のせいだろう！\nさあ掘るぞ！　探すぞ！　どこまでもっ！　うおぉぉっ！！",
-      "voice": "ch_10095/R18/10095A0_10095_Nml/10095A0_10095_012",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 80,
       "speaker": "主人公",
       "text": "あっ、ちょっ……！？　ラフーカさんの砂！　\nさっきから僕の掘った穴に入ってるんですよ！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 82,
       "speaker": "ラフーカ",
       "text": "私が砂を入れるより、主人さまは更に早く深く掘るのだ！\nこれは試練！　鍛えるのだ！　さすれば王の座にも届く！",
-      "voice": "ch_10095/R18/10095A0_10095_Nml/10095A0_10095_013",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 83,
       "speaker": "主人公",
       "text": "それ、もう主旨変わっちゃってますよね！？\nお告げにあった人形を見つける事が目的でしたよね！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 84,
       "speaker": "ラフーカ",
       "text": "創世記の少年は\n「ロジカを無様にんほぉらせ、農家のおじさんの元へ送り出せば、\n怪しいビデオレターが！」というお告げを聞き――",
-      "voice": "ch_10095/R18/10095A0_10095_Nml/10095A0_10095_014",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 85,
       "speaker": "主人公",
       "text": "もう原型ないですよ！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 87,
       "speaker": "ラフーカ",
       "text": "とにかく掘るのだ！！　栄光への道は険しいものだ！！\n主人さま！　諦めてはダメだ！　うおぉぉぉっ！！",
-      "voice": "ch_10095/R18/10095A0_10095_Nml/10095A0_10095_015",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 90,
       "speaker": "主人公",
       "text": "そっ、そういう問題じゃ……うぷっ！？\nこっちに砂を入れないでくださいってばぁっ！\nうぅ……もう帰りたい……っ！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 91,
       "speaker": "ラフーカ",
       "text": "私たちはようやく登りはじめたばかりなのだ……。\nこの果てしなく遠い、王への道を――。",
-      "voice": "ch_10095/R18/10095A0_10095_Nml/10095A0_10095_016",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 92,
       "speaker": "",
       "text": "地平線の向こうから、ようやく朝日が昇ってき始める。\nラフーカさんは微かな哀愁を滲ませ、眩い光を見つめていた。\nすぐ終わりそうな僕たちの旅は、まだまだ始まったばかりだった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     }
   ]
 }

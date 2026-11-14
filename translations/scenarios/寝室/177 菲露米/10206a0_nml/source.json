@@ -1,252 +1,181 @@
 {
-  "scenario_id": "10206a0_nml",
-  "asset_path": "assets/advscene/scenarioexcel/character/10206/10206a0_nml.book.asset",
-  "cache_bundle": "C:\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\22ea5b05f52123e35622eea5e241383554a08a20ac046632bfa1adfae49ff997\\22ea5b05f52123e35622eea5e2413835\\__data",
+  "scenario": "scenario:character/10206/10206A0_Nml",
+  "title": "ハーピー娘流、秘密特訓",
   "rows": [
     {
-      "row": 7,
       "speaker": "",
       "text": "運動会が数日後に迫ったある日のこと、\n校庭を走っていた僕の目の前に、\nフェルミさんが降りてきた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 11,
-      "speaker": "フェルミ運動会",
+      "speaker": "フェルミ",
       "text": "おーい、先生。\nこんなところで何してんの？",
-      "voice": "ch_10206/R18/10206A0_10206_Nml/10206A0_10206_001",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 12,
       "speaker": "主人公",
       "text": "こんにちは、フェルミさん。\n見ての通り、トレーニングをしてるんですよ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 13,
-      "speaker": "フェルミ運動会",
+      "speaker": "フェルミ",
       "text": "トレーニング？",
-      "voice": "ch_10206/R18/10206A0_10206_Nml/10206A0_10206_002",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 14,
       "speaker": "主人公",
       "text": "今度の運動会、教師対生徒の対抗リレーに\n僕も出場することになりまして、だから少しでも\n走力アップをと思って、こうして走り込みをしてるんです。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 16,
       "speaker": "",
       "text": "と、僕は走るジェスチャーをする。\nへーえと、一応フェルミさんは\n興味深そうな反応をしてくれた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 17,
-      "speaker": "フェルミ運動会",
+      "speaker": "フェルミ",
       "text": "それで、少しは早く走れるようになれたわけ？",
-      "voice": "ch_10206/R18/10206A0_10206_Nml/10206A0_10206_003",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 18,
       "speaker": "主人公",
       "text": "いやぁ、そう簡単にはなかなか。\nおまけに僕は体力もなさすぎて\nすぐに息も上がってしまって。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 19,
-      "speaker": "フェルミ運動会",
+      "speaker": "フェルミ",
       "text": "確かに、空からアンタが走ってるところが見えたけど\nアンタの走りは全然なってないわね。\nスピード感がまるで皆無なのよ。",
-      "voice": "ch_10206/R18/10206A0_10206_Nml/10206A0_10206_004",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 20,
       "speaker": "主人公",
       "text": "はぁ……そうなんですか。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 34,
-      "speaker": "フェルミ運動会",
+      "speaker": "フェルミ",
       "text": "あ。いいこと思いついちゃった。\n今から私が、アンタの特別コーチになってあげるよ。",
-      "voice": "ch_10206/R18/10206A0_10206_Nml/10206A0_10206_005",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 35,
       "speaker": "主人公",
       "text": "と、特別コーチ、ですか？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 36,
-      "speaker": "フェルミ運動会",
+      "speaker": "フェルミ",
       "text": "それじゃ、早速、秘密特訓といくわよ。\nこのロープをアンタの腰に巻き付けて結んで。",
-      "voice": "ch_10206/R18/10206A0_10206_Nml/10206A0_10206_006",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 37,
       "speaker": "",
       "text": "どこから取り出したのか、フェルミさんが僕に\n頑丈そうなロープを手渡す……というか足渡す。\n言いつけどおり、それを僕は腰に回して結びつけた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 38,
       "speaker": "主人公",
       "text": "えっと……これでいいですか？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 42,
-      "speaker": "フェルミ運動会",
+      "speaker": "フェルミ",
       "text": "オッケーオッケー。\nんで、そのロープの反対側をアタシの腰に……そうそう。\nうん、これでよし、っと。",
-      "voice": "ch_10206/R18/10206A0_10206_Nml/10206A0_10206_007",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 44,
       "speaker": "",
       "text": "こうして僕とフェルミさんは\n一本のローブで繋がった形になった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 45,
       "speaker": "主人公",
       "text": "あの……もしかして、ですけど\n秘密特訓っていうのは、まさか……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 46,
-      "speaker": "フェルミ運動会",
+      "speaker": "フェルミ",
       "text": "うん、そういうこと。\n私がアンタを引っ張って走るから\nアンタはそれに付いてきてね。",
-      "voice": "ch_10206/R18/10206A0_10206_Nml/10206A0_10206_008",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 47,
       "speaker": "主人公",
       "text": "ええええぇっ！？　やっぱりですか！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 48,
-      "speaker": "フェルミ運動会",
+      "speaker": "フェルミ",
       "text": "そうすれば、否応なしに早く走れるようになるわ。\nこの私のスピードに付いてこれるようになったら、\nリレーで活躍すること間違いなしよ。",
-      "voice": "ch_10206/R18/10206A0_10206_Nml/10206A0_10206_009",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 49,
       "speaker": "主人公",
       "text": "ちょ、ちょっと待ってください！\nそんな無茶な方法、効果があるわけないっていうか\n絶対ケガするに決まって――。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 50,
-      "speaker": "フェルミ運動会",
+      "speaker": "フェルミ",
       "text": "それじゃいくわよ……",
-      "voice": "ch_10206/R18/10206A0_10206_Nml/10206A0_10206_010",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 55,
-      "speaker": "フェルミ運動会",
+      "speaker": "フェルミ",
       "text": "ゴーーーーーッ！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 58,
       "speaker": "主人公",
       "text": "うわわわわっわっ！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 63,
       "speaker": "",
       "text": "フェルミさんが風のように走り出す。\nあっという間にロープのたるみはなくなり\n僕はぐいんと、体ごとロープにもっていかれた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 65,
       "speaker": "主人公",
       "text": "うわーっ！　うわーっ！　うわーっ！\nちょっと待って待って待って待って待って！\n待ってくださいフェルミさんフェルミさああああああん！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 66,
       "speaker": "",
       "text": "僕は必死で足を動かしフェルミさんについていく。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 69,
       "speaker": "",
       "text": "しかし、ハーピー娘の脚力は凄まじく\n途端に僕の足はもつれて派手にすっ転んでしまった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 72,
       "speaker": "",
       "text": "しかし、フェルミさんは止まらない。\n倒れた僕を引きずっていることなど全く気づかず\n猛スピードで校庭のトラックを走り進み続けた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 75,
       "speaker": "主人公",
       "text": "うわーっ！　うぎゃーっ！　痛い痛い痛い痛い痛い！\nフェルミさんやめて止まって助けてーーーーーっ！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 76,
-      "speaker": "フェルミ運動会",
+      "speaker": "フェルミ",
       "text": "へぇ。案外付いてこれてるじゃない。\nそれじゃもっと、スピード上げて行くわよ！\nそれーーーーーーっ！",
-      "voice": "ch_10206/R18/10206A0_10206_Nml/10206A0_10206_011",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 84,
       "speaker": "",
       "text": "フェルミさんは後ろを振り向かずにそう言うと\n更に走るスピードを速めた。\n全身を地面に打ち付けながら、僕は叫ぶしかできなかった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 87,
       "speaker": "主人公",
       "text": "ぎゃーっ！　ぎゃーっ！　死ぬ死ぬ！　死んじゃう！\nフェルミさんっ！　フェルミさんっ！\nフェルミさーーーーーーーんんっ！！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 88,
       "speaker": "",
       "text": "僕が転んでいることにようやく気づき、やっとフェルミさんが\n足を止めてくれたときには、僕は全身キズだらけの\nボロ雑巾と化していたのであった……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     }
   ]
 }

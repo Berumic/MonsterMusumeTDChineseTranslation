@@ -1,259 +1,186 @@
 {
-  "scenario_id": "10290a0_nml",
-  "asset_path": "assets/advscene/scenarioexcel/character/10290/10290a0_nml.book.asset",
-  "cache_bundle": "C:\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\5769d83201ab08cbb89441de708974fb2649a31f8ffdc3e67deee1815eaae767\\5769d83201ab08cbb89441de708974fb\\__data",
+  "scenario": "scenario:character/10290/10290A0_Nml",
+  "title": "新たな支部",
   "rows": [
     {
-      "row": 7,
       "speaker": "",
       "text": "この日、「秘密の話がある」とアメリさんに呼び出された僕は、\n約束の場所である食堂で彼女を待っていた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 8,
       "speaker": "主人公",
       "text": "アメリさんの話って一体……ん？\n誰かいるのかな、話し声が聞こえて――。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 9,
       "speaker": "",
       "text": "食堂の奥、キッチンの方から、\nおどろおどろしい声が聞こえてくる。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 13,
-      "speaker": "アメリユウレイ",
+      "speaker": "？？？",
       "text": "いちまーい……にーまーい……さんまーい……。",
-      "voice": "ch_10290/R18/10290A0_10290_Nml/10290A0_10290_001",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 14,
       "speaker": "主人公",
       "text": "えっと……誰です？　アメリさんですか？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 15,
       "speaker": "",
       "text": "声をかけるが、影は返事をしてくれない。\n不気味な声で何かを数えている。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 16,
-      "speaker": "アメリユウレイ",
+      "speaker": "？？？",
       "text": "よんまーい……ごーまーい……。\nふふ、ふふふ……このお皿を作ったのは――。",
-      "voice": "ch_10290/R18/10290A0_10290_Nml/10290A0_10290_002",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 22,
-      "speaker": "アメリユウレイ",
+      "speaker": "アメリ",
       "text": "<size=35>私だーーーーっ！！</size>",
-      "voice": "ch_10290/R18/10290A0_10290_Nml/10290A0_10290_003",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 24,
       "speaker": "主人公",
       "text": "ぴぃぃぃぃぃぃっっ！？！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 26,
-      "speaker": "アメリユウレイ",
+      "speaker": "アメリ",
       "text": "おや？　ご主人様ではないですか。\nもういらしていたのですね。",
-      "voice": "ch_10290/R18/10290A0_10290_Nml/10290A0_10290_004",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 27,
-      "speaker": "アメリユウレイ",
+      "speaker": "アメリ",
       "text": "どうしました？　腰を抜かして……何か恐ろしいことでも？",
-      "voice": "ch_10290/R18/10290A0_10290_Nml/10290A0_10290_005",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 28,
       "speaker": "主人公",
       "text": "アメリさんにビックリさせられたんですよ！\n一体なにをしてたんですか！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 29,
-      "speaker": "アメリユウレイ",
+      "speaker": "アメリ",
       "text": "何って……秘密結社・冥界の会員証を作ったので、\nその出来を確認していたんですよ。",
-      "voice": "ch_10290/R18/10290A0_10290_Nml/10290A0_10290_006",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 30,
       "speaker": "",
       "text": "アメリさんは手に持っていたお皿を僕に差し出して見せた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 31,
-      "speaker": "アメリユウレイ",
+      "speaker": "アメリ",
       "text": "今度の任務で私は妖怪島へ潜入することになったので、\n現地のエージェントへと配るものです。",
-      "voice": "ch_10290/R18/10290A0_10290_Nml/10290A0_10290_007",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 32,
-      "speaker": "アメリユウレイ",
+      "speaker": "アメリ",
       "text": "なにしろ、向こうは未知の領域……。\n誰が味方で、誰が敵なのか……、\n素早く判断出来た方が、任務が達成しやすくなりますから。",
-      "voice": "ch_10290/R18/10290A0_10290_Nml/10290A0_10290_008",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 33,
       "speaker": "主人公",
       "text": "向こうでもごっこ遊びをするつもりなんですか。\n皆さんに迷惑をかけちゃダメですよ……？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 35,
-      "speaker": "アメリユウレイ",
+      "speaker": "アメリ",
       "text": "ごっこ遊びとは失礼な。\n向こうには既に秘密結社・冥界の妖怪島支部があるのですよ。",
-      "voice": "ch_10290/R18/10290A0_10290_Nml/10290A0_10290_009",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 36,
-      "speaker": "アメリユウレイ",
+      "speaker": "アメリ",
       "text": "おっと、さっそく通信が――、\n”こちらユウレイ１。……はい、例の物は完成済みです。\n……はい、了解しました。協力者に最終チェックを依頼します”",
-      "voice": "ch_10290/R18/10290A0_10290_Nml/10290A0_10290_010",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 37,
-      "speaker": "アメリユウレイ",
+      "speaker": "アメリ",
       "text": "ほら、このように現地とも頻繁に連絡を取り合っているのです。\n潜入のために私もユウレイ娘へと進化もしましたし、\nこれを遊び呼ばわりは失礼ですよ、ご主人様。",
-      "voice": "ch_10290/R18/10290A0_10290_Nml/10290A0_10290_011",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 38,
       "speaker": "主人公",
       "text": "は、はあ……それは失礼しました。\nところでゴースト娘とユウレイ娘って何が違うんです？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 68,
-      "speaker": "アメリユウレイ",
+      "speaker": "アメリ",
       "text": "それはぁ…………禁則事項です♪",
-      "voice": "ch_10290/R18/10290A0_10290_Nml/10290A0_10290_012",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 69,
       "speaker": "",
       "text": "物凄く気になっていたのに、\n可愛らしいウィンクではぐらかされてしまった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 70,
-      "speaker": "アメリユウレイ",
+      "speaker": "アメリ",
       "text": "さて……センシティブな秘密を探った罰として、\nご主人様には私が作った会員証の最終チェックをお願いします。",
-      "voice": "ch_10290/R18/10290A0_10290_Nml/10290A0_10290_013",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 71,
-      "speaker": "アメリユウレイ",
+      "speaker": "アメリ",
       "text": "大事な会員証が欠けたり、割れたりしていたら大変ですから。\n念入りにチェックをお願いいたします。",
-      "voice": "ch_10290/R18/10290A0_10290_Nml/10290A0_10290_014",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 72,
       "speaker": "主人公",
       "text": "ど、どうして僕が……。\nというより、もうこのお皿には既にヒビが入って――。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 73,
-      "speaker": "アメリユウレイ",
+      "speaker": "アメリ",
       "text": "お皿にヒビが？　どこですか？",
-      "voice": "ch_10290/R18/10290A0_10290_Nml/10290A0_10290_015",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 82,
       "speaker": "主人公",
       "text": "いや、そんなに急に近づかれたら――あぁっ！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 84,
       "speaker": "",
       "text": "アメリさんのタックルを喰らい、\nお皿が落ちて盛大に割れてしまった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 86,
-      "speaker": "アメリユウレイ",
+      "speaker": "アメリ",
       "text": "ご主人様、なんてことを……！\nこれは本部に連絡しないと！",
-      "voice": "ch_10290/R18/10290A0_10290_Nml/10290A0_10290_016",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 87,
-      "speaker": "アメリユウレイ",
+      "speaker": "アメリ",
       "text": "“こちらユウレイ１。……はい、アクシデントで会員証が――、\nええ、はい。了解しました。協力者に依頼します”",
-      "voice": "ch_10290/R18/10290A0_10290_Nml/10290A0_10290_017",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 88,
-      "speaker": "アメリユウレイ",
+      "speaker": "アメリ",
       "text": "ということでご主人様。\n新しく会員証を作り直してください。\n今度はもっと丈夫で、そしてカッコイイものをお願いします。",
-      "voice": "ch_10290/R18/10290A0_10290_Nml/10290A0_10290_018",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 89,
       "speaker": "主人公",
       "text": "謀りましたね！？\n最初からそういうつもりだったでしょう！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 90,
-      "speaker": "アメリユウレイ",
+      "speaker": "アメリ",
       "text": "はい、この話はもうおしまーい。\n私は任務の準備があるので失礼します。では。",
-      "voice": "ch_10290/R18/10290A0_10290_Nml/10290A0_10290_019",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 96,
       "speaker": "主人公",
       "text": "ちょっ！？　お皿の片付けも僕がやるんですか！？\n待ってくださいよアメリさーんっ！！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 97,
       "speaker": "",
       "text": "声を無視して、アメリさんはすぅーっと消えてしまう。\nこうして僕はお皿の残骸を片付け、\n新しい会員証まで作ることになってしまうのだった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     }
   ]
 }

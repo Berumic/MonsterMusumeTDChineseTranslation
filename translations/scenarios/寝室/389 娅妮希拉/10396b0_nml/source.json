@@ -1,238 +1,171 @@
 {
-  "scenario_id": "10396b0_nml",
-  "asset_path": "assets/advscene/scenarioexcel/character/10396/10396b0_nml.book.asset",
-  "cache_bundle": "C:\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\c4f388433d52f75fbe44e3ddc0b70e1fa3c27d4c81e2d81c5bde4c92771db050\\c4f388433d52f75fbe44e3ddc0b70e1f\\__data",
+  "scenario": "scenario:character/10396/10396B0_Nml",
+  "title": "アニシラさんはサンタクロース",
   "rows": [
     {
-      "row": 7,
       "speaker": "",
       "text": "僕はサンタなアニシラさんに呼ばれ、\nクリスマスツリーまでやってきた。\n巨大なツリーの下にはテーブルがある……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 21,
-      "speaker": "アニシラクリスマス",
+      "speaker": "アニシラ",
       "text": "メリークリスマス、ご主人。\nどう？　立派なツリーじゃない？",
-      "voice": "ch_10396/R18/10396B0_10396_Nml/10396B0_10396_001",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 24,
       "speaker": "主人公",
       "text": "はい！　こんなに大きいのは初めて見ました！\nまさかゴブリンさんたちに用意させたとか……？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 26,
-      "speaker": "アニシラクリスマス",
+      "speaker": "アニシラ",
       "text": "当たり前じゃない。\nアタシが自ら用意するわけないでしょ？",
-      "voice": "ch_10396/R18/10396B0_10396_Nml/10396B0_10396_002",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 28,
-      "speaker": "アニシラクリスマス",
+      "speaker": "アニシラ",
       "text": "でも、料理だけは直々に作ってやったわ。\n塩を入れたり砂糖を入れたり……ね。",
-      "voice": "ch_10396/R18/10396B0_10396_Nml/10396B0_10396_003",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 29,
-      "speaker": "アニシラクリスマス",
+      "speaker": "アニシラ",
       "text": "他は料理のできる下僕たちにやらせたの。\nあれもこれも全部、儀式のための準備。",
-      "voice": "ch_10396/R18/10396B0_10396_Nml/10396B0_10396_004",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 31,
-      "speaker": "アニシラクリスマス",
+      "speaker": "アニシラ",
       "text": "そしてご主人が揃い、準備が整った。\nさあ、クリスマスの儀式を始めるわよ。",
-      "voice": "ch_10396/R18/10396B0_10396_Nml/10396B0_10396_005",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 34,
       "speaker": "主人公",
       "text": "ぎ、儀式！？　",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 35,
-      "speaker": "アニシラクリスマス",
+      "speaker": "アニシラ",
       "text": "いつもは頭蓋骨なんかを並べていたけど、\nせっかくだし、代わりにギフトボックスを飾ったわ。",
-      "voice": "ch_10396/R18/10396B0_10396_Nml/10396B0_10396_006",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 38,
       "speaker": "主人公",
       "text": "まさか僕にですか！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 40,
-      "speaker": "アニシラクリスマス",
+      "speaker": "アニシラ",
       "text": "はぁ？　それはそうでしょう？　\nそこに七面鳥やケーキがあるんだから……。\nもちろん、蝋燭だってたくさん用意してるのよ。",
-      "voice": "ch_10396/R18/10396B0_10396_Nml/10396B0_10396_007",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 43,
       "speaker": "主人公",
       "text": "ひゃっ、ひゃあっ！？\nぶるぶる……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 44,
       "speaker": "",
       "text": "アニシラさんはきっと僕に、\nとんでもない呪いをかけようとしているのだ。\n思わず腰の力が抜け、尻もちをついてしまった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 46,
-      "speaker": "アニシラクリスマス",
+      "speaker": "アニシラ",
       "text": "なにそんなに怯えてるのよ<interval=2>…",
-      "voice": "ch_10396/R18/10396B0_10396_Nml/10396B0_10396_008",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 47,
-      "speaker": "アニシラクリスマス",
+      "speaker": "アニシラ",
       "text": "…あ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 50,
-      "speaker": "アニシラクリスマス",
+      "speaker": "アニシラ",
       "text": "ふーん？　\nそういうこと？　",
-      "voice": "ch_10396/R18/10396B0_10396_Nml/10396B0_10396_009",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 52,
-      "speaker": "アニシラクリスマス",
+      "speaker": "アニシラ",
       "text": "そうよ、アンタの思ってる通り。\nこれは七面鳥を食べたり、\nケーキを食べたりするパーティーなんかじゃないわ。",
-      "voice": "ch_10396/R18/10396B0_10396_Nml/10396B0_10396_010",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 53,
-      "speaker": "アニシラクリスマス",
+      "speaker": "アニシラ",
       "text": "ご主人を呪って、\nアタシ専用のトナカイにする呪いの儀式よ。",
-      "voice": "ch_10396/R18/10396B0_10396_Nml/10396B0_10396_011",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 55,
-      "speaker": "アニシラクリスマス",
+      "speaker": "アニシラ",
       "text": "さて、どうしてやろうかしら。\nまずは……<interval=5>こ",
-      "voice": "ch_10396/R18/10396B0_10396_Nml/10396B0_10396_012",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 56,
-      "speaker": "アニシラクリスマス",
+      "speaker": "アニシラ",
       "text": "のケーキを食べなさいっ！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 57,
       "speaker": "",
       "text": "アニシラさんは僕の口腔にケーキを押し込んでくる。\n抵抗できず、飲み込んでしまう。甘くておいしい……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 59,
-      "speaker": "アニシラクリスマス",
+      "speaker": "アニシラ",
       "text": "フフ……。そのケーキこそ呪詛の触媒よ。\nこれでご主人の身には呪いがかかったわ。",
-      "voice": "ch_10396/R18/10396B0_10396_Nml/10396B0_10396_013",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 61,
-      "speaker": "アニシラクリスマス",
+      "speaker": "アニシラ",
       "text": "でも安心なさい。呪いを解くためには婚姻の……、\nいえ、まずは誓いのキスかしら……そして子作りの――。",
-      "voice": "ch_10396/R18/10396B0_10396_Nml/10396B0_10396_014",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 64,
       "speaker": "",
       "text": "アニシラさんの言葉が聞こえるや否や、僕は走りだしていた。\n離れることができれば、呪いの範囲外に出れると考えたからだ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 66,
-      "speaker": "アニシラクリスマス",
+      "speaker": "アニシラ",
       "text": "って、こらっ！　止まりなさいよ！\n本当に呪いをかけたと思ってるの！？",
-      "voice": "ch_10396/R18/10396B0_10396_Nml/10396B0_10396_015",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 67,
       "speaker": "",
       "text": "しかし、しばらく走ったところで、\nゴブリンさんたちに捕まり、連れ戻されてしまう。\nアニシラさんは既に、テーブルに着いていた……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 71,
-      "speaker": "アニシラクリスマス",
+      "speaker": "アニシラ",
       "text": "ふーん。アンタ、とても逃げ足が速いみたいね？　\nそんなにアタシが怖いのかしら？",
-      "voice": "ch_10396/R18/10396B0_10396_Nml/10396B0_10396_016",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 73,
-      "speaker": "アニシラクリスマス",
+      "speaker": "アニシラ",
       "text": "それほど走るのが好きなら、\nアタシの下僕をやめて、トナカイに就職するのはどう？",
-      "voice": "ch_10396/R18/10396B0_10396_Nml/10396B0_10396_017",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 76,
       "speaker": "主人公",
       "text": "そのぅ……聞こえなくってぇ……。\nアニシラさんが本気だと思ってぇ……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 89,
-      "speaker": "アニシラクリスマス",
+      "speaker": "アニシラ",
       "text": "言い訳は聞きたくないわ。\nはやく、アタシの前に、座りなさい。",
-      "voice": "ch_10396/R18/10396B0_10396_Nml/10396B0_10396_018",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 90,
       "speaker": "",
       "text": "僕はテーブルを挟むように、アニシラさんの対面に座る。\nちらりと彼女の顔色を窺うと、\n微笑んでいるのに目はまったく笑っていなかった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 92,
-      "speaker": "アニシラクリスマス",
+      "speaker": "アニシラ",
       "text": "アンタのお陰で料理が冷めちゃったわ。\nでも、当然食べるわよね？\nわざわざご主人のために用意したんだから。",
-      "voice": "ch_10396/R18/10396B0_10396_Nml/10396B0_10396_019",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 93,
       "speaker": "",
       "text": "青筋を立てたアニシラさんのお顔を拝見しながら、\n僕は粛々と口に料理を口に運んでいくのであった……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     }
   ]
 }

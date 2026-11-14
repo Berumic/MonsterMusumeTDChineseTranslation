@@ -1,357 +1,256 @@
 {
-  "scenario_id": "10272a0_nml",
-  "asset_path": "assets/advscene/scenarioexcel/character/10272/10272a0_nml.book.asset",
-  "cache_bundle": "C:\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\7033ee9258cc2f44de82f00de91765c0a0f83209b7ddabce40797cfe9764be09\\7033ee9258cc2f44de82f00de91765c0\\__data",
+  "scenario": "scenario:character/10272/10272A0_Nml",
+  "title": "夏だ、海だ、スイカ割りだ！",
   "rows": [
     {
-      "row": 7,
       "speaker": "",
       "text": "ポルターガイスト娘のマギーさんに誘われ、\n僕は海水浴にやってきた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 8,
-      "speaker": "マギー水着",
+      "speaker": "マギー",
       "text": "青い空、白い雲。\n絶好の海水浴日和ね、ご主人。",
-      "voice": "ch_10272/R18/10272A0_10272_Nml/10272A0_10272_001",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 9,
       "speaker": "主人公",
       "text": "そうですね。いい天気でよかったです。\n……って、今さらですけど、\n大丈夫なんですか、マギーさん。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 10,
-      "speaker": "マギー水着",
+      "speaker": "マギー",
       "text": "ん？　大丈夫って何が？",
-      "voice": "ch_10272/R18/10272A0_10272_Nml/10272A0_10272_002",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 11,
       "speaker": "主人公",
       "text": "いや、こんな太陽の下に出て平気なのかな、って。\nだって、陽の光に弱いですよね、ゴースト娘さんって、\nだから――。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 25,
-      "speaker": "マギー水着",
+      "speaker": "マギー",
       "text": "……今、なんて言った？\n私のこと、ゴースト娘って、言った？",
-      "voice": "ch_10272/R18/10272A0_10272_Nml/10272A0_10272_003",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 26,
       "speaker": "主人公",
       "text": "ち、違います！　ゴースト娘さんは太陽の光に弱いから、\nだからポルターガイスト娘のマギーさんは大丈夫なのかって、\nそういうふうに言おうとしたんですよっ……！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 29,
-      "speaker": "マギー水着",
+      "speaker": "マギー",
       "text": "またそんな下手なごまかし方して！\n絶対の絶対に、許さないいいいいいいっ！",
-      "voice": "ch_10272/R18/10272A0_10272_Nml/10272A0_10272_004",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 30,
       "speaker": "主人公",
       "text": "ひいいいいっ……！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 31,
-      "speaker": "マギー水着",
+      "speaker": "マギー",
       "text": "……って、言いたいところだけど、\nせっかく海に来てるんだし、楽しい気分を台無しに\nしたくないから、今回ばかりは不問にしてあげる。",
-      "voice": "ch_10272/R18/10272A0_10272_Nml/10272A0_10272_005",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 32,
       "speaker": "主人公",
       "text": "ほっ……。あ、ありがとうございます……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 34,
-      "speaker": "マギー水着",
+      "speaker": "マギー",
       "text": "それじゃ気を取り直して……っと。\nねぇ、ご主人。海に遊びに来たら、\nまず何をするべきだと思う？",
-      "voice": "ch_10272/R18/10272A0_10272_Nml/10272A0_10272_006",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 35,
       "speaker": "主人公",
       "text": "えっと……それはやっぱり、\n海に入って泳ぐんじゃないですか？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 36,
-      "speaker": "マギー水着",
+      "speaker": "マギー",
       "text": "違う違う。海に来たら、やっぱりアレよ。\nスイカ割りをしなくっちゃ。",
-      "voice": "ch_10272/R18/10272A0_10272_Nml/10272A0_10272_007",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 37,
       "speaker": "主人公",
       "text": "スイカ割り……ですか。\nなるほど……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 38,
       "speaker": "",
       "text": "無意識に、マギーさんの胸に目が行ってしまう。\nそこにはスイカのように大きな丸みが、\n彼女の着ている大胆な水着からはみ出しそうになっていた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 49,
-      "speaker": "マギー水着",
+      "speaker": "マギー",
       "text": "……ちょっと。どこ見てるのよ、ご主人。",
-      "voice": "ch_10272/R18/10272A0_10272_Nml/10272A0_10272_008",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 50,
       "speaker": "主人公",
       "text": "ああっ、ごめんなさい！\nマギーさんの胸元なんて見てませんからっ！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 51,
-      "speaker": "マギー水着",
+      "speaker": "マギー",
       "text": "ああ、そう。\nとにかく、使うのは私のスイカップな胸じゃなくて、\nこっちの本物のスイカだから。",
-      "voice": "ch_10272/R18/10272A0_10272_Nml/10272A0_10272_009",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 54,
       "speaker": "",
       "text": "と、マギーさんはどこから取り出したのか、\nいつの間にか大きなスイカを抱えていた。\nそれを白い砂浜の上に、そっと置く。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 55,
-      "speaker": "マギー水着",
+      "speaker": "マギー",
       "text": "それじゃ始めるよ。\n上手く割れなかったら罰ゲームだからね、ご主人。",
-      "voice": "ch_10272/R18/10272A0_10272_Nml/10272A0_10272_010",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 56,
       "speaker": "",
       "text": "これまたどこから取り出したのか、\nいつの間にか僕は、木の棒を握らされていた。\nマギーさんは少し離れた位置で、頑張れーと手を叩いている。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 57,
       "speaker": "主人公",
       "text": "あの……目隠しはしなくていいんですか？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 58,
-      "speaker": "マギー水着",
+      "speaker": "マギー",
       "text": "いいのいいの。いらないよ、そんなの。\nそのままスイカを棒で叩き割ればいいから。",
-      "voice": "ch_10272/R18/10272A0_10272_Nml/10272A0_10272_011",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 59,
       "speaker": "主人公",
       "text": "それじゃ、あまりにも簡単すぎじゃないですか……？\nスイカ割りの醍醐味がないような……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 88,
-      "speaker": "マギー水着",
+      "speaker": "マギー",
       "text": "いいからほら、早くスイカを割りに行ってよ。\n割れるモンなら……ね？",
-      "voice": "ch_10272/R18/10272A0_10272_Nml/10272A0_10272_012",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 89,
       "speaker": "主人公",
       "text": "こんなの簡単ですよ。\n本当にこのまま割っちゃいますよ？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 90,
       "speaker": "",
       "text": "僕はスイカに近づくと、慎重に狙いを定め、\n思い切り棒を振り下ろした。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 93,
       "speaker": "主人公",
       "text": "えいっ！！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 94,
-      "speaker": "マギー水着",
+      "speaker": "マギー",
       "text": "あ～っ、惜しい。もうちょっと右だったね。",
-      "voice": "ch_10272/R18/10272A0_10272_Nml/10272A0_10272_013",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 95,
       "speaker": "主人公",
       "text": "え……あれ？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 96,
       "speaker": "",
       "text": "棒は確実にスイカを捉えたと思ったのに、\n僕の手には何の手応えもなく、\n虚しく砂浜を叩いただけだった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 97,
       "speaker": "主人公",
       "text": "おかしいな……もう一度……",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 100,
       "speaker": "主人公",
       "text": "えいっ！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 101,
-      "speaker": "マギー水着",
+      "speaker": "マギー",
       "text": "あーあ、またハズレ。\n今度は左にズレてたみたいね。",
-      "voice": "ch_10272/R18/10272A0_10272_Nml/10272A0_10272_014",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 102,
       "speaker": "主人公",
       "text": "な、なんでだ……？　よく狙って、今度こそ……、",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 104,
       "speaker": "主人公",
       "text": "えいっ！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 134,
-      "speaker": "マギー水着",
+      "speaker": "マギー",
       "text": "あははっ、またハズレー。\n目隠しもしてないのに、下手くそねぇ、ご主人。",
-      "voice": "ch_10272/R18/10272A0_10272_Nml/10272A0_10272_015",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 135,
       "speaker": "主人公",
       "text": "……マギーさん。変な意地悪しないでくださいよ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 136,
-      "speaker": "マギー水着",
+      "speaker": "マギー",
       "text": "えー？　なんのことー？\n私、意地悪なんてしてないけど～？",
-      "voice": "ch_10272/R18/10272A0_10272_Nml/10272A0_10272_016",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 137,
       "speaker": "主人公",
       "text": "嘘つかないでくださいよ。今、僕は確かに見ましたよ。\nスイカが勝手に動いて、棒をよけてたじゃないですか。\nここでそんなことができるのは、マギーさんだけですよね？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 139,
-      "speaker": "マギー水着",
+      "speaker": "マギー",
       "text": "ええっ！？　スイカが勝手に動いたの！？\n物体がひとりでに動くなんて、何現象っていったかしら！？",
-      "voice": "ch_10272/R18/10272A0_10272_Nml/10272A0_10272_017",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 140,
       "speaker": "主人公",
       "text": "……白々しいですよ、マギーさん。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 141,
-      "speaker": "マギー水着",
+      "speaker": "マギー",
       "text": "本当に私じゃないってば。\nそうか！　それはきっと「ナニか」の仕業よ！",
-      "voice": "ch_10272/R18/10272A0_10272_Nml/10272A0_10272_018",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 142,
       "speaker": "主人公",
       "text": "あくまでシラを切るんですね……。\n分かりました。こうなったら僕も意地です。\n絶対にスイカを割ってみせます！　えーーーいっ！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 172,
-      "speaker": "マギー水着",
+      "speaker": "マギー",
       "text": "はい、ざんね～ん。",
-      "voice": "ch_10272/R18/10272A0_10272_Nml/10272A0_10272_019",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 173,
       "speaker": "主人公",
       "text": "くううっ……今度こそ！　えーいっ！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 175,
-      "speaker": "マギー水着",
+      "speaker": "マギー",
       "text": "あ～。もうちょっとだったのに惜しいね～。",
-      "voice": "ch_10272/R18/10272A0_10272_Nml/10272A0_10272_020",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 180,
       "speaker": "主人公",
       "text": "え、えーいっ！　ええええええいいいいいいっ！！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 181,
       "speaker": "",
       "text": "こうして、ムキになってしまった僕は、\n体力が尽きてヘロヘロになるまで、棒を振り回しながら\n逃げ回るスイカを追いかけ続けたのだった……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     }
   ]
 }

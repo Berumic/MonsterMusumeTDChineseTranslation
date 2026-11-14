@@ -1,525 +1,376 @@
 {
-  "scenario_id": "1108032nml",
-  "asset_path": "Assets/AdvScene/ScenarioExcel/main/1108/1108032Nml.xlsx",
-  "cache_bundle": "C:\\Users\\77147\\Documents\\Codex\\2026-08-21\\bang\\outputs\\MonsterMusumeTDMod\\解包资源\\ab\\８章_03話後半_1108032Nml.ab",
+  "scenario": "scenario:main/1108/1108032Nml",
+  "title": "８章_03話後半",
   "rows": [
     {
-      "row": 8,
       "speaker": "",
       "text": "一行は改めて樹氷宮殿へ舞い戻り、\n皇女姉妹への謁見を求めることにしていた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 10,
       "speaker": "",
       "text": "だが、それよりも先に\n主人公たち帰還の報せを受けたカティナが、\n彼らの元へ駆け付けたのである。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 12,
       "speaker": "カティナ",
       "text": "ちょっと、ラシオネル！　話があるんだけどっ！",
-      "voice": "en_40295/Main/1108/1108_40295_099",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 13,
       "speaker": "主人公",
       "text": "ちょうどよかったです！\n実は僕らもカティナさんに伝えたいことがあって。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 14,
       "speaker": "カティナ",
       "text": "そっちの話は後よ、後！\nこっちは大変なの。変な噂が流れてるんだけどっ！",
-      "voice": "en_40295/Main/1108/1108_40295_100",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 17,
       "speaker": "クロミ",
       "text": "ご主人くんが部屋に帰ると、いつもと違う雰囲気を感じて、\nベッドの下を覗き込むと、その下にはモンスター娘がみっちりで、\n『なんだ、いつも通りですね』という都市伝説的噂ですね。",
-      "voice": "ch_10021/Main/1108/1108_10021_101",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 32,
       "speaker": "カティナ",
       "text": "変な噂すぎる！\nていうか、ラシオネル、あんた頭おかしいわよ！？",
-      "voice": "en_40295/Main/1108/1108_40295_102",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 33,
       "speaker": "主人公",
       "text": "似たことはしばしば起こりますが、それは都市伝説で、\n事実とはことなる噂というか……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 34,
       "speaker": "主人公",
       "text": "いや、それはどうでもいいんです、\nそれより、カティナさんの方のは、どんな噂なんでしょうか？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 35,
       "speaker": "カティナ",
       "text": "スパイ容疑よ！",
-      "voice": "en_40295/Main/1108/1108_40295_103",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 36,
       "speaker": "主人公",
       "text": "やはり、ですか……。\n僕の立場を考えると……そして、行いを振り返ると、\nある程度仕方ないかなとは思っていたのですが。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 39,
       "speaker": "スズ",
       "text": "え？　スパイ容疑って晴れたんじゃないの？",
-      "voice": "ch_10022/Main/1108/1108_10022_104",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 42,
       "speaker": "カティナ",
       "text": "私とお姉ちゃんに対しては、ね。\nそりゃ理解したけど……うちの師団の兵士たち全員までは、\n無理だったわよ。",
-      "voice": "en_40295/Main/1108/1108_40295_105",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 45,
       "speaker": "リンデンハート",
       "text": "しかも、スパイ容疑だけじゃなくて、\n破壊工作員じゃないかって噂してる兵士もいるのよね。",
-      "voice": "en_40293/Main/1108/1108_40293_106",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 46,
       "speaker": "主人公",
       "text": "はかいこうさくいん……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 49,
       "speaker": "クロミ",
       "text": "ご主人くんが破壊できるのは、\n乙女のハートぐらいなのに、失礼な話ですよねえ？",
-      "voice": "ch_10021/Main/1108/1108_10021_107",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 50,
       "speaker": "主人公",
       "text": "え！？　僕、そんなの破壊してましたっけ？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 55,
       "speaker": "リン",
       "text": "してた。",
-      "voice": "ch_10006/Main/1108/1108_10006_108",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 56,
       "speaker": "スズ",
       "text": "してたわね。",
-      "voice": "ch_10022/Main/1108/1108_10022_109",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 57,
       "speaker": "セレン",
       "text": "無自覚かよ……。",
-      "voice": "ch_10023/Main/1108/1108_10023_110",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 61,
       "speaker": "カティナ",
       "text": "十分、テロリストの破壊工作員ね。",
-      "voice": "en_40295/Main/1108/1108_40295_111",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 62,
       "speaker": "主人公",
       "text": "そ、そんな……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 85,
       "speaker": "カティナ",
       "text": "な、なによ！　そんなしょんぼりするんじゃないわよ！\nお、男の子なら、ちょっとぐらい危険な香りを\n漂わせるぐらいでいいって言ってるのよ！",
-      "voice": "en_40295/Main/1108/1108_40295_112",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 86,
       "speaker": "リンデンハート",
       "text": "あらあら、カティナちゃんてば、\nラッシーちゃんを気遣っちゃって。",
-      "voice": "en_40293/Main/1108/1108_40293_113",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 87,
       "speaker": "カティナ",
       "text": "ちっ、違うわよ！　全然そんなんじゃないんだからね！",
-      "voice": "en_40295/Main/1108/1108_40295_114",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 91,
       "speaker": "ニホ",
       "text": "最新の噂で、私が耳にしたのは、ご主人様は、王国から\n派遣されてきた遊撃部隊の隊長で、フロスト要塞は実質陥落、\nそこを橋頭堡に次は王都強襲を狙っているとのことですわ。",
-      "voice": "ch_10077/Main/1108/1108_10077_115",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 92,
       "speaker": "スズ",
       "text": "メチャメチャ有能な戦略家ね……。",
-      "voice": "ch_10022/Main/1108/1108_10022_116",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 96,
       "speaker": "リンデンハート",
       "text": "え～……でも、それじゃあ、\nもう小競り合いどころの話じゃなくなるわよぅ？　だって、\n一応、廃嫡されてないってことは王子は王子なのよね？",
-      "voice": "en_40293/Main/1108/1108_40293_117",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 97,
       "speaker": "カティナ",
       "text": "隣国の王子がやらかしたってなったら、それはもう、\nれっきとした侵略行為……いえ、敵性国家の次期国王が起こした\n戦争行為だって言われても割りと言い訳出来ないレベルよ？",
-      "voice": "en_40295/Main/1108/1108_40295_118",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 100,
       "speaker": "クロミ",
       "text": "レベル８ぐらいですね。",
-      "voice": "ch_10021/Main/1108/1108_10021_119",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 101,
       "speaker": "カティナ",
       "text": "いや、アンタ内部のアンタ尺度のレベル度数は知らないけど。",
-      "voice": "en_40295/Main/1108/1108_40295_120",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 102,
       "speaker": "クロミ",
       "text": "８はかなりヤバいレベルですよ。",
-      "voice": "ch_10021/Main/1108/1108_10021_121",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 104,
       "speaker": "カティナ",
       "text": "分かるわ、それぐらいはっ！！",
-      "voice": "en_40295/Main/1108/1108_40295_122",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 108,
       "speaker": "スズ",
       "text": "なんか、クロミとカティナさん、\n微妙に良いコンビになりかかってるわね……。",
-      "voice": "ch_10022/Main/1108/1108_10022_123",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 109,
       "speaker": "セレン",
       "text": "クロミに慣れてくると、クロミの話を段々聞き流したり、\n話半分に聞くようになるからな……。\nそんな感じだから、真面目に相手するとクロミは喜ぶし。",
-      "voice": "ch_10023/Main/1108/1108_10023_124",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 110,
       "speaker": "主人公",
       "text": "それはともかく、",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 114,
       "speaker": "主人公",
       "text": "戦争行為……とまで噂されていますか。\n出来るだけ穏便に事を運びたかったんですが……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 115,
       "speaker": "カティナ",
       "text": "うちの部隊内での噂で止まってる間はいいけど、\nこれがもしも、帝都の連中の耳に入りでもしたら、おおごとよ？",
-      "voice": "en_40295/Main/1108/1108_40295_125",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 116,
       "speaker": "主人公",
       "text": "そうでしょうね……。純然たる軍事力なら、\nラシオン王国よりバルベリト帝国の方が上です。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 117,
       "speaker": "主人公",
       "text": "その上で、格下のラシオン王国の軍が寡兵で、\n帝国屈指の要塞を攻略した、とあれば、\n国家間の軍事バランスが崩れたと取られかねません。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 118,
       "speaker": "カティナ",
       "text": "帝国は威信をかけて、ラシオンを潰しにいくでしょうね。\n更に、帝国の軍事力が弱体化したと見て、\n他の国が帝国にちょっかいを出して来るかも。",
-      "voice": "en_40295/Main/1108/1108_40295_126",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 121,
       "speaker": "セレン",
       "text": "回りくどいな。結局、どうなるんだ？",
-      "voice": "ch_10023/Main/1108/1108_10023_127",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 122,
       "speaker": "主人公",
       "text": "あちこちで紛争が起こりうるでしょう。\n……場合によっては、大戦争に発展するかも。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 126,
       "speaker": "クロミ",
       "text": "ハッテンですか。\nハッテンはヤバいって、タンタルちゃんも昔、言っていました。",
-      "voice": "ch_10021/Main/1108/1108_10021_128",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 127,
       "speaker": "セレン",
       "text": "うん、多分それ、なんか、違う話だからな？",
-      "voice": "ch_10023/Main/1108/1108_10023_129",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 128,
-      "speaker": "*1108032a_和平工作をする",
+      "speaker": "",
       "text": "和平工作をする",
-      "voice": "",
-      "command": "Selection"
+      "choice": true
     },
     {
-      "row": 129,
-      "speaker": "*1108032a_誤解を解く",
+      "speaker": "",
       "text": "誤解を解く",
-      "voice": "",
-      "command": "Selection"
+      "choice": true
     },
     {
-      "row": 134,
       "speaker": "クロミ",
       "text": "和平への道を模索しましょう！",
-      "voice": "ch_10021/Main/1108/1108_10021_130",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 135,
       "speaker": "主人公",
       "text": "そうですね！　それはいいことです。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 139,
       "speaker": "リン",
       "text": "ラブ＆ピースだね。",
-      "voice": "ch_10006/Main/1108/1108_10006_131",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 140,
       "speaker": "クロミ",
       "text": "そうです！　ラブ＆デストロイです。",
-      "voice": "ch_10021/Main/1108/1108_10021_132",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 155,
       "speaker": "カティナ",
       "text": "<ruby=デストロイ>破壊</ruby>してんじゃないの！？\nやっぱり、アンタたち、破壊工作員なのね！！　そうなのね！？",
-      "voice": "en_40295/Main/1108/1108_40295_133",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 158,
       "speaker": "クロミ",
       "text": "おかしいです……和平への道を模索するはずが、\nあらぬ疑いの色を濃くしてしまいました……。",
-      "voice": "ch_10021/Main/1108/1108_10021_134",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 161,
       "speaker": "スズ",
       "text": "うん……今の話の流れだと、\nそれほどおかしい出来事はなかったけどね。\n……クロミの最後の言動以外は。",
-      "voice": "ch_10022/Main/1108/1108_10022_135",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 168,
       "speaker": "主人公",
       "text": "兵士の皆さんに、僕から誤解であることを\nちゃんと説明して回るというのはどうでしょうか？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 169,
       "speaker": "カティナ",
       "text": "え……うちの部隊に\nどれだけの人員がいると思ってるのよ。師団よ、師団。",
-      "voice": "en_40295/Main/1108/1108_40295_136",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 170,
       "speaker": "主人公",
       "text": "兵士の皆さんを一カ所に集めて一網打尽、の方がいいでしょうね。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 200,
       "speaker": "帝国兵Ａ",
       "text": "ねえ、ちょっと聞きましたか！？\nやっぱり、あの王子、\n我々帝国兵を皆殺しにするつもりなんですよ！",
-      "voice": "en_49024/Main/1108/1108_49024_137",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 202,
       "speaker": "帝国士官Ａ",
       "text": "う、ううううう、狼狽えるのではありません！\nほほほほほ、誇り高き帝国軍兵士が……！　皆殺しになっても！",
-      "voice": "en_49023/Main/1108/1108_49023_138",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 203,
       "speaker": "帝国士官Ａ",
       "text": "<ruby=ミ>３</ruby>・<ruby=ナ>７</ruby>・<ruby=ゴ>５</ruby>・<ruby=ロ>６</ruby>・<ruby=シ>４</ruby>！　になっても！！",
-      "voice": "en_49023/Main/1108/1108_49023_139",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 204,
       "speaker": "帝国兵Ａ",
       "text": "隊長、めちゃめちゃ狼狽えてます……。",
-      "voice": "en_49024/Main/1108/1108_49024_140",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 205,
       "speaker": "帝国士官Ａ",
       "text": "とにかく、隊長級の士官を集めて、緊急対策会議を行ってきます！",
-      "voice": "en_49023/Main/1108/1108_49023_141",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 206,
       "speaker": "帝国兵Ａ",
       "text": "しかし、集まったら、一網打尽に！！",
-      "voice": "en_49024/Main/1108/1108_49024_142",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 207,
       "speaker": "帝国士官Ａ",
       "text": "……士官をバラバラに配置して、緊急対策会議を行ってきます！",
-      "voice": "en_49023/Main/1108/1108_49023_143",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 212,
       "speaker": "帝国兵Ａ",
       "text": "隊長、はちゃめちゃに狼狽えてます……。",
-      "voice": "en_49024/Main/1108/1108_49024_144",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 224,
       "speaker": "スズ",
       "text": "全く平和への道が見えてこないわね。",
-      "voice": "ch_10022/Main/1108/1108_10022_145",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 227,
       "speaker": "セレン",
       "text": "それどころか、より状況が悪化しているような気さえするな。",
-      "voice": "ch_10023/Main/1108/1108_10023_146",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 244,
       "speaker": "リンデンハート",
       "text": "よし！　お姉ちゃんにお任せよ！\n何しろ、本家師団長なんだからぁ！",
-      "voice": "en_40293/Main/1108/1108_40293_147",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 248,
       "speaker": "セレン",
       "text": "本家……？",
-      "voice": "ch_10023/Main/1108/1108_10023_148",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 250,
       "speaker": "カティナ",
       "text": "私は元祖師団長よ！",
-      "voice": "en_40295/Main/1108/1108_40295_149",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 253,
       "speaker": "スズ",
       "text": "のれん分けで揉めるラーメン屋みたいね！",
-      "voice": "ch_10022/Main/1108/1108_10022_150",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 256,
       "speaker": "リンデンハート",
       "text": "<ruby=うち>姫魔導士師団</ruby>は、正副の師団長は置かず、\nダブル師団長制度を採っているからね。性質の異なる\n魔導士グループを率いやすいようにしているの。",
-      "voice": "en_40293/Main/1108/1108_40293_151",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 257,
       "speaker": "主人公",
       "text": "へぇ……。あの、それはそれとして、\nその本家師団長にお任せするとどうなるんでしょうか……？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 258,
       "speaker": "リンデンハート",
       "text": "師団長でありながら、\n師団の軍師でもあるこの私に、策あり、よぅ。",
-      "voice": "en_40293/Main/1108/1108_40293_152",
-      "command": ""
+      "choice": false
     }
   ]
 }

@@ -1,308 +1,221 @@
 {
-  "scenario_id": "66043a0_nml",
-  "asset_path": "assets/advscene/scenarioexcel/character/66043/66043a0_nml.book.asset",
-  "cache_bundle": "C:\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\299507fce45adfa209ebad7005920388063db8627e7887151bd97a712911bc22\\299507fce45adfa209ebad7005920388\\__data",
+  "scenario": "scenario:character/66043/66043A0_Nml",
+  "title": "ハロウィン仕様のびっくり箱！",
   "rows": [
     {
-      "row": 8,
-      "speaker": "ピューリハロウィン",
+      "speaker": "？？？",
       "text": "あっ、いたいた、主くん！\nトリックオアトリート♪",
-      "voice": "ch_66043/R18/66043A0_66043_Nml/66043A0_66043_001",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 11,
       "speaker": "主人公",
       "text": "うわああっ！！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 13,
       "speaker": "主人公",
       "text": "って、ピューリさん？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 14,
       "speaker": "",
       "text": "ハロウィンの当日。食堂でご飯を食べ終わった僕の後ろから、\n仮装したピューリさんが飛びついてきた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 16,
-      "speaker": "ピューリハロウィン",
+      "speaker": "ピューリ",
       "text": "きゃはは！　主くんチョーびっくりしてるぅ、かわいいー♪",
-      "voice": "ch_66043/R18/66043A0_66043_Nml/66043A0_66043_002",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 17,
       "speaker": "主人公",
       "text": "もう、いきなり飛びつかないでください！\n食べ終わっていたからよかったですけど。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 20,
-      "speaker": "ピューリハロウィン",
+      "speaker": "ピューリ",
       "text": "あはっ、ごめん、ごめん。\n主くんを見つけて、チョー嬉しくなっちゃってさぁ。\nねえ、見て見て～。この衣装かわいいでしょー！",
-      "voice": "ch_66043/R18/66043A0_66043_Nml/66043A0_66043_003",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 25,
       "speaker": "",
       "text": "ピューリさんは嬉しそうに短いスカートをつまんだ。\nそれによりパンツが見えて、ドキッとしてしまう。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 27,
-      "speaker": "ピューリハロウィン",
+      "speaker": "ピューリ",
       "text": "あ～、主くんのえっちぃ～！\nうちのパンツ見てたでしょ？",
-      "voice": "ch_66043/R18/66043A0_66043_Nml/66043A0_66043_004",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 28,
       "speaker": "主人公",
       "text": "え、えっちって……ピューリさんが見せたんじゃないですか。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 29,
-      "speaker": "ピューリハロウィン",
+      "speaker": "ピューリ",
       "text": "ええ～、うちのせい～？\n人のせいにしちゃうなんて、悪い子じゃ～ん。",
-      "voice": "ch_66043/R18/66043A0_66043_Nml/66043A0_66043_005",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 30,
-      "speaker": "ピューリハロウィン",
+      "speaker": "ピューリ",
       "text": "ってことで悪い子な主くんには、\nたっくさんのお菓子を要求しま～す！",
-      "voice": "ch_66043/R18/66043A0_66043_Nml/66043A0_66043_006",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 31,
       "speaker": "主人公",
       "text": "えええ！？　はあ、仕方ないですね。\nけど、今はお菓子持っていないんで、あとで――。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 32,
-      "speaker": "ピューリハロウィン",
+      "speaker": "ピューリ",
       "text": "あらら、ならトリックだね！\nよーし、いたずら決行～♪",
-      "voice": "ch_66043/R18/66043A0_66043_Nml/66043A0_66043_007",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 42,
       "speaker": "主人公",
       "text": "いや、あとで渡すって……うわっ！\nあははは、く、くすぐったいです！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 43,
       "speaker": "",
       "text": "ピューリさんは手をワキワキしながら、\n僕の首や脇をくすぐりはじめる。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 44,
-      "speaker": "ピューリハロウィン",
+      "speaker": "ピューリ",
       "text": "おお、いい反応～！\nほらあ、こしょこしょこしょ～。",
-      "voice": "ch_66043/R18/66043A0_66043_Nml/66043A0_66043_008",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 47,
       "speaker": "主人公",
       "text": "あはははは、や、やめっ、ははっ！\nピューリさん、や、やめてくださいっ！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 48,
-      "speaker": "ピューリハロウィン",
+      "speaker": "ピューリ",
       "text": "よいではないか、よいではないか～。\nきゃははは！　もっとくすぐっちゃおっと！",
-      "voice": "ch_66043/R18/66043A0_66043_Nml/66043A0_66043_009",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 49,
       "speaker": "",
       "text": "静止の声を必死にあげるも悪戯は止まらない。\nこのままでは笑い疲れるまでくすぐられてしまう。\nどうにかしないとと必死に考えた僕は――。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 50,
       "speaker": "主人公",
       "text": "ぴゅ、ピューリさん……と、トリックオアトリート！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 52,
-      "speaker": "ピューリハロウィン",
+      "speaker": "ピューリ",
       "text": "おっ！　逆にうちにそれを言うなんて考えたね、主くん！",
-      "voice": "ch_66043/R18/66043A0_66043_Nml/66043A0_66043_010",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 53,
-      "speaker": "ピューリハロウィン",
+      "speaker": "ピューリ",
       "text": "でもでも、ざんね～ん！\nうちはちゃ～んとお菓子を持ってきたんだよね～♪　はい、これ。",
-      "voice": "ch_66043/R18/66043A0_66043_Nml/66043A0_66043_011",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 54,
       "speaker": "",
       "text": "ピューリさんはごそごそと隠し持っていた、\n手のひらサイズの箱を取り出した。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 55,
       "speaker": "主人公",
       "text": "え、この箱にお菓子が入っているんですか？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 58,
-      "speaker": "ピューリハロウィン",
+      "speaker": "ピューリ",
       "text": "うん！　とりま、開けてみて！\n主くん、ちょー喜ぶと思うから♪",
-      "voice": "ch_66043/R18/66043A0_66043_Nml/66043A0_66043_012",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 60,
       "speaker": "主人公",
       "text": "わかりました……？\n一体何が――",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 63,
       "speaker": "主人公",
       "text": "うわあああああ！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 64,
       "speaker": "",
       "text": "悪戯をやめてくれてよかったと安心しながら、箱を開ける。\nすると箱からかぼちゃが勢いよく、飛び出してきた。\n僕は慌てて当たらないように避ける。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 67,
-      "speaker": "ピューリハロウィン",
+      "speaker": "ピューリ",
       "text": "きゃははは！　主くん、よく避けたね～！\nハッピーハロウィン♪",
-      "voice": "ch_66043/R18/66043A0_66043_Nml/66043A0_66043_013",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 68,
       "speaker": "主人公",
       "text": "ハッピーハロウィンじゃないですよ！！\nこれ、悪戯ですよね！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 69,
-      "speaker": "ピューリハロウィン",
+      "speaker": "ピューリ",
       "text": "え～、かぼちゃは食べられるからお菓子じゃん？　生だけど！",
-      "voice": "ch_66043/R18/66043A0_66043_Nml/66043A0_66043_014",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 70,
       "speaker": "主人公",
       "text": "生なら食べられませんね！\nだから、より武器みたいになっているんじゃないですか！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 71,
       "speaker": "",
       "text": "固いかぼちゃが勢いよく飛び出てくるのだ。\n当たると普通に痛い。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 72,
-      "speaker": "ピューリハロウィン",
+      "speaker": "ピューリ",
       "text": "だってうち、武器作りは得意だけど、お菓子は作れないし～。\nだからせめてハロウィンっぽくしてあげたのに～。\nもぉー、主くん、わがまますぎ！",
-      "voice": "ch_66043/R18/66043A0_66043_Nml/66043A0_66043_015",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 73,
       "speaker": "主人公",
       "text": "これ、わがままですかね……――うわあああ！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 76,
       "speaker": "主人公",
       "text": "また飛び出してきた！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 77,
-      "speaker": "ピューリハロウィン",
+      "speaker": "ピューリ",
       "text": "あ、ごめ～ん。言い忘れた。\nこれ、お菓子のかぼちゃを受け取らないと、\n止まらない仕様なんだよねー♪",
-      "voice": "ch_66043/R18/66043A0_66043_Nml/66043A0_66043_016",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 78,
       "speaker": "主人公",
       "text": "ええええ！？　なんですか、それ！？　……――",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 83,
       "speaker": "主人公",
       "text": "ぐはっ！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 84,
       "speaker": "",
       "text": "何度も避けていた僕だが、ついにかぼちゃが顔に直撃する。\nそしてそのまま後ろに倒れてしまった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 90,
-      "speaker": "ピューリハロウィン",
+      "speaker": "ピューリ",
       "text": "あれ、主くん？\nお菓子が嬉しすぎて気を失っちゃったー？　お～い！",
-      "voice": "ch_66043/R18/66043A0_66043_Nml/66043A0_66043_017",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 91,
       "speaker": "",
       "text": "結局お菓子という名のピューネさんの悪戯を、\n思いっきり受け取った僕は、\n衝撃でしばらく気を失ってしまうのだった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     }
   ]
 }

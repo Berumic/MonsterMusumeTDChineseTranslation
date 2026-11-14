@@ -1,308 +1,221 @@
 {
-  "scenario_id": "10150b0_nml",
-  "asset_path": "assets/advscene/scenarioexcel/character/10150/10150b0_nml.book.asset",
-  "cache_bundle": "C:\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\9822e21f159ef863a172273a3b06a7d91af66f3d3c19a214d23021b380d70647\\9822e21f159ef863a172273a3b06a7d9\\__data",
+  "scenario": "scenario:character/10150/10150B0_Nml",
+  "title": "とうめい少女",
   "rows": [
     {
-      "row": 20,
       "speaker": "",
       "text": "ゲシュペンス島に滞在してから数日――。\n「洞窟で助けを求める声がする」と聞いた僕は、\n何か力になれないかと、アリスと一緒に洞窟内を探索していた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 27,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "この洞窟かぁ……。\nずいぶん奥まで続いてるみたいだね……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 28,
-      "speaker": "アリスもんくえ",
+      "speaker": "アリスフィーズ",
       "text": "……そのようだな。\nしかし、本当に誰か居るのか？　何かの間違いではないのか？",
-      "voice": "ch_10150/R18/10150B0_10150_Nml/10150B0_10150_001",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 29,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "間違いだとしても、誰かが困ってるなら助けないと！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 30,
-      "speaker": "アリスもんくえ",
+      "speaker": "アリスフィーズ",
       "text": "……ふん、使命感か？　くだらん。\nこんな暗くて狭くて不気味なところに誰か居るとは思えんぞ。",
-      "voice": "ch_10150/R18/10150B0_10150_Nml/10150B0_10150_002",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 31,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "だから、それを確かめに来たんじゃないか。\nもう、アリスはさっきから文句ばっかり言って……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 32,
       "speaker": "",
       "text": "足元に注意しながら、奥へと進んでいく。\nたしかにアリスの言う通り、洞窟に人気はないが、\nもしも困っている人がいたら放ってはおけない。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 33,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "帰ったら、何かオヤツをあげるからさ。\n面倒かもしれないけど、僕に付き合ってよ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 34,
-      "speaker": "アリスもんくえ",
+      "speaker": "アリスフィーズ",
       "text": "オヤツだと？　余を子ども扱いしおって……。",
-      "voice": "ch_10150/R18/10150B0_10150_Nml/10150B0_10150_003",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 36,
-      "speaker": "アリスもんくえ",
+      "speaker": "アリスフィーズ",
       "text": "――ちなみにオヤツはなんだ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 37,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "そうだなぁ……オヤツは「焼きそばパン」にしようか。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 50,
-      "speaker": "アリスもんくえ",
+      "speaker": "アリスフィーズ",
       "text": "……焼きそばパンだと？　それはオヤツなのか？\nというより、焼きそばをパンに挟むとは安易な……じゅるり。",
-      "voice": "ch_10150/R18/10150B0_10150_Nml/10150B0_10150_004",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 51,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "ものすごい期待してるじゃないか――",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 53,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "って、あれ？\nここってさっき通らなかった？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 54,
       "speaker": "",
       "text": "足元を見ると、迷わないようにつけた印があった。\nいつの間にか、元の道に戻って来てしまったらしい。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 55,
-      "speaker": "アリスもんくえ",
+      "speaker": "アリスフィーズ",
       "text": "ドアホめ。目印をつけておきながら迷うとは……。\n土地勘がないとはいえ、無様すぎるぞ。",
-      "voice": "ch_10150/R18/10150B0_10150_Nml/10150B0_10150_005",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 56,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "アリスだって、何も言わなかったじゃないか……。\nとにかく、今度は印のない方に進んでみよう。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 57,
-      "speaker": "アリスもんくえ",
+      "speaker": "アリスフィーズ",
       "text": "やれやれ……助けに来た勇者の方が迷うとはな。\n先が思いやられるぞ。",
-      "voice": "ch_10150/R18/10150B0_10150_Nml/10150B0_10150_006",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 62,
       "speaker": "",
       "text": "僕とアリスは言い合いしながら、洞窟の奥へと進んでいった。\nしかし――。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 68,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "うぅ……また同じところに……。\nこの洞窟、どうなってるんだぁ……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 75,
-      "speaker": "アリスもんくえ",
+      "speaker": "アリスフィーズ",
       "text": "完全に迷ったな、ドアホめ。\nあの気味の悪い墓石みたいなヤツも、何度もみたぞ。",
-      "voice": "ch_10150/R18/10150B0_10150_Nml/10150B0_10150_007",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 76,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "そうだね……って、アリス近いよ？　怖いの？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 77,
-      "speaker": "アリスもんくえ",
+      "speaker": "アリスフィーズ",
       "text": "ドアホめ。余があんなものを怖がるワケがなかろう。\nそもそも幽霊など魔導科学で説明できるのだ。",
-      "voice": "ch_10150/R18/10150B0_10150_Nml/10150B0_10150_008",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 78,
       "speaker": "",
       "text": "なぜかアリスが僕にぐっと近づいてくる。\nやたら毒づいていたと思ったら、やっぱり怖かったらしい。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 79,
-      "speaker": "アリスもんくえ",
+      "speaker": "アリスフィーズ",
       "text": "いいか、余は怖がってない。\nちょっと寒かったから貴様の腕をとっているだけだ。\n断じて、断じて怖がっていない。いいな。",
-      "voice": "ch_10150/R18/10150B0_10150_Nml/10150B0_10150_009",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 80,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "はいはい……って、あれは……？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 84,
       "speaker": "",
       "text": "暗がりの先に、女の子が見えた。\n「こっちこっち」と手招きをするように揺れている。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 85,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "ねぇ、アリス……あそこに居る女の子見える？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 86,
-      "speaker": "アリスもんくえ",
+      "speaker": "アリスフィーズ",
       "text": "……ひゃっ！？　おっ、女の子――見えん！　なにも見えんぞ！",
-      "voice": "ch_10150/R18/10150B0_10150_Nml/10150B0_10150_010",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 87,
       "speaker": "",
       "text": "アリスはブルブル震えながら、僕の腕にぎゅっと抱き着いてきた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 88,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "ん……？　もしかして、出口に案内してくれるのかな？\nアリス、ついて行ってみようよ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 89,
-      "speaker": "アリスもんくえ",
+      "speaker": "アリスフィーズ",
       "text": "ついていくだと！？　やめておけ！\nそれは罠だ！　あの世へ連れていく気だぞ！\n余には分かる！　前に本で読んだのだ！",
-      "voice": "ch_10150/R18/10150B0_10150_Nml/10150B0_10150_011",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 90,
       "speaker": "",
       "text": "アリスは腰砕けになって、めちゃくちゃ怖がっていた。\nそんなアリスをみて、女の子は楽しそうに笑っている。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 91,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "大丈夫だって。ついて行ってみようよ。\nほら、目を瞑ってたら転んじゃうよ？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 92,
-      "speaker": "アリスもんくえ",
+      "speaker": "アリスフィーズ",
       "text": "うぅ……ドアホめ……！　ドアホめぇ……！",
-      "voice": "ch_10150/R18/10150B0_10150_Nml/10150B0_10150_012",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 93,
       "speaker": "",
       "text": "女の子の後ろをついて歩いていく。\n僕の腕にしがみついたまま、アリスはずっと文句を言っていた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 110,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "はぁ、よかったぁ……出られたよ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 112,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "アリス、外だよ、目を開けなって。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 113,
-      "speaker": "アリスもんくえ",
+      "speaker": "アリスフィーズ",
       "text": "……ふぅ、やっと外に出られたか。\nまったく、助けに向かった方が救助されるとは無様な。",
-      "voice": "ch_10150/R18/10150B0_10150_Nml/10150B0_10150_013",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 114,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "外に出られた途端に元気になったね……。\nあれ、外に案内してくれた女の子が――。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 115,
-      "speaker": "アリスもんくえ",
+      "speaker": "アリスフィーズ",
       "text": "き、消えた……だと！？\nう、うそだ……余は、余は信じな……――きゅう。",
-      "voice": "ch_10150/R18/10150B0_10150_Nml/10150B0_10150_014",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 122,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "ちょっ！？　アリスっ、アリスしっかりして！\nアリスっ、アリス――っ！！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 123,
       "speaker": "",
       "text": "無事に外に出られたのは良かったけれど、\n今度はアリスが白目を剥いて気絶してしまうのだった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     }
   ]
 }

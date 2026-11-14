@@ -1,252 +1,181 @@
 {
-  "scenario_id": "10301a0_nml",
-  "asset_path": "assets/advscene/scenarioexcel/character/10301/10301a0_nml.book.asset",
-  "cache_bundle": "C:\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\9b3f48343a91298db04a104b1de3655e4bc48d25eff343c163d72b52f81cc5ec\\9b3f48343a91298db04a104b1de3655e\\__data",
+  "scenario": "scenario:character/10301/10301A0_Nml",
+  "title": "ガチおこが見たい！",
   "rows": [
     {
-      "row": 7,
       "speaker": "",
       "text": "その日、僕は湖を散歩していた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 21,
       "speaker": "",
       "text": "すると誰かから水がかけられ、後ろに倒れ込んでしまう。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 22,
       "speaker": "主人公",
       "text": "うわっ！？\nなんで急に水が！？　ううう、びしゃびしゃだあ……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 25,
       "speaker": "ニーサ",
       "text": "あははは、ひっかかったわね！\nご主人さまが通りかかるのを待っていた甲斐があったわ！",
-      "voice": "ch_10301/R18/10301A0_10301_Nml/10301A0_10301_001",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 26,
       "speaker": "主人公",
       "text": "ニーサさん！？\nということはこの水を僕に浴びせたのは……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 28,
       "speaker": "ニーサ",
       "text": "ふふん、このあたしよ！",
-      "voice": "ch_10301/R18/10301A0_10301_Nml/10301A0_10301_002",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 29,
       "speaker": "ニーサ",
       "text": "熱湯じゃないだけましでしょ？\n怒った？　怒ったでしょ？　ねえねえ？",
-      "voice": "ch_10301/R18/10301A0_10301_Nml/10301A0_10301_003",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 38,
       "speaker": "",
       "text": "獣神ニーズホッグ娘のニーサさんはなぜかニヤニヤと笑いながら、\nこちらに近づいてくる。どうやらわざとやったようだ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 39,
       "speaker": "ニーサ",
       "text": "ほら、我慢することないわよ。ムカつくでしょ？\n早く怒りなさいよ。",
-      "voice": "ch_10301/R18/10301A0_10301_Nml/10301A0_10301_004",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 40,
       "speaker": "主人公",
       "text": "えっと、怒ってはないですよ。\nただ驚きますし、もうやめてくださいね？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 44,
       "speaker": "ニーサ",
       "text": "むぅうううううー！！　なんで怒らないのよ！\nもっと怒り狂いなさい！",
-      "voice": "ch_10301/R18/10301A0_10301_Nml/10301A0_10301_005",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 45,
       "speaker": "主人公",
       "text": "えっ！　怒ってほしかったんですか！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 46,
       "speaker": "ニーサ",
       "text": "そうよ！！　あたしはおまえの怒った顔が見たいの！！\nほら、蛇ちゃんも見たいって言っているわ！",
-      "voice": "ch_10301/R18/10301A0_10301_Nml/10301A0_10301_006",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 49,
       "speaker": "",
       "text": "ニーサさんは蛇のぬいぐるみをぎゅっと抱えて、\n駄々をこねだした。\nなぜか怒りを強要された僕は困惑することしかできない。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 51,
       "speaker": "主人公",
       "text": "そんなこと言われても、困りますよ……。\n怒れと言われて怒ることはできませんし。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 52,
       "speaker": "ニーサ",
       "text": "むううううっ、",
-      "voice": "ch_10301/R18/10301A0_10301_Nml/10301A0_10301_007",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 55,
       "speaker": "ニーサ",
       "text": "じゃあじゃあ、これはどう！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 57,
       "speaker": "主人公",
       "text": "うわあああ！？\nちょっと何するんですか！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 59,
       "speaker": "",
       "text": "ニーサさんは僕のパンツをいきなりはぎ取った。\n僕はすっぽんぽんになってしまう。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 62,
       "speaker": "ニーサ",
       "text": "ふふん、おまえのパンツを盗んだら、\n怒られたとサキュバス娘から聞いたわ！",
-      "voice": "ch_10301/R18/10301A0_10301_Nml/10301A0_10301_008",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 63,
       "speaker": "ニーサ",
       "text": "パンツをこんなに堂々と盗まれてどう？\n怒った？　今度こそ怒ったでしょ？　ねえねえ？",
-      "voice": "ch_10301/R18/10301A0_10301_Nml/10301A0_10301_009",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 65,
       "speaker": "",
       "text": "ニーサさんは僕が先ほどまで履いていたパンツを、\n挑発的に掲げた。\nあまりの恥ずかしさに僕は慌てて取り返そうとする。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 68,
       "speaker": "主人公",
       "text": "うわああ、やめてくださいっ！\n怒りました！　怒りましたから！\nパンツを返してくださいっ！！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 71,
       "speaker": "ニーサ",
       "text": "んふううううう、やっと怒った！！\n真っ赤になって、慌てちゃって、かわいいじゃない！",
-      "voice": "ch_10301/R18/10301A0_10301_Nml/10301A0_10301_010",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 72,
       "speaker": "ニーサ",
       "text": "萌えよ、萌え！\nすっごく萌えているわ、あたし！",
-      "voice": "ch_10301/R18/10301A0_10301_Nml/10301A0_10301_011",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 73,
       "speaker": "",
       "text": "今度はパンツと蛇の人形を抱えて、悶え始めたニーサさん。\n……よくわからないが、どうやら満足したようだ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 74,
       "speaker": "主人公",
       "text": "あの、ニーサさん？\n満足したなら、いい加減パンツを返して……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 75,
       "speaker": "ニーサ",
       "text": "え、まだ満足してないわよ？\nこれはこれで萌えるけど、まだまだ足りないわ！",
-      "voice": "ch_10301/R18/10301A0_10301_Nml/10301A0_10301_012",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 76,
       "speaker": "主人公",
       "text": "え！？　まだってどういうことですか！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 77,
       "speaker": "ニーサ",
       "text": "あたしはおまえのガチおこが見たいの！！\n怒りで燃え上がる目を見たいのよ！",
-      "voice": "ch_10301/R18/10301A0_10301_Nml/10301A0_10301_013",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 78,
       "speaker": "ニーサ",
       "text": "他のモンスター娘も見たことがない、\nおまえの本気の怒り顔を見せなさい！",
-      "voice": "ch_10301/R18/10301A0_10301_Nml/10301A0_10301_014",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 80,
       "speaker": "ニーサ",
       "text": "ということで、それを見せるまでパンツは没収よ！",
-      "voice": "ch_10301/R18/10301A0_10301_Nml/10301A0_10301_015",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 82,
       "speaker": "主人公",
       "text": "ええええええ！？\nなんでですか、返してください～～～～！！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 83,
       "speaker": "",
       "text": "ニーサさんは僕のパンツをひらひらと振り回し始める。\nそれでも僕は彼女が満足できるような本気の怒りは湧いてこない。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 84,
       "speaker": "",
       "text": "そのため彼女が諦めてくれるまで、\n盗まれたパンツを必死に追いかける羽目になるのだった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     }
   ]
 }

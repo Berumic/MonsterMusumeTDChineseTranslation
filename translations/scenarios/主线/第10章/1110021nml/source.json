@@ -1,308 +1,221 @@
 {
-  "scenario_id": "1110021nml",
-  "asset_path": "Assets/AdvScene/ScenarioExcel/main/1110/1110021Nml.xlsx",
-  "cache_bundle": "C:\\Users\\77147\\Documents\\Codex\\2026-08-21\\bang\\outputs\\MonsterMusumeTDMod\\解包资源\\ab\\10章_02話前半_1110021Nml.ab",
+  "scenario": "scenario:main/1110/1110021Nml",
+  "title": "10章_02話前半",
   "rows": [
     {
-      "row": 9,
       "speaker": "リフレックス",
       "text": "さて、ラシオネル殿。ここからが本題なのですが。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 10,
       "speaker": "セレン",
       "text": "おい、ご主人、話の続きがあるってよ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 11,
       "speaker": "主人公",
       "text": "はい……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 16,
       "speaker": "リフレックス",
       "text": "実は、本物の法王猊下が、\nこのバーベルの塔の最上階の部屋に幽閉されています。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 17,
-      "speaker": "手乗りアンティモー",
+      "speaker": "アンティモー",
       "text": "幽閉場所はこれまで分かんねー状態で、クソが！\n……と思ってましたが……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 18,
       "speaker": "リフレックス",
       "text": "怪我の功名といいますか、ここに放り込まれたお陰で、\nアンティモーが塔内部の脱出経路を探している時に、\n偶然、本物の法王猊下を発見した、という訳です。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 21,
       "speaker": "主人公",
       "text": "……先の叛乱は、ニセモノの法王を確保した上で、\n本物の法王猊下を救い出し、ロシェルを正常な状態に\n戻すためのクーデターだった、ということですか。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 22,
       "speaker": "リフレックス",
       "text": "その通りです。そして、あなた方には、これから、\n本物の法王猊下を救い出す手助けをお願いしたい。\n……この私と共に。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 26,
       "speaker": "セレン",
       "text": "おい、ご主人、手を貸すつもりなのか？\nお人好しにも程があるんじゃないのか？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 27,
       "speaker": "リフレックス",
       "text": "それでしたら……これは、あなた方にもメリットがある話です。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 30,
       "speaker": "スズ",
       "text": "メリット？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 35,
       "speaker": "リフレックス",
       "text": "あなた方が探している四獣神の祠、\nそれは、この塔の屋上に移設されているんです。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 36,
-      "speaker": "手乗りアンティモー",
+      "speaker": "アンティモー",
       "text": "最上階の部屋、つまり法王の小娘が\n幽閉されている部屋から行けるっつー次第でございますよ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 40,
       "speaker": "セレン",
       "text": "随分とそっちに都合の良い配置だな……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 45,
       "speaker": "リーファー",
       "text": "そういうことでしたら、セーラが持つ探知能力で\n察知出来るはずです。この近距離で、\n大体の場所が分かっているのならば。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 46,
       "speaker": "セーラ",
       "text": "もうやっとる。\n……確かに、この上に祠があるようじゃ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 47,
       "speaker": "主人公",
       "text": "それなら……\n情報の対価を払わないのは不義理、ということですね。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 51,
       "speaker": "セレン",
       "text": "お人好しめ……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 52,
       "speaker": "主人公",
       "text": "……では、こういうのはどうでしょう？\nどっちみち、祠への通り道だと言うなら、協力して恩を売る、\nということにした方が後々良いことがありそうですよ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 55,
       "speaker": "リフレックス",
       "text": "理知的な判断です。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 59,
       "speaker": "スズ",
       "text": "仕方ないわね、そういう風に言われちゃあね……ねえ？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 60,
       "speaker": "セレン",
       "text": "分かった分かった。\n……んじゃ、楽しい楽しい塔上りの運動の時間だな。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 66,
-      "speaker": "手乗りアンティモー",
+      "speaker": "アンティモー",
       "text": "その前に、隣の牢屋にブチ込まれてる、\n私の身体の本体の方も出して貰いてーんですが。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 67,
       "speaker": "リフレックス",
       "text": "そうでした。失敬、\nそのままでも十分に頼もしいので、忘れていました。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 68,
-      "speaker": "手乗りアンティモー",
+      "speaker": "アンティモー",
       "text": "世辞はいらねーですよ、リフレックス卿。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 76,
       "speaker": "リフレックス",
       "text": "このバーベルの塔は特殊な塔です。\n数階ごとに特殊な魔法のかかった鍵を要求されます。\nそれを持つことが出来るのは、『人間の男性』だけなのですが。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 77,
       "speaker": "主人公",
       "text": "この中では……、僕だけ、ということですか。\n分かりました、それぐらいでしたら、お安い御用です。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 78,
       "speaker": "リフレックス",
       "text": "助かります。では、鍵はあちらの管理室の方に。\n潜入時に衛兵を倒したのなら、応援の兵がその管理室から\n出てきたはずですから、今はもぬけの殻かと思われます。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 79,
       "speaker": "主人公",
       "text": "行きましょう。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 87,
       "speaker": "主人公",
       "text": "あの……リフレックスさん。\n衛兵はいないはずだって……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 88,
       "speaker": "リフレックス",
       "text": "そう思っていたのですが、どうやら読みが外れたようですね。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 92,
       "speaker": "スズ",
       "text": "どうするの？　ここままじゃ管理室に入ることもできないし、\n鍵を手に入れることも難しいんじゃ……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 93,
       "speaker": "主人公",
       "text": "何か方法を考えましょう。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 94,
       "speaker": "シジメ",
       "text": "あ、あのぅ、ここは私がキノコに擬態して、\nこっそり侵入してきましょうか……？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 95,
       "speaker": "スズ",
       "text": "うーん、さすがにシジメちゃんの\nその頭だと擬態も無理があるんじゃ……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 97,
       "speaker": "シジメ",
       "text": "うぅう……頭デッカチなドスケベキノコ頭でごめんなさい……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 101,
       "speaker": "クロミ",
       "text": "大丈夫ですよ、シジメちゃん♪\nここは、私に任せてください。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 129,
       "speaker": "スズ",
       "text": "ちょっとクロミ！？　何する気で――。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 138,
       "speaker": "クロミ",
       "text": "ごめんくださーい♪\nあの、バーベルの塔の鍵を貸し出して貰えませんか？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 139,
       "speaker": "神官守護兵",
       "text": "な、なんだ貴様は！？　いや、そうか！\n貴様が先ほど塔の外で暴れていたという侵入者だな！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 148,
       "speaker": "スズ",
       "text": "クロミ～！！　何やってんの！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 149,
       "speaker": "アンティモー",
       "text": "まさか素直に貸し出しを頼みにいくとは……。\nなんて馬鹿正直な野郎なんでごぜーましょう……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 150,
       "speaker": "主人公",
       "text": "こうなったら仕方ありません。\nクロミさんに続いて、僕らも衛兵を倒して鍵を奪いましょう！",
-      "voice": "",
-      "command": ""
+      "choice": false
     }
   ]
 }

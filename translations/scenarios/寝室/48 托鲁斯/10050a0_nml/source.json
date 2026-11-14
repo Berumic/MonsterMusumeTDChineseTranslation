@@ -1,245 +1,176 @@
 {
-  "scenario_id": "10050a0_nml",
-  "asset_path": "assets/advscene/scenarioexcel/character/10050/10050a0_nml.book.asset",
-  "cache_bundle": "C:\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\05ec889befcb6dbcfe78958172193efeae0f9d68a4ed8b5ba33a6bc508146519\\05ec889befcb6dbcfe78958172193efe\\__data",
+  "scenario": "scenario:character/10050/10050A0_Nml",
+  "title": "ご主人はおかず",
   "rows": [
     {
-      "row": 20,
       "speaker": "トルス",
       "text": "圧倒的に！\nお肉が！\n足りなぁーいっ！！",
-      "voice": "ch_10050/R18/10050A0_10050_Nml/10050A0_10050_001",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 23,
       "speaker": "",
       "text": "みんなで穏やかに昼食をとっている最中、\nトルスさんの叫びが晴れた空に響き渡った。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 24,
       "speaker": "主人公",
       "text": "たしかに今日のお弁当は野菜中心だから、\nお肉が大好きなトルスさんには物足りないかもしれませんね。\nそうだ、僕のぶん食べますか？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 55,
       "speaker": "トルス",
       "text": "えっ！　いいのか！？\nへへ、じゃあ遠慮なく……。",
-      "voice": "ch_10050/R18/10050A0_10050_Nml/10050A0_10050_002",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 56,
       "speaker": "シルバ",
       "text": "――待て。\nご主人は――――食べ盛り―――だ。\n自分のぶんは―――自分で―――。",
-      "voice": "ch_10016/R18/10050A0_10016_Nml/10050A0_10016_003",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 57,
       "speaker": "トルス",
       "text": "えー？\nでも、言われてみればそうだな。\nじゃあシルバを……じゅるり。",
-      "voice": "ch_10050/R18/10050A0_10050_Nml/10050A0_10050_004",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 59,
       "speaker": "シルバ",
       "text": "――――え？",
-      "voice": "ch_10016/R18/10050A0_10016_Nml/10050A0_10016_005",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 60,
       "speaker": "",
       "text": "トルスさんが、シルバさんを熱い視線で見つめる。\nその口元には涎が垂れ、心なしか呼吸も荒い。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 63,
       "speaker": "トルス",
       "text": "こう見ると、シルバってうまそうだなー。\nはぁっ、はぁっ……じゅるり。\n肉付きいいし……牛だし……。",
-      "voice": "ch_10050/R18/10050A0_10050_Nml/10050A0_10050_006",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 64,
       "speaker": "シルバ",
       "text": "――――さらばっ。",
-      "voice": "ch_10016/R18/10050A0_10016_Nml/10050A0_10016_007",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 69,
       "speaker": "",
       "text": "身の危険を感じたのか、\nシルバさんは脱兎のごとく、いや脱牛のごとく逃げ出した。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 70,
       "speaker": "トルス",
       "text": "あー、行っちゃった。\n他に肉付きがいいのは……。",
-      "voice": "ch_10050/R18/10050A0_10050_Nml/10050A0_10050_008",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 73,
       "speaker": "クロミ",
       "text": "ほぇっ！　私ですか！？\nわ、私を食べていいのは、ご主人くんだけですーっ！",
-      "voice": "ch_10021/R18/10050A0_10021_Nml/10050A0_10021_009",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 78,
       "speaker": "",
       "text": "そう言って、クロミさんも逃げていった。\n別に、僕にクロミさんを食べる気はないのだけれど。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 92,
       "speaker": "トルス",
       "text": "そう言えば、馬肉って食べた事ないなぁ。",
-      "voice": "ch_10050/R18/10050A0_10050_Nml/10050A0_10050_010",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 98,
       "speaker": "",
       "text": "トルスさんの言葉に、今度はスズさんが音もなく飛び去った。\n次々と食卓から人が消えていく。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 102,
       "speaker": "",
       "text": "そして残されたのは僕とトルスさんだけになった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 106,
       "speaker": "主人公",
       "text": "トルスさん、あまり皆さんを怖がらせないでください。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 108,
       "speaker": "トルス",
       "text": "アタイが悪いのかー！？\nさすがのアタイでも、本当に食べたりはしないのにー。",
-      "voice": "ch_10050/R18/10050A0_10050_Nml/10050A0_10050_011",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 109,
       "speaker": "",
       "text": "本当だろうか。\nみんなを、特にシルバさんを見る目は\n完全に捕食者のそれだったような……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 110,
       "speaker": "トルス",
       "text": "ご主人？　なんだその顔。\nひょっとして疑ってるなー？",
-      "voice": "ch_10050/R18/10050A0_10050_Nml/10050A0_10050_012",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 111,
       "speaker": "主人公",
       "text": "い、いえ、そんなことは……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 112,
       "speaker": "トルス",
       "text": "本当に食べないんだぞ！\nただこうやって、オカズにするだけ……。",
-      "voice": "ch_10050/R18/10050A0_10050_Nml/10050A0_10050_013",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 116,
       "speaker": "",
       "text": "言いながら、トルスさんが僕に近寄ってくる。\n彼女は僕の腕を取り、口を開けた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 117,
       "speaker": "主人公",
       "text": "（た、食べられる……っ！？）",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 121,
       "speaker": "",
       "text": "思わず目を閉じてしまう。\nしかし、予想したような痛みは無く、\n僕の指を暖かな感触が包んだ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 124,
       "speaker": "トルス",
       "text": "はむはむ……んー、うみゃい！",
-      "voice": "ch_10050/R18/10050A0_10050_Nml/10050A0_10050_014",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 126,
       "speaker": "主人公",
       "text": "くっ、あ、あはっ！　くすぐったいです！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 127,
       "speaker": "",
       "text": "トルスさんは僕の指を咥えて味わっている。\nくすぐったさに僕は腕を引こうとするが、\n彼女にしっかりと掴まれて逃げられない。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 128,
       "speaker": "トルス",
       "text": "んまんま。ごひゅひん、いいゆひもっへるなー！",
-      "voice": "ch_10050/R18/10050A0_10050_Nml/10050A0_10050_015",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 129,
       "speaker": "主人公",
       "text": "なに言ってるかわかりませんよ！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 131,
       "speaker": "主人公",
       "text": "んはっ、あはは！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 132,
       "speaker": "",
       "text": "くすぐったいし、いつ噛まれるかわからなかったけど、\n美味しそうに指をしゃぶる姿がなんだか微笑ましくて、\n僕は抵抗をやめることにした。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 134,
       "speaker": "",
       "text": "ペットがいたらこんな感じなんだろうなと、失礼なことを思う。\n空いた手でトルスさんの頭を撫でると、\n彼女は犬のように気持ちよさげに目を細めたのだった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     }
   ]
 }

@@ -1,217 +1,156 @@
 {
-  "scenario_id": "10229b0_nml",
-  "asset_path": "assets/advscene/scenarioexcel/character/10229/10229b0_nml.book.asset",
-  "cache_bundle": "C:\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\f47985721f725287208e348ccd9e838826c81f80d2523590a1eb87a6431057fe\\f47985721f725287208e348ccd9e8388\\__data",
+  "scenario": "scenario:character/10229/10229B0_Nml",
+  "title": "年明けの挑戦！",
   "rows": [
     {
-      "row": 7,
-      "speaker": "ディリオ晴着",
+      "speaker": "ディリオ",
       "text": "ううん……もう少し爪先に意識を向けて……。\nあっ、漏れちゃいましたか……ううん、それならここを……。",
-      "voice": "ch_10229/R18/10229B0_10229_Nml/10229B0_10229_001",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 8,
       "speaker": "主人公",
       "text": "あれ？　ディリオさん？\nここで何をしているんですか？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 9,
       "speaker": "",
       "text": "散歩をしていたら何やら人気のない場所で、\n一人唸っているディリオさんを見つける。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 11,
-      "speaker": "ディリオ晴着",
+      "speaker": "ディリオ",
       "text": "ご、ごごご、ご主人様！？\nな、なんでこんな貧相な場所に！？",
-      "voice": "ch_10229/R18/10229B0_10229_Nml/10229B0_10229_002",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 12,
       "speaker": "主人公",
       "text": "あ、いえ。\n散歩してたら偶然見かけたので……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 35,
-      "speaker": "ディリオ晴着",
+      "speaker": "ディリオ",
       "text": "そ、そういうことだったんですか……。\nえっと、その……何をしているのかというと、\n毒を制御する特訓をしていて……。",
-      "voice": "ch_10229/R18/10229B0_10229_Nml/10229B0_10229_003",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 36,
       "speaker": "主人公",
       "text": "毒の制御ですか？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 37,
       "speaker": "",
       "text": "ディリオさんはバジリスク娘であり、\nとても強力な毒を持っていて自然と漏れ出てしまう。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 38,
-      "speaker": "ディリオ晴着",
+      "speaker": "ディリオ",
       "text": "……昔にも、１度毒を制御をしようとしたんですけど、\nその時には失敗をして辺り一面が毒沼になってしまって……。",
-      "voice": "ch_10229/R18/10229B0_10229_Nml/10229B0_10229_004",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 39,
-      "speaker": "ディリオ晴着",
+      "speaker": "ディリオ",
       "text": "その時は他人と関わらない生活をしていたので、\n毒の制御は諦めたんですけどね……ふふふ。",
-      "voice": "ch_10229/R18/10229B0_10229_Nml/10229B0_10229_005",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 40,
       "speaker": "主人公",
       "text": "それなら、なんで毒のコントロールを再開したんですか？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 42,
-      "speaker": "ディリオ晴着",
+      "speaker": "ディリオ",
       "text": "……そ、その……推しであるご主人様を見ていたら、\nもう一度チャレンジしてみようかと思いまして……。",
-      "voice": "ch_10229/R18/10229B0_10229_Nml/10229B0_10229_006",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 43,
       "speaker": "主人公",
       "text": "えっ？\n僕を見ていて……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 44,
-      "speaker": "ディリオ晴着",
+      "speaker": "ディリオ",
       "text": "は、はい……ご主人様はいつも頑張っていて……。\nそんな姿を見ていたら、\n私も推しに誇れる自分でありたいと思ったんです。",
-      "voice": "ch_10229/R18/10229B0_10229_Nml/10229B0_10229_007",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 45,
       "speaker": "",
       "text": "今まで悩んでいたディリオさんだが……、\n失敗にもめげずに挑戦するという事に僕は感動する。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 46,
       "speaker": "主人公",
       "text": "それはとっても素敵だと思います！\n僕も協力しますよ！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 49,
-      "speaker": "ディリオ晴着",
+      "speaker": "ディリオ",
       "text": "えっ、ほ、ほんとですか！？\nで、でも、毒が漏れても被害がないように、\nこの人気のない岬を選んだんですけど……ご主人様に迷惑が……。",
-      "voice": "ch_10229/R18/10229B0_10229_Nml/10229B0_10229_008",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 50,
       "speaker": "主人公",
       "text": "いえ、毒の制御ですから誰かが居た方が捗るはずです！\nディリオさんのチャレンジ、僕は応援してますからね！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 52,
-      "speaker": "ディリオ晴着",
+      "speaker": "ディリオ",
       "text": "あっ、うっ……お、推しからの……げ、激励……尊い……。\n無理……こんなテンションだったらなんでも出来ちゃう……！",
-      "voice": "ch_10229/R18/10229B0_10229_Nml/10229B0_10229_009",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 53,
-      "speaker": "ディリオ晴着",
+      "speaker": "ディリオ",
       "text": "こんな尊みの溢れるご主人様の前で、下手な姿を見せられません！\n毒なんて……こうして、気合で……！！",
-      "voice": "ch_10229/R18/10229B0_10229_Nml/10229B0_10229_010",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 56,
       "speaker": "",
       "text": "涙を流しながら昇天しそうな顔で、\n必死な表情を浮かべて、水に手を入れるディリオさん。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 62,
       "speaker": "",
       "text": "水は毒に汚染されることなく、綺麗な水のままだ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 65,
-      "speaker": "ディリオ晴着",
+      "speaker": "ディリオ",
       "text": "はぁ、はぁ……毒が漏れていません！\nやった、やったぁ！　ご主人様、見てください！\n毒の制御が出来ましたよ！　これぞ推しパワーです！",
-      "voice": "ch_10229/R18/10229B0_10229_Nml/10229B0_10229_011",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 66,
       "speaker": "",
       "text": "笑顔でこちらを見るディリオさんに、\n僕も自分のことのように嬉しくなる。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 67,
       "speaker": "主人公",
       "text": "あはは、僕は何もやってませんけど……\nおめでとうございます、ディリオさん！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 69,
       "speaker": "主人公",
       "text": "……ん？　あれ？　足が動かな……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 75,
-      "speaker": "ディリオ晴着",
+      "speaker": "ディリオ",
       "text": "……あっ、ああああ！？　ご、ごめんなさい！\n毒の方は制御できたけど、石化能力を忘れていましたっ！",
-      "voice": "ch_10229/R18/10229B0_10229_Nml/10229B0_10229_012",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 76,
       "speaker": "主人公",
       "text": "そ、そういえば、ディリオさん……。\n毒だけじゃなくて、石化も……ありましたね……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 81,
-      "speaker": "ディリオ晴着",
+      "speaker": "ディリオ",
       "text": "あわわっ！？\nこのままだとご主人様が動かない石像に！？　早く治さないと！　",
-      "voice": "ch_10229/R18/10229B0_10229_Nml/10229B0_10229_013",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 82,
       "speaker": "",
       "text": "そのまま、彼女の縄張りまで連れていかれた僕は、\n彼女の薬で何とか石化解除をして貰ったのだった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     }
   ]
 }

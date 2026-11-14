@@ -1,322 +1,231 @@
 {
-  "scenario_id": "66059a0_nml",
-  "asset_path": "assets/advscene/scenarioexcel/character/66059/66059a0_nml.book.asset",
-  "cache_bundle": "C:\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\4f0ca1944816e7ddb788523382b3786fbce7d62dd597ff954a6ab7a05aca0002\\4f0ca1944816e7ddb788523382b3786f\\__data",
+  "scenario": "scenario:character/66059/66059A0_Nml",
+  "title": "新春！メデューサ娘一発芸！",
   "rows": [
     {
-      "row": 7,
       "speaker": "",
       "text": "清々しい空気が森を満たしている。<interval=0.4>\n新年を穏やかな気持ちで迎えるはずだったのだけど――。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 8,
-      "speaker": "ローレン晴着",
+      "speaker": "ローレン",
       "text": "あら～♪\nごしゅじ～ん♪<interval=3>　あけおめことよろ～♪",
-      "voice": "ch_66059/R18/66059A0_66059_Nml/66059A0_66059_001",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 10,
-      "speaker": "ローレン晴着",
+      "speaker": "ローレン",
       "text": "んふ～♪\nお酒を飲むのは久しぶりだけど、\nイイ気分だわぁん♪<interval=4>　うっふ～～ん♪",
-      "voice": "ch_66059/R18/66059A0_66059_Nml/66059A0_66059_002",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 11,
       "speaker": "主人公",
       "text": "うっ<interval=0.4>ふ～んって……<interval=0.4>ロ",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 14,
       "speaker": "主人公",
       "text": "ーレンさん、大丈夫ですか？\nお正月だからとはいえ、飲みすぎでは……？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 16,
       "speaker": "",
       "text": "目も虚ろで、ふらふらと揺れている。<interval=0.4>\nどう見てもローレンさんは酔っていた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 18,
-      "speaker": "ローレン晴着",
+      "speaker": "ローレン",
       "text": "ヒック……<interval=1.5>飲みすぎじゃないわよぉん。\n私はお姉さんなのよぉん？　これくらいは何とも――。",
-      "voice": "ch_66059/R18/66059A0_66059_Nml/66059A0_66059_003",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 21,
       "speaker": "",
       "text": "回らない舌でそう言いながら、\nローレンさんは手にしていた酒瓶をグイっとあおった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 35,
-      "speaker": "ローレン晴着",
+      "speaker": "ローレン",
       "text": "ぷっ、はぁぁぁぁぁぁ～～～♪<interval=1.5>\nこれくらい、ぜんぜんっ、なんともないのよぉん♪",
-      "voice": "ch_66059/R18/66059A0_66059_Nml/66059A0_66059_004",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 37,
-      "speaker": "ローレン晴着",
+      "speaker": "ローレン",
       "text": "むしろぉ、これは序の口。\nこれからもっともっと飲むのよぉん！",
-      "voice": "ch_66059/R18/66059A0_66059_Nml/66059A0_66059_005",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 38,
       "speaker": "",
       "text": "ローレンさんはもうフラフラだった。<interval=0.4>\n顔だけじゃなく、身体全体が桜色に染まっている。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 41,
       "speaker": "主人公",
       "text": "フラフラじゃないですか！<interval=0.4>\nもう止めておきましょう！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 42,
-      "speaker": "ローレン晴着",
+      "speaker": "ローレン",
       "text": "えー？　私は大丈夫よぉ～！<interval=1.8>\n大",
-      "voice": "ch_66059/R18/66059A0_66059_Nml/66059A0_66059_006",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 44,
-      "speaker": "ローレン晴着",
+      "speaker": "ローレン",
       "text": "丈夫なんだペーン！　ふふっ、なんちゃってぇ～♪",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 45,
       "speaker": "主人公",
       "text": "どうしてペリリさんのマネを！<interval=0.4>\nも",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 48,
       "speaker": "主人公",
       "text": "うダメですってば！　ほら、向こうでお水を飲みましょう！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 50,
-      "speaker": "ローレン晴着",
+      "speaker": "ローレン",
       "text": "あっ、<interval=0.4>あ～ん！\nご主人っ、ダメよぉ！　そんなに強くしちゃダーメ♪",
-      "voice": "ch_66059/R18/66059A0_66059_Nml/66059A0_66059_007",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 51,
-      "speaker": "ローレン晴着",
+      "speaker": "ローレン",
       "text": "そんなにしたらぁ……<interval=0.7>",
-      "voice": "ch_66059/R18/66059A0_66059_Nml/66059A0_66059_008",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 54,
-      "speaker": "ローレン晴着",
+      "speaker": "ローレン",
       "text": "あんっ♪\n私、乱れちゃうわぁ～！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 57,
       "speaker": "主人公",
       "text": "誤解を招く言い方は止めて下さい！！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 59,
       "speaker": "",
       "text": "持っている酒瓶を奪おうとするが、ローレンさんは手放さない。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 64,
-      "speaker": "ローレン晴着",
+      "speaker": "ローレン",
       "text": "分かったわぁ！<interval=0.6>\nモノマネするっ、モノマネすればいいんでしょおっ！",
-      "voice": "ch_66059/R18/66059A0_66059_Nml/66059A0_66059_009",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 66,
-      "speaker": "ローレン晴着",
+      "speaker": "ローレン",
       "text": "新年１発目の、かくし芸を披露しろって言うんでしょう？<interval=2>\n分かったわぁ！　するから！　モノマネするからぁ！",
-      "voice": "ch_66059/R18/66059A0_66059_Nml/66059A0_66059_010",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 69,
       "speaker": "主人公",
       "text": "言ってませんけど！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 70,
-      "speaker": "ローレン晴着",
+      "speaker": "ローレン",
       "text": "それじゃあ、いくわよん！<interval=2>\n新",
-      "voice": "ch_66059/R18/66059A0_66059_Nml/66059A0_66059_011",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 73,
-      "speaker": "ローレン晴着",
+      "speaker": "ローレン",
       "text": "春！　メデューサ娘のモノマネ３連発！　ぱふぱふぱふ～♪",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 74,
       "speaker": "",
       "text": "止める間もなく、何か始まってしまった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 77,
-      "speaker": "ローレン晴着",
+      "speaker": "ローレン",
       "text": "あけましておめでとう、<interval=1>なの！<interval=1>\n今年の目標は、ローレンさんみたいになること……<interval=2>なの！<interval=1>\nローレンさんは、ルルゥの憧れ……<interval=1.5>なの！",
-      "voice": "ch_66059/R18/66059A0_66059_Nml/66059A0_66059_012",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 78,
-      "speaker": "ローレン晴着",
+      "speaker": "ローレン",
       "text": "ペンペンペーン！\nど",
-      "voice": "ch_66059/R18/66059A0_66059_Nml/66059A0_66059_013",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 80,
-      "speaker": "ローレン晴着",
+      "speaker": "ローレン",
       "text": "っせーい！　<interval=1>あけおめことよろー！　ペリリだペーン！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 94,
-      "speaker": "ローレン晴着",
+      "speaker": "ローレン",
       "text": "クロミお姉さんですぅ♪<interval=1>\nお正月といえばぁ、アレ初めですよねぇ！<interval=2>\nさあさ、ご主人くん！<interval=1>　お姉さんとしっぽりしましょう！",
-      "voice": "ch_66059/R18/66059A0_66059_Nml/66059A0_66059_014",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 96,
-      "speaker": "ローレン晴着",
+      "speaker": "ローレン",
       "text": "以上！　<interval=0.4>さあ、どうかしら！？<interval=0.4>\nご主人、満点大笑いよねん！？",
-      "voice": "ch_66059/R18/66059A0_66059_Nml/66059A0_66059_015",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 97,
       "speaker": "",
       "text": "芸が終わり、\nローレンさんがドヤ顔を向けてくる。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 98,
       "speaker": "主人公",
       "text": "えーっと、どれも特徴をとらえていたと思いますけど……。<interval=0.4>\nモ",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 101,
       "speaker": "主人公",
       "text": "ノマネで名前を名乗っちゃうのは、\nちょっと保険をかけすぎというか……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 105,
-      "speaker": "ローレン晴着",
+      "speaker": "ローレン",
       "text": "ぎゃふん！",
-      "voice": "ch_66059/R18/66059A0_66059_Nml/66059A0_66059_016",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 108,
       "speaker": "",
       "text": "僕の批評を受けて、ローレンさんはバタンとぶっ倒れた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 112,
-      "speaker": "ローレン晴着",
+      "speaker": "ローレン",
       "text": "こ、こうなったらダメ押しよぉん！",
-      "voice": "ch_66059/R18/66059A0_66059_Nml/66059A0_66059_017",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 114,
-      "speaker": "ローレン晴着",
+      "speaker": "ローレン",
       "text": "わんわん！　合宿免許ＷＡＮ！<interval=1>\nこのたび、宣伝隊長に就任したテルルだわん！<interval=2.5>\n合宿免許なら、最短２週間でおねショタ警察になれるわん！",
-      "voice": "ch_66059/R18/66059A0_66059_Nml/66059A0_66059_018",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 144,
-      "speaker": "ローレン晴着",
+      "speaker": "ローレン",
       "text": "どうかしらん！？\nご主人、笑い過ぎてぽんぽんペインじゃないかしらん！？",
-      "voice": "ch_66059/R18/66059A0_66059_Nml/66059A0_66059_019",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 145,
       "speaker": "主人公",
       "text": "え、<interval=0.4>えーっと……<interval=0.4>や",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 149,
       "speaker": "主人公",
       "text": "っぱり名乗ってましたよ……？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 154,
-      "speaker": "ローレン晴着",
+      "speaker": "ローレン",
       "text": "ぐふぅ！",
-      "voice": "ch_66059/R18/66059A0_66059_Nml/66059A0_66059_020",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 157,
       "speaker": "主人公",
       "text": "あっ、ローレンさんっ！　起きて下さい！\n酒瓶を抱いたまま寝ないでくださいっ！！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 158,
       "speaker": "",
       "text": "飲み過ぎたせいか、それとも批評がショックだったのか、\nローレンさんはその場に倒れ、眠ってしまった。\n僕は新年早々、目を回した彼女を介抱することになるのだった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     }
   ]
 }

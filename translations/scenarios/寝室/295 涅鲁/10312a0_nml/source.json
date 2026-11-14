@@ -1,280 +1,201 @@
 {
-  "scenario_id": "10312a0_nml",
-  "asset_path": "assets/advscene/scenarioexcel/character/10312/10312a0_nml.book.asset",
-  "cache_bundle": "C:\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\f12ab8eb5e52f2cd7a6801b288a2bcc10f044f87e53f539ec6c36949a22bea11\\f12ab8eb5e52f2cd7a6801b288a2bcc1\\__data",
+  "scenario": "scenario:character/10312/10312A0_Nml",
+  "title": "最強のくりぼっち",
   "rows": [
     {
-      "row": 7,
       "speaker": "",
       "text": "僕はネルさんに呼び出されて地底湖にやってきた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 8,
-      "speaker": "ネルXmas",
+      "speaker": "ネル",
       "text": "ご主人くん、遅かったね。\nネルはずっとここで待っていたんだよ。",
-      "voice": "ch_10312/R18/10312A0_10312_Nml/10312A0_10312_001",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 9,
       "speaker": "主人公",
       "text": "え、お待たせしてすみません……",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 11,
       "speaker": "主人公",
       "text": "って、ネルさん、その姿は！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 12,
       "speaker": "",
       "text": "ネルさんは触手に、\nいろいろなクリスマスのオーナメントを飾り付けていた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 14,
-      "speaker": "ネルXmas",
+      "speaker": "ネル",
       "text": "ふふん、これはネルのクリスマスツリーだよ♪",
-      "voice": "ch_10312/R18/10312A0_10312_Nml/10312A0_10312_002",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 15,
-      "speaker": "ネルXmas",
+      "speaker": "ネル",
       "text": "ネルはクリスマスツリーもできる最強のクリぼっちなんだからね。\nほらほら、褒めていいんだよ？",
-      "voice": "ch_10312/R18/10312A0_10312_Nml/10312A0_10312_003",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 16,
       "speaker": "主人公",
       "text": "えっと、クリぼっちってクリスマスを、\nひとりぼっちで過ごすことですよね？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 17,
       "speaker": "主人公",
       "text": "ネルさんはそもそも僕を呼び出しているんだから、\nクリぼっちじゃないんじゃ……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 18,
-      "speaker": "ネルXmas",
+      "speaker": "ネル",
       "text": "えー、ネルはてっきり\nクリスマスをぜんぶひとりで堪能できてすごいっていう、\n誉め言葉だと思っていたんだよ。",
-      "voice": "ch_10312/R18/10312A0_10312_Nml/10312A0_10312_004",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 19,
-      "speaker": "ネルXmas",
+      "speaker": "ネル",
       "text": "まあ、そんな細かいことは別にいいんだよ。\nそれよりほら、ネルを見るんだよ。",
-      "voice": "ch_10312/R18/10312A0_10312_Nml/10312A0_10312_005",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 20,
       "speaker": "主人公",
       "text": "え、はい。見ましたけど……。\nすごい飾り付けですね？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 22,
-      "speaker": "ネルXmas",
+      "speaker": "ネル",
       "text": "むむ、感想が薄い。極薄だよ。\nご主人くんはまだ、\nこのクリスマスツリーのすごさがわかってないんだよ。",
-      "voice": "ch_10312/R18/10312A0_10312_Nml/10312A0_10312_006",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 23,
-      "speaker": "ネルXmas",
+      "speaker": "ネル",
       "text": "もっとよく見るんだよ。\nほら、キラキラのライト～、\nふわふわの飾り付け～。",
-      "voice": "ch_10312/R18/10312A0_10312_Nml/10312A0_10312_007",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 24,
-      "speaker": "ネルXmas",
+      "speaker": "ネル",
       "text": "それになんと言っても、このオーナメントはいっぱい動く。\nこんなの他のクリスマスツリーはできないんだよ♪",
-      "voice": "ch_10312/R18/10312A0_10312_Nml/10312A0_10312_008",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 30,
       "speaker": "",
       "text": "そう言ってネルさんは飾りつけられた触手を動かす。\nたしかにとてもかわいらしい飾り付けだが、\nそれよりも短すぎるスカートに目が釘付けになってしまう。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 43,
       "speaker": "主人公",
       "text": "ちょ、ちょっとネルさん。\nそんなに動かしたら見えちゃいますよ！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 48,
-      "speaker": "ネルXmas",
+      "speaker": "ネル",
       "text": "わお、ご主人くんのエッチ……。\nミニスカサンタのネルをそんなにじろじろみるなんて、\n恥ずかしいんだよ。",
-      "voice": "ch_10312/R18/10312A0_10312_Nml/10312A0_10312_009",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 50,
       "speaker": "主人公",
       "text": "いや、さっきネルさんが見ろっていいましたよね！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 51,
-      "speaker": "ネルXmas",
+      "speaker": "ネル",
       "text": "まあご主人くんがそんなに見惚れるのも仕方ないんだよ。\nそれだけネルのサンタ姿とクリスマスツリーはかわいいんだよ。",
-      "voice": "ch_10312/R18/10312A0_10312_Nml/10312A0_10312_010",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 52,
-      "speaker": "ネルXmas",
+      "speaker": "ネル",
       "text": "けど、ネルはもっと派手に飾り付けしたいんだよ。\nだから、協力するんだよ。",
-      "voice": "ch_10312/R18/10312A0_10312_Nml/10312A0_10312_011",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 53,
       "speaker": "主人公",
       "text": "はあ……わかりました。\n協力するのはいいですけど、何を飾ればいいんですか？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 55,
-      "speaker": "ネルXmas",
+      "speaker": "ネル",
       "text": "ふふふっ、\nこのピカピカに輝く鐘のオーナメントを飾ってほしいんだよ。",
-      "voice": "ch_10312/R18/10312A0_10312_Nml/10312A0_10312_012",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 56,
-      "speaker": "ネルXmas",
+      "speaker": "ネル",
       "text": "ほら、ちゃんと一番目立つ、てっぺんにつけるんだよ。",
-      "voice": "ch_10312/R18/10312A0_10312_Nml/10312A0_10312_013",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 58,
       "speaker": "主人公",
       "text": "えっと、触手のてっぺんってここ……あ、あれ？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 64,
-      "speaker": "ネルXmas",
+      "speaker": "ネル",
       "text": "んん、どうしたの……？\n早くつけるんだよ。ネルは待っているんだよー。",
-      "voice": "ch_10312/R18/10312A0_10312_Nml/10312A0_10312_014",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 66,
       "speaker": "主人公",
       "text": "じゃあ、少し動くのやめてください！\n触手が動いているから、うまく飾り付けられないんですよ！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 73,
       "speaker": "",
       "text": "ネルさんは僕が飾り付けしようとしても\nオーナメントを動かすのをやめない。\nそのため、飾り付けをしようにも触手に逃げられてしまうのだ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 74,
-      "speaker": "ネルXmas",
+      "speaker": "ネル",
       "text": "だが、断る。\nネルは止まる気ないんだよ。",
-      "voice": "ch_10312/R18/10312A0_10312_Nml/10312A0_10312_015",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 75,
       "speaker": "主人公",
       "text": "いやいや、止まらないと無理ですってば！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 76,
-      "speaker": "ネルXmas",
+      "speaker": "ネル",
       "text": "うーん、ご主人くんがどうしても無理っていうなら、\nこっちにも考えがあるんだよ。",
-      "voice": "ch_10312/R18/10312A0_10312_Nml/10312A0_10312_016",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 77,
       "speaker": "主人公",
       "text": "え、考えって……",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 84,
       "speaker": "主人公",
       "text": "うわっ！？　何するんですか！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 87,
       "speaker": "",
       "text": "ネルさんのオーナメントが飾られた触手は、\nいきなり僕を拘束し出した。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 89,
-      "speaker": "ネルXmas",
+      "speaker": "ネル",
       "text": "ンフー♪\n逆にネルがご主人くんをデコレーションしてあげるんだよ♪",
-      "voice": "ch_10312/R18/10312A0_10312_Nml/10312A0_10312_017",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 90,
-      "speaker": "ネルXmas",
+      "speaker": "ネル",
       "text": "そうすればご主人くんもひとりでクリスマスを堪能できるから、\nいいクリぼっちになれるんだよ。",
-      "voice": "ch_10312/R18/10312A0_10312_Nml/10312A0_10312_018",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 91,
       "speaker": "主人公",
       "text": "だから、クリぼっちはいい言葉じゃ……うわああ！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 95,
       "speaker": "主人公",
       "text": "<size=30>もうやめてください～～～～！！</size>",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 96,
       "speaker": "",
       "text": "ネルさんは僕をデコレーションするために、\n服を脱がそうとし出す。このままだとクリスマスツリーに、\nさせられてしまうと思った僕は必死で抵抗するのだった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     }
   ]
 }

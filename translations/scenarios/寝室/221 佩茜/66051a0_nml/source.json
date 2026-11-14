@@ -1,301 +1,211 @@
 {
-  "scenario_id": "66051a0_nml",
-  "asset_path": "assets/advscene/scenarioexcel/character/66051/66051a0_nml.book.asset",
-  "cache_bundle": "C:\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\e155f0977b654fe28a20db3dc52b41c5174c7c5155cd198f9975f30b175936a4\\e155f0977b654fe28a20db3dc52b41c5\\__data",
+  "scenario": "scenario:character/66051/66051A0_Nml",
+  "title": "全てを染めて",
   "rows": [
     {
-      "row": 6,
       "speaker": "",
       "text": "よく晴れた日のこと。\nペッシェさんとの約束の場所に来たが、\nなぜかそこに彼女の姿はなく――。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 7,
       "speaker": "主人公",
       "text": "あれ？　誰も居ない。<interval=0.8>\n時間には遅れてないはずだけど……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 23,
       "speaker": "",
       "text": "ハエが目の前でブーンと回って、森の奥へ飛んでいく。\nなんとなく、それを目で追っていると――。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 29,
-      "speaker": "ペッシェ花嫁",
+      "speaker": "ペッシェ",
       "text": "ご主人様……どこを見ているの？　あなたの妻はここよ♪",
-      "voice": "ch_66051/R18/66051A0_66051_Nml/66051A0_66051_001",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 30,
-      "speaker": "ペッシェ花嫁",
+      "speaker": "ペッシェ",
       "text": "もう、いつでも目を離さないでねって言ったじゃない。\n妻である私の言うことはちゃんと聞いてね？",
-      "voice": "ch_66051/R18/66051A0_66051_Nml/66051A0_66051_002",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 33,
       "speaker": "",
       "text": "滑らかな指でほっぺたをツンツンされる。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 35,
       "speaker": "主人公",
       "text": "妻<interval=0.8>…<interval=0.8>…<interval=0.8>",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 37,
       "speaker": "主人公",
       "text": "というのは一旦置いておくとして。<interval=0.8>\nハエがいたのでアゼプさんが居たのかと思いまして。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 52,
-      "speaker": "ペッシェ花嫁",
+      "speaker": "ペッシェ",
       "text": "アゼプ？　ふぅん……ご主人様はアッチの姿の方が好きなの？",
-      "voice": "ch_66051/R18/66051A0_66051_Nml/66051A0_66051_003",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 53,
       "speaker": "主人公",
       "text": "アッチの姿？　アゼプさんとペッシェさんは別人ですよね？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 54,
-      "speaker": "ペッシェ花嫁",
+      "speaker": "ペッシェ",
       "text": "そうねぇ……どうしよう。\n流石にもう言っちゃっても……？　夫婦に隠し事はなしだよね？",
-      "voice": "ch_66051/R18/66051A0_66051_Nml/66051A0_66051_004",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 57,
-      "speaker": "ペッシェ花嫁",
+      "speaker": "ペッシェ",
       "text": "きゃっ♪　夫婦だって。\nご主人様と私が夫婦……えへ、えへへへ……♪",
-      "voice": "ch_66051/R18/66051A0_66051_Nml/66051A0_66051_005",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 59,
       "speaker": "",
       "text": "ペッシェさんは目の前でイヤンイヤンと身をくねらせている。\nさすがにもう一旦置いておく、ということは出来ない。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 61,
       "speaker": "主人公",
       "text": "ぺ、ペッシェさん！<interval=0.8>\n妻って、僕はまだ結婚はしてませんよ……？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 66,
-      "speaker": "ペッシェ花嫁",
+      "speaker": "ペッシェ",
       "text": "えっ……？",
-      "voice": "ch_66051/R18/66051A0_66051_Nml/66051A0_66051_006",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 68,
       "speaker": "主人公",
       "text": "えっ……？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 77,
-      "speaker": "ペッシェ花嫁",
+      "speaker": "ペッシェ",
       "text": "そんな……私との関係は遊びだったの！？\nひどい……！　ひどいよっ、ご主人様っ！",
-      "voice": "ch_66051/R18/66051A0_66051_Nml/66051A0_66051_007",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 80,
-      "speaker": "ペッシェ花嫁",
+      "speaker": "ペッシェ",
       "text": "やっぱり、他の女の方がいいのね！\nあの濃密な夜も、ふたりだけの思い出もウソだったのね！？",
-      "voice": "ch_66051/R18/66051A0_66051_Nml/66051A0_66051_008",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 81,
       "speaker": "主人公",
       "text": "ちょっ、<interval=0.8>",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 83,
       "speaker": "主人公",
       "text": "ちょっと待って下さい！<interval=0.8>\n濃密な夜ってなんですか！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 85,
       "speaker": "主人公",
       "text": "いろいろ聞き捨てならないんですけど！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 88,
-      "speaker": "ペッシェ花嫁",
+      "speaker": "ペッシェ",
       "text": "ヒドい、ヒドいよご主人様……。\n私のことを弄んだんだ……ううぅ、しくしく……。",
-      "voice": "ch_66051/R18/66051A0_66051_Nml/66051A0_66051_009",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 90,
-      "speaker": "ペッシェ花嫁",
+      "speaker": "ペッシェ",
       "text": "残飯にたかるハエのように、\nずっとラブラブでいようねって約束してくれたのに……。",
-      "voice": "ch_66051/R18/66051A0_66051_Nml/66051A0_66051_010",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 91,
       "speaker": "主人公",
       "text": "そ、そんなことを言った覚えはありませんが……。<interval=0.8>\nもっと他にキレイなたとえはなかったんですかね……？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 93,
-      "speaker": "ペッシェ花嫁",
+      "speaker": "ペッシェ",
       "text": "うぅ、私たちのプロポーズの言葉にもケチをつけるの……？\nヒドいよ、ご主人様……。",
-      "voice": "ch_66051/R18/66051A0_66051_Nml/66051A0_66051_011",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 116,
       "speaker": "",
       "text": "愁いを帯びた瞳に見つめられ、さすがに胸が痛んだ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 126,
       "speaker": "主人公",
       "text": "ご、ごめんなさいペッシェさん。<interval=0.8>\nよく考えたらいい言葉ですね。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 131,
-      "speaker": "ペッシェ花嫁",
+      "speaker": "ペッシェ",
       "text": "……それなら、もう１回、ご主人様の口から言って。",
-      "voice": "ch_66051/R18/66051A0_66051_Nml/66051A0_66051_012",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 133,
       "speaker": "主人公",
       "text": "<size=30>えっ！？　<size=25><interval=0.8>ぼっ僕がですか！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 135,
-      "speaker": "ペッシェ花嫁",
+      "speaker": "ペッシェ",
       "text": "ご主人様以外からプロポーズされたくないもん！\nほら、早く早くっ！",
-      "voice": "ch_66051/R18/66051A0_66051_Nml/66051A0_66051_013",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 138,
       "speaker": "主人公",
       "text": "え、ええ……？　<interval=0.8>わかりまし――",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 140,
-      "speaker": "主人公",
-      "text": "。",
-      "voice": "",
-      "command": ""
-    },
-    {
-      "row": 141,
       "speaker": "",
       "text": "お願いされたセリフを言おうとして、僕はハッとした。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 142,
       "speaker": "主人公",
       "text": "あの……。<interval=0.8>",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 143,
       "speaker": "主人公",
       "text": "これ、僕が言ったらホントにプロポーズしたことになりません？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 147,
-      "speaker": "ペッシェ花嫁",
+      "speaker": "ペッシェ",
       "text": "う……っ！\nそこに気づいてしまうなんて……流石、ご主人様……！",
-      "voice": "ch_66051/R18/66051A0_66051_Nml/66051A0_66051_014",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 148,
       "speaker": "主人公",
       "text": "や、やっぱり！<interval=0.8>",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 150,
       "speaker": "主人公",
       "text": "僕をガチ恋営業の罠にはめようとしないでくださいよ！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 151,
-      "speaker": "ペッシェ花嫁",
+      "speaker": "ペッシェ",
       "text": "ふふっ、ごめんね。ご主人様♪\nあなたを騙そうとした悪いお嫁さんを許して……ね？",
-      "voice": "ch_66051/R18/66051A0_66051_Nml/66051A0_66051_015",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 152,
       "speaker": "",
       "text": "ペッシェさんはまったく悪びれもせず、ウィンクをくれた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 161,
       "speaker": "",
       "text": "ガチ恋営業の彼女との戦いは分が悪いが、",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 180,
       "speaker": "",
       "text": "絡めとられないようにしっかりしようと思うのだった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     }
   ]
 }

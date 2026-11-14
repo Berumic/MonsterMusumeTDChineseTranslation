@@ -1,238 +1,171 @@
 {
-  "scenario_id": "10335b0_nml",
-  "asset_path": "assets/advscene/scenarioexcel/character/10335/10335b0_nml.book.asset",
-  "cache_bundle": "C:\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\4610b9920c3279dc557c2229e3886904f1d31fc550285a235f8e657282c73de6\\4610b9920c3279dc557c2229e3886904\\__data",
+  "scenario": "scenario:character/10335/10335B0_Nml",
+  "title": "欲望の吐き出し方",
   "rows": [
     {
-      "row": 3,
       "speaker": "",
       "text": "その日の放課後、校舎内の見回りをしていた僕は、\n教室に残り、一人うずくまるニッドラさんを見つけた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 7,
       "speaker": "主人公",
       "text": "ニッドラさん！？\nどうしたんですか！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 8,
-      "speaker": "ニッドラ学園",
+      "speaker": "ニッドラ",
       "text": "う……先生。\nだめ、今のわたしに近づいちゃ……。",
-      "voice": "ch_10335/R18/10335B0_10335_Nml/10335B0_10335_001",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 9,
-      "speaker": "ニッドラ学園",
+      "speaker": "ニッドラ",
       "text": "たまに、こういう日があるの……。\nわたしの中の呪い……欲望が溢れ出して、\n周りのみんなに不幸を振りまいてしまう……。",
-      "voice": "ch_10335/R18/10335B0_10335_Nml/10335B0_10335_002",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 10,
-      "speaker": "ニッドラ学園",
+      "speaker": "ニッドラ",
       "text": "だから、先生も……近づいちゃ……。",
-      "voice": "ch_10335/R18/10335B0_10335_Nml/10335B0_10335_003",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 11,
       "speaker": "主人公",
       "text": "そ、そんな……。\nでも放っておけません！\nとりあえず保健室に……！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 13,
       "speaker": "",
       "text": "僕は半信半疑ながら、\nとにかくニッドラさんを助けようと、\n彼女の肩に触れた――その瞬間。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 18,
       "speaker": "主人公",
       "text": "うっ！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 20,
       "speaker": "主人公",
       "text": "な、なんだ！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 21,
-      "speaker": "ニッドラ学園",
+      "speaker": "ニッドラ",
       "text": "先生っ！？",
-      "voice": "ch_10335/R18/10335B0_10335_Nml/10335B0_10335_004",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 26,
       "speaker": "",
       "text": "彼女の体から何かが伝わってきて……、\n頭の奥から、何か、暗い感情が込み上げてきた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 29,
       "speaker": "主人公",
       "text": "……たくない。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 30,
-      "speaker": "ニッドラ学園",
+      "speaker": "ニッドラ",
       "text": "せ、先生？　大丈夫……？",
-      "voice": "ch_10335/R18/10335B0_10335_Nml/10335B0_10335_005",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 33,
       "speaker": "主人公",
       "text": "<size=38>働きたくない！\n家でゴロゴロしてたーいっ！！</size>",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 34,
       "speaker": "",
       "text": "僕は心の奥に秘めていた欲望を抑えきれず、\n思いっきりそう叫んで床に倒れてしまった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 37,
-      "speaker": "ニッドラ学園",
+      "speaker": "ニッドラ",
       "text": "せ、先生……わたしのせいで……ど、どうしよう。",
-      "voice": "ch_10335/R18/10335B0_10335_Nml/10335B0_10335_006",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 38,
-      "speaker": "ニッドラ学園",
+      "speaker": "ニッドラ",
       "text": "こうなったら……！",
-      "voice": "ch_10335/R18/10335B0_10335_Nml/10335B0_10335_007",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 43,
       "speaker": "",
       "text": "何を思ったのか、ニッドラさんは膝をつき、\n僕をぎゅうっと抱きしめてきた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 44,
-      "speaker": "ニッドラ学園",
+      "speaker": "ニッドラ",
       "text": "大丈夫だよ、先生。\nわたしが先生の欲望、受け止めてあげるから……。",
-      "voice": "ch_10335/R18/10335B0_10335_Nml/10335B0_10335_008",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 45,
       "speaker": "主人公",
       "text": "に、ニッドラさん……？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 47,
-      "speaker": "ニッドラ学園",
+      "speaker": "ニッドラ",
       "text": "いつもたくさん迷惑をかけちゃって、\nけれど先生はわたしのこと見限ったりしない……。\nその優しさに、救われてるの……。",
-      "voice": "ch_10335/R18/10335B0_10335_Nml/10335B0_10335_009",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 48,
-      "speaker": "ニッドラ学園",
+      "speaker": "ニッドラ",
       "text": "だから、わたしが先生を助ける……！\n欲望に支配されたときは、\nそれを満たしてあげるのが一番だから。",
-      "voice": "ch_10335/R18/10335B0_10335_Nml/10335B0_10335_010",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 49,
-      "speaker": "ニッドラ学園",
+      "speaker": "ニッドラ",
       "text": "働きたくないとか、ゴロゴロしてたいとか、\nそれって……甘えたいってことでしょ。",
-      "voice": "ch_10335/R18/10335B0_10335_Nml/10335B0_10335_011",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 50,
-      "speaker": "ニッドラ学園",
+      "speaker": "ニッドラ",
       "text": "だから、わたしに甘えて。\nここにはわたしたちしかいないから……。",
-      "voice": "ch_10335/R18/10335B0_10335_Nml/10335B0_10335_012",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 53,
       "speaker": "",
       "text": "ニッドラさんから溢れ出す欲望が、\n僕に影響を与えているなら、\nこうして一緒にいるのは良くないのかもしれない。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 54,
       "speaker": "",
       "text": "そう理性で思いながらも、\n僕の体はニッドラさんの優しさと、体の温かさに、\nまったく抗えなかった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 58,
-      "speaker": "ニッドラ学園",
+      "speaker": "ニッドラ",
       "text": "先生、ぎゅっとすると落ち着く？",
-      "voice": "ch_10335/R18/10335B0_10335_Nml/10335B0_10335_013",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 59,
       "speaker": "主人公",
       "text": "……うん、落ち着く…………。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 60,
-      "speaker": "ニッドラ学園",
+      "speaker": "ニッドラ",
       "text": "じゃあもっと力こめていいよ。\nわたし、丈夫だから。",
-      "voice": "ch_10335/R18/10335B0_10335_Nml/10335B0_10335_014",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 64,
-      "speaker": "ニッドラ学園",
+      "speaker": "ニッドラ",
       "text": "ん……っ！",
-      "voice": "ch_10335/R18/10335B0_10335_Nml/10335B0_10335_015",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 65,
       "speaker": "",
       "text": "言われるまま、力をこめると、\nニッドラさんから少し苦しそうな吐息が漏れた。\nなのに、僕の体は言う事を聞かず、離れようとしない。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 66,
-      "speaker": "ニッドラ学園",
+      "speaker": "ニッドラ",
       "text": "ふふ……先生のくせに甘えん坊だね。\nまるで赤ちゃんみたい。いい子いい子……。",
-      "voice": "ch_10335/R18/10335B0_10335_Nml/10335B0_10335_016",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 70,
       "speaker": "",
       "text": "本当に、先生のくせに……。\n僕はニッドラさんに頭を撫でられながら、\n心地の良い堕落に浸るのだった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     }
   ]
 }

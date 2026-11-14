@@ -1,168 +1,101 @@
 {
-  "scenario_id": "1106042nml",
-  "asset_path": "Assets/AdvScene/ScenarioExcel/main/1106/1106042Nml.xlsx",
-  "cache_bundle": "C:\\Users\\77147\\Documents\\Codex\\2026-08-21\\bang\\outputs\\MonsterMusumeTDMod\\解包资源\\ab\\６章_04話後半_1106042Nml.ab",
+  "scenario": "scenario:main/1106/1106042Nml",
+  "title": "６章_04話後半",
   "rows": [
     {
-      "row": 7,
       "speaker": "主人公",
       "text": "ふぅ、何とか倒せましたね。やはり、フェルミさんは手強い。\n……さあ、ヴォンヴァーヘッドさま、祠の中を見てみましょう。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 10,
       "speaker": "ビビ神",
       "text": "…………。え、ああ、私ですか。\n段々名前から遠ざかってきたので、\n即座に反応出来なくなってきました。",
-      "voice": "ch_30005/Main/1106/1106_30005_256",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 13,
       "speaker": "スズ",
       "text": "……ねえ、祠と中にあった箱を開けてみたんだけど。",
-      "voice": "ch_10022/Main/1106/1106_10022_257",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 14,
       "speaker": "主人公",
       "text": "メ、メイド服……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 17,
       "speaker": "セレン",
       "text": "さっきのと、リボンだけ色違いか。\nメチャクチャ嫌な予感がするな。",
-      "voice": "ch_10023/Main/1106/1106_10023_258",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 18,
       "speaker": "主人公",
       "text": "と、とりあえず着てみてもらいませんか？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 21,
       "speaker": "ビビ神",
       "text": "勿論です。",
-      "voice": "ch_30005/Main/1106/1106_30005_259",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 27,
       "speaker": "",
       "text": "恥じらいをもって、祠の中で着替えてきたビビ神が、\n皆の前に現れると……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 32,
       "speaker": "",
       "text": "メチャクチャ光り出し、\nその場の全員が『うぉっ！　眩しっ！』となった。\nそして、待つことしばし、ようやく、光がやや弱まっていく。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 38,
       "speaker": "ビビ神",
       "text": "――我、真の覚醒を果たしたり。\n故に、託宣を下す。",
-      "voice": "ch_30005/Main/1106/1106_30005_260",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 39,
       "speaker": "クロミ",
       "text": "おぉ～～～～～！",
-      "voice": "ch_10021/Main/1106/1106_10021_261",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 40,
       "speaker": "ビビ神",
       "text": "次の祠で、本当の真の覚醒が果たされる。\nその時、望む託宣は得られるであろう――。",
-      "voice": "ch_30005/Main/1106/1106_30005_262",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 42,
-      "speaker": "主人公",
-      "text": "…………。",
-      "voice": "",
-      "command": ""
-    },
-    {
-      "row": 43,
-      "speaker": "スズ",
-      "text": "…………。",
-      "voice": "ch_10022/Main/1106/1106_10022_263",
-      "command": ""
-    },
-    {
-      "row": 44,
-      "speaker": "セレン",
-      "text": "…………。",
-      "voice": "ch_10023/Main/1106/1106_10023_264",
-      "command": ""
-    },
-    {
-      "row": 45,
-      "speaker": "リン",
-      "text": "…………。",
-      "voice": "ch_10006/Main/1106/1106_10006_265",
-      "command": ""
-    },
-    {
-      "row": 55,
       "speaker": "クロミ",
       "text": "つまり、どういうことです？",
-      "voice": "ch_10021/Main/1106/1106_10021_266",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 59,
       "speaker": "セレン",
       "text": "いや……どうもこうも、お前……。",
-      "voice": "ch_10023/Main/1106/1106_10023_267",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 71,
       "speaker": "スズ",
       "text": "次行くよ、次！\nんもー！　これ何回やるの！？",
-      "voice": "ch_10022/Main/1106/1106_10022_268",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 83,
       "speaker": "セレン",
       "text": "いや、次やられたら、メイド服ビリビリに破いて、\n神殿破壊する自信があるわ……。",
-      "voice": "ch_10023/Main/1106/1106_10023_269",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 86,
       "speaker": "クロミ",
       "text": "メチャメチャ空気がギスギスしてきましたね。",
-      "voice": "ch_10021/Main/1106/1106_10021_270",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 87,
       "speaker": "主人公",
       "text": "まあ……しますよね、普通……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 88,
       "speaker": "",
       "text": "こうして、主人公たちは更に神殿の奥へ奥へと進むこととなった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     }
   ]
 }

@@ -1,280 +1,201 @@
 {
-  "scenario_id": "10302b0_nml",
-  "asset_path": "assets/advscene/scenarioexcel/character/10302/10302b0_nml.book.asset",
-  "cache_bundle": "C:\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\104b6f54f103d74074b59d4d085eea51d3d082ae729b5d7a1c030f886ef4949f\\104b6f54f103d74074b59d4d085eea51\\__data",
+  "scenario": "scenario:character/10302/10302B0_Nml",
+  "title": "手りゅう弾のトラウマ",
   "rows": [
     {
-      "row": 7,
       "speaker": "",
       "text": "その日、僕は密猟者が遺跡に侵入したのをたまたま見つけたので、\nそのあとを追跡していた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 8,
       "speaker": "ラピナス",
       "text": "あー！　ショタちゃんだあ～！\n今日もいいうなじしてるね♪",
-      "voice": "ch_10302/R18/10302B0_10302_Nml/10302B0_10302_001",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 9,
       "speaker": "主人公",
       "text": "わ、ラピナスさん！？\n首は斬らないでくださいね。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 10,
       "speaker": "ラピナス",
       "text": "む、斬らないよ。この前約束したでしょ。\nだから、襲い掛かったりしなかったじゃん。",
-      "voice": "ch_10302/R18/10302B0_10302_Nml/10302B0_10302_002",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 11,
       "speaker": "主人公",
       "text": "それはそうですが……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 12,
       "speaker": "",
       "text": "僕の首を辺りをじろじろと見て、\n剣を振るいたくて仕方ないような彼女をみると、\n本当に信頼していいのか心配になる。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 13,
       "speaker": "ラピナス",
       "text": "それよりショタちゃんどうしたの？\n何か探してるみたいだけど。",
-      "voice": "ch_10302/R18/10302B0_10302_Nml/10302B0_10302_003",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 14,
       "speaker": "主人公",
       "text": "実は密猟者が遺跡に侵入したのをみたので、\n追跡してたんです。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 15,
       "speaker": "ラピナス",
       "text": "じゃあじゃあ、ラピが一緒についていってあげる！\nこれで安心でしょ？",
-      "voice": "ch_10302/R18/10302B0_10302_Nml/10302B0_10302_004",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 16,
       "speaker": "主人公",
       "text": "それは助かりますが……。\nあの、密猟者の首も斬ったらだめですよ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 18,
       "speaker": "ラピナス",
       "text": "ええええ！？\nだって悪いやつでしょ！？　斬ってもいいじゃん！",
-      "voice": "ch_10302/R18/10302B0_10302_Nml/10302B0_10302_005",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 19,
       "speaker": "主人公",
       "text": "だめです！　いいですね。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 21,
       "speaker": "ラピナス",
       "text": "ちぇ～、わかったよ。\n……ん？　ねえ、あいつが密猟者じゃない？",
-      "voice": "ch_10302/R18/10302B0_10302_Nml/10302B0_10302_006",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 24,
-      "speaker": "男密猟者立ち絵",
+      "speaker": "密猟者",
       "text": "なっ、お前らなんでここに！？\nくっ、近づくな！　近づくと……！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 26,
       "speaker": "ラピナス",
       "text": "ショタちゃん、下がって。\nラピがアイツにお仕置きしてあげる。",
-      "voice": "ch_10302/R18/10302B0_10302_Nml/10302B0_10302_007",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 27,
       "speaker": "",
       "text": "こちらに気付いた密猟者は慌てたように、\n懐から何かを探しだした。\nまさか武器を出そうとしているのかと緊張感が増すが……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 28,
-      "speaker": "男密猟者立ち絵",
+      "speaker": "密猟者",
       "text": "このお手製の胡椒手りゅう弾をお見舞いしてやる！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 29,
       "speaker": "主人公",
       "text": "へ……？\n胡椒ですか……。確かに嫌ですけど――。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 32,
       "speaker": "ラピナス",
       "text": "<size=30>ひいいっ！？\n胡椒手りゅう弾だああ！？</size>",
-      "voice": "ch_10302/R18/10302B0_10302_Nml/10302B0_10302_008",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 38,
       "speaker": "",
       "text": "爆弾ではなく、ただの胡椒爆弾と聞いて僕はほっと息を吐く。\nしかし、代わりにラピナスさんが異常に怯え、\n僕の後ろに回って縮こまってしまった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 39,
       "speaker": "主人公",
       "text": "ど、どうしたんですか、ラピナスさ――ぐえ！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 40,
       "speaker": "ラピナス",
       "text": "昔、同じような手りゅう弾を、\n巣に投げられたことがあったの！\nそのときは何度も何度もくしゃみがでて大変だったんだよ～！！",
-      "voice": "ch_10302/R18/10302B0_10302_Nml/10302B0_10302_009",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 42,
       "speaker": "ラピナス",
       "text": "もう、あんなのごめんだよぉ！！\nどうしよう、ショタちゃん！",
-      "voice": "ch_10302/R18/10302B0_10302_Nml/10302B0_10302_010",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 45,
       "speaker": "主人公",
       "text": "ぐるしいっ、お、落ちついてくださいっ！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 46,
       "speaker": "",
       "text": "ぎゅうぎゅうとラピナスさんは抱きついてくる。\n怯えた彼女がかわいそうで、\nできるだけ落ち着かせようとしたが……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 48,
       "speaker": "ラピナス",
       "text": "あ、この格好だとショタちゃんのうなじが堪能できていいなあ。\nくんくん♪",
-      "voice": "ch_10302/R18/10302B0_10302_Nml/10302B0_10302_011",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 49,
       "speaker": "主人公",
       "text": "って、何しているんですか！？\n首を匂わないでくださいっ！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 52,
-      "speaker": "男密猟者立ち絵",
+      "speaker": "密猟者",
       "text": "お前ら何をイチャイチャしてんだ！？\nふざけやがって――あ！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 69,
       "speaker": "",
       "text": "密猟者は僕たちの姿に苛立って手を振り回した瞬間、\n手りゅう弾のピンが抜けてしまう。\nするとみるみるうちに周囲に胡椒が充満してしまった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 71,
-      "speaker": "男密猟者立ち絵",
+      "speaker": "密猟者",
       "text": "や、やっちまったああっ！\nぶえっくっしゅん！！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 73,
       "speaker": "主人公",
       "text": "ごほ、ごほっ！　くしゅん、くしゅんっ！\n目が開けられないっ！\nら、ラピナスさんは大丈夫ですか、ぐしゅん！！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 74,
       "speaker": "",
       "text": "密猟者と僕は胡椒で目と鼻がやられてくしゃみを繰り返す。\n僕に引っ付いたままのラピナスさんも大丈夫かと声をかけた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 77,
       "speaker": "ラピナス",
       "text": "ん、ラピはショタちゃんのうなじに、\n鼻を隠してたから大丈夫！",
-      "voice": "ch_10302/R18/10302B0_10302_Nml/10302B0_10302_012",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 79,
       "speaker": "ラピナス",
       "text": "ラピを手りゅう弾から守ってくれるなんて、\n本当にショタちゃんのうなじはすごいよね。",
-      "voice": "ch_10302/R18/10302B0_10302_Nml/10302B0_10302_013",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 80,
       "speaker": "",
       "text": "さらに僕のうなじに鼻を埋めて、\n胡椒を吸わないようにするラピナスさん。\n彼女が平気だったことはうれしいが……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 81,
       "speaker": "主人公",
       "text": "そ、それはよかったですが、\nせめてここから移動させてくださっ――、",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 83,
       "speaker": "主人公",
       "text": "へっくしゅん！！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 84,
       "speaker": "",
       "text": "ラピナスさんは僕のうなじを堪能するためか、\nさらにきつく抱きしめてくる。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 85,
       "speaker": "",
       "text": "結局胡椒手りゅう弾の効果が、\n切れるまでくしゃみを繰り返すことになるのだった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     }
   ]
 }

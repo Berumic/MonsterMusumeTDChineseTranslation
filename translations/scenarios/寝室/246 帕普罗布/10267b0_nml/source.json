@@ -1,252 +1,181 @@
 {
-  "scenario_id": "10267b0_nml",
-  "asset_path": "assets/advscene/scenarioexcel/character/10267/10267b0_nml.book.asset",
-  "cache_bundle": "C:\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\e89c412d902793d94ecc42254d69b914d75fa64ae307939000faf8c850a3645e\\e89c412d902793d94ecc42254d69b914\\__data",
+  "scenario": "scenario:character/10267/10267B0_Nml",
+  "title": "捕まった宇宙人",
   "rows": [
     {
-      "row": 7,
       "speaker": "",
       "text": "僕が森を巡回していたところ、\n走っていくゴブリンとすれ違った。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 8,
       "speaker": "主人公",
       "text": "あれ……あのゴブリンたち\nどうしたんだろう。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 9,
       "speaker": "",
       "text": "そう思いながら、奥に進むとパープロープさんが\n痛そうにおしりをさすっているのを見つけた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 12,
       "speaker": "パープロープ",
       "text": "あいたた！　もう、雑過ぎです！",
-      "voice": "ch_10267/R18/10267B0_10267_Nml/10267B0_10267_001",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 13,
       "speaker": "主人公",
       "text": "え、パープロープさん、どうしたんですか！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 14,
       "speaker": "パープロープ",
       "text": "え、あ、ショタさま！\nそれがゴブリンたちに乱暴されたんですよ！",
-      "voice": "ch_10267/R18/10267B0_10267_Nml/10267B0_10267_002",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 15,
       "speaker": "主人公",
       "text": "ええええ、大丈夫ですか！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 16,
       "speaker": "パープロープ",
       "text": "もちろん平気です。けど、本当に下品なやつらです。\nさすがアイツらに似ているだけありますね！",
-      "voice": "ch_10267/R18/10267B0_10267_Nml/10267B0_10267_003",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 17,
       "speaker": "主人公",
       "text": "アイツらっていうのは……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 19,
       "speaker": "パープロープ",
       "text": "決まっているでしょう！\nリトルグリーンマンのことです。\nだからゴブリンは嫌いなんです。ポンゲ！　フランゲ！",
-      "voice": "ch_10267/R18/10267B0_10267_Nml/10267B0_10267_004",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 20,
       "speaker": "",
       "text": "何を言っているかわからないけど、\nパープロープさんはおそらく自分の星の言葉で\nゴブリンたちを罵っているようだ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 32,
       "speaker": "パープロープ",
       "text": "アイツら……いつかお尻の穴に\n銀河破壊ウルトラDX爆弾撃ち込んでやります！",
-      "voice": "ch_10267/R18/10267B0_10267_Nml/10267B0_10267_005",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 33,
       "speaker": "主人公",
       "text": "うわあ、ちょっと落ち着いてください、パープロープさん！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 36,
       "speaker": "パープロープ",
       "text": "うっ！　必死に止めるショタさま、かわいい！\n……ショタさまがいうなら、落ち着きます。",
-      "voice": "ch_10267/R18/10267B0_10267_Nml/10267B0_10267_006",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 37,
       "speaker": "主人公",
       "text": "……ちょっと納得できませんが、\n落ち着いたならよかったです。\nそもそも、なんでゴブリンに乱暴されたんです？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 38,
       "speaker": "パープロープ",
       "text": "それが聞いてくださいよ、ショタさま！",
-      "voice": "ch_10267/R18/10267B0_10267_Nml/10267B0_10267_007",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 39,
       "speaker": "パープロープ",
       "text": "さっきまでゴブリンキング娘と論争していたんです！\nそしたら「キングちゃんもう怒った」って、\nファンのゴブリンたちをけしかけてきて……。",
-      "voice": "ch_10267/R18/10267B0_10267_Nml/10267B0_10267_008",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 41,
       "speaker": "パープロープ",
       "text": "あーもう、なんて野蛮なんでしょう！！",
-      "voice": "ch_10267/R18/10267B0_10267_Nml/10267B0_10267_009",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 42,
       "speaker": "主人公",
       "text": "え、ケンカしたってことですか！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 43,
       "speaker": "パープロープ",
       "text": "ケンカ、じゃないです！\nアイツが悪いんです。",
-      "voice": "ch_10267/R18/10267B0_10267_Nml/10267B0_10267_010",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 45,
       "speaker": "主人公",
       "text": "どっちが悪いのかは詳細を聞かないと\nわからないですね……。\nまず論争の内容はなんなんですか？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 46,
       "speaker": "パープロープ",
       "text": "この島で１番かわいいのは誰なのか、です！",
-      "voice": "ch_10267/R18/10267B0_10267_Nml/10267B0_10267_011",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 47,
       "speaker": "主人公",
       "text": "え？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 49,
       "speaker": "パープロープ",
       "text": "聞こえなかったですか？\n１番かわいいのは誰か、です！",
-      "voice": "ch_10267/R18/10267B0_10267_Nml/10267B0_10267_012",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 50,
       "speaker": "パープロープ",
       "text": "あのモンスター娘、\nよりにもよってこの島で\n１番かわいいのは自分と言い出したんです！！",
-      "voice": "ch_10267/R18/10267B0_10267_Nml/10267B0_10267_013",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 51,
       "speaker": "主人公",
       "text": "あー……マシュロアさんらしいですね。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 53,
       "speaker": "パープロープ",
       "text": "でもでも、１番はショタさまです！\nこの前見つけたうさぎもいい勝負をしますが、\nショタさまにはかないません。",
-      "voice": "ch_10267/R18/10267B0_10267_Nml/10267B0_10267_014",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 54,
       "speaker": "パープロープ",
       "text": "そしたらアイツ、怒りだしちゃってぇ。\nゴブリンたちをけしかけてきたんですよ！",
-      "voice": "ch_10267/R18/10267B0_10267_Nml/10267B0_10267_015",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 55,
       "speaker": "主人公",
       "text": "え、そんなことでケンカしたんですか？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 56,
       "speaker": "パープロープ",
       "text": "はい。ショタさまもワタシの意見に賛成ですよね！",
-      "voice": "ch_10267/R18/10267B0_10267_Nml/10267B0_10267_016",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 57,
       "speaker": "主人公",
       "text": "しませんけど！？\n……とにかく、僕はかわいくなくていいので\nマシュロアさんと仲直りしてくれませんか？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 59,
       "speaker": "パープロープ",
       "text": "なんでです！？　ワタシは納得できません！\nということでアイツにもう一度抗議してきます！！",
-      "voice": "ch_10267/R18/10267B0_10267_Nml/10267B0_10267_017",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 60,
       "speaker": "主人公",
       "text": "え、ちょっと待ってくださいっ、パープロープさん！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 66,
       "speaker": "",
       "text": "パープロープさんはそのまま抗議に行ってしまった。\n……意見を譲らない彼女は\nまたマシュロアさんのファンに捕まるのだろう。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 67,
       "speaker": "",
       "text": "そんな予感に勝手に一番かわいい称号を与えられた僕は\n大きな溜息をつくのだった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     }
   ]
 }

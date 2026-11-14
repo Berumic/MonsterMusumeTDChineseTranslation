@@ -1,259 +1,186 @@
 {
-  "scenario_id": "10221b0_nml",
-  "asset_path": "assets/advscene/scenarioexcel/character/10221/10221b0_nml.book.asset",
-  "cache_bundle": "C:\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\888944f97550e4bf7a8380b59a7e0d703bb58badc5e01952fbe31d8b8d4a2b68\\888944f97550e4bf7a8380b59a7e0d70\\__data",
+  "scenario": "scenario:character/10221/10221B0_Nml",
+  "title": "はつおいで",
   "rows": [
     {
-      "row": 7,
       "speaker": "",
       "text": "新しい１年を迎えてから数日後。\n僕はサウラさんのもとへ遊びに出かけていた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 8,
       "speaker": "主人公",
       "text": "サウラさーん！\nすみません、今お時間いいでしょうか？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 9,
-      "speaker": "サウラ晴着",
+      "speaker": "サウラ",
       "text": "あっ、ご主人くんだー♪\nどうしたのー？　お姉ちゃんに甘えたくなっちゃった？",
-      "voice": "ch_10221/R18/10221B0_10221_Nml/10221B0_10221_001",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 10,
-      "speaker": "サウラ晴着",
+      "speaker": "サウラ",
       "text": "お姉ちゃんの胸なら、いつでも貸してあげるからね。\nほら、甘えていんだよぉ～♪　おいでおいで～♪",
-      "voice": "ch_10221/R18/10221B0_10221_Nml/10221B0_10221_002",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 11,
       "speaker": "主人公",
       "text": "いやあの……甘えたくなったんじゃなくて、\n今日はサウラさんに見て欲しいものがありまして……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 12,
       "speaker": "",
       "text": "僕はバッグの中から小さな箱を取り出した。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 13,
-      "speaker": "サウラ晴着",
+      "speaker": "サウラ",
       "text": "うん？　これは……「おみくじ」？\nもしかしてご主人くんが作ったの？",
-      "voice": "ch_10221/R18/10221B0_10221_Nml/10221B0_10221_003",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 14,
       "speaker": "主人公",
       "text": "はい。前回サウラさんに占っていただいたので、\n僕もお返ししてあげたいなぁと思って……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 15,
       "speaker": "主人公",
       "text": "箱も中身のくじも全部僕の手作りなので、\n不格好なんですけど……よ、よかったら引いてください。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 16,
-      "speaker": "サウラ晴着",
+      "speaker": "サウラ",
       "text": "ごっ、ごごごっ、ご主人くん……！",
-      "voice": "ch_10221/R18/10221B0_10221_Nml/10221B0_10221_004",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 17,
       "speaker": "",
       "text": "くじの入った箱を差し出す僕を、\nサウラさんはじっと見つめる。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 26,
-      "speaker": "サウラ晴着",
+      "speaker": "サウラ",
       "text": "うわーんッ！　うれしい！　お姉ちゃんうれじぃよぉっ！",
-      "voice": "ch_10221/R18/10221B0_10221_Nml/10221B0_10221_005",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 27,
       "speaker": "主人公",
       "text": "うぷっ！？　ちょっ、サウラさんっ！　落ち着いてくださいっ！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 30,
       "speaker": "",
       "text": "興奮したサウラさんにムギュッと抱きしめられる。\n僕はなんとか彼女を引きはがした。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 31,
-      "speaker": "サウラ晴着",
+      "speaker": "サウラ",
       "text": "ご、ごめんねぇ？\nお姉ちゃん、あんまり嬉しくって……ううっ。",
-      "voice": "ch_10221/R18/10221B0_10221_Nml/10221B0_10221_006",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 32,
       "speaker": "主人公",
       "text": "な、泣かないで下さいよ……もう。\nはいどうぞ、とにかく引いてください。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 33,
-      "speaker": "サウラ晴着",
+      "speaker": "サウラ",
       "text": "うん、ありがたく引かせてもらうね……",
-      "voice": "ch_10221/R18/10221B0_10221_Nml/10221B0_10221_007",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 36,
-      "speaker": "サウラ晴着",
+      "speaker": "サウラ",
       "text": "ごそごそ、ごそごそ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 37,
-      "speaker": "サウラ晴着",
+      "speaker": "サウラ",
       "text": "む……むむむっ、これかな？",
-      "voice": "ch_10221/R18/10221B0_10221_Nml/10221B0_10221_008",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 41,
       "speaker": "",
       "text": "これが１番お姉ちゃんな感じがするよぉ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 42,
       "speaker": "主人公",
       "text": "それですね、分かりました。\nでは内容は僕が読みますね。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 45,
       "speaker": "",
       "text": "サウラさんからくじを受け取り、書かれた内容を読み上げる。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 46,
       "speaker": "主人公",
       "text": "今年のサウラさんの運勢は――「大吉」です！\nチファさんとの距離が縮まり、一層仲良くなるでしょう！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 75,
-      "speaker": "サウラ晴着",
+      "speaker": "サウラ",
       "text": "ええっ！？　ほんとぉ！？　やったやったぁ♪",
-      "voice": "ch_10221/R18/10221B0_10221_Nml/10221B0_10221_009",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 76,
-      "speaker": "サウラ晴着",
+      "speaker": "サウラ",
       "text": "ありがとう、ご主人くん。\nお手製のおみくじも引けたし、\n今年も良い１年になりそうだよぉ～♪",
-      "voice": "ch_10221/R18/10221B0_10221_Nml/10221B0_10221_010",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 77,
       "speaker": "主人公",
       "text": "どういたしまして。\nそこまで喜んでいただけるなんて、僕も嬉しいです。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 78,
-      "speaker": "サウラ晴着",
+      "speaker": "サウラ",
       "text": "ふふっ♪　「初おいで」する？\nほら、お姉ちゃんに甘えていいんだよぉ～？　おいでおいで～♪",
-      "voice": "ch_10221/R18/10221B0_10221_Nml/10221B0_10221_011",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 80,
       "speaker": "",
       "text": "サウラさんが両手を広げて、\nおいでおいでと僕を手招きする。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 81,
-      "speaker": "サウラ晴着",
+      "speaker": "サウラ",
       "text": "恥ずかしがらなくていいんだよぉ～？\nほら、今なら誰も居ないから♪　おいでおいで～♪",
-      "voice": "ch_10221/R18/10221B0_10221_Nml/10221B0_10221_012",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 82,
       "speaker": "主人公",
       "text": "いきませんよ！　まったく……。\nそれよりサウラさん、初詣にいきませんか？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 83,
-      "speaker": "サウラ晴着",
+      "speaker": "サウラ",
       "text": "初詣って、ビビ神さまのところだよね？\nいいよぉ♪　お姉ちゃんといこっか♪",
-      "voice": "ch_10221/R18/10221B0_10221_Nml/10221B0_10221_013",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 89,
       "speaker": "",
       "text": "僕と手を繋いで、サウラさんはニコニコと笑った。\nちょっと恥ずかしかったが、楽しそうな彼女を見られて嬉しい。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 90,
-      "speaker": "サウラ晴着",
+      "speaker": "サウラ",
       "text": "初詣といえば……ゲシュペンス島のどこかにある、\n幻の神殿にもいつか一緒に行こうね♪",
-      "voice": "ch_10221/R18/10221B0_10221_Nml/10221B0_10221_014",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 91,
       "speaker": "主人公",
       "text": "幻の神殿、ですか？\nなんか嫌な予感がしますけど……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 92,
-      "speaker": "サウラ晴着",
+      "speaker": "サウラ",
       "text": "心配ないよぉ♪\nモンスター娘にとって神聖なものが祭られてるんだって。\nご主人くんもきっと気に入るはずだよ♪",
-      "voice": "ch_10221/R18/10221B0_10221_Nml/10221B0_10221_015",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 93,
       "speaker": "",
       "text": "サウラさんの言葉に嫌な予感が強まるが、\n楽しそうな笑顔を前に、ひとまずスルーすることにした。\nこうして僕はまったりとしたお正月を過ごすのだった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     }
   ]
 }

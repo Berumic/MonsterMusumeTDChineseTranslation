@@ -1,238 +1,171 @@
 {
-  "scenario_id": "10347b0_nml",
-  "asset_path": "assets/advscene/scenarioexcel/character/10347/10347b0_nml.book.asset",
-  "cache_bundle": "C:\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\a79d941530b66e9c4949da3df0e966655190efc77677d6b869541ce603999c0c\\a79d941530b66e9c4949da3df0e96665\\__data",
+  "scenario": "scenario:character/10347/10347B0_Nml",
+  "title": "それなりに興味津々",
   "rows": [
     {
-      "row": 8,
       "speaker": "",
       "text": "今日は、ナズナさんにちょっとしたお礼がしたくて、\nココノハさんにもらった特製の油揚げを手に、\n彼女へ会いに来ていた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 13,
       "speaker": "ナズナ",
       "text": "主殿、それは……まさか、油揚げでは！？",
-      "voice": "ch_10347/R18/10347B0_10347_Nml/10347B0_10347_001",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 14,
       "speaker": "",
       "text": "目を輝かせて飛びついてくるナズナさん。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 15,
       "speaker": "主人公",
       "text": "これ、ココノハさんの差し入れなんです。\nよかったら一緒にどうぞ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 18,
       "speaker": "ナズナ",
       "text": "あ、ありがたくいただこう……！　もぐもぐ……んんっ！？\nな、なんだこの味は！？　外は香ばしく、中はふわとろ……！",
-      "voice": "ch_10347/R18/10347B0_10347_Nml/10347B0_10347_002",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 19,
       "speaker": "",
       "text": "美味しそうに頬張る姿に、なんだかこっちまで嬉しくなる。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 20,
       "speaker": "ナズナ",
       "text": "やはり主殿は優しいな。\nそうして色々なモンスター娘たちにも親切にしているのだろう？",
-      "voice": "ch_10347/R18/10347B0_10347_Nml/10347B0_10347_003",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 21,
       "speaker": "主人公",
       "text": "まあ、僕にとって皆さんは家族みたいなものですから。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 47,
       "speaker": "ナズナ",
       "text": "なるほど……家族か。主やご主人くんなどと呼ばれているから、\nてっきり主従関係なのだと勘違いしていた。",
-      "voice": "ch_10347/R18/10347B0_10347_Nml/10347B0_10347_004",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 48,
       "speaker": "ナズナ",
       "text": "……はっ。もしや、ご主人くんというのは名前なのか？\n本当は、私もご主人くん殿と呼ばなければいけなかったのか？",
-      "voice": "ch_10347/R18/10347B0_10347_Nml/10347B0_10347_005",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 62,
       "speaker": "主人公",
       "text": "違いますよ！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 64,
       "speaker": "ナズナ",
       "text": "ふむ……では、やはりご主人というのは立場であって、\n名前ではないのだな。紛らわしいが、理解はできた！",
-      "voice": "ch_10347/R18/10347B0_10347_Nml/10347B0_10347_006",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 66,
       "speaker": "ナズナ",
       "text": "だが、みなが主と呼ぶのであれば、\nやはり主従関係にも見えてしまうのも無理はない……。",
-      "voice": "ch_10347/R18/10347B0_10347_Nml/10347B0_10347_007",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 68,
       "speaker": "主人公",
       "text": "ま、<interval=0.3>まあ、<interval=0.3>確かに見えなくもないですけど……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 70,
       "speaker": "ナズナ",
       "text": "それにしても、皆から慕われているようだから、\nそういう関係にも発展するのではないかと……。\nその……やっぱり、そういう行為もしているのか？",
-      "voice": "ch_10347/R18/10347B0_10347_Nml/10347B0_10347_008",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 71,
       "speaker": "",
       "text": "とつぜん核心を突くような言葉を投げられて、\n僕は盛大にむせた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 76,
       "speaker": "主人公",
       "text": "けほっ、<interval=0.5>ご",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 78,
       "speaker": "主人公",
       "text": "ほっ！？\nと、<interval=0.5>突然なにを……！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 80,
       "speaker": "ナズナ",
       "text": "主殿、反応が分かりやすすぎる……！<interval=3.5>\nや",
-      "voice": "ch_10347/R18/10347B0_10347_Nml/10347B0_10347_009",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 83,
       "speaker": "ナズナ",
       "text": "はり、そういうことを……むむむ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 84,
       "speaker": "",
       "text": "ナズナさんが目を逸らしつつも、こちらをじっと見てくる。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 85,
       "speaker": "主人公",
       "text": "え、<interval=0.5>え",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 88,
       "speaker": "主人公",
       "text": "と、<interval=0.5>そういう行為って、いったい……？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 91,
       "speaker": "ナズナ",
       "text": "……あれ、だ。抱きしめられる、とか……。\n膝枕、とか……他にも色々……な？",
-      "voice": "ch_10347/R18/10347B0_10347_Nml/10347B0_10347_010",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 92,
       "speaker": "",
       "text": "ナズナさんの顔が赤く染まる。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 94,
       "speaker": "ナズナ",
       "text": "主殿は、どれが１番嬉しかったんだ？\n相手にされて、どんなふうに感じたのか、教えてほしい……。",
-      "voice": "ch_10347/R18/10347B0_10347_Nml/10347B0_10347_011",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 95,
       "speaker": "主人公",
       "text": "ど、どんなって……<interval=0.5>それは、<interval=0.3>その……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 110,
       "speaker": "",
       "text": "僕が言葉を詰まらせている間にも、",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 112,
       "speaker": "",
       "text": "ナズナさんは真剣に考えている。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 127,
       "speaker": "ナズナ",
       "text": "ふむ……なるほど。異世界でも、\n殿方は甘やかされると喜ぶ……これは有益な情報だ！",
-      "voice": "ch_10347/R18/10347B0_10347_Nml/10347B0_10347_012",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 128,
       "speaker": "主人公",
       "text": "な、なんでそんな納得してるんですか……！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 131,
       "speaker": "ナズナ",
       "text": "主殿のような立場の者には、日々の労をねぎらう術も必要だ。\n今後の参考にしよう……ふふ。",
-      "voice": "ch_10347/R18/10347B0_10347_Nml/10347B0_10347_013",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 132,
       "speaker": "",
       "text": "油揚げを頬張りながら笑うナズナさんは、\nなぜか誇らしげだった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     }
   ]
 }

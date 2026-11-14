@@ -1,259 +1,186 @@
 {
-  "scenario_id": "10312b0_nml",
-  "asset_path": "assets/advscene/scenarioexcel/character/10312/10312b0_nml.book.asset",
-  "cache_bundle": "C:\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\74f568e562f9411e82f55f0d2bd0bc05b75e64aaf8bcc6f26eb9de00c18fcfe7\\74f568e562f9411e82f55f0d2bd0bc05\\__data",
+  "scenario": "scenario:character/10312/10312B0_Nml",
+  "title": "プレゼントは靴下に",
   "rows": [
     {
-      "row": 7,
       "speaker": "",
       "text": "クリスマスの夜。\n部屋で寝ていると何やら物音がして、僕は目を覚ました。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 13,
-      "speaker": "ネルXmas",
+      "speaker": "ネル",
       "text": "えい、ぽいぽい。\nンー、これじゃない、これでもない。",
-      "voice": "ch_10312/R18/10312B0_10312_Nml/10312B0_10312_001",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 14,
       "speaker": "主人公",
       "text": "ん、一体何の音……って、ネルさん！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 16,
-      "speaker": "ネルXmas",
+      "speaker": "ネル",
       "text": "あ、おはよう。ご主人くん。\nハッピークリスマスだよ。ぱちぱち。",
-      "voice": "ch_10312/R18/10312B0_10312_Nml/10312B0_10312_002",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 18,
       "speaker": "主人公",
       "text": "ハッピークリスマスじゃないですよ、何しているんですか！？\nあ～もう、服が散らばってる！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 19,
       "speaker": "",
       "text": "どうやらガサゴソと言う物音はネルさんが\n僕のタンスをまさぐっていた音だったようだ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 21,
-      "speaker": "ネルXmas",
+      "speaker": "ネル",
       "text": "ふふ、クリスマスだから、\nネルはプレゼントをフォーユーにしにきたんだよ。",
-      "voice": "ch_10312/R18/10312B0_10312_Nml/10312B0_10312_003",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 22,
       "speaker": "主人公",
       "text": "いや、それならなんで僕のタンスをさぐっているんですか！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 23,
-      "speaker": "ネルXmas",
+      "speaker": "ネル",
       "text": "プレゼントを渡すために必要なものがあるからだよ。\nほーら、ぽいぽい～。",
-      "voice": "ch_10312/R18/10312B0_10312_Nml/10312B0_10312_004",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 28,
       "speaker": "",
       "text": "ネルさんはまたタンスをまさぐって、\n服を次々と投げだした。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 30,
       "speaker": "主人公",
       "text": "って、もう！\n本当にやめてください。何を探しているんですか！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 32,
-      "speaker": "ネルXmas",
+      "speaker": "ネル",
       "text": "ふっふっふ、クリスマスに必要なもの。\nそれは靴下なんだよ♪",
-      "voice": "ch_10312/R18/10312B0_10312_Nml/10312B0_10312_005",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 33,
       "speaker": "主人公",
       "text": "へ？　靴下？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 34,
-      "speaker": "ネルXmas",
+      "speaker": "ネル",
       "text": "そうだよ。クリスマスは夜中に忍び込んで、\n靴下にプレゼントを詰め詰めするのがいいって聞いたんだよ。",
-      "voice": "ch_10312/R18/10312B0_10312_Nml/10312B0_10312_006",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 35,
       "speaker": "主人公",
       "text": "あー、だからタンスをさぐっていたんですね。\nでも、靴下は今すべて洗濯しちゃってるんですよ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 37,
-      "speaker": "ネルXmas",
+      "speaker": "ネル",
       "text": "えー、そうなの？\nうーん、それは困ったんだよ……。",
-      "voice": "ch_10312/R18/10312B0_10312_Nml/10312B0_10312_007",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 38,
-      "speaker": "ネルXmas",
+      "speaker": "ネル",
       "text": "他に詰め詰めできるもの……そうだ！\nこっちに入れたらいいんだよ。",
-      "voice": "ch_10312/R18/10312B0_10312_Nml/10312B0_10312_008",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 49,
       "speaker": "",
       "text": "先ほどまでタンスを探っていたネルさんは、\nいきなり僕のパンツを脱がそうとし出した。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 50,
       "speaker": "主人公",
       "text": "わっ、なんでパンツに！？\nやめてくださいよ！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 51,
-      "speaker": "ネルXmas",
+      "speaker": "ネル",
       "text": "こら、暴れたらプレゼントが潰れちゃうでしょ。",
-      "voice": "ch_10312/R18/10312B0_10312_Nml/10312B0_10312_009",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 53,
-      "speaker": "ネルXmas",
+      "speaker": "ネル",
       "text": "あ、ちなみにプレゼントはじゃーん。\nクリスマスケーキ。\n生クリームたっぷりでネトネトでおいしいんだよ。",
-      "voice": "ch_10312/R18/10312B0_10312_Nml/10312B0_10312_010",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 54,
       "speaker": "主人公",
       "text": "え、そのケーキ包んでいないですけど、\nそのまま入れるつもりですか！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 55,
-      "speaker": "ネルXmas",
+      "speaker": "ネル",
       "text": "うん。何か問題ある？",
-      "voice": "ch_10312/R18/10312B0_10312_Nml/10312B0_10312_011",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 57,
       "speaker": "主人公",
       "text": "ありますけど！？\nとにかくパンツに入れないでください！\n食べられなくなっちゃいますから！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 58,
-      "speaker": "ネルXmas",
+      "speaker": "ネル",
       "text": "でもご主人くんの下半身はおいしそうになるんだよ？",
-      "voice": "ch_10312/R18/10312B0_10312_Nml/10312B0_10312_012",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 59,
       "speaker": "主人公",
       "text": "それ僕のプレゼントじゃなくなってますよね！？\n……はあ、ひとまずケーキは、\nありがとうございます。あとでいただきますね。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 60,
-      "speaker": "ネルXmas",
+      "speaker": "ネル",
       "text": "ふふふ、喜んでくれたならよかった。\nそうだ。ネルもご主人くんから、\nプレゼントを貰いたいんだよ。",
-      "voice": "ch_10312/R18/10312B0_10312_Nml/10312B0_10312_013",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 61,
       "speaker": "主人公",
       "text": "え、もちろんいいですけど……まだ用意しては――。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 62,
-      "speaker": "ネルXmas",
+      "speaker": "ネル",
       "text": "あはは、心配しなくていいんだよ。\nネルはご主人くんを貰うから。",
-      "voice": "ch_10312/R18/10312B0_10312_Nml/10312B0_10312_014",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 63,
       "speaker": "主人公",
       "text": "えっ、それって……",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 67,
       "speaker": "主人公",
       "text": "<size=30>うわあああ！</size>",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 68,
-      "speaker": "ネルXmas",
+      "speaker": "ネル",
       "text": "ほら、いい子はしまっちゃおうね～。\nボッシュートだよ。",
-      "voice": "ch_10312/R18/10312B0_10312_Nml/10312B0_10312_015",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 72,
       "speaker": "",
       "text": "ネルさんは僕を触手で拘束したかと思うと、\nいきなり持ってきた大きな布をかぶせてきた。\nそしてそのまま僕を運び出す。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 74,
-      "speaker": "ネルXmas",
+      "speaker": "ネル",
       "text": "んふふ、念のためにネル用のドデカ靴下作っといてよかった。\nよーし、持って帰るんだよ。",
-      "voice": "ch_10312/R18/10312B0_10312_Nml/10312B0_10312_016",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 79,
       "speaker": "主人公",
       "text": "<size=30>え、どこにいくんですか！？\nちょっとネルさん～～！？</size>",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 80,
       "speaker": "",
       "text": "僕は必死に布の中で叫ぶも\n結局抵抗もむなしく、そのままクリスマスプレゼントとして\nネルさんに連れ去られてしまうのだった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     }
   ]
 }

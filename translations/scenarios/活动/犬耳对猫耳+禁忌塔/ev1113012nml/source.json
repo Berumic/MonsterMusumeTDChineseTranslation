@@ -1,231 +1,166 @@
 {
-  "scenario_id": "ev1113012nml",
-  "asset_path": "Assets/AdvScene/ScenarioExcel/event/1113/Ev1113012Nml.xlsx",
-  "cache_bundle": "D:\\mms\\converted-scenarios-final\\解包资源\\01話後半_Ev1113012Nml.ab",
+  "scenario": "scenario:event/1113/Ev1113012Nml",
+  "title": "01話後半",
   "rows": [
     {
-      "row": 14,
       "speaker": "テルル",
       "text": "ぐぬぬぅ……！\nあともう一歩足りなかったわん……！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 19,
       "speaker": "トルス",
       "text": "猫耳……許すまじ……！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 22,
       "speaker": "",
       "text": "気絶するテルルとトルス。\nしかし最後の最後までその目から闘志が消えることはなかった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 25,
       "speaker": "主人公",
       "text": "どうしてこんなに猫耳に執着を……？\nええと、ミャルナさん、大丈夫ですか！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 26,
       "speaker": "ミャルナ",
       "text": "助かったにゃ、ご主人様……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 27,
       "speaker": "ミャルナ",
       "text": "ぐうう、犬共め！　私の猫耳を狙うなんて！\n逆に犬耳を千切ってやるわっ！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 30,
       "speaker": "主人公",
       "text": "お、落ち着いてください！\nちょっと僕らも状況が分かっていなくて……何があったんですか？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 35,
       "speaker": "ビビ神",
       "text": "ミャルナ、あなたの喧嘩腰な態度、\nもしやテルルたちを挑発でもしたんじゃないでしょうね？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 36,
       "speaker": "ミャルナ",
       "text": "し、してないわよっ！　",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 50,
       "speaker": "ミャルナ",
       "text": "そもそもの発端は、\nあの犬共が急に、私たち猫系モンスター娘の、\n特に猫耳を目の敵にして襲ってきたことだったのよ！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 58,
       "speaker": "ミャルナ",
       "text": "私たちは被害者！　でも、猫的ネットワークを守るために、\nこのままやられるわけにいかないから、",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 63,
       "speaker": "ミャルナ",
       "text": "テルルと交渉に来て……見ての通りにべもなく襲われたのよ！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 72,
       "speaker": "主人公",
       "text": "猫的ネットワーク？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 73,
       "speaker": "ビビ神",
       "text": "猫系モンスター娘たちの、\n平たく言うと互助会のようなものですね。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 76,
       "speaker": "ミャルナ",
       "text": "ふんっ、犬のヤツら、きっと私たち猫に嫉妬しているんだわ！\n私たちの方が自由で可愛くて、世界から愛されてるから！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 77,
       "speaker": "ビビ神",
       "text": "猫系モンスター娘と犬系モンスター娘は対立はしていませんが、\n「どちらがより可愛いか」と度々揉めているようです。\nミャルナはその中でも過激な方といいますか。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 78,
       "speaker": "主人公",
       "text": "詳しいですね。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 79,
       "speaker": "ビビ神",
       "text": "……猫耳だからじゃないですよ。ていうかビビ耳ですし。\n私は獣神ですから。当然です。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 80,
       "speaker": "主人公",
       "text": "でも、テルルさんたちは別に元々猫のみなさんを、\n敵視なんてしてなかったですよね？\nあれだけの執着……やっぱり普通じゃありません。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 83,
       "speaker": "ビビ神",
       "text": "そうですね……ひとつだけ、原因に心当たりがあります。\nいえ、心当たりと言えるほど確証があるわけではなく、\nまったく関係無いとも言い切れない……程度のものですが。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 84,
       "speaker": "主人公",
       "text": "なんか歯切れが悪いですね……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 96,
       "speaker": "ミャルナ",
       "text": "原因なんて分かりきってるわ！\n犬のヤツらの嫉妬よ！　猫耳をつければ、\n自分たちも猫になれるって思い上がってるんだわ！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 97,
       "speaker": "ビビ神",
       "text": "あなたも襲われたから怒るのは分かりますが、\n頭に血が上ってしまっていますよ。冷静になりなさい。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 100,
       "speaker": "ミャルナ",
       "text": "にゃ……そ、そうね。\nカッカするなんてスマートじゃないわ！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 102,
       "speaker": "ビビ神",
       "text": "ふぅ……。\nとにかく、可能性があるなら無視はできません。\n情報を集めたいですが……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 103,
       "speaker": "ビビ神",
       "text": "私の思い当たった原因について探ろうにも、\nその関係者は皆、揃いも揃って曲者ばかり……であれば、\nまずは既にご主人さまと面識のある彼女に会いに行きましょうか。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 104,
       "speaker": "主人公",
       "text": "ええと……？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 108,
       "speaker": "",
       "text": "ビビ神の言う心当たりというのが分からず、\n首を傾げる主人公。当然ミャルナも分からず、\n一緒に首を傾げている。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 111,
       "speaker": "ビビ神",
       "text": "全てを識ると自称する彼女のことです。私たちが、\n彼女を探していると知れば、向こうから寄ってくるでしょう。\nたぶん、",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 112,
       "speaker": "ビビ神",
       "text": "きっと、もしかしたら。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 131,
       "speaker": "ビビ神",
       "text": "というわけでぶらぶらしましょう、ご主人さま。\nもしもこのビビ耳を狙われたら身を挺して守ってくださいね？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 132,
       "speaker": "主人公",
       "text": "え、ええと善処します……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     }
   ]
 }

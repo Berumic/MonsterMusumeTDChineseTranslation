@@ -1,98 +1,71 @@
 {
-  "scenario_id": "1104071nml",
-  "asset_path": "Assets/AdvScene/ScenarioExcel/main/1104/1104071Nml.xlsx",
-  "cache_bundle": "C:\\Users\\77147\\Documents\\Codex\\2026-08-21\\bang\\outputs\\MonsterMusumeTDMod\\解包资源\\ab\\４章_07話前半_1104071Nml.ab",
+  "scenario": "scenario:main/1104/1104071Nml",
+  "title": "４章_07話前半",
   "rows": [
     {
-      "row": 7,
       "speaker": "",
       "text": "しばしの時間を経て、クロミが主人公たちの元へと戻ってきた。\nしかし、その表情は晴れやかとは言い難いものである。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 30,
       "speaker": "クロミ",
       "text": "ごめんなさい、ご主人くぅん……。\n私のテクを使っても大した情報を引き出せませんでしたぁ。",
-      "voice": "ch_10021/Main/1104/1104_10021_215",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 31,
       "speaker": "主人公",
       "text": "そんなに落ち込まないでください。\nそもそも何も聞かされていなかった可能性もありますからね。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 46,
       "speaker": "ペリリ",
       "text": "…………はっ！\nみんな、誰かが近づいてくるペン！",
-      "voice": "ch_10030/Main/1104/1104_10030_216",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 50,
       "speaker": "騎士Ａ",
       "text": "ククク……『あいつら』がやっと到着したぞ！\n今度こそ貴様らは終わりだ！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 56,
       "speaker": "",
       "text": "不敵に笑う騎士の後ろには、見知った三人組が立っている。\nまたか……と主人公たちが辟易していると、\nいかにもな恰好をした連中が最前面に躍り出た。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 60,
       "speaker": "勇者",
       "text": "我らは勇者一行！\n世界からありとあらゆる脅威っぽいものを取り除き、\n平和をもたらす使命を果たすため、この島へとやってきた！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 61,
       "speaker": "主人公",
       "text": "はぁ、なんだかふんわりした使命ですね。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 63,
       "speaker": "勇者",
       "text": "なっ、おまっ……それは……。\nええいっ、邪悪なモンスター娘を従える少年よ！\n貴様も脅威っぽいものに違いない！　成敗する！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 68,
       "speaker": "オキシー",
       "text": "あぁん？\nお前、いまだーりんを害悪とか害虫とか言いやがったか？",
-      "voice": "ch_10007/Main/1104/1104_10007_217",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 69,
       "speaker": "勇者",
       "text": "いやそこまで言っていないが……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 81,
       "speaker": "オキシー",
       "text": "許さねぇっ、ぶっ殺す！\n行くぜペン公！",
-      "voice": "ch_10007/Main/1104/1104_10007_218",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 82,
       "speaker": "ペリリ",
       "text": "命令するなペン！\nだけど釣り場で先人に敬意を払わないヤツは許さんペン！\nやってやるペン！",
-      "voice": "ch_10030/Main/1104/1104_10030_219",
-      "command": ""
+      "choice": false
     }
   ]
 }

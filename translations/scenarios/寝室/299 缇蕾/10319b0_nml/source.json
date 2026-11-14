@@ -1,392 +1,281 @@
 {
-  "scenario_id": "10319b0_nml",
-  "asset_path": "assets/advscene/scenarioexcel/character/10319/10319b0_nml.book.asset",
-  "cache_bundle": "C:\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\198fa7a2246c60fadd88abb65311ffee72d58fad761ce861a76c9cc8f0f32bad\\198fa7a2246c60fadd88abb65311ffee\\__data",
+  "scenario": "scenario:character/10319/10319B0_Nml",
+  "title": "深淵の儀式で新年を",
   "rows": [
     {
-      "row": 7,
       "speaker": "",
       "text": "ここは闇の森。その奥深くにあるヤシロ。\n闇の中で輝く魔石の灯りと黒紫の布が、\n神秘的な雰囲気を醸し出している。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 8,
       "speaker": "",
       "text": "ここはダークエルフ娘さんたちが\n新春を祝う神聖な場所らしい。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 9,
-      "speaker": "ティーレ晴着",
+      "speaker": "ティーレ",
       "text": "よく来たな、契約者よ。",
-      "voice": "ch_10319/R18/10319B0_10319_Nml/10319B0_10319_001",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 10,
       "speaker": "",
       "text": "ティーレさんは晴れ着姿で僕を迎えると、\n目を輝かせて祭壇を見つめながら言った。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 13,
-      "speaker": "ティーレ晴着",
+      "speaker": "ティーレ",
       "text": "ふむ、ここに漂う新春の魔力……。\nまさに深淵の力が集うにふさわしい場所よ！",
-      "voice": "ch_10319/R18/10319B0_10319_Nml/10319B0_10319_002",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 14,
       "speaker": "主人公",
       "text": "すごい場所ですね……ここで何をするんですか？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 15,
-      "speaker": "ティーレ晴着",
+      "speaker": "ティーレ",
       "text": "新春の深淵を浄化し、\n我らが契約をさらに強固にするための儀式だ！",
-      "voice": "ch_10319/R18/10319B0_10319_Nml/10319B0_10319_003",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 16,
       "speaker": "主人公",
       "text": "儀式？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 19,
       "speaker": "",
       "text": "ティーレさんは力強く頷き、祭壇へと歩み寄る。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 21,
-      "speaker": "ティーレ晴着",
+      "speaker": "ティーレ",
       "text": "さあ、契約者よ！　見よ、この儀式の準備を！  \nここには新年の品々が飾られているのだ。",
-      "voice": "ch_10319/R18/10319B0_10319_Nml/10319B0_10319_004",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 22,
-      "speaker": "ティーレ晴着",
+      "speaker": "ティーレ",
       "text": "闇夜にだけ咲く紫黒の花々。そして願いを書く影の札板。\nこれらはすべて、深淵の力を呼び込むための重要なアイテムだぞ。",
-      "voice": "ch_10319/R18/10319B0_10319_Nml/10319B0_10319_005",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 23,
-      "speaker": "ティーレ晴着",
+      "speaker": "ティーレ",
       "text": "そしてこれがダークオーブだ。\n魔力を高め、深淵の加護を呼び込むためのものだ！",
-      "voice": "ch_10319/R18/10319B0_10319_Nml/10319B0_10319_006",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 26,
       "speaker": "",
       "text": "ティーレさんはダークオーブを祭壇に\n慎重に並べながら言う。\n僕もその手伝いをしながら、彼女に尋ねる。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 27,
       "speaker": "主人公",
       "text": "これって、どうやって使うんですか？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 28,
-      "speaker": "ティーレ晴着",
+      "speaker": "ティーレ",
       "text": "これを使い、深淵の力を招く。\nだが、それだけでは足りん！\nこの闇の花だ。これが深淵の加護を呼ぶ結界となる！",
-      "voice": "ch_10319/R18/10319B0_10319_Nml/10319B0_10319_007",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 30,
       "speaker": "",
       "text": "ティーレさんは次に影の札板を手に取った。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 32,
-      "speaker": "ティーレ晴着",
+      "speaker": "ティーレ",
       "text": "これこそ、ダークエルフ娘たちの\n新春の誓いが刻まれた札板だ。見てみろ、契約者よ！",
-      "voice": "ch_10319/R18/10319B0_10319_Nml/10319B0_10319_008",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 33,
       "speaker": "",
       "text": "僕は札板を見て、そこに書かれた誓いを読んだ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 34,
-      "speaker": "ティーレ晴着",
+      "speaker": "ティーレ",
       "text": "例えば……『我、来年こそ禁術を極める』とか、\n『もっと闇を深める』とかだな！",
-      "voice": "ch_10319/R18/10319B0_10319_Nml/10319B0_10319_009",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 35,
       "speaker": "主人公",
       "text": "それって……本当に願い事なんですか？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 36,
-      "speaker": "ティーレ晴着",
+      "speaker": "ティーレ",
       "text": "そうだ。だがただの願いではない。\n闇の力に満ちた誓いなのだ！",
-      "voice": "ch_10319/R18/10319B0_10319_Nml/10319B0_10319_010",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 38,
       "speaker": "主人公",
       "text": "すごい……。\nじゃあ、僕も書いていいですか？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 39,
-      "speaker": "ティーレ晴着",
+      "speaker": "ティーレ",
       "text": "ふむ、貴様が願うのであれば、我も特別に許可しよう！",
-      "voice": "ch_10319/R18/10319B0_10319_Nml/10319B0_10319_011",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 40,
       "speaker": "",
       "text": "僕は影の札板に、自分の願いを慎重に書き込む。\nティーレさんがそれを覗き込んだ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 41,
-      "speaker": "ティーレ晴着",
+      "speaker": "ティーレ",
       "text": "何を書いたのだ？",
-      "voice": "ch_10319/R18/10319B0_10319_Nml/10319B0_10319_012",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 42,
       "speaker": "主人公",
       "text": "えっと……。\nティーレさんと一緒に過ごせる１年になりますように、です。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 44,
-      "speaker": "ティーレ晴着",
+      "speaker": "ティーレ",
       "text": "な、何だと……？\nき、貴様……恥ずかしくないのか！　そ、そんな……！\nわ、我はちょっと、いや、かなり恥ずかしい……ぞ。",
-      "voice": "ch_10319/R18/10319B0_10319_Nml/10319B0_10319_013",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 45,
       "speaker": "主人公",
       "text": "だって、こうして一緒にいるんですから。\n今年も息災で、みんなで一緒に過ごせたらいいなって。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 46,
-      "speaker": "ティーレ晴着",
+      "speaker": "ティーレ",
       "text": "ふむ、悪くない願いだ。\nだが、我が力を借りるためには\nもっと深淵な願いが必要ではないか？",
-      "voice": "ch_10319/R18/10319B0_10319_Nml/10319B0_10319_014",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 47,
       "speaker": "主人公",
       "text": "え、でも……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 48,
-      "speaker": "ティーレ晴着",
+      "speaker": "ティーレ",
       "text": "気にするな！　我が力であれば、貴様の願いも叶うだろう。",
-      "voice": "ch_10319/R18/10319B0_10319_Nml/10319B0_10319_015",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 50,
       "speaker": "",
       "text": "そうして儀式を続けながら、\nティーレさんは再び羽子板を手に取った。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 51,
-      "speaker": "ティーレ晴着",
+      "speaker": "ティーレ",
       "text": "さあ、契約者よ！\n見よ、この儀式の最高潮を！　新春の深淵の舞、始まるぞ！  ",
-      "voice": "ch_10319/R18/10319B0_10319_Nml/10319B0_10319_016",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 55,
       "speaker": "",
       "text": "彼女は羽子板を力強く振りかざす。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 57,
       "speaker": "",
       "text": "その瞬間、影の札板の一部が倒れてしまった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 59,
       "speaker": "主人公",
       "text": "うわっ、ティーレさん、全部倒れちゃいました！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 60,
       "speaker": "",
       "text": "ティーレさんはしばらく固まった後、平然と答える。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 62,
-      "speaker": "ティーレ晴着",
+      "speaker": "ティーレ",
       "text": "ええっ……えっと、えーっと……うん！\nふはははっ、これもまた予定通りだ。\n我の儀式は破壊をもって完成するのだ！",
-      "voice": "ch_10319/R18/10319B0_10319_Nml/10319B0_10319_017",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 63,
       "speaker": "主人公",
       "text": "え？　そんな儀式、聞いたことないですけど。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 65,
-      "speaker": "ティーレ晴着",
+      "speaker": "ティーレ",
       "text": "我が言うことに疑いを挟むとは、契約者よ、不敬であるぞ！",
-      "voice": "ch_10319/R18/10319B0_10319_Nml/10319B0_10319_018",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 66,
       "speaker": "主人公",
       "text": "す、すみません……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 67,
-      "speaker": "ティーレ晴着",
+      "speaker": "ティーレ",
       "text": "ふふふ、気にするな。\nさあ、次はこれを修復し、儀式を完成させるぞ！",
-      "voice": "ch_10319/R18/10319B0_10319_Nml/10319B0_10319_019",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 68,
       "speaker": "",
       "text": "ティーレさんは周囲の物を整理しながら、\n僕に札板に願いを刻むよう促した。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 69,
-      "speaker": "ティーレ晴着",
+      "speaker": "ティーレ",
       "text": "さあ、貴様も『影の札板』に願いを書け。\n我が見守ってやろう！",
-      "voice": "ch_10319/R18/10319B0_10319_Nml/10319B0_10319_020",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 70,
       "speaker": "主人公",
       "text": "じゃあ、僕ももう一度……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 71,
-      "speaker": "ティーレ晴着",
+      "speaker": "ティーレ",
       "text": "書き終わったか？　どれ、我に願いを述べてみよ。\nこの闇の力でかなえてやるぞ、ふははは！",
-      "voice": "ch_10319/R18/10319B0_10319_Nml/10319B0_10319_021",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 72,
       "speaker": "主人公",
       "text": "もっともっとティーレさんと強い絆が結べますように、ですね。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 74,
-      "speaker": "ティーレ晴着",
+      "speaker": "ティーレ",
       "text": "う、うむむむぅ……貴様、やっぱり恥ずかしいことを！\nでも、でも……うぅ……。\n我は、ちょっぴり、嬉しいこともなくはない。",
-      "voice": "ch_10319/R18/10319B0_10319_Nml/10319B0_10319_022",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 75,
       "speaker": "主人公",
       "text": "これからもずっと一緒に過ごしたいですからね。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 76,
-      "speaker": "ティーレ晴着",
+      "speaker": "ティーレ",
       "text": "……ふむ、それでこそ我の契約者だな！\nその願い、聞き届けたり！　だ！",
-      "voice": "ch_10319/R18/10319B0_10319_Nml/10319B0_10319_023",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 77,
       "speaker": "",
       "text": "ティーレさんは得意げに顔を上げ、さらに儀式を続けた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 78,
-      "speaker": "ティーレ晴着",
+      "speaker": "ティーレ",
       "text": "よし、これで儀式は無事に終わった。\n契約者よ、深淵の力を共に極めるため、\nさらなる道を歩んでいこう！",
-      "voice": "ch_10319/R18/10319B0_10319_Nml/10319B0_10319_024",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 79,
       "speaker": "主人公",
       "text": "はいっ、また来年も一緒に羽子板勝負できたら嬉しいです。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 80,
-      "speaker": "ティーレ晴着",
+      "speaker": "ティーレ",
       "text": "ふむ、それもいいだろう。\nだが、次も我が勝利するに決まっている！",
-      "voice": "ch_10319/R18/10319B0_10319_Nml/10319B0_10319_025",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 81,
       "speaker": "",
       "text": "ティーレさんと僕は祭壇の前に立つと、穏やかな空気が流れる。\n闇の森の静けさと共に、新春の儀式は幕を閉じた。\n深淵の力は、僕たちの心にしっかりと刻まれているようであった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     }
   ]
 }

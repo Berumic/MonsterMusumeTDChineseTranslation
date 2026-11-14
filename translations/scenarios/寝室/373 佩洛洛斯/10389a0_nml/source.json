@@ -1,287 +1,206 @@
 {
-  "scenario_id": "10389a0_nml",
-  "asset_path": "assets/advscene/scenarioexcel/character/10389/10389a0_nml.book.asset",
-  "cache_bundle": "C:\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\e1036682033c916cd02b23131a4bf7d27e743c1eb927c7fc531f343d7b66063f\\e1036682033c916cd02b23131a4bf7d2\\__data",
+  "scenario": "scenario:character/10389/10389A0_Nml",
+  "title": "騎士の家事",
   "rows": [
     {
-      "row": 6,
       "speaker": "",
       "text": "朝目覚めた僕の視界に飛び込んできたのは、",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 13,
       "speaker": "",
       "text": "骨足で床をゴシゴシ磨くペロロスさんの姿だった。\nカリカリと響く音が、なんだか夢にまで出てきそうで怖い。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 17,
-      "speaker": "ペロロスホーリースケルトン",
+      "speaker": "ペロロス",
       "text": "おはようございます、主様。\n本日も粉骨砕骨の覚悟でお仕えいたします。",
-      "voice": "ch_10389/R18/10389A0_10389_Nml/10389A0_10389_001",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 19,
-      "speaker": "ペロロスホーリースケルトン",
+      "speaker": "ペロロス",
       "text": "こうして骨足で床を磨くことが、\nどれほど骨身に沁みる幸福か……おわかりいただけますか？",
-      "voice": "ch_10389/R18/10389A0_10389_Nml/10389A0_10389_002",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 22,
       "speaker": "主人公",
       "text": "いや、わかんないですから！\n僕が寝てる横でゴシゴシやられると怖いんですよ！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 25,
-      "speaker": "ペロロスホーリースケルトン",
+      "speaker": "ペロロス",
       "text": "主様の健康のためなら、老骨に鞭を打ち、\n骨の髄まで尽くす所存です。どうぞご安心を。\n床に穴が開くくらい、些細なことですから。",
-      "voice": "ch_10389/R18/10389A0_10389_Nml/10389A0_10389_003",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 26,
       "speaker": "主人公",
       "text": "……<interval=0.5>些",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 29,
       "speaker": "主人公",
       "text": "細なわけないですよ！？\n<interval=0.5>家が壊れたらどこで寝るんですか。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 30,
       "speaker": "",
       "text": "そう言っても、ペロロスさんは聞く耳を持たず、\n嬉々として布団を抱え上げる。\nその瞳はドクロなのに、なぜか期待に満ちているように見えた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 31,
-      "speaker": "ペロロスホーリースケルトン",
+      "speaker": "ペロロス",
       "text": "さあ、布団を干させてください。\n<interval=2.5>主",
-      "voice": "ch_10389/R18/10389A0_10389_Nml/10389A0_10389_004",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 33,
-      "speaker": "ペロロスホーリースケルトン",
+      "speaker": "ペロロス",
       "text": "様の体温が染み付いた布団……、\nしっかり骨目に焼き付けておきますので。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 36,
       "speaker": "主人公",
       "text": "ちょ、変態発言しないで！？\n<interval=0.8>っ",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 38,
       "speaker": "主人公",
       "text": "てうわああっ！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 43,
       "speaker": "",
       "text": "布団から放り出された僕は、無様に床に転がった。\nでも、ペロロスさんを見上げると、",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 58,
       "speaker": "",
       "text": "本当に幸せそうで、少しだけ胸がくすぐったい。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 60,
-      "speaker": "ペロロスホーリースケルトン",
+      "speaker": "ペロロス",
       "text": "主様の無防備なお顔……これを拝めただけで、\n骨を砕いてでも守りたいと思えます。",
-      "voice": "ch_10389/R18/10389A0_10389_Nml/10389A0_10389_005",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 63,
       "speaker": "主人公",
       "text": "普通に恥ずかしいんですからやめてください……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 75,
-      "speaker": "ペロロスホーリースケルトン",
+      "speaker": "ペロロス",
       "text": "あ、それからこちらが外に干されていた洗濯物です。\n<interval=4>コ",
-      "voice": "ch_10389/R18/10389A0_10389_Nml/10389A0_10389_006",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 77,
-      "speaker": "ペロロスホーリースケルトン",
+      "speaker": "ペロロス",
       "text": "ツコツと畳んでおきました。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 80,
       "speaker": "主人公",
       "text": "あ、ありがとうございます……<interval=0.5>って、\n<interval=0.5>それ穴だらけじゃないですか？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 104,
-      "speaker": "ペロロスホーリースケルトン",
+      "speaker": "ペロロス",
       "text": "忠誠心が強すぎて、骨指が布を貫いてしまいました……。\n主様のために全力で尽くした結果でして……しゅん。",
-      "voice": "ch_10389/R18/10389A0_10389_Nml/10389A0_10389_007",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 106,
       "speaker": "主人公",
       "text": "全力すぎます。程々って知らないんですか？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 110,
-      "speaker": "ペロロスホーリースケルトン",
+      "speaker": "ペロロス",
       "text": "も、申し訳ありません。\nお詫びにこちらを作っておきました。朝ごはんです。",
-      "voice": "ch_10389/R18/10389A0_10389_Nml/10389A0_10389_008",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 112,
       "speaker": "",
       "text": "そして差し出されたのはなんかのスープ。\n湯気の間から見えるのは……やっぱり骨。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 113,
       "speaker": "主人公",
       "text": "……これ、<interval=0.5>ペ",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 116,
       "speaker": "主人公",
       "text": "ロロスさんの骨浮いてますよね！？\nパーツ減らしてまで献身しないでください！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 118,
-      "speaker": "ペロロスホーリースケルトン",
+      "speaker": "ペロロス",
       "text": "主様のためなら、骨の一本や二本、惜しくなどありません。\n骨身を削る忠義、これぞワタクシの真骨頂です。",
-      "voice": "ch_10389/R18/10389A0_10389_Nml/10389A0_10389_009",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 120,
-      "speaker": "ペロロスホーリースケルトン",
+      "speaker": "ペロロス",
       "text": "骨で出汁をとるとよい、とリコ様から教えていただいたのです。\nさあ、主様。ずずっとひと口で。",
-      "voice": "ch_10389/R18/10389A0_10389_Nml/10389A0_10389_010",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 123,
       "speaker": "主人公",
       "text": "いや、<interval=0.5>それって動物の骨とか、魚の骨とかの話で、\nペロロスさんの骨からって話じゃないんじゃ……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 124,
       "speaker": "",
       "text": "まったく聞く耳を持たないペロロスさんが、\n次",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 127,
       "speaker": "",
       "text": "は靴下を繕ってくれるらしい。<interval=0.5>でも結果は……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 131,
-      "speaker": "ペロロスホーリースケルトン",
+      "speaker": "ペロロス",
       "text": "あら、ズボンまで裂けてしまいました。\n絡みすぎた忠誠心の結果です。\n反省いたしますが……<interval=7.5>ほ",
-      "voice": "ch_10389/R18/10389A0_10389_Nml/10389A0_10389_011",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 134,
-      "speaker": "ペロロスホーリースケルトン",
+      "speaker": "ペロロス",
       "text": "んの少しだけ、嬉しいです。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 137,
       "speaker": "主人公",
       "text": "変な喜びを見出さないでください！\n<interval=0.5>……でもありがとう。次はもっと優しくお願いしますね。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 139,
-      "speaker": "ペロロスホーリースケルトン",
+      "speaker": "ペロロス",
       "text": "はい、主様。骨型ボタンのついた新しいシャツです。",
-      "voice": "ch_10389/R18/10389A0_10389_Nml/10389A0_10389_012",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 141,
-      "speaker": "ペロロスホーリースケルトン",
+      "speaker": "ペロロス",
       "text": "これを着ていただけるなら、\n粉骨砕骨してお仕えした甲斐があります……。\nどうか、ワタクシを骨まで頼ってくださいませ。",
-      "voice": "ch_10389/R18/10389A0_10389_Nml/10389A0_10389_013",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 143,
       "speaker": "",
       "text": "僕は言われるがまま、シャツに袖を通す。\n骨型のボタンが目立つデザインは斬新で新しい。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 146,
       "speaker": "主人公",
       "text": "ちょ、<interval=0.5>ちょっとかっこいい……<interval=0.5>かもしれない……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 150,
       "speaker": "",
       "text": "そうつぶやくと、ペロロスさんは\nコツコツコツと骨を鳴らしながら笑った。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 151,
       "speaker": "",
       "text": "気づけば僕の方が骨抜きにされてるのかもしれない、\nそんな気がしたのだった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     }
   ]
 }

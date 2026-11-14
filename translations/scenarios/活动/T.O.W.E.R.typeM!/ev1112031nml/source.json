@@ -1,224 +1,161 @@
 {
-  "scenario_id": "ev1112031nml",
-  "asset_path": "assets/advscene/scenarioexcel/event/1112/ev1112031nml.book.asset",
-  "cache_bundle": "D:\\mms\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\09889aea15232dff8913cb2c67e65be7e82f93ca337ee4c972aac956b07e2fa8\\09889aea15232dff8913cb2c67e65be7\\__data",
+  "scenario": "scenario:event/1112/Ev1112031Nml",
+  "title": "03話前半",
   "rows": [
     {
-      "row": 7,
       "speaker": "",
       "text": "ムスタバッル溶岩地帯。\nそこはゲシュペンス島の名物、\nロリ化溶岩が流れる火山一帯の名称である。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 33,
       "speaker": "ティヴェル",
       "text": "うわー、あっつー。\nこの暑さ、実際に来てみると、中々思った以上だね～。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 68,
       "speaker": "セレン",
       "text": "私は全然ヨユーだけどな！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 71,
       "speaker": "リン",
       "text": "わたしはここ苦手ぇ……。\n溶けちゃうよぉ～……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 72,
       "speaker": "スズ",
       "text": "ティヴェルさんは暑いの大丈夫なんだ？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 77,
       "speaker": "ティヴェル",
       "text": "平気だよ～。ヴェルちゃんはどんな環境でも、\n観察業務を全うできるようにできてるからね♪\n暑いのも寒いのもオールオッケー♪",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 78,
       "speaker": "ティヴェル",
       "text": "にしても、落ちたらロリ化しちゃう溶岩って、\nどういう原理なんだろー？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 81,
       "speaker": "ティヴェル",
       "text": "はっきし言って、あらゆる世界の中でも、\n最上位級ってくらい、謎の存在だよ？\n実質、不老不死もできちゃうよね？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 83,
       "speaker": "ビビ神",
       "text": "……それについてはノーコメントで。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 84,
       "speaker": "ティヴェル",
       "text": "えー！　気になる―！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 86,
       "speaker": "ティヴェル",
       "text": "……けど、まぁいいや。今日ここに来たのは、\n溶岩の観光じゃないからねー。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 90,
       "speaker": "主人公",
       "text": "あの、決戦がどうって言っていましたけど、\nここで何かと戦うつもりなんですか？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 92,
       "speaker": "ティヴェル",
       "text": "うん。そうだよ。\nヴェルちゃんとご主人ちゃんチーム、",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 99,
       "speaker": "ティヴェル",
       "text": "バーサス――きみたち。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 104,
       "speaker": "",
       "text": "ティヴェルが指したのはここに共に連れてきた、\nリン、スズ、クロミ、セレンたちだった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 108,
       "speaker": "スズ",
       "text": "ええっ、私たち！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 109,
       "speaker": "リン",
       "text": "それになんでご主人くんはそっちなの！？\nズルい！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 110,
       "speaker": "クロミ",
       "text": "も、もしかしてティヴェルさんの目的は、\n私たちを捕らえ、あれやこれやで調教して、\n○○○として異世界に×××することだったんですかぁ～♡",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 113,
       "speaker": "セレン",
       "text": "なんで嬉しそうなんだよ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 116,
       "speaker": "ティヴェル",
       "text": "さすが息を吐くように下ネタが飛び交うゲシュペンス島。\n今のはさすがにお姉ちゃんに聞かせるわけにいかないから、\n録画では切り取っておくけど……クロミちゃんのは誤解だよ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 117,
       "speaker": "ティヴェル",
       "text": "ヴェルちゃんはみんなと仲良くなって、\nこの島、この世界を監視、記録したいの。\nもちろん、みんなの平和と安全のためにね。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 120,
       "speaker": "ティヴェル",
       "text": "だから、そのために戦うの！\nほら、いわゆる模擬戦ってやつ？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 128,
       "speaker": "クロミ",
       "text": "もぎ専！？　",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 129,
       "speaker": "クロミ",
       "text": "それは随分とハードですねぇ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 131,
       "speaker": "クロミ",
       "text": "あっ、タンタルちゃんに対するご主人くんみたいな？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 135,
       "speaker": "スズ",
       "text": "その誤変換はさすがにどっかから怒られるよ！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 138,
       "speaker": "主人公",
       "text": "ていうか、僕そんなんじゃないですから！！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 157,
       "speaker": "ティヴェル",
       "text": "あはは、盛り上がってきたね～♪\nそれじゃあそんな調子で――",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 159,
       "speaker": "ティヴェル",
       "text": "レッツもぎもぎ～♪",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 162,
       "speaker": "クロミ",
       "text": "もぎもぎ～♡",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 163,
       "speaker": "リン",
       "text": "結局、どうしてご主人くんがそっちチームなの！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     }
   ]
 }

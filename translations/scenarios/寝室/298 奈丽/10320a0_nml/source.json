@@ -1,238 +1,171 @@
 {
-  "scenario_id": "10320a0_nml",
-  "asset_path": "assets/advscene/scenarioexcel/character/10320/10320a0_nml.book.asset",
-  "cache_bundle": "C:\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\107497ba4859532ba2a993716a4daeae12c0fe1d89168830eaf832edefb62143\\107497ba4859532ba2a993716a4daeae\\__data",
+  "scenario": "scenario:character/10320/10320A0_Nml",
+  "title": "願いよ届け",
   "rows": [
     {
-      "row": 7,
       "speaker": "",
       "text": "その日、僕はネリーさんに「大事な話がある」と呼び出され、\n森へと向かっていた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 8,
       "speaker": "主人公",
       "text": "ネリーさん、深刻そうな顔だったけど……、\n僕にいったい何の用なんだろ……？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 11,
-      "speaker": "ネリー晴着",
+      "speaker": "ネリー",
       "text": "ご主人くーんっ！　あけおめっ、フゥーッ！",
-      "voice": "ch_10320/R18/10320A0_10320_Nml/10320A0_10320_001",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 14,
       "speaker": "主人公",
       "text": "ひゃぁぁああああ！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 15,
       "speaker": "",
       "text": "首筋に熱い吐息がかけられる。\n犯人は木の陰から飛び出してきたネリーさんだった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 16,
       "speaker": "主人公",
       "text": "いっ、いきなり何するんですか！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 19,
-      "speaker": "ネリー晴着",
+      "speaker": "ネリー",
       "text": "あはははっ！\n新年初びっくりだったねー！",
-      "voice": "ch_10320/R18/10320A0_10320_Nml/10320A0_10320_002",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 20,
-      "speaker": "ネリー晴着",
+      "speaker": "ネリー",
       "text": "では、改めて。\nあけましておめでとう、ご主人くん♪",
-      "voice": "ch_10320/R18/10320A0_10320_Nml/10320A0_10320_003",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 23,
       "speaker": "",
       "text": "ネリーさんが小さな身体を折って深々と頭を下げる。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 24,
-      "speaker": "ネリー晴着",
+      "speaker": "ネリー",
       "text": "今年もおねーさんが、\nいーっぱいイタズラしてあげるからよろしくね～♪",
-      "voice": "ch_10320/R18/10320A0_10320_Nml/10320A0_10320_004",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 25,
       "speaker": "主人公",
       "text": "いやいや、イタズラは止めて下さいよ――って、\nネリーさん、その恰好はどうしたんですか？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 26,
-      "speaker": "ネリー晴着",
+      "speaker": "ネリー",
       "text": "ふふん♪\n清らかで悪戯好きのアタシっ！\nめでたく巫女デビューしちゃったの♪",
-      "voice": "ch_10320/R18/10320A0_10320_Nml/10320A0_10320_005",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 27,
-      "speaker": "ネリー晴着",
+      "speaker": "ネリー",
       "text": "みんなに小さな祝福を届けるために、祝詞を捧げてるんだよ。",
-      "voice": "ch_10320/R18/10320A0_10320_Nml/10320A0_10320_006",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 32,
-      "speaker": "ネリー晴着",
+      "speaker": "ネリー",
       "text": "はらたま～きよたま～きんきんたまたま～♪\n世界のみんなに、美少年の白濁とした熱いシャワーを～♪",
-      "voice": "ch_10320/R18/10320A0_10320_Nml/10320A0_10320_007",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 34,
-      "speaker": "ネリー晴着",
+      "speaker": "ネリー",
       "text": "どう？　アタシ、かなり巫女ランク高めでしょー？\n神様も大喜びな祝詞だよね～♪",
-      "voice": "ch_10320/R18/10320A0_10320_Nml/10320A0_10320_008",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 35,
       "speaker": "主人公",
       "text": "巫女ランクってなんですか！\nそれに、そんなもの祝詞とは言えませんよ！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 36,
-      "speaker": "ネリー晴着",
+      "speaker": "ネリー",
       "text": "えー？　ご主人くん、なに言ってるのー？\nアタシの祝詞は島のみんな納得のクオリティだよー？",
-      "voice": "ch_10320/R18/10320A0_10320_Nml/10320A0_10320_009",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 38,
-      "speaker": "ネリー晴着",
+      "speaker": "ネリー",
       "text": "「心が洗われた」「たすかる」「ちょうど切らしてた」\nって言ってくれたんだから。",
-      "voice": "ch_10320/R18/10320A0_10320_Nml/10320A0_10320_010",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 39,
       "speaker": "主人公",
       "text": "島の皆さんは……まあ、そうかもしれませんけど。\n祝詞はもっとこう、\n神様に失礼にならないよう丁寧な言葉を使うものでは？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 40,
-      "speaker": "ネリー晴着",
+      "speaker": "ネリー",
       "text": "えっ、神様ってビビ神さま？\nそれともファロルーチェさまとか？\nどっちにしろ怒られなさそうだけど？",
-      "voice": "ch_10320/R18/10320A0_10320_Nml/10320A0_10320_011",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 41,
       "speaker": "主人公",
       "text": "うっ……そう言われると……。\nとにかく！　もう少しまともな祝詞にしましょう！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 43,
-      "speaker": "ネリー晴着",
+      "speaker": "ネリー",
       "text": "え～……まともな祝詞かぁ……うーん……。",
-      "voice": "ch_10320/R18/10320A0_10320_Nml/10320A0_10320_012",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 48,
-      "speaker": "ネリー晴着",
+      "speaker": "ネリー",
       "text": "しょたのこヘコヘコこしパンパン♪　とかはどう？",
-      "voice": "ch_10320/R18/10320A0_10320_Nml/10320A0_10320_013",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 49,
       "speaker": "主人公",
       "text": "全然ダメです！　もう原形すらなくなってるじゃないですか！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 53,
-      "speaker": "ネリー晴着",
+      "speaker": "ネリー",
       "text": "ええっ！？　これもダメなの！？\nなかなかの名作じゃない！？",
-      "voice": "ch_10320/R18/10320A0_10320_Nml/10320A0_10320_014",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 54,
-      "speaker": "ネリー晴着",
+      "speaker": "ネリー",
       "text": "えっと、それじゃあ――、\nはらたま～きよたま～たまたま～たまたま～♪\nご主人くんに～怒られるのも～悪くない～♪",
-      "voice": "ch_10320/R18/10320A0_10320_Nml/10320A0_10320_015",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 59,
-      "speaker": "ネリー晴着",
+      "speaker": "ネリー",
       "text": "これは！？　これはかなりイイでしょ！？",
-      "voice": "ch_10320/R18/10320A0_10320_Nml/10320A0_10320_016",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 61,
       "speaker": "主人公",
       "text": "どこがですか！　後半のはただの感想でしょ！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 63,
-      "speaker": "ネリー晴着",
+      "speaker": "ネリー",
       "text": "え～！　ご主人くん、厳しい～！\nところで、祝詞を聞いて身体が熱くなったりとかしてないの？",
-      "voice": "ch_10320/R18/10320A0_10320_Nml/10320A0_10320_017",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 64,
       "speaker": "主人公",
       "text": "しません。全然してません。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 65,
-      "speaker": "ネリー晴着",
+      "speaker": "ネリー",
       "text": "そんなぁ……。\n全部、ご主人くんの子孫繁栄を願って作った祝詞なのにぃ……。",
-      "voice": "ch_10320/R18/10320A0_10320_Nml/10320A0_10320_018",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 66,
       "speaker": "主人公",
       "text": "ぼっ、僕の子孫繁栄なんて願わなくていいですから！\nもうちょっとまともな祝詞をつくりましょう！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 67,
       "speaker": "",
       "text": "それからネリーさんと一緒に頑張って祝詞を作ったが、\nいくら時間をかけても、まともなものは出来ないのだった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     }
   ]
 }

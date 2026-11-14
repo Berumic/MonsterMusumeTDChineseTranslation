@@ -1,266 +1,191 @@
 {
-  "scenario_id": "10380a0_nml",
-  "asset_path": "assets/advscene/scenarioexcel/character/10380/10380a0_nml.book.asset",
-  "cache_bundle": "C:\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\c0c9e732e3c6b8cdf6c255fd271595d40b80552f666b7d63fc48610bff7eaff4\\c0c9e732e3c6b8cdf6c255fd271595d4\\__data",
+  "scenario": "scenario:character/10380/10380A0_Nml",
+  "title": "夜魔だけど",
   "rows": [
     {
-      "row": 7,
       "speaker": "",
       "text": "ゲシュペンス島のはずれのある森の中、",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 10,
       "speaker": "",
       "text": "日陰にたたずむ小さな洞窟。その前に、",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 20,
       "speaker": "",
       "text": "ニクスさんが静かに座っていた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 21,
       "speaker": "",
       "text": "彼女を探していた僕は、そっと声をかける。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 22,
       "speaker": "主人公",
       "text": "ニクスさん、ここにいたんですね。\n最近の生活で、困ったこととかありませんか？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 23,
       "speaker": "",
       "text": "ニクスさんは驚いたように",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 26,
       "speaker": "",
       "text": "こちらを見たあと、",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 28,
       "speaker": "",
       "text": "ふんわりと微笑んだ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 29,
       "speaker": "ニクス",
       "text": "あ……ご主人くん。困ったこと……特に思いつかないかな。",
-      "voice": "ch_10380/R18/10380A0_10380_Nml/10380A0_10380_001",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 30,
       "speaker": "ニクス",
       "text": "みんな優しくしてくれるし、勉強もがんばってるよ。\nクロミやタンタルが、いろんなこと教えてくれるから。",
-      "voice": "ch_10380/R18/10380A0_10380_Nml/10380A0_10380_002",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 31,
       "speaker": "主人公",
       "text": "なるほど……どんなことを教わってるんですか？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 32,
       "speaker": "ニクス",
       "text": "うーんと……そうだね……えーっと……。",
-      "voice": "ch_10380/R18/10380A0_10380_Nml/10380A0_10380_003",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 34,
       "speaker": "",
       "text": "ニクスさんは少し考えたあと、指を折りながら言った。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 35,
       "speaker": "ニクス",
       "text": "ゲシュペンス島のキレイな場所とか、\n食べるとおいしい、見てると面白い、\nショタ川柳？　を読む鳥の住処とか、それから――。",
-      "voice": "ch_10380/R18/10380A0_10380_Nml/10380A0_10380_004",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 36,
       "speaker": "ニクス",
       "text": "ご主人くんの<em=・>あれ</em>が、\n濃厚で美味しくなる時間帯の見極めとか……、\nあとは、美少年ボトルローションの作り方とか……。",
-      "voice": "ch_10380/R18/10380A0_10380_Nml/10380A0_10380_005",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 37,
       "speaker": "主人公",
       "text": "……ろくでもないですね、それ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 38,
       "speaker": "",
       "text": "出だしは好調だったのに、\nやはりあまりよくないことを教えられているようだ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 39,
       "speaker": "主人公",
       "text": "もっと別の……役に立つような大事なことを教えてって、\nクロミさんたちには伝えておきましょうか。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 40,
       "speaker": "ニクス",
       "text": "え？　クロミたちは大事なことだって言ってたよ？\nでも私、まだよくわかってなくて……。",
-      "voice": "ch_10380/R18/10380A0_10380_Nml/10380A0_10380_006",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 41,
       "speaker": "ニクス",
       "text": "ローションとお湯の割合いとか、\nちょっとえっちな混ぜ方、とか……難しいね。",
-      "voice": "ch_10380/R18/10380A0_10380_Nml/10380A0_10380_007",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 42,
       "speaker": "",
       "text": "ニクスさんは遠い目をしている。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 44,
       "speaker": "",
       "text": "ちょっと落ち込んでいるようだ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 45,
       "speaker": "主人公",
       "text": "い、いや、あんまり変なことばかり、\n覚えないでくださいね……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 47,
       "speaker": "ニクス",
       "text": "それで私、\nご主人くんに言わなきゃと思っていたことがあって……。",
-      "voice": "ch_10380/R18/10380A0_10380_Nml/10380A0_10380_008",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 48,
       "speaker": "主人公",
       "text": "なんですか？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 52,
       "speaker": "ニクス",
       "text": "ご主人くんがこうして私に会いに来てくれるのって……、\n私が夜魔……えっと、サキュバスだから、だよね？",
-      "voice": "ch_10380/R18/10380A0_10380_Nml/10380A0_10380_009",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 53,
       "speaker": "ニクス",
       "text": "私にえっちなことしてほしくて、\nこうやって気にしてくれてるんでしょ。",
-      "voice": "ch_10380/R18/10380A0_10380_Nml/10380A0_10380_010",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 55,
       "speaker": "主人公",
       "text": "<size=36>ええっ！？</size>　な、なにを急に――……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 56,
       "speaker": "",
       "text": "まったく考えもしなかったことを告げられ、\n僕はびっくりしてしまった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 57,
       "speaker": "ニクス",
       "text": "……悪いけど、好きな人がいるから、\nそういうことはできないの……ごめんね。",
-      "voice": "ch_10380/R18/10380A0_10380_Nml/10380A0_10380_011",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 59,
       "speaker": "主人公",
       "text": "……えっ？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 60,
       "speaker": "ニクス",
       "text": "私、その人が大好きだから……本当にごめんね……。",
-      "voice": "ch_10380/R18/10380A0_10380_Nml/10380A0_10380_012",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 63,
       "speaker": "",
       "text": "そう言いながら、",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 64,
       "speaker": "",
       "text": "ちょっと困ったような、\n残念なものを見る",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 68,
       "speaker": "",
       "text": "ような視線を向けつつ、\nニクスさんは森の奥へ消えていく。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 70,
       "speaker": "主人公",
       "text": "いや、だから、ちょっと待ってください！？\n僕はそんなつもりじゃ――！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 71,
       "speaker": "",
       "text": "告白してないのに、なんだかフラれた気がして、\n僕は思わず声を上げた。だがその声は、彼女に届くことはなく、\n森の奥に虚しく響き渡るだけだった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     }
   ]
 }

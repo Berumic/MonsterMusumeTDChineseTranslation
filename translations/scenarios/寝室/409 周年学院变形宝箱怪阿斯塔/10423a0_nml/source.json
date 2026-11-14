@@ -1,301 +1,216 @@
 {
-  "scenario_id": "10423a0_nml",
-  "asset_path": "assets/advscene/scenarioexcel/character/10423/10423a0_nml.book.asset",
-  "cache_bundle": "D:\\mms\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\5e4cd0eb2e1b35ada98f73d20d596e419c6b0739555fe439025cd4fe70160d64\\5e4cd0eb2e1b35ada98f73d20d596e41\\__data",
+  "scenario": "scenario:character/10423/10423A0_Nml",
+  "title": "宝箱の不適切教材",
   "rows": [
     {
-      "row": 7,
       "speaker": "",
       "text": "放課後の教室に入ると、\n前の方で宝箱ががたがた揺れていた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 20,
-      "speaker": "アスタ学園",
+      "speaker": "アスタ",
       "text": "せんせーっ！ 見て見て、今日は特別教材を用意したの！",
-      "voice": "ch_10423/R18/10423A0_10423_Nml/10423A0_10423_001",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 21,
       "speaker": "",
       "text": "勢いよくフタが跳ねて、\n中から棒状のものやぷるぷるした球体が\n床にぼとぼと転がった。どれも形が妙に生々しい。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 22,
       "speaker": "主人公",
       "text": "アスタさん、これは何ですか。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 24,
-      "speaker": "アスタ学園",
+      "speaker": "アスタ",
       "text": "色んな素材を触って学ぶって言ってたでしょ？\nだから私、触って楽しい形に変身してみたの！",
-      "voice": "ch_10423/R18/10423A0_10423_Nml/10423A0_10423_002",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 25,
       "speaker": "主人公",
       "text": "いや、これは教材とは呼びませんよ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 26,
-      "speaker": "アスタ学園",
+      "speaker": "アスタ",
       "text": "えー？ じゃあ先生の形をモデルにしたら普通になる？",
-      "voice": "ch_10423/R18/10423A0_10423_Nml/10423A0_10423_003",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 29,
       "speaker": "主人公",
       "text": "ちょ、ちょっと待ってください。<interval=0.4>\nどうしてそうなるんですか！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 33,
       "speaker": "",
       "text": "注意も聞かず、宝箱の内部がぐにゃりとうねり始める。\nやめて欲しい時ほどアスタさんは止まらない。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 38,
-      "speaker": "アスタ学園",
+      "speaker": "アスタ",
       "text": "せんせー棒百本セット～！",
-      "voice": "ch_10423/R18/10423A0_10423_Nml/10423A0_10423_004",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 39,
       "speaker": "",
       "text": "叫びとともに、教室いっぱいに\n“僕に似た形状の何か”がずらりと並んだ。\n机にも、椅子にも、黒板の前にも転がっている。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 42,
       "speaker": "主人公",
       "text": "アスタさん、<interval=0.4>即刻片付けなさい！！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 54,
-      "speaker": "アスタ学園",
+      "speaker": "アスタ",
       "text": "えー？ なんでよー。先生用に頑張ったのに。",
-      "voice": "ch_10423/R18/10423A0_10423_Nml/10423A0_10423_005",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 55,
       "speaker": "",
       "text": "頑張る方向を完全に間違えている。僕は頭を抱えつつ、\n散乱した物体をひたすら拾い集める。\n宝箱はころころ転がりながらついてくる。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 57,
-      "speaker": "アスタ学園",
+      "speaker": "アスタ",
       "text": "ねえ先生。これ、太さと",
-      "voice": "ch_10423/R18/10423A0_10423_Nml/10423A0_10423_006",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 59,
-      "speaker": "アスタ学園",
+      "speaker": "アスタ",
       "text": "か硬さとか、どれがしっくりきた？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 60,
       "speaker": "主人公",
       "text": "全部ダメですよ！<interval=0.4>　学園的にもアウトです！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 62,
-      "speaker": "アスタ学園",
+      "speaker": "アスタ",
       "text": "えー！　先生って繊細なんだからー。<interval=2>\nじゃ",
-      "voice": "ch_10423/R18/10423A0_10423_Nml/10423A0_10423_007",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 63,
-      "speaker": "アスタ学園",
+      "speaker": "アスタ",
       "text": "あ細めにするとか？　柔らかめ？　そ",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 64,
-      "speaker": "アスタ学園",
+      "speaker": "アスタ",
       "text": "れとも――。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 67,
       "speaker": "主人公",
       "text": "調整しなくていいです！　<interval=0.4>\n調整の概念を放棄してください！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 70,
       "speaker": "",
       "text": "アスタさんは不満そうにフタを鳴らしつつ、\n僕の足元に寄り添った。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 74,
       "speaker": "主人公",
       "text": "怖いのでやめてください。<interval=0.4>\nなんで僕の好みを把握してるんですか。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 76,
-      "speaker": "アスタ学園",
+      "speaker": "アスタ",
       "text": "だって先生、寒いとすぐ手をこすり合わせるじゃない。\nだから私が“握っただけでぽかぽかする棒”を――。",
-      "voice": "ch_10423/R18/10423A0_10423_Nml/10423A0_10423_009",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 77,
       "speaker": "主人公",
       "text": "作らなくていいです！<interval=0.4>　理事長室に呼ばれます！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 80,
       "speaker": "",
       "text": "アスタさんは宝箱のままごろりと転がり\n机の脚にコンと当たった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 83,
-      "speaker": "アスタ学園",
+      "speaker": "アスタ",
       "text": "ほんとに先生って難しいのね。\n先生の“普通”って、どれが正解なの？",
-      "voice": "ch_10423/R18/10423A0_10423_Nml/10423A0_10423_010",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 84,
       "speaker": "主人公",
       "text": "当たり前の教材です。<interval=0.4>\n三角形とか四角形とか、そういう無難なものです！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 85,
-      "speaker": "アスタ学園",
+      "speaker": "アスタ",
       "text": "へぇ……じゃあ次は、\n“無難な四角い先生専用おまんじゅう型”に変身して――。",
-      "voice": "ch_10423/R18/10423A0_10423_Nml/10423A0_10423_011",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 86,
       "speaker": "主人公",
       "text": "それも違います！！　<interval=0.4>\nなんで何でも僕に結びつけるんですか！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 90,
       "speaker": "",
       "text": "アスタさんはくるんと回転し、\nフタをぱたぱた揺らしながら笑っているようだった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 91,
-      "speaker": "アスタ学園",
+      "speaker": "アスタ",
       "text": "だって先生、反応が面白いんだもん。\n赤くなったり、怒ったり、必死に隠したりしてさ。\nもっと色んな反応見せてよ。私、教材作りの研究に使うから！",
-      "voice": "ch_10423/R18/10423A0_10423_Nml/10423A0_10423_012",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 92,
       "speaker": "主人公",
       "text": "研究しないでください。<interval=0.4>\nせめて先生の尊厳を守らせてくださいよ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 94,
       "speaker": "",
       "text": "拾い集めた“不適切教材”をまとめて袋に詰める。\nようやく床が見えるようになってきた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 95,
       "speaker": "",
       "text": "アスタさんはそっと近寄り、宝箱のフタを小さく開けた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 98,
-      "speaker": "アスタ学園",
+      "speaker": "アスタ",
       "text": "でも先生。私、ほんとはもっと\n“先生の役に立つ教材”を作りたいのよ？\n今日のは……えっと……ちょっと暴走しちゃっただけで。",
-      "voice": "ch_10423/R18/10423A0_10423_Nml/10423A0_10423_013",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 99,
       "speaker": "主人公",
       "text": "暴走の範囲が広すぎるんですよ……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 100,
-      "speaker": "アスタ学園",
+      "speaker": "アスタ",
       "text": "うーん。じゃあ次は、\nちゃんと先生の希望も聞くから！\n先生、どんな形が好き？",
-      "voice": "ch_10423/R18/10423A0_10423_Nml/10423A0_10423_014",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 101,
       "speaker": "主人公",
       "text": "何度言わせるんですか。<interval=0.4>普通の形です。普通の……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 120,
       "speaker": "",
       "text": "アスタさんはしばらく考え、そして。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 121,
-      "speaker": "アスタ学園",
+      "speaker": "アスタ",
       "text": "……先生の普通って、本気で難しいのね。",
-      "voice": "ch_10423/R18/10423A0_10423_Nml/10423A0_10423_015",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 122,
       "speaker": "",
       "text": "夕日が差し込む教室で、散らかった床と、\n悩ましい宝箱と、頭を抱える僕だけが残されていた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     }
   ]
 }

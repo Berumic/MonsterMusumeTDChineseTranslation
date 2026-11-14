@@ -1,336 +1,241 @@
 {
-  "scenario_id": "10244b0_nml",
-  "asset_path": "assets/advscene/scenarioexcel/character/10244/10244b0_nml.book.asset",
-  "cache_bundle": "C:\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\aa0a610eeb70019f0d48029413278068251cea95a845d03a5f78e13fc441ade3\\aa0a610eeb70019f0d48029413278068\\__data",
+  "scenario": "scenario:character/10244/10244B0_Nml",
+  "title": "好奇心のおもむくままに",
   "rows": [
     {
-      "row": 22,
       "speaker": "",
       "text": "僕はプロメスティンを探していた。\nというのも研究のために魔導巡洋艦を分解している\n彼女をどうにかしてくれと頼まれてしまったからだ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 29,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "えーっと、どこにいるんだろう……",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 30,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "あ、いた！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 33,
-      "speaker": "プロメスティンもんくえ",
+      "speaker": "プロメスティン",
       "text": "ありがとうございます。大変参考になりました。\nラプルムさん、またお話を聞かせて下さいね。",
-      "voice": "ch_10244/R18/10244B0_10244_Nml/10244B0_10244_001",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 37,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "あれ、ラプルムさんと一緒だったんだ。\nおーい、プロメスティン。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 38,
-      "speaker": "プロメスティンもんくえ",
+      "speaker": "プロメスティン",
       "text": "はい、何か？",
-      "voice": "ch_10244/R18/10244B0_10244_Nml/10244B0_10244_002",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 39,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "何かじゃないよ。探してたんだ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 40,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "ご主人くんたちが\nこれ以上魔導巡洋艦を分解するのはやめてって\n言ってたからやめてくれないかなって――。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 41,
-      "speaker": "プロメスティンもんくえ",
+      "speaker": "プロメスティン",
       "text": "それは無理ですね。",
-      "voice": "ch_10244/R18/10244B0_10244_Nml/10244B0_10244_003",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 42,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "即答！？　ちょっとは考えてよ！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 43,
-      "speaker": "プロメスティンもんくえ",
+      "speaker": "プロメスティン",
       "text": "考えても結論は一緒です。\nまだこの魔導巡洋艦の仕組みについて\n分析できていませんので。",
-      "voice": "ch_10244/R18/10244B0_10244_Nml/10244B0_10244_004",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 44,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "……はあ、まあ聞いてくれるとは思わなかったけどさ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 45,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "ならせめて壊れないようにしてよ。\nご主人くんたち、本当に困ってるみたいだし。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 46,
-      "speaker": "プロメスティンもんくえ",
+      "speaker": "プロメスティン",
       "text": "もちろんです。\nこんな素晴らしいものを壊したりはいたしません。\n調べて調べて調べつくさないといけませんから！",
-      "voice": "ch_10244/R18/10244B0_10244_Nml/10244B0_10244_005",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 47,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "そ、そう。ほどほどにしてね。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 59,
       "speaker": "",
       "text": "プロメスティンらしい返答に僕は思わずため息をつく。\n研究者ってみんなこうなんだろうか……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 60,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "あ、そういえばさっき同じ研究者の\nラプルムさんと一緒にいたよね。仲いいの？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 61,
-      "speaker": "プロメスティンもんくえ",
+      "speaker": "プロメスティン",
       "text": "そうですね。彼女の道の物への探求心は\n尊敬できますし、好感を持っています。",
-      "voice": "ch_10244/R18/10244B0_10244_Nml/10244B0_10244_006",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 62,
-      "speaker": "プロメスティンもんくえ",
+      "speaker": "プロメスティン",
       "text": "それになりより彼女の体の仕組みにも興味がありますから。",
-      "voice": "ch_10244/R18/10244B0_10244_Nml/10244B0_10244_007",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 63,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "え……？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 64,
-      "speaker": "プロメスティンもんくえ",
+      "speaker": "プロメスティン",
       "text": "フラスコの中に住んでいるのはどうしてなのか。\n割って解剖していいかと交渉したら泣かれてしまいました。",
-      "voice": "ch_10244/R18/10244B0_10244_Nml/10244B0_10244_008",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 65,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "割ったらダメだよ！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 66,
-      "speaker": "プロメスティンもんくえ",
+      "speaker": "プロメスティン",
       "text": "わかってます。割ったら交渉できませんから、\n今回は優先すべき目的を重視いたしました。",
-      "voice": "ch_10244/R18/10244B0_10244_Nml/10244B0_10244_009",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 67,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "今回だけってのが心配だけど……、\n優先すべきことってなに？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 68,
-      "speaker": "プロメスティンもんくえ",
+      "speaker": "プロメスティン",
       "text": "ああ、ちょうど研究でほしい道具があったので\n彼女に交換してもらいたかったんです。",
-      "voice": "ch_10244/R18/10244B0_10244_Nml/10244B0_10244_010",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 69,
-      "speaker": "プロメスティンもんくえ",
+      "speaker": "プロメスティン",
       "text": "私はこの前の自分が遺伝子改造した植物を譲りましたよ。",
-      "voice": "ch_10244/R18/10244B0_10244_Nml/10244B0_10244_011",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 70,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "げ、それってまさか……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 71,
-      "speaker": "プロメスティンもんくえ",
+      "speaker": "プロメスティン",
       "text": "ええ、この間、あなたの体液を搾り取った植物です。",
-      "voice": "ch_10244/R18/10244B0_10244_Nml/10244B0_10244_012",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 72,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "思い出させないでよ……",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 73,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "というかあれが交換できるんだ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 74,
-      "speaker": "プロメスティンもんくえ",
+      "speaker": "プロメスティン",
       "text": "彼女は興味津々でしたよ。",
-      "voice": "ch_10244/R18/10244B0_10244_Nml/10244B0_10244_013",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 75,
-      "speaker": "プロメスティンもんくえ",
+      "speaker": "プロメスティン",
       "text": "そして代わりに少年の新鮮な精液を絞り出す\n自動強制ディルドと交換いたしました。",
-      "voice": "ch_10244/R18/10244B0_10244_Nml/10244B0_10244_014",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 76,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "なにそれ！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 77,
-      "speaker": "プロメスティンもんくえ",
+      "speaker": "プロメスティン",
       "text": "名前の通りです。\n少年の後ろの穴を刺激し、快感を引き出す性道具ですよ。",
-      "voice": "ch_10244/R18/10244B0_10244_Nml/10244B0_10244_015",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 78,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "そのまま！？　言葉通りじゃないほうがよかったよ！？\nなんでラプルムさんそれ持ってるの！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 79,
-      "speaker": "プロメスティンもんくえ",
+      "speaker": "プロメスティン",
       "text": "体液と血が彼女の栄養になるらしいので\nこれをご主人に使っているらしいです。",
-      "voice": "ch_10244/R18/10244B0_10244_Nml/10244B0_10244_016",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 80,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "ご主人くんも苦労しているんだね。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 82,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "……あれ、それがどうしても欲しいってもしかして……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 88,
       "speaker": "",
       "text": "なんだかとても嫌な予感がして\n僕はじりじりと後ろに後退していく。\nが、それを読んでいたのかプロメスティンは僕の手を掴んでいた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 89,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "ちょ、ちょっと放して――。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 90,
-      "speaker": "プロメスティンもんくえ",
+      "speaker": "プロメスティン",
       "text": "ダメです。この島には体液に反応する植物、動物、\nモンスター娘がたくさん生息しているので\n精液が大量に必要になるんですから。",
-      "voice": "ch_10244/R18/10244B0_10244_Nml/10244B0_10244_017",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 92,
-      "speaker": "プロメスティンもんくえ",
+      "speaker": "プロメスティン",
       "text": "というわけでこれの性能を早速試させてください。",
-      "voice": "ch_10244/R18/10244B0_10244_Nml/10244B0_10244_018",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 93,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "やっぱりこの展開！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 97,
       "speaker": "",
       "text": "プロメスティンが拘束してきて、\n必死にもがくも、まったく脱出できない。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 98,
-      "speaker": "プロメスティンもんくえ",
+      "speaker": "プロメスティン",
       "text": "抵抗しても無駄ですよ。\nさあ、実験をしましょう。",
-      "voice": "ch_10244/R18/10244B0_10244_Nml/10244B0_10244_019",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 99,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "ひぃぃ、一体何をする気なの！？\nややややめてってば……うわああああああっ……！！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 108,
       "speaker": "",
       "text": "僕の悲鳴はむなしく響く。\nこうして僕はプロメスティンによって\n魔導巡洋艦の実験室に連れていかれるのだった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     }
   ]
 }

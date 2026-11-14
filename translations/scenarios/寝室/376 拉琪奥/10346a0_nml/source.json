@@ -1,287 +1,206 @@
 {
-  "scenario_id": "10346a0_nml",
-  "asset_path": "assets/advscene/scenarioexcel/character/10346/10346a0_nml.book.asset",
-  "cache_bundle": "C:\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\1c5822e3b6bac96919fda772ab7840cd2d4b78dcc4a99edc10292e868178904e\\1c5822e3b6bac96919fda772ab7840cd\\__data",
+  "scenario": "scenario:character/10346/10346A0_Nml",
+  "title": "修行の成果！",
   "rows": [
     {
-      "row": 5,
       "speaker": "",
       "text": "その日の朝、\n僕はドアをどんどん叩く音で目を覚ました。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 23,
       "speaker": "主人公",
       "text": "ん、うぅ……？\nどなたですかぁ……？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 26,
       "speaker": "",
       "text": "バアァアアアアアンッ！！（ドアが壊れる音）",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 29,
       "speaker": "主人公",
       "text": "わっ！？\nど、ドアが粉々にっ！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 40,
-      "speaker": "ラキオンブリアレオース",
+      "speaker": "ラキオン",
       "text": "おはよー、ご主人！\n今日もいい天気だなー！",
-      "voice": "ch_10346/R18/10346A0_10346_Nml/10346A0_10346_001",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 42,
       "speaker": "主人公",
       "text": "へ……ラキオンさん？\nラキオンさんが遺跡から出てくるなんて珍しいですね。\nそれにその恰好……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 43,
-      "speaker": "ラキオンブリアレオース",
+      "speaker": "ラキオン",
       "text": "ふっふっふっ！　さすがはご主人！\nアタシの変化にばっちり気が付くとは……<interval=5.8>合",
-      "voice": "ch_10346/R18/10346A0_10346_Nml/10346A0_10346_002",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 45,
-      "speaker": "ラキオンブリアレオース",
+      "speaker": "ラキオン",
       "text": "格だ！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 60,
-      "speaker": "ラキオンブリアレオース",
+      "speaker": "ラキオン",
       "text": "見ろっ！　このカッコいい姿を！\nアタシは厳しい修行を乗り越え、ヘカトンケイル娘から、\nブリアレオース娘へと進化したんだ！！",
-      "voice": "ch_10346/R18/10346A0_10346_Nml/10346A0_10346_003",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 61,
       "speaker": "主人公",
       "text": "厳しい修行……！？\nでも、ラキオンさん、元々めちゃくちゃ強いのに……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 63,
-      "speaker": "ラキオンブリアレオース",
+      "speaker": "ラキオン",
       "text": "えへへ、そんな真っすぐ褒められると照れるぞ、ご主人。\n<interval=3>確",
-      "voice": "ch_10346/R18/10346A0_10346_Nml/10346A0_10346_004",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 65,
-      "speaker": "ラキオンブリアレオース",
+      "speaker": "ラキオン",
       "text": "かにアタシはめちゃ強最強モンスター娘だ！\nこれ以上強くなる必要は無いかもしれない……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 75,
-      "speaker": "ラキオンブリアレオース",
+      "speaker": "ラキオン",
       "text": "しかし、少々浮き沈みが激しいというか……、\nもっと落ち着きのある、何事にも動じない、\n大人っぽくカッコいい精神を手にいれたかったんだ！",
-      "voice": "ch_10346/R18/10346A0_10346_Nml/10346A0_10346_005",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 76,
-      "speaker": "ラキオンブリアレオース",
+      "speaker": "ラキオン",
       "text": "だからアタシは……精神を鍛えるため、\n激しい滝に打たれることにしたんだ！！",
-      "voice": "ch_10346/R18/10346A0_10346_Nml/10346A0_10346_006",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 79,
       "speaker": "主人公",
       "text": "まさかの滝行！？\n確かに精神修行には定番かもしれませんけど……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 81,
-      "speaker": "ラキオンブリアレオース",
+      "speaker": "ラキオン",
       "text": "噂通り中々大変だった……水は目に染みるし、\n眠たくなっても滝がうるさくて寝れないし……。",
-      "voice": "ch_10346/R18/10346A0_10346_Nml/10346A0_10346_007",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 83,
       "speaker": "主人公",
       "text": "滝行で大変な要素ってそれなんですかね……？\n随分余裕があるような……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 85,
-      "speaker": "ラキオンブリアレオース",
+      "speaker": "ラキオン",
       "text": "けれどアタシは耐えた……耐えきった！\nそして手に入れたんだ！　大人な精神を！",
-      "voice": "ch_10346/R18/10346A0_10346_Nml/10346A0_10346_008",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 88,
       "speaker": "主人公",
       "text": "そ、そうなんですね……？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 89,
       "speaker": "主人公",
       "text": "（そのわりに、自慢したくてしょうがないって感じ、\nあまり大人っぽくなったって気はしないけど……？）",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 91,
-      "speaker": "ラキオンブリアレオース",
+      "speaker": "ラキオン",
       "text": "すごいんだぞ、これ！\nほら、腕なんて前より大きくなったんだ！\n水だって掴んで投げれちゃうんだから！",
-      "voice": "ch_10346/R18/10346A0_10346_Nml/10346A0_10346_009",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 92,
       "speaker": "主人公",
       "text": "それはすごいですけど……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 94,
-      "speaker": "ラキオンブリアレオース",
+      "speaker": "ラキオン",
       "text": "ふっふっふっ……ご主人の懸念は分かるよ。\n大きくなって、取り回しはどうなのってことだろ！？",
-      "voice": "ch_10346/R18/10346A0_10346_Nml/10346A0_10346_010",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 95,
       "speaker": "主人公",
       "text": "あ、いや、そうじゃなくて……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 98,
-      "speaker": "ラキオンブリアレオース",
+      "speaker": "ラキオン",
       "text": "ほらほら！　見てよこの動き！",
-      "voice": "ch_10346/R18/10346A0_10346_Nml/10346A0_10346_011",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 100,
       "speaker": "",
       "text": "ラキオンさんは大きな手を操り、\n僕の部屋の中を縦横無尽に飛ばす。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 101,
-      "speaker": "ラキオンブリアレオース",
+      "speaker": "ラキオン",
       "text": "前より自由自在だろ？\nより強靭に、より正確に……こんなことだってできるんだから！",
-      "voice": "ch_10346/R18/10346A0_10346_Nml/10346A0_10346_012",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 102,
       "speaker": "",
       "text": "ラキオンさんはそう言うと、さらに腕を操り――。\nな",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 105,
       "speaker": "",
       "text": "ぜか僕を拘束してきた！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 108,
       "speaker": "主人公",
       "text": "わっ！？　ら、ラキオンさん！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 111,
-      "speaker": "ラキオンブリアレオース",
+      "speaker": "ラキオン",
       "text": "ほーら、か弱いご主人なんて、\nあっという間に捕まえられちゃうぞ？",
-      "voice": "ch_10346/R18/10346A0_10346_Nml/10346A0_10346_013",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 113,
       "speaker": "主人公",
       "text": "は、離してください……！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 115,
-      "speaker": "ラキオンブリアレオース",
+      "speaker": "ラキオン",
       "text": "えー？　どうしようかなー。\n…………<interval=4>あ",
-      "voice": "ch_10346/R18/10346A0_10346_Nml/10346A0_10346_014",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 116,
-      "speaker": "ラキオンブリアレオース",
+      "speaker": "ラキオン",
       "text": "れ？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 118,
-      "speaker": "ラキオンブリアレオース",
+      "speaker": "ラキオン",
       "text": "ちょっとご主人、そんな無防備な顔しちゃって、\nもしかして、誘ってる……？",
-      "voice": "ch_10346/R18/10346A0_10346_Nml/10346A0_10346_015",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 121,
       "speaker": "主人公",
       "text": "へ！？　誘ってないですけど！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 124,
-      "speaker": "ラキオンブリアレオース",
+      "speaker": "ラキオン",
       "text": "いやいや、これは誘ってるって。\nでも……そっか。そうだよねぇ。\nアタシ、パワーアップして、魅力も上がっちゃってるし？",
-      "voice": "ch_10346/R18/10346A0_10346_Nml/10346A0_10346_016",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 127,
-      "speaker": "ラキオンブリアレオース",
+      "speaker": "ラキオン",
       "text": "期待しちゃってるんだ……んふふ、いいよ？\nそういうパワーアップ、味わわせてあげても。",
-      "voice": "ch_10346/R18/10346A0_10346_Nml/10346A0_10346_017",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 130,
       "speaker": "主人公",
       "text": "い、いや、ちょっと、それは……！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 132,
       "speaker": "",
       "text": "ラキオンさんは目を妖しく光らせながら、にじり寄ってきて――。\n僕は身をもって、パワーアップの成果をわからされるのだった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     }
   ]
 }

@@ -1,91 +1,66 @@
 {
-  "scenario_id": "1107021nml",
-  "asset_path": "Assets/AdvScene/ScenarioExcel/main/1107/1107021Nml.xlsx",
-  "cache_bundle": "C:\\Users\\77147\\Documents\\Codex\\2026-08-21\\bang\\outputs\\MonsterMusumeTDMod\\解包资源\\ab\\７章_02話前半_1107021Nml.ab",
+  "scenario": "scenario:main/1107/1107021Nml",
+  "title": "７章_02話前半",
   "rows": [
     {
-      "row": 7,
       "speaker": "帝国士官Ａ",
       "text": "止まりなさい！　逃げても無駄ですよ。",
-      "voice": "en_49023/Main/1107/1107_49023_033",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 10,
       "speaker": "セレン",
       "text": "くそっ、囲まれちまった……。",
-      "voice": "ch_10023/Main/1107/1107_10023_034",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 13,
       "speaker": "帝国士官Ａ",
       "text": "貴様らが伝令兵が言っていた\"ハチャメチャに怪しい\"一行ですね。",
-      "voice": "en_49023/Main/1107/1107_49023_035",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 17,
       "speaker": "クロミ",
       "text": "えぇ？　怪しくなんてありませんよぉ。\nただ道をお尋ねしたいだけで……。",
-      "voice": "ch_10021/Main/1107/1107_10021_036",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 18,
       "speaker": "セレン",
       "text": "いいからお前は黙ってような。",
-      "voice": "ch_10023/Main/1107/1107_10023_037",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 21,
       "speaker": "帝国士官Ａ",
       "text": "この近辺では見かけないモンスター娘たちのようです。\nやはりラシオン王国のスパイである可能性も捨てきれません……。\n大人しく投降しなさい。そうすれば――。",
-      "voice": "en_49023/Main/1107/1107_49023_038",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 26,
       "speaker": "クロミ",
       "text": "登校？　私たち、もうとっくの昔に学校は卒業しましたよ？\nねぇ、スズちゃん。",
-      "voice": "ch_10021/Main/1107/1107_10021_039",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 28,
       "speaker": "スズ",
       "text": "もうクロミは黙ってて！",
-      "voice": "ch_10022/Main/1107/1107_10022_040",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 51,
       "speaker": "クロミ",
       "text": "んもー、何なんですか。\nさっきからセレンちゃんもスズちゃんも酷いです。\n傷ついちゃいました。ご主人くん、慰めてくださ～い。",
-      "voice": "ch_10021/Main/1107/1107_10021_041",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 66,
       "speaker": "帝国士官Ａ",
       "text": "ええいっ、人の話を聞きなさい！\nもういいです。\n交渉の余地はありません、こうなったら武力行使です！",
-      "voice": "en_49023/Main/1107/1107_49023_042",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 69,
       "speaker": "スズ",
       "text": "ほらー……やっぱりこうなった！",
-      "voice": "ch_10022/Main/1107/1107_10022_043",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 70,
       "speaker": "主人公",
       "text": "嘆いても仕方ありません。\nとにかく迎え撃ちましょう！",
-      "voice": "",
-      "command": ""
+      "choice": false
     }
   ]
 }

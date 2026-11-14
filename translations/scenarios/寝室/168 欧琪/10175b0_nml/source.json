@@ -1,287 +1,206 @@
 {
-  "scenario_id": "10175b0_nml",
-  "asset_path": "assets/advscene/scenarioexcel/character/10175/10175b0_nml.book.asset",
-  "cache_bundle": "C:\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\63a88f2a066aafce6c70509eb3bbc85e96ff4b38c0cf381dcc4949063ec00ce2\\63a88f2a066aafce6c70509eb3bbc85e\\__data",
+  "scenario": "scenario:character/10175/10175B0_Nml",
+  "title": "新たな海のレジャー",
   "rows": [
     {
-      "row": 7,
       "speaker": "",
       "text": "その日、僕は改めてオキューさんを連れて海へ遊びに来ていた。\n今度こそ、レジャーを楽しもうと意気込んでいたのだが……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 8,
-      "speaker": "オキュー水着",
+      "speaker": "オキュー",
       "text": "ご主人っ、ウチ、海での新しい商売を思いついたんや！\nぜひ、実験だ――じゃない、お客さん第１号になってや！",
-      "voice": "ch_10175/R18/10175B0_10175_Nml/10175B0_10175_001",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 9,
       "speaker": "主人公",
       "text": "……今、「実験台」って言いかけませんでした？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 33,
-      "speaker": "オキュー水着",
+      "speaker": "オキュー",
       "text": "そっ、そんなことないで！\n大事なご主人を実験台やなんて、\nウチがそんなことするはずないやん！",
-      "voice": "ch_10175/R18/10175B0_10175_Nml/10175B0_10175_002",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 34,
       "speaker": "主人公",
       "text": "大事な……？\n水鉄砲で僕をびしょ濡れにしませんでした……？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 35,
       "speaker": "",
       "text": "しかもその水鉄砲はベルティオさんたちの工房で作られた、\n僕の身体の１点だけを集中攻撃するとんでもないものだった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 36,
-      "speaker": "オキュー水着",
+      "speaker": "オキュー",
       "text": "それはアレやん、夏のビーチでのお遊びやん！\nそんな細かいこと気にしたらあかんで！",
-      "voice": "ch_10175/R18/10175B0_10175_Nml/10175B0_10175_003",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 39,
-      "speaker": "オキュー水着",
+      "speaker": "オキュー",
       "text": "ともかく、ウチの考えた新しい商売「触手ブレード」を\nご主人に体験してほしいんや！　なぁ～、ええやろぉ～？",
-      "voice": "ch_10175/R18/10175B0_10175_Nml/10175B0_10175_004",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 40,
       "speaker": "",
       "text": "オキューさんの触手が、甘えるように腕に絡みついてくる。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 41,
       "speaker": "主人公",
       "text": "わ、分かりましたよ……。\nそれで、その「触手ブレード」ってどんな商売なんですか？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 42,
-      "speaker": "オキュー水着",
+      "speaker": "オキュー",
       "text": "よく聞いてくれた！\nそれはな……まずご主人、ウチの触手の上に乗ってや！",
-      "voice": "ch_10175/R18/10175B0_10175_Nml/10175B0_10175_005",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 43,
       "speaker": "主人公",
       "text": "は、はい……――こうですか？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 46,
       "speaker": "",
       "text": "僕はオキューさんの触手に跨った。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 47,
-      "speaker": "オキュー水着",
+      "speaker": "オキュー",
       "text": "ご主人の足が離れないように吸盤にくっつけて――ん！\nこれで準備完了や！　それではいくで～！！　うりゃぁぁぁ～！！",
-      "voice": "ch_10175/R18/10175B0_10175_Nml/10175B0_10175_006",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 52,
       "speaker": "主人公",
       "text": "――ふぉっ！？　おっ、おおおっ！？！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 55,
       "speaker": "",
       "text": "オキューさんの気合の声と共に、僕は空を飛んだ。\nもの凄い勢いで触手が上へ伸びている。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 56,
-      "speaker": "オキュー水着",
+      "speaker": "オキュー",
       "text": "そーれ、触手宙返り～！　サービスでたくさん回したるで～！\nうりゃうりゃうりゃ～！　まだまだいくでぇ～！",
-      "voice": "ch_10175/R18/10175B0_10175_Nml/10175B0_10175_007",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 57,
       "speaker": "主人公",
       "text": "ひぇっ……！　ぴぃぃぃっ！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 58,
       "speaker": "",
       "text": "ぐるぐるぐるぐると何度も宙返り。\n海面すれすれを高速で飛び、揺さぶられる。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 59,
       "speaker": "主人公",
       "text": "おっ、おおおおきゅーさんっ！\nおろしてっ、下ろしてくださいっ！！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 60,
-      "speaker": "オキュー水着",
+      "speaker": "オキュー",
       "text": "うん？　なんや、もう満足したんか？\nしゃあないなぁ……そーれっと。",
-      "voice": "ch_10175/R18/10175B0_10175_Nml/10175B0_10175_008",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 71,
       "speaker": "主人公",
       "text": "はぁ、はぁ……やっと終わりました……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 72,
       "speaker": "",
       "text": "僕は緊張と恐怖で腰が抜けてまっていた。\nへなへなと地面に倒れてしまう。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 73,
-      "speaker": "オキュー水着",
+      "speaker": "オキュー",
       "text": "どうやったご主人？　ウチの「触手ブレード」は。\nエキサイティングやったやろ？",
-      "voice": "ch_10175/R18/10175B0_10175_Nml/10175B0_10175_009",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 74,
       "speaker": "主人公",
       "text": "はぁ、ふぅ、はぁ……。\n速すぎて、怖いしか感想がなかったです……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 88,
-      "speaker": "オキュー水着",
+      "speaker": "オキュー",
       "text": "な……なんやてっ！？\nウチの予想では、ご主人はこれで触手の虜になるはずやったのに！\n「お姉ちゃんもう１回！」ってねだられる気マンマンやったのに！",
-      "voice": "ch_10175/R18/10175B0_10175_Nml/10175B0_10175_010",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 89,
       "speaker": "主人公",
       "text": "どんな予想ですか！\n触手に振り回されてただけでしたよ！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 91,
-      "speaker": "オキュー水着",
+      "speaker": "オキュー",
       "text": "うむむ……ご主人がそこまで気に入らんとは……。\nこの商売はあかんっちゅーことか……。",
-      "voice": "ch_10175/R18/10175B0_10175_Nml/10175B0_10175_011",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 92,
-      "speaker": "オキュー水着",
+      "speaker": "オキュー",
       "text": "はぁ……ウチ、もしかして商才ないんか……？\nこれはイケる！　って思ったんやけどな……。",
-      "voice": "ch_10175/R18/10175B0_10175_Nml/10175B0_10175_012",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 93,
       "speaker": "",
       "text": "オキューさんは、がっくりと肩を落としていた。\n「触手ブレード」は失敗だったとはいえ、\nその様子が気の毒に思えてくる。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 94,
       "speaker": "主人公",
       "text": "え、えーっと……\n触手の力加減を調整できるようになれば、\n商売として成立すると思いますよ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 95,
-      "speaker": "オキュー水着",
+      "speaker": "オキュー",
       "text": "調整……しかしなぁ、ご主人。\nウチ的には、かなーり力を抑えとったんやで？",
-      "voice": "ch_10175/R18/10175B0_10175_Nml/10175B0_10175_013",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 96,
       "speaker": "主人公",
       "text": "それなら、誰かに体験してもらいながら力加減を……――あ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 100,
       "speaker": "",
       "text": "そこまで言ってから、僕は気づいた。\nオキューさんがニヤリと笑っている。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 102,
-      "speaker": "オキュー水着",
+      "speaker": "オキュー",
       "text": "にしし、さすがご主人や！\nつまり、ご主人が実験台として頑張ってくれるってことやな！",
-      "voice": "ch_10175/R18/10175B0_10175_Nml/10175B0_10175_014",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 103,
       "speaker": "主人公",
       "text": "くっ……僕を騙しましたね！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 104,
-      "speaker": "オキュー水着",
+      "speaker": "オキュー",
       "text": "騙したなんて、そんなことウチはしとらんよぉ～？\n優しいご主人が落ち込むウチに力を貸してくれただけや！",
-      "voice": "ch_10175/R18/10175B0_10175_Nml/10175B0_10175_015",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 105,
-      "speaker": "オキュー水着",
+      "speaker": "オキュー",
       "text": "それじゃあ、実験開始や！\n今日中に調整を済ませるでぇ～！　うりゃぁぁ～！",
-      "voice": "ch_10175/R18/10175B0_10175_Nml/10175B0_10175_016",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 107,
       "speaker": "主人公",
       "text": "ちょっ――うわっ！？　わぁぁぁっ！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 109,
       "speaker": "",
       "text": "逃げる間もなく触手に絡めとられ、再び空へと持ち上げられる。\n海へ遊びに来たはずが、\nこの日も僕はオキューさんの商売に付き合わされるのだった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     }
   ]
 }

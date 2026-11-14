@@ -1,231 +1,166 @@
 {
-  "scenario_id": "66050a0_nml",
-  "asset_path": "assets/advscene/scenarioexcel/character/66050/66050a0_nml.book.asset",
-  "cache_bundle": "C:\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\a25ebdd26c56d7a020802a24f7b241899f654168fadd191185b694f5de6d373e\\a25ebdd26c56d7a020802a24f7b24189\\__data",
+  "scenario": "scenario:character/66050/66050A0_Nml",
+  "title": "神からの贈り物",
   "rows": [
     {
-      "row": 3,
       "speaker": "",
       "text": "良く晴れたその日。\n僕はカヅネさんと約束した場所へ向かっていた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 4,
       "speaker": "主人公",
       "text": "カヅネさんの見せたいものって……何なんだろう？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 5,
       "speaker": "",
       "text": "ビーチは静かで、不思議と誰も居なかった。\nなんだかドキドキしつつ、約束の場所に辿り着くと――。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 7,
-      "speaker": "カヅネ水着",
+      "speaker": "カヅネ",
       "text": "ご主人様……お待ちしておりました。",
-      "voice": "ch_66050/R18/66050A0_66050_Nml/66050A0_66050_001",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 8,
       "speaker": "主人公",
       "text": "あ、カヅネさん――",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 10,
       "speaker": "主人公",
       "text": "って、その姿は……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 14,
       "speaker": "",
       "text": "なんとカヅネさんは水着姿だった。\nいつもの厳かなものと違い、華やいだ雰囲気をまとっている。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 16,
-      "speaker": "カヅネ水着",
+      "speaker": "カヅネ",
       "text": "い、いかがでしょうか……ご主人様……。\nヘン……だったりしないでしょうか……？",
-      "voice": "ch_66050/R18/66050A0_66050_Nml/66050A0_66050_002",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 18,
       "speaker": "主人公",
       "text": "変だなんてそんな……素敵ですよ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 22,
-      "speaker": "カヅネ水着",
+      "speaker": "カヅネ",
       "text": "あ、ありがとうございます……。",
-      "voice": "ch_66050/R18/66050A0_66050_Nml/66050A0_66050_003",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 23,
-      "speaker": "カヅネ水着",
+      "speaker": "カヅネ",
       "text": "この水着、神から頂いたものなんです。\n着るのは恥ずかしかったのですが、\nご主人様に喜んでもらえて良かったです。",
-      "voice": "ch_66050/R18/66050A0_66050_Nml/66050A0_66050_004",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 24,
       "speaker": "主人公",
       "text": "神から貰った……んですか？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 25,
-      "speaker": "カヅネ水着",
+      "speaker": "カヅネ",
       "text": "ええ、そうなんです。\nいつものように私が神へ祈りをささげていた時――。",
-      "voice": "ch_66050/R18/66050A0_66050_Nml/66050A0_66050_005",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 27,
-      "speaker": "カヅネ水着",
+      "speaker": "カヅネ",
       "text": "『神さま登場ぉ～♪\nこの水着でお兄ちゃんをゆーわくしてねぇ～♪\nがんばれっ♪　がんばれっ♪』",
-      "voice": "ch_66050/R18/66050A0_66050_Nml/66050A0_66050_006",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 28,
-      "speaker": "カヅネ水着",
+      "speaker": "カヅネ",
       "text": "――という神託と共に、この水着を授かったのです。",
-      "voice": "ch_66050/R18/66050A0_66050_Nml/66050A0_66050_007",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 42,
       "speaker": "主人公",
       "text": "それたぶん、知ってるひとですね。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 43,
       "speaker": "",
       "text": "間違いなく、ビッキーヌさまだ。\nどこにでも侵入し、水着を置いていくその姿は、\nちまたでは「水着サンタ」とも呼ばれている。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 52,
-      "speaker": "カヅネ水着",
+      "speaker": "カヅネ",
       "text": "しかし……水着に着替えたのはいいものの、\n海での遊び？　というものが今一つ分からず……。",
-      "voice": "ch_66050/R18/66050A0_66050_Nml/66050A0_66050_008",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 54,
-      "speaker": "カヅネ水着",
+      "speaker": "カヅネ",
       "text": "もう１つの神託の、『ナニとは言わないけど、\n海の中や岩陰がおすすめスポットだよぉ～！』という、\n神からのお言葉もあったのですが、謎が深まるばかりで……。",
-      "voice": "ch_66050/R18/66050A0_66050_Nml/66050A0_66050_009",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 55,
       "speaker": "主人公",
       "text": "それは……僕にも分かりませんね。\n遊び方は僕が教えますから、\nそれは謎のままにしておきましょう。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 57,
-      "speaker": "カヅネ水着",
+      "speaker": "カヅネ",
       "text": "はい、ご主人様がそう言われた場合には、\n『お兄ちゃんに手取り足取り教えてもらうのも、\nオッケーだよぉ♪』という追加の神託も頂いておりました。",
-      "voice": "ch_66050/R18/66050A0_66050_Nml/66050A0_66050_010",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 59,
       "speaker": "主人公",
       "text": "隙を生じぬ二段構え……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 60,
       "speaker": "",
       "text": "どちらにせよ逃げ道はなかったらしい。\nニマニマと笑うビッキーヌさまの顔が目に浮かんだ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 61,
       "speaker": "主人公",
       "text": "ええっと、まあともかく……せっかくですから泳ぎましょうか。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 62,
-      "speaker": "カヅネ水着",
+      "speaker": "カヅネ",
       "text": "はい！　さっそく神おすすめのスポットへ行くのですね！",
-      "voice": "ch_66050/R18/66050A0_66050_Nml/66050A0_66050_011",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 64,
-      "speaker": "カヅネ水着",
+      "speaker": "カヅネ",
       "text": "い、いったいどのように遊ばれてしまうのか……、\n私、この身の全てをご主人様に捧げます！",
-      "voice": "ch_66050/R18/66050A0_66050_Nml/66050A0_66050_012",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 66,
       "speaker": "主人公",
       "text": "泳ぐだけですから！\n遊ばれるなんて、誤解を招く言い方はやめてください！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 67,
-      "speaker": "カヅネ水着",
+      "speaker": "カヅネ",
       "text": "ええ、分かってます……。\n水着姿になった時点で、私、覚悟は出来ております。",
-      "voice": "ch_66050/R18/66050A0_66050_Nml/66050A0_66050_013",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 68,
       "speaker": "",
       "text": "カヅネさんの瞳には固い決意の光が灯っていた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 70,
-      "speaker": "カヅネ水着",
+      "speaker": "カヅネ",
       "text": "神から賜ったこの水着で、\nご主人様の導きを……きっと受け入れてみせます！",
-      "voice": "ch_66050/R18/66050A0_66050_Nml/66050A0_66050_014",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 71,
       "speaker": "主人公",
       "text": "そこまで覚悟しなくてもいいと思いますけど……、\nとっ、とにかく、健全に楽しく遊びましょうね！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 72,
       "speaker": "",
       "text": "こうして僕は、やたら肩に力の入っているカヅネさんを、\nリラックスさせつつ、海で泳いだり、\n砂浜でお城をつくったりと楽しく遊ぶのだった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     }
   ]
 }

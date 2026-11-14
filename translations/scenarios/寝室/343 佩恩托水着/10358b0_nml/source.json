@@ -1,294 +1,211 @@
 {
-  "scenario_id": "10358b0_nml",
-  "asset_path": "assets/advscene/scenarioexcel/character/10358/10358b0_nml.book.asset",
-  "cache_bundle": "C:\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\3a0ebc2f372d032d8b2066a0f0a27c2b8791ce0ba3fb1aaffeffe581592a4471\\3a0ebc2f372d032d8b2066a0f0a27c2b\\__data",
+  "scenario": "scenario:character/10358/10358B0_Nml",
+  "title": "砂遊びに燃える",
   "rows": [
     {
-      "row": 8,
       "speaker": "",
       "text": "ショタの汗が好きだという、\n幻の魔石「キューティーブルー」を無事に確保した僕たちは、\nビーチパラソルの下で休憩を取っていた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 9,
-      "speaker": "ペント水着",
+      "speaker": "ペント",
       "text": "ありがとう、ご主人くん。\n君の協力のおかげで、無事にこのコと出会えたよ。",
-      "voice": "ch_10358/R18/10358B0_10358_Nml/10358B0_10358_001",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 10,
       "speaker": "主人公",
       "text": "いえ……協力といっても僕は立っていただけですし。\nそれにしても、綺麗ですね。その魔石。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 11,
-      "speaker": "ペント水着",
+      "speaker": "ペント",
       "text": "綺麗……そうだね。\nさすが、幻の魔石といわれるだけあるね。",
-      "voice": "ch_10358/R18/10358B0_10358_Nml/10358B0_10358_002",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 14,
       "speaker": "",
       "text": "ペントさんがキューティーブルーを太陽にかざす。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 26,
       "speaker": "",
       "text": "海のように深い青がキラキラと輝いた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 30,
-      "speaker": "ペント水着",
+      "speaker": "ペント",
       "text": "ん……このコからは不思議な力を感じるよ。\n魔力じゃない……なんだろう、この力は。",
-      "voice": "ch_10358/R18/10358B0_10358_Nml/10358B0_10358_003",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 31,
-      "speaker": "ペント水着",
+      "speaker": "ペント",
       "text": "じっと見ていると吸い込まれるような、\n魅入られるような――この力、サキュバス娘に近いものかも？",
-      "voice": "ch_10358/R18/10358B0_10358_Nml/10358B0_10358_004",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 33,
       "speaker": "",
       "text": "ペントさんが",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 44,
       "speaker": "",
       "text": "魔石を様々な角度から見て調べ始める。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 46,
-      "speaker": "ペント水着",
+      "speaker": "ペント",
       "text": "あぁ……なんて魅力的なんだ。\nもっと君のことをボクに教えて。",
-      "voice": "ch_10358/R18/10358B0_10358_Nml/10358B0_10358_005",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 47,
       "speaker": "",
       "text": "ペントさんは瞳を熱く蕩けさせ、魔石を見つめる。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 74,
       "speaker": "",
       "text": "その様子に異様なものを感じた僕は、\n気を逸らすために声をかけた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 86,
       "speaker": "主人公",
       "text": "あっ、あのっ、ペントさん！\nせっかく海に来たんですから、一緒に遊びませんか？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 87,
-      "speaker": "ペント水着",
+      "speaker": "ペント",
       "text": "え……？\nボク、いまちょっと忙しいんだけど……？",
-      "voice": "ch_10358/R18/10358B0_10358_Nml/10358B0_10358_006",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 89,
-      "speaker": "ペント水着",
+      "speaker": "ペント",
       "text": "それにボク、泳ぐのは得意じゃないんだ。\nイルカくんを貸してあげるから、\n海で泳ぎたいならご主人くんひとりで行ってきなよ。",
-      "voice": "ch_10358/R18/10358B0_10358_Nml/10358B0_10358_007",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 90,
       "speaker": "",
       "text": "ペントさんは露骨にイヤそうだった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 92,
       "speaker": "",
       "text": "どうしても魔石とのアバンチュールを過ごしたいらしい。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 94,
       "speaker": "主人公",
       "text": "そ、そう言わずに！\n海での遊びは泳ぐだけじゃないですよ！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 96,
       "speaker": "主人公",
       "text": "砂浜で……ほら、貝殻掘り――じゃない、魔石掘りなんかも！\nペントさん、一緒に魔石を掘り当てましょうよ！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 98,
       "speaker": "",
       "text": "そう言って、僕は砂浜を掘って見せた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 119,
       "speaker": "",
       "text": "すると、その穴には緑色の石が埋まっていて――。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 124,
-      "speaker": "ペント水着",
+      "speaker": "ペント",
       "text": "そっ、それは「キューティーグリーン」！\n冷や汗をかくショタの前に現れるという幻の魔石！",
-      "voice": "ch_10358/R18/10358B0_10358_Nml/10358B0_10358_008",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 126,
-      "speaker": "ペント水着",
+      "speaker": "ペント",
       "text": "す、すごい……！　すごいよ、ご主人くん！\n幻の魔石にこうも簡単に出会えるなんて！",
-      "voice": "ch_10358/R18/10358B0_10358_Nml/10358B0_10358_009",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 127,
       "speaker": "主人公",
       "text": "…………。\nもしかして幻の魔石って、ヘンなものしかないんですか？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 128,
-      "speaker": "ペント水着",
+      "speaker": "ペント",
       "text": "えっ、そんなことはないよ？　他には――。",
-      "voice": "ch_10358/R18/10358B0_10358_Nml/10358B0_10358_010",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 129,
-      "speaker": "ペント水着",
+      "speaker": "ペント",
       "text": "ショタのワキ汗を好む魔石「キューティーレッド」\nショタの汗と砂まみれの足裏を好む魔石「キューティーイエロー」\nそれから――。",
-      "voice": "ch_10358/R18/10358B0_10358_Nml/10358B0_10358_011",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 131,
       "speaker": "主人公",
       "text": "まだあるんですか！\nというか何ですか！　その汗フェチっぷりは！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 133,
-      "speaker": "ペント水着",
+      "speaker": "ペント",
       "text": "ぼ、ボクに言われても困るよ……。\nこのコたちにも好みがあるってことさ。",
-      "voice": "ch_10358/R18/10358B0_10358_Nml/10358B0_10358_012",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 135,
-      "speaker": "ペント水着",
+      "speaker": "ペント",
       "text": "ご主人くんのおかげで、魔石掘りをやりたくなってきたよ。\nさあ、一緒に幻の魔石を探そう。",
-      "voice": "ch_10358/R18/10358B0_10358_Nml/10358B0_10358_013",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 136,
       "speaker": "主人公",
       "text": "遊ぶ気になってくれて嬉しいんですけど、",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 138,
       "speaker": "主人公",
       "text": "僕の方はやる気がなくなりました……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 139,
       "speaker": "",
       "text": "ペントさんと遊ぶのは楽しそうだけど、\n悪趣味な魔石を次々掘り当てる未来が待っている気がする。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 140,
-      "speaker": "ペント水着",
+      "speaker": "ペント",
       "text": "いいかい、ご主人くん。\nやる気というのはやり始めたあとに出てくるものなんだ。",
-      "voice": "ch_10358/R18/10358B0_10358_Nml/10358B0_10358_014",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 145,
-      "speaker": "ペント水着",
+      "speaker": "ペント",
       "text": "だから、とにかくやる。とにかく掘る。\nそれが１番大事なんだよ――さあ、掘ろう！",
-      "voice": "ch_10358/R18/10358B0_10358_Nml/10358B0_10358_015",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 147,
       "speaker": "主人公",
       "text": "わっ、わかりましたよ！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 149,
       "speaker": "主人公",
       "text": "遊びなんですから、そこまでやる気にならないでください～！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 150,
       "speaker": "",
       "text": "先ほどと変わって、ペントさんは燃えていた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 154,
       "speaker": "",
       "text": "グイグイ背中を押され、断れるはずがなかった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 179,
       "speaker": "",
       "text": "結局、僕たちは陽が沈むまで魔石掘りを続け――、",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 181,
       "speaker": "",
       "text": "悪趣味な魔石を大量に見つけるのだった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     }
   ]
 }

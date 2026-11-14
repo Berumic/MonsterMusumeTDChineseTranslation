@@ -1,273 +1,196 @@
 {
-  "scenario_id": "10271a0_nml",
-  "asset_path": "assets/advscene/scenarioexcel/character/10271/10271a0_nml.book.asset",
-  "cache_bundle": "C:\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\290861407f44bc6e349ca210fb4645e572d14b2506df4876ea38d1bd415e39af\\290861407f44bc6e349ca210fb4645e5\\__data",
+  "scenario": "scenario:character/10271/10271A0_Nml",
+  "title": "彼女が水着に着替えたら",
   "rows": [
     {
-      "row": 9,
-      "speaker": "フリス水着",
+      "speaker": "フリス",
       "text": "ふふふ、ご主人さん。\nこっちよ、こっち。捕まえてごらんなさ～い。",
-      "voice": "ch_10271/R18/10271A0_10271_Nml/10271A0_10271_001",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 10,
       "speaker": "",
       "text": "僕はフリスさんに誘われて、ビーチまで遊びに来ていた。\n最近暑い日が続いており、\n強烈な日差しが、ギラギラと容赦なく照りつけている。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 11,
       "speaker": "主人公",
       "text": "ひぃ、ふぅ……そんなに走り回らないでくださいよぉ……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 22,
-      "speaker": "フリス水着",
+      "speaker": "フリス",
       "text": "もう、情けないわね。\nまだ遊び始めたばかりなのに。",
-      "voice": "ch_10271/R18/10271A0_10271_Nml/10271A0_10271_002",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 23,
       "speaker": "主人公",
       "text": "フリスさんが元気過ぎるんですよ。\n暑いのが苦手なはずなのに、今日は全然大丈夫そうですね。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 24,
-      "speaker": "フリス水着",
+      "speaker": "フリス",
       "text": "これくらいの暑さ、なんともないわ。\nそれより見てご主人さん、あっちに面白そうなものがあるわ。",
-      "voice": "ch_10271/R18/10271A0_10271_Nml/10271A0_10271_003",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 26,
       "speaker": "",
       "text": "そう言って指さした先には、\nビーチバレーのネットが設置してあった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 40,
-      "speaker": "フリス水着",
+      "speaker": "フリス",
       "text": "これは何かしら？　ペリリさんの投網……？",
-      "voice": "ch_10271/R18/10271A0_10271_Nml/10271A0_10271_004",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 41,
       "speaker": "主人公",
       "text": "いえ、これはバレーのネットですね。\n誰かが遊んでいったのかな。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 43,
-      "speaker": "フリス水着",
+      "speaker": "フリス",
       "text": "バレー……？　それなら聞いたことがあるわ。\n前にイグニが熱く語ってくれたもの。",
-      "voice": "ch_10271/R18/10271A0_10271_Nml/10271A0_10271_005",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 44,
-      "speaker": "フリス水着",
+      "speaker": "フリス",
       "text": "ボールを使うのは分かったんだけど、\n他は精神論ばかりで……ルールの方はよく分からなかったのよね。",
-      "voice": "ch_10271/R18/10271A0_10271_Nml/10271A0_10271_006",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 45,
       "speaker": "主人公",
       "text": "なら、今から遊んでみませんか？\nルールなら僕が教えますから。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 46,
-      "speaker": "フリス水着",
+      "speaker": "フリス",
       "text": "いいわね。\nそれじゃあ特別なボールを用意するわ。",
-      "voice": "ch_10271/R18/10271A0_10271_Nml/10271A0_10271_007",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 47,
       "speaker": "",
       "text": "フリスさんはボールを抱えると、\nそれに冷気を注ぎ込んでいった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 60,
-      "speaker": "フリス水着",
+      "speaker": "フリス",
       "text": "ふふ、氷のボールよ。\nこれで涼しく遊ぶことが出来るでしょう？",
-      "voice": "ch_10271/R18/10271A0_10271_Nml/10271A0_10271_008",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 89,
-      "speaker": "フリス水着",
+      "speaker": "フリス",
       "text": "私、初めてだから……優しくしてね？",
-      "voice": "ch_10271/R18/10271A0_10271_Nml/10271A0_10271_009",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 90,
       "speaker": "主人公",
       "text": "なんですか、その意味深なセリフは……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 91,
       "speaker": "",
       "text": "ともかく、無意味に砂浜を走り回るよりはマシなので、\n僕は簡単にルールを説明した。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 92,
-      "speaker": "フリス水着",
+      "speaker": "フリス",
       "text": "なるほど……ボールを地面に落とさなければいいのね。\nこうかしら……えいっ。",
-      "voice": "ch_10271/R18/10271A0_10271_Nml/10271A0_10271_010",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 95,
       "speaker": "主人公",
       "text": "そうそう、上手ですよ。\n今度は僕の方がボールをレシーブして……――あれ？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 97,
       "speaker": "",
       "text": "僕がレシーブを返すと、\n氷のボールはパリンと割れてしまった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 98,
-      "speaker": "フリス水着",
+      "speaker": "フリス",
       "text": "あら、ボールがダメになっちゃったわね。\nでも大丈夫、新しいのをすぐ作るから。",
-      "voice": "ch_10271/R18/10271A0_10271_Nml/10271A0_10271_011",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 111,
       "speaker": "",
       "text": "フリスさんの手に、新しく氷のボールが生成されていく。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 112,
       "speaker": "主人公",
       "text": "あの……暑い中でそんなに力を使って大丈夫ですか？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 114,
-      "speaker": "フリス水着",
+      "speaker": "フリス",
       "text": "心配しなくても大丈夫よ。\nほらほら、続きをやるわ。次もちゃんと受け止めてね。",
-      "voice": "ch_10271/R18/10271A0_10271_Nml/10271A0_10271_012",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 115,
-      "speaker": "フリス水着",
+      "speaker": "フリス",
       "text": "そうだわ。ボールを地面に落とした方は、\n罰ゲームってことにしましょうか。\nそうしたら、ご主人さんもヤル気がでるでしょう？",
-      "voice": "ch_10271/R18/10271A0_10271_Nml/10271A0_10271_013",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 116,
-      "speaker": "フリス水着",
+      "speaker": "フリス",
       "text": "ほーら、いくわよ。\nご主人さん、頑張って――えいっ。",
-      "voice": "ch_10271/R18/10271A0_10271_Nml/10271A0_10271_014",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 119,
       "speaker": "主人公",
       "text": "わっ、わわっ！？\n急に打ち込むのはズルいですよ！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 124,
       "speaker": "",
       "text": "そうして、僕たちはビーチバレー対決を思い切り楽しんだ。\n氷のボールは暑さと衝撃で何度も割れ、\nその度にフリスさんが作り直してくれたが――。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 127,
-      "speaker": "フリス水着",
+      "speaker": "フリス",
       "text": "……んっ、ふぅぅ……。\nもう、だめぇ……。",
-      "voice": "ch_10271/R18/10271A0_10271_Nml/10271A0_10271_015",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 130,
       "speaker": "主人公",
       "text": "だ、大丈夫ですか、フリスさん！\nしっかりしてくださいっ！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 131,
       "speaker": "",
       "text": "力を使い過ぎ、へろへろになったフリスさんを抱き留める。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 132,
-      "speaker": "フリス水着",
+      "speaker": "フリス",
       "text": "ごめんなさい……。\nご主人さんとの勝負が楽しくて、\nちょっと、無理をしすぎたかも……。",
-      "voice": "ch_10271/R18/10271A0_10271_Nml/10271A0_10271_016",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 133,
       "speaker": "主人公",
       "text": "もう、限界まで我慢することないのに……。\n倒れたら元も子もありませんよ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 134,
-      "speaker": "フリス水着",
+      "speaker": "フリス",
       "text": "だって……せっかくのビーチじゃない。\nご主人さんといっぱい遊んで、\nたくさんの思い出を作りたかったの……。",
-      "voice": "ch_10271/R18/10271A0_10271_Nml/10271A0_10271_017",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 135,
       "speaker": "主人公",
       "text": "それは僕だって同じ気持ちです。\n焦らなくたって、僕はどこにも行ったりしませんから、\n辛くなったときはすぐに言って、遠慮なく甘えてください。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 136,
-      "speaker": "フリス水着",
+      "speaker": "フリス",
       "text": "ふふ……嬉しいこと言ってくれるのね。\nそれじゃあ、ビーチで甘えた思い出も作っちゃおうかしら。",
-      "voice": "ch_10271/R18/10271A0_10271_Nml/10271A0_10271_018",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 137,
       "speaker": "",
       "text": "フリスさんが、抱き留める腕に強く寄りかかってくる。\n彼女の体力が回復するまで、\n僕は熱い砂地に身体が落ちないよう、レシーブし続けるのだった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     }
   ]
 }

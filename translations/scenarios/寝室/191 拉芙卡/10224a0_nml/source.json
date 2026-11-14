@@ -1,224 +1,161 @@
 {
-  "scenario_id": "10224a0_nml",
-  "asset_path": "assets/advscene/scenarioexcel/character/10224/10224a0_nml.book.asset",
-  "cache_bundle": "C:\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\3aace3a2709b9c2c91e2142a0cc2f24d7b16ff1c53071f46c8c2a0e8f99596c7\\3aace3a2709b9c2c91e2142a0cc2f24d\\__data",
+  "scenario": "scenario:character/10224/10224A0_Nml",
+  "title": "特盛クリスマス",
   "rows": [
     {
-      "row": 8,
-      "speaker": "ラフーカXmas",
+      "speaker": "ラフーカ",
       "text": "<size=35>主人さま主人さまーっ！\n今日がなんの日か知ってるか！？</size>",
-      "voice": "ch_10224/R18/10224A0_10224_Nml/10224A0_10224_001",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 9,
       "speaker": "",
       "text": "部屋でゆっくりしていたら、\nラフーカさんが扉を蹴破る勢いで入ってきた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 11,
-      "speaker": "ラフーカXmas",
+      "speaker": "ラフーカ",
       "text": "実は今日はトクベツな日なんだ！\nさあ、主人さま！　何の日か当ててくれ！　ヒントはやらないぞ！",
-      "voice": "ch_10224/R18/10224A0_10224_Nml/10224A0_10224_002",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 12,
       "speaker": "主人公",
       "text": "……クリスマス、ですか？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 26,
-      "speaker": "ラフーカXmas",
+      "speaker": "ラフーカ",
       "text": "なっ！？！？\nさすが主人さまっ！　秒で答えるとは……やはり天才……っ！",
-      "voice": "ch_10224/R18/10224A0_10224_Nml/10224A0_10224_003",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 27,
       "speaker": "主人公",
       "text": "そんなに褒めなくても……。\nラフーカさんの姿を見れば、流石に分かりますよ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 28,
       "speaker": "",
       "text": "ラフ―カさんの姿はいつもと違って、とても派手だった。\nごちゃごちゃしすぎていて、なんというか落ち着きがない。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 29,
       "speaker": "主人公",
       "text": "というか、ラフーカさん。\nクリスマスを何か勘違いしてませんか……？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 30,
-      "speaker": "ラフーカXmas",
+      "speaker": "ラフーカ",
       "text": "？　勘違い……？\nクリスマスはソリを引きながらチョコをばら撒き、\nお年玉をかけて雪合戦する――と聞いたんだが……？",
-      "voice": "ch_10224/R18/10224A0_10224_Nml/10224A0_10224_004",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 31,
       "speaker": "主人公",
       "text": "とっちらかりすぎですよ！\nクリスマスにお正月、\nバレンタインデーまで混ざってるじゃないですか！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 34,
-      "speaker": "ラフーカXmas",
+      "speaker": "ラフーカ",
       "text": "え！？　違うのか！？\n内容盛りだくさんで、私は楽しみで仕方なかったんだが！？",
-      "voice": "ch_10224/R18/10224A0_10224_Nml/10224A0_10224_005",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 35,
       "speaker": "主人公",
       "text": "違いますよ。クリスマスはかくかくしかじかで、\nお正月はしょたしょたうまうま、\nバレンタインデーはなんやかんやです。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 36,
       "speaker": "",
       "text": "僕はラフーカさんの勘違いを１つずつ説明した。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 46,
-      "speaker": "ラフーカXmas",
+      "speaker": "ラフーカ",
       "text": "く、クリスマスは白髭オジがぐらららで……、\nお正月はしょたうまで……バレンタインデーはちょこぉ……？",
-      "voice": "ch_10224/R18/10224A0_10224_Nml/10224A0_10224_006",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 47,
-      "speaker": "ラフーカXmas",
+      "speaker": "ラフーカ",
       "text": "む……むむむむぅ……。\nうっ、うぅっ……一気に難解になったぞ……。",
-      "voice": "ch_10224/R18/10224A0_10224_Nml/10224A0_10224_007",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 48,
       "speaker": "",
       "text": "僕の説明が難しかったせいか、\nラフーカさんは目を回している。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 49,
-      "speaker": "ラフーカXmas",
+      "speaker": "ラフーカ",
       "text": "し、しかし……主人さま。\n楽しい事はいっぱいあったほうが、盛り上がるのではないか……？",
-      "voice": "ch_10224/R18/10224A0_10224_Nml/10224A0_10224_008",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 50,
-      "speaker": "ラフーカXmas",
+      "speaker": "ラフーカ",
       "text": "スズも言っていたぞ、\n楽しいことが幾つも重なることを\n「ナントカとナントカが一緒に来たみたい！」と。",
-      "voice": "ch_10224/R18/10224A0_10224_Nml/10224A0_10224_009",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 51,
       "speaker": "主人公",
       "text": "なにも分からないじゃないですか……。\nでもまあ、言いたいことは分かりますよ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 54,
-      "speaker": "ラフーカXmas",
+      "speaker": "ラフーカ",
       "text": "！　そうだろうそうだろう！\nこういうことは、派手な方がいいんだ！",
-      "voice": "ch_10224/R18/10224A0_10224_Nml/10224A0_10224_010",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 55,
       "speaker": "主人公",
       "text": "ええ、そうですね。\nそれはその通りだと思いますよ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 85,
-      "speaker": "ラフーカXmas",
+      "speaker": "ラフーカ",
       "text": "やはりそうか！　私は間違ってなかった！\n楽しい事はミルフィーユのように重ねていいんだな！",
-      "voice": "ch_10224/R18/10224A0_10224_Nml/10224A0_10224_011",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 86,
       "speaker": "",
       "text": "さっきまでの落ち込みようが嘘のように元気になる。\n振り出しに戻った気がしたが、\nラフーカさんが楽しそうなので僕は流すことにした。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 87,
-      "speaker": "ラフーカXmas",
+      "speaker": "ラフーカ",
       "text": "では主人さま！\nせっかくのクリスマスなんだ、私と一緒に遊ぼう！",
-      "voice": "ch_10224/R18/10224A0_10224_Nml/10224A0_10224_012",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 88,
       "speaker": "主人公",
       "text": "いいですよ。何して遊ぶんですか？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 90,
-      "speaker": "ラフーカXmas",
+      "speaker": "ラフーカ",
       "text": "まずは海に行ってビーチバレーをして、\nその次はスイカ割り！　そして最後には花火をやろう！",
-      "voice": "ch_10224/R18/10224A0_10224_Nml/10224A0_10224_013",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 91,
       "speaker": "主人公",
       "text": "全部夏のレジャーじゃないですか！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 94,
-      "speaker": "ラフーカXmas",
+      "speaker": "ラフーカ",
       "text": "そうと決まれば今から海へゴーだ！\n主人さまっ、私の背に乗って良いぞ！　さあ行こう！",
-      "voice": "ch_10224/R18/10224A0_10224_Nml/10224A0_10224_014",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 95,
       "speaker": "主人公",
       "text": "こんな寒い日に海なんで――",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 101,
       "speaker": "主人公",
       "text": "ちょっ、ラフーカさんまっ……！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 103,
       "speaker": "",
       "text": "テンション爆上がりなラフーカさんは話を聞いてくれなかった。\n僕は彼女に引っ張られ、冬の海で遊ぶことになるのだった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     }
   ]
 }

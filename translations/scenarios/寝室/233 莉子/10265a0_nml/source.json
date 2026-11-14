@@ -1,273 +1,196 @@
 {
-  "scenario_id": "10265a0_nml",
-  "asset_path": "assets/advscene/scenarioexcel/character/10265/10265a0_nml.book.asset",
-  "cache_bundle": "C:\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\ec16a6a4650b991736670a1fb7d52a2e32e517e208cf0822607ba4973aa6f931\\ec16a6a4650b991736670a1fb7d52a2e\\__data",
+  "scenario": "scenario:character/10265/10265A0_Nml",
+  "title": "論破部長",
   "rows": [
     {
-      "row": 7,
       "speaker": "",
       "text": "科学部部長のリコさんは、授業への出席率が著しく悪い。\n教師として、さすがに注意をしないわけにもいかず、\n僕はリコさんの元を訪れた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 10,
-      "speaker": "リコ学園",
+      "speaker": "リコ",
       "text": "ふむ……招かれざる客だ。\n先生がこのワタシに、いったい何の用かな？",
-      "voice": "ch_10265/R18/10265A0_10265_Nml/10265A0_10265_001",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 11,
       "speaker": "主人公",
       "text": "何の用って、\n職員室に何度呼び出しても来てくれないから、\n僕の方から来たんですよ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 12,
-      "speaker": "リコ学園",
+      "speaker": "リコ",
       "text": "ワタシはこれでも忙しい身なのだ。\n話があるなら、手短に済ませてもらおうか。",
-      "voice": "ch_10265/R18/10265A0_10265_Nml/10265A0_10265_002",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 13,
       "speaker": "主人公",
       "text": "何を言ってるんですか。\nリコさんはどうして僕に呼び出しを受けてるのか、\n分かってないんですか？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 14,
-      "speaker": "リコ学園",
+      "speaker": "リコ",
       "text": "理由ぐらい分かっている。\nワタシが授業に出ないことが、\nキミには不満なのだろう？",
-      "voice": "ch_10265/R18/10265A0_10265_Nml/10265A0_10265_003",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 15,
       "speaker": "主人公",
       "text": "不満っていうか、学生なら授業に出るのが当たり前なんですよ。\nいつもいつも、科学部の部室にこもっていることは\n知ってるんですからね。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 16,
       "speaker": "主人公",
       "text": "何故なんですか、リコさん。\nせっかく登校はしてるのに、\nどうして授業に出ないんですか？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 18,
-      "speaker": "リコ学園",
+      "speaker": "リコ",
       "text": "答えるまでもない。\n授業など、受ける必要がないからだよ。",
-      "voice": "ch_10265/R18/10265A0_10265_Nml/10265A0_10265_004",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 19,
-      "speaker": "リコ学園",
+      "speaker": "リコ",
       "text": "どの授業もワタシには必要性が感じられん。\nその時間を、実験や研究に費やすほうが、\nよほど有意義というものだ。",
-      "voice": "ch_10265/R18/10265A0_10265_Nml/10265A0_10265_005",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 20,
       "speaker": "主人公",
       "text": "必要性ならありますよ。学生の本分は勉強なんですから。\nその大事な勉強を、授業では教えているんです。\nだからちゃんと授業を受けてください。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 31,
-      "speaker": "リコ学園",
+      "speaker": "リコ",
       "text": "まったく……キミとは話が噛み合わないな。\nならば、ワタシからキミに逆に質問だ。",
-      "voice": "ch_10265/R18/10265A0_10265_Nml/10265A0_10265_006",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 33,
-      "speaker": "リコ学園",
+      "speaker": "リコ",
       "text": "この学園の授業カリキュラムを、\nキミは本当に理解しているのか？\nたとえば今日の１時間目の授業だ。",
-      "voice": "ch_10265/R18/10265A0_10265_Nml/10265A0_10265_007",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 34,
       "speaker": "主人公",
       "text": "１時間目は……たしか体育の授業でしたけど。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 36,
-      "speaker": "リコ学園",
+      "speaker": "リコ",
       "text": "そうだ。そこでは<ruby=たいいく>体位育</ruby>として\n実技も行われていたな。\n学生たちが楽しそうに、くんずほぐれつしていたぞ。",
-      "voice": "ch_10265/R18/10265A0_10265_Nml/10265A0_10265_008",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 37,
-      "speaker": "リコ学園",
+      "speaker": "リコ",
       "text": "アレがキミの言う、\n学生の本分たる勉強なのかね？",
-      "voice": "ch_10265/R18/10265A0_10265_Nml/10265A0_10265_009",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 38,
       "speaker": "主人公",
       "text": "い、いや、それは……。\n確かに変な授業もあるかもしれないですが、\nだいたいは必要なことなんですから。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 40,
-      "speaker": "リコ学園",
+      "speaker": "リコ",
       "text": "では、この教科書を見たまえ。\n実際に授業で使われている「数学」の教科書だ。",
-      "voice": "ch_10265/R18/10265A0_10265_Nml/10265A0_10265_010",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 41,
-      "speaker": "リコ学園",
+      "speaker": "リコ",
       "text": "「ある空き家がありました。１年後、そこにＡ子さんが\n住みつきました。さらに１年後、Ｂ男も一緒に住むことに\nなりました。しかし１年後、Ｂ男は家を去りました」",
-      "voice": "ch_10265/R18/10265A0_10265_Nml/10265A0_10265_011",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 42,
-      "speaker": "リコ学園",
+      "speaker": "リコ",
       "text": "「さて、元は空き家だったこの家に、\n今は何人が住んでいるでしょうか？」",
-      "voice": "ch_10265/R18/10265A0_10265_Nml/10265A0_10265_012",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 43,
       "speaker": "主人公",
       "text": "え……そんなの、Ａ子さん１人じゃないですか？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 45,
-      "speaker": "リコ学園",
+      "speaker": "リコ",
       "text": "不正解。\nA子はＢ男との間に子どもをもうけたので、\n住んでいるのはＡ子と赤ん坊の、２人だ。",
-      "voice": "ch_10265/R18/10265A0_10265_Nml/10265A0_10265_013",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 48,
       "speaker": "主人公",
       "text": "何なんですか、その問題！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 49,
-      "speaker": "リコ学園",
+      "speaker": "リコ",
       "text": "これがここの実態だ。\nこれでもまだキミは、授業に出て何かを学ぶ必要性があると、\n本気で思っているのかね？",
-      "voice": "ch_10265/R18/10265A0_10265_Nml/10265A0_10265_014",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 50,
       "speaker": "主人公",
       "text": "うううぅ……。\nす、少なくとも、僕はちゃんと授業してますから。\n僕の授業だけでも受けてください。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 51,
-      "speaker": "リコ学園",
+      "speaker": "リコ",
       "text": "キミから学ぶことなど、それこそ何もあるまい。\nむしろキミのほうこそ、\nもっとワタシから学ぶべきだ。",
-      "voice": "ch_10265/R18/10265A0_10265_Nml/10265A0_10265_015",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 54,
-      "speaker": "リコ学園",
+      "speaker": "リコ",
       "text": "現に今も、この学園の問題点や懸念点を教えてやっただろう。\nそうだ。教えてやったからには、\n授業料を払ってもらわなければならんな。",
-      "voice": "ch_10265/R18/10265A0_10265_Nml/10265A0_10265_016",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 56,
       "speaker": "主人公",
       "text": "授業料！？　なんでそんな勝手なっ……！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 57,
-      "speaker": "リコ学園",
+      "speaker": "リコ",
       "text": "もし払ってくれるなら、\n授業に出ろというキミの言い分を、\n少しは考慮してやってもよいぞ。",
-      "voice": "ch_10265/R18/10265A0_10265_Nml/10265A0_10265_017",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 58,
       "speaker": "主人公",
       "text": "本当ですか？\nいやでもなんか、そうやって授業に出てもらうのは、\n何か間違っていると言うか騙されていると言うか……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 61,
-      "speaker": "リコ学園",
+      "speaker": "リコ",
       "text": "では決まりだな。\n向こう１００ヶ月間のキミの給料は、\n科学部の部費としてありがたく使わせてもらおう。",
-      "voice": "ch_10265/R18/10265A0_10265_Nml/10265A0_10265_018",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 62,
       "speaker": "主人公",
       "text": "えっ！？　ちょ、ちょっと！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 67,
-      "speaker": "リコ学園",
+      "speaker": "リコ",
       "text": "話は終わりだ。\n研究の続きがあるので、ワタシは部室に戻らせてもらうぞ。\nではまた会おう、ショタ先生。",
-      "voice": "ch_10265/R18/10265A0_10265_Nml/10265A0_10265_019",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 68,
       "speaker": "主人公",
       "text": "待ってください！　リコさん！！\nそれじゃせめて授業には！\nちゃんと授業には出てくれるんですよね！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 69,
-      "speaker": "リコ学園",
+      "speaker": "リコ",
       "text": "言ったはずだ。考慮はする、と。",
-      "voice": "ch_10265/R18/10265A0_10265_Nml/10265A0_10265_020",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 71,
-      "speaker": "リコ学園",
+      "speaker": "リコ",
       "text": "……考慮した。やはり授業には出ない。",
-      "voice": "ch_10265/R18/10265A0_10265_Nml/10265A0_10265_021",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 76,
       "speaker": "主人公",
       "text": "リコさん！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 77,
       "speaker": "",
       "text": "ニヤリと勝ち誇った笑みを浮かべて、リコさんが立ち去る。\n今後１０年近くのタダ働きが決定し、\n僕は呆然と立ち尽くすのだった……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     }
   ]
 }

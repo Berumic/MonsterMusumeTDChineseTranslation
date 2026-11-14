@@ -1,224 +1,161 @@
 {
-  "scenario_id": "10192b0_nml",
-  "asset_path": "assets/advscene/scenarioexcel/character/10192/10192b0_nml.book.asset",
-  "cache_bundle": "C:\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\3b06639eb55103aaf54322b662d1e929b1582ae6a85f5795b6971779f9db53e1\\3b06639eb55103aaf54322b662d1e929\\__data",
+  "scenario": "scenario:character/10192/10192B0_Nml",
+  "title": "ロックろ首",
   "rows": [
     {
-      "row": 8,
       "speaker": "主人公",
       "text": "お座敷芸って、何ですか？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 9,
       "speaker": "",
       "text": "部屋に遊びに来ていたムツさんに\n僕は最近耳にしたその言葉を質問した。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 10,
       "speaker": "ムツ",
       "text": "あら。\n旦那様は、お座敷芸に興味があるのですか？",
-      "voice": "ch_10192/R18/10192B0_10192_Nml/10192B0_10192_001",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 11,
       "speaker": "主人公",
       "text": "興味っていうか、聞いたことのない言葉だったので\nどういうものなのかな、と思いまして。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 12,
       "speaker": "ムツ",
       "text": "そうですねぇ。",
-      "voice": "ch_10192/R18/10192B0_10192_Nml/10192B0_10192_002",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 13,
       "speaker": "",
       "text": "頬に手を添え、上目遣いで考え込むような仕草をする。\nそれだけでどこか色っぽく、ある意味で妖艶な雰囲気も\n出るのが、さすがのムツさんだと思う。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 14,
       "speaker": "ムツ",
       "text": "お客さんを喜ばせ、楽しんでもらうことが遊女の仕事。\nお座敷芸やお座敷遊びは、そのための遊女の必須技能です。",
-      "voice": "ch_10192/R18/10192B0_10192_Nml/10192B0_10192_003",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 17,
       "speaker": "ムツ",
       "text": "もっとも……てっとり早い方法は\nこっちを使うことなんですが。",
-      "voice": "ch_10192/R18/10192B0_10192_Nml/10192B0_10192_004",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 18,
       "speaker": "",
       "text": "ムツさんが僕の股ぐらに手を伸ばす。\n僕はあわてて股間を隠した。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 19,
       "speaker": "主人公",
       "text": "ちょっ！？　何しようとしてるんですかっ！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 20,
       "speaker": "ムツ",
       "text": "あら。惜しかった。残念。",
-      "voice": "ch_10192/R18/10192B0_10192_Nml/10192B0_10192_005",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 21,
       "speaker": "",
       "text": "くすくすと笑うムツさんは\nだけど、と、言葉を続けた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 24,
       "speaker": "ムツ",
       "text": "だけど、股を開くしか能のない遊女なんて、底が知れたもの。\n唄や踊りを披露したり、ときには一緒にお酒を呑んで、\n楽しいお喋りに付き合ったり、簡単な遊戯に興じたり。",
-      "voice": "ch_10192/R18/10192B0_10192_Nml/10192B0_10192_006",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 25,
       "speaker": "ムツ",
       "text": "それらいろいろ、全てまとめて\nお座敷芸というんですよ。",
-      "voice": "ch_10192/R18/10192B0_10192_Nml/10192B0_10192_007",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 26,
       "speaker": "",
       "text": "なるほど、と、僕は感心する。\nそうすると、当然、次に湧く疑問はこれだった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 27,
       "speaker": "主人公",
       "text": "それじゃ、ムツさんの一番得意な\nお座敷芸は何なんですか？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 28,
       "speaker": "",
       "text": "ムツさんは、にっこり笑って\nいつも持ち歩いている弦楽器を手に取った。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 29,
       "speaker": "ムツ",
       "text": "あちきの十八番は、もちろん、これです。",
-      "voice": "ch_10192/R18/10192B0_10192_Nml/10192B0_10192_008",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 30,
       "speaker": "主人公",
       "text": "ええっと、確か、三味線、っていうんでしたっけ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 31,
       "speaker": "ムツ",
       "text": "はい。良ければ一曲、披露しましょうか。\nせっかくですから、旦那様には\nあちきのお気に入りを披露しましょう。",
-      "voice": "ch_10192/R18/10192B0_10192_Nml/10192B0_10192_009",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 32,
       "speaker": "主人公",
       "text": "それって、どんな曲なんですか？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 33,
       "speaker": "ムツ",
       "text": "たまたまお相手した方から教えていただいた曲なんですが、\nそれはもう、心が震えて、胸が熱くなるような……でしょうか？",
-      "voice": "ch_10192/R18/10192B0_10192_Nml/10192B0_10192_010",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 35,
       "speaker": "",
       "text": "三味線を使って、ムツさんはどんな演奏を\n聞かせてくれるのか……ワクワクしながら\nそのときを待っていると……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 36,
       "speaker": "ムツ",
       "text": "いえーい！　ろっくんろーる！",
-      "voice": "ch_10192/R18/10192B0_10192_Nml/10192B0_10192_011",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 37,
       "speaker": "主人公",
       "text": "え……？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 40,
       "speaker": "ムツ",
       "text": "みんな、ノってるかーい！？\nあちきも魂込めて歌うんで！\n最後までよろしくべいべー！",
-      "voice": "ch_10192/R18/10192B0_10192_Nml/10192B0_10192_012",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 41,
       "speaker": "主人公",
       "text": "あ、あの……ムツさん……？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 42,
       "speaker": "ムツ",
       "text": "じゃがじゃがじゃーん！\nろっくんろーる！　いやっほーっ！",
-      "voice": "ch_10192/R18/10192B0_10192_Nml/10192B0_10192_013",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 44,
       "speaker": "ムツ",
       "text": "お～～～いえぇ～～～！！\nしぇきなべいべ、しぇきなべいべぇ！\nべいべ～べいべ、べいべぇ～～～！！",
-      "voice": "ch_10192/R18/10192B0_10192_Nml/10192B0_10192_014",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 46,
       "speaker": "ムツ",
       "text": "ぼぇ～～～～～！！",
-      "voice": "ch_10192/R18/10192B0_10192_Nml/10192B0_10192_015",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 48,
       "speaker": "",
       "text": "部屋に響くムツさんの激しいシャウトを聞きながら、\n思っている以上に遊女って仕事は大変なんだなぁ、と\n僕は思ったり思わなかったり、したのであった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     }
   ]
 }

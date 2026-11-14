@@ -1,336 +1,231 @@
 {
-  "scenario_id": "10371a0_nml",
-  "asset_path": "assets/advscene/scenarioexcel/character/10371/10371a0_nml.book.asset",
-  "cache_bundle": "C:\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\b26b9134e412e6938cbc11a878cb07b03b31101481db1e1af739bb0bbfac7327\\b26b9134e412e6938cbc11a878cb07b0\\__data",
+  "scenario": "scenario:character/10371/10371A0_Nml",
+  "title": "婚約者は覗き魔？",
   "rows": [
     {
-      "row": 22,
       "speaker": "",
       "text": "その日、僕はダリナさんに詰め寄られていた。<interval=0.4>\n遺",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 27,
       "speaker": "",
       "text": "跡の空気がやけに重たいのは気のせいじゃない。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 28,
       "speaker": "ダリナ",
       "text": "……見ましたね。あのとき、指揮官殿の目線が、\n確かにわたしの素肌に触れました。<interval=6>\n目",
-      "voice": "ch_10371/R18/10371A0_10371_Nml/10371A0_10371_001",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 30,
       "speaker": "ダリナ",
       "text": "を逸らすことなく、しっかりと、はっきりと……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 35,
       "speaker": "",
       "text": "ダリナさんの目が鋭く光る。<interval=0.4>\n足音すら重みを持っているように感じた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 36,
       "speaker": "主人公",
       "text": "ち、<interval=0.4>違",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 39,
       "speaker": "主人公",
       "text": "います！　<interval=0.4>い",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 43,
       "speaker": "主人公",
       "text": "や、見たのは事実ですけど",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 47,
-      "speaker": "主人公",
-      "text": "、",
-      "voice": "",
-      "command": ""
-    },
-    {
-      "row": 49,
       "speaker": "主人公",
       "text": "<speed=0.03>それは本当に偶然で──。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 51,
       "speaker": "ダリナ",
       "text": "上半身を脱ぎ、汗を拭いていたわたしを、\n視察という名目で訪ねてきた指揮官殿が、偶然、見た。<interval=5.5>\nそ",
-      "voice": "ch_10371/R18/10371A0_10371_Nml/10371A0_10371_002",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 53,
       "speaker": "ダリナ",
       "text": "して偶然、目が合った……<interval=2.5>これはもう、<interval=0.8>婚姻",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 56,
       "speaker": "ダリナ",
       "text": "の兆しです",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 58,
       "speaker": "",
       "text": "岩より硬い論理で詰めてくる。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 63,
       "speaker": "主人公",
       "text": "<size=30>いや、ちょっと待って！？</size>　<interval=0.4>なんでそうなるんですか！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 65,
       "speaker": "ダリナ",
       "text": "責任、取っていただきます。<interval=2>\nわ",
-      "voice": "ch_10371/R18/10371A0_10371_Nml/10371A0_10371_003",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 68,
       "speaker": "ダリナ",
       "text": "たしのすべてを目にしたのですから、その覚悟と誠意を、\nしっかりと形にしていただかないと困ります。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 74,
       "speaker": "",
       "text": "真顔で言い切るダリナさんに、思わずたじろぐ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 76,
       "speaker": "ダリナ",
       "text": "はい、こちらが結納の準備リストです。<interval=2.5>\n衣装の寸法、引き出物の選定、新居の方角、\nすべて調べた上で最適な形にまとめました。<interval=7>ご",
-      "voice": "ch_10371/R18/10371A0_10371_Nml/10371A0_10371_004",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 77,
       "speaker": "ダリナ",
       "text": "確認を。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 82,
       "speaker": "主人公",
       "text": "……ほ",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 84,
       "speaker": "主人公",
       "text": "んとにある！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 85,
       "speaker": "",
       "text": "巻物が広げられた。<interval=0.4>\nそこにはびっしりと書き込まれた準備項目が並んでいる。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 87,
       "speaker": "ダリナ",
       "text": "新居の設計図も、作っておきました。<interval=2>\n主寝室はこちら、わたしの部屋は監視部屋の隣に。",
-      "voice": "ch_10371/R18/10371A0_10371_Nml/10371A0_10371_005",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 93,
       "speaker": "主人公",
       "text": "監視！？　<interval=0.4>プライバシーは！？ <interval=0.4>僕の意思は！？？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 94,
       "speaker": "ダリナ",
       "text": "安心してください。<interval=1.2>監視は最小限です",
-      "voice": "ch_10371/R18/10371A0_10371_Nml/10371A0_10371_006",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 97,
       "speaker": "主人公",
       "text": "<size=35>そういう問題じゃない！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 107,
       "speaker": "ダリナ",
       "text": "披露宴は、地下３階の広間を予定しております。<interval=2>\n鍾",
-      "voice": "ch_10371/R18/10371A0_10371_Nml/10371A0_10371_007",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 111,
       "speaker": "ダリナ",
       "text": "乳石が美しく、音の反響も完璧です",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 114,
       "speaker": "主人公",
       "text": "会場まで決まってるの！？<interval=0.4>\nていうか、僕まだ了承してないですよ！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 116,
       "speaker": "ダリナ",
       "text": "そもそも、あの場面に踏み込んだ時点で、\n覚悟は決まっていたのでは……？",
-      "voice": "ch_10371/R18/10371A0_10371_Nml/10371A0_10371_008",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 131,
       "speaker": "主人公",
       "text": "ただの事故ですってば！！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 132,
       "speaker": "",
       "text": "必死に否定しているのに、\nダリナさんの妄想はすでに式次第まで進行していた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 133,
       "speaker": "ダリナ",
       "text": "では、次に<interval=1.2>“",
-      "voice": "ch_10371/R18/10371A0_10371_Nml/10371A0_10371_009",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 135,
       "speaker": "ダリナ",
       "text": "儀式の第１段階”へ……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 138,
       "speaker": "主人公",
       "text": "なにその第一段階！？<interval=0.4>\n指輪まで出",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 141,
       "speaker": "主人公",
       "text": "てきた！？ <interval=0.4>岩製って<interval=0.4><size=30>重",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 148,
       "speaker": "主人公",
       "text": "っ！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 151,
-      "speaker": "主人公",
-      "text": "！",
-      "voice": "",
-      "command": ""
-    },
-    {
-      "row": 155,
       "speaker": "ダリナ",
       "text": "お似合いですよ。<interval=1.2>あなたには、硬くて、重くて、\n逃げられないものが似合います。",
-      "voice": "ch_10371/R18/10371A0_10371_Nml/10371A0_10371_010",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 156,
       "speaker": "ダリナ",
       "text": "こうしてしっかりと重みのある絆で繋がれれば、<interval=2>\nもう、どこにも行けませんね……<interval=3.5>ふ",
-      "voice": "ch_10371/R18/10371A0_10371_Nml/10371A0_10371_011",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 158,
       "speaker": "ダリナ",
       "text": "ふ、ぴったりです。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 164,
       "speaker": "",
       "text": "艶やかに微笑むダリナさんに、背筋が冷える。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 168,
       "speaker": "主人公",
       "text": "お願いだから真顔でそういうこと言わないでください！？ <interval=0.4>\nこわすぎます！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 169,
       "speaker": "ダリナ",
       "text": "では、指揮官殿。<interval=2>お覚悟を……♪",
-      "voice": "ch_10371/R18/10371A0_10371_Nml/10371A0_10371_012",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 176,
       "speaker": "主人公",
       "text": "<size=40>誰かーーーーー！！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 177,
       "speaker": "",
       "text": "遺跡に僕の悲鳴が響き渡ったのだった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     }
   ]
 }

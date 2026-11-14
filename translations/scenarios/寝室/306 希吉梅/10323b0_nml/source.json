@@ -1,259 +1,186 @@
 {
-  "scenario_id": "10323b0_nml",
-  "asset_path": "assets/advscene/scenarioexcel/character/10323/10323b0_nml.book.asset",
-  "cache_bundle": "C:\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\5ab0af56c3a75b4a160f80fea1108c8eb4770e72b27ab5d3a076cee563983725\\5ab0af56c3a75b4a160f80fea1108c8e\\__data",
+  "scenario": "scenario:character/10323/10323B0_Nml",
+  "title": "ハートのチョコの成分は……？",
   "rows": [
     {
-      "row": 7,
       "speaker": "",
       "text": "バレンタイン当日の夜。\n僕はシジメさんに食堂に呼び出されていた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 8,
-      "speaker": "シジメバレンタイン",
+      "speaker": "シジメ",
       "text": "あ、ご主人さま！\nき、来てくれたんですね……！",
-      "voice": "ch_10323/R18/10323B0_10323_Nml/10323B0_10323_001",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 9,
       "speaker": "主人公",
       "text": "シジメさん、どうしたんです？\nずっと食堂にこもってたみたいですけど。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 10,
-      "speaker": "シジメバレンタイン",
+      "speaker": "シジメ",
       "text": "その、この前作ったチョコはご主人さまに、\nあまり喜んでもらえなかったですよね？",
-      "voice": "ch_10323/R18/10323B0_10323_Nml/10323B0_10323_002",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 11,
       "speaker": "主人公",
       "text": "いや、喜んでなかったわけじゃないですよ……！？\nあれはなんというか……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 12,
       "speaker": "",
       "text": "シジメさんに貰ったチョコは、\nキノコということもあって、なかなか喜びづらい品物だったのだ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 13,
-      "speaker": "シジメバレンタイン",
+      "speaker": "シジメ",
       "text": "うぅ、やっぱり言い淀む出来だったんですね……。",
-      "voice": "ch_10323/R18/10323B0_10323_Nml/10323B0_10323_003",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 14,
-      "speaker": "シジメバレンタイン",
+      "speaker": "シジメ",
       "text": "だから、私、ご主人さまに今度こそ喜んでほしいから\nこの無駄にデカイ頭で考えて、\nいろんなチョコをつくってみたんです……！",
-      "voice": "ch_10323/R18/10323B0_10323_Nml/10323B0_10323_004",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 15,
-      "speaker": "シジメバレンタイン",
+      "speaker": "シジメ",
       "text": "まずひとつめはこれです……えい！",
-      "voice": "ch_10323/R18/10323B0_10323_Nml/10323B0_10323_005",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 18,
       "speaker": "",
       "text": "シジメさんは調理室からごそごそと何かをとってきた。\nそしてドンっと机の上に置く。それはどう見ても……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 19,
       "speaker": "主人公",
       "text": "……これ、前と同じキノコチョコですよね？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 22,
-      "speaker": "シジメバレンタイン",
+      "speaker": "シジメ",
       "text": "え、えええ！？　ち、違います！\nもっとよく見てください……！\nこの前のとは明らかに違ってますから！",
-      "voice": "ch_10323/R18/10323B0_10323_Nml/10323B0_10323_006",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 23,
-      "speaker": "シジメバレンタイン",
+      "speaker": "シジメ",
       "text": "そう、これはご主人さまのと\n同じ大きさのキノコでつくった『キノコチョコ改』です！\nきっとご主人さまの手に馴染むはずですっ……！",
-      "voice": "ch_10323/R18/10323B0_10323_Nml/10323B0_10323_007",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 24,
       "speaker": "主人公",
       "text": "それ、余計に食べにくいだけですけど！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 25,
-      "speaker": "シジメバレンタイン",
+      "speaker": "シジメ",
       "text": "そう、ですか？\nじゃ、じゃあこっちの方がいいかな？\n『キノコチョコのミルクがけ』です！",
-      "voice": "ch_10323/R18/10323B0_10323_Nml/10323B0_10323_008",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 26,
       "speaker": "主人公",
       "text": "……結局キノコチョコなんですね。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 27,
-      "speaker": "シジメバレンタイン",
+      "speaker": "シジメ",
       "text": "はい。けど、これは自信作です。\n特にサキュバス娘さんたちにすごく好評で！",
-      "voice": "ch_10323/R18/10323B0_10323_Nml/10323B0_10323_009",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 28,
-      "speaker": "シジメバレンタイン",
+      "speaker": "シジメ",
       "text": "キノコの先からミルクが垂れてるのが、\nはあはあ、最高だって……。",
-      "voice": "ch_10323/R18/10323B0_10323_Nml/10323B0_10323_010",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 29,
       "speaker": "主人公",
       "text": "たしかにクロミさんは喜びそうですけど……、\nちょっと遠慮したいです。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 31,
-      "speaker": "シジメバレンタイン",
+      "speaker": "シジメ",
       "text": "うううう、これもダメですか……？\nやっぱりこんなじめじめした卑屈なキノコ女のチョコ、\n受け取りたくないんですね……。",
-      "voice": "ch_10323/R18/10323B0_10323_Nml/10323B0_10323_011",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 32,
       "speaker": "主人公",
       "text": "いや、そういうことじゃなくて、\nできれば普通のチョコがいいというか……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 35,
-      "speaker": "シジメバレンタイン",
+      "speaker": "シジメ",
       "text": "普通……あ、ならこれならどうですか！",
-      "voice": "ch_10323/R18/10323B0_10323_Nml/10323B0_10323_012",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 36,
       "speaker": "",
       "text": "シジメさんが次に出してきたのは\nハートの形のかわいいチョコだ。\n……どうやらキノコはついていない。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 37,
-      "speaker": "シジメバレンタイン",
+      "speaker": "シジメ",
       "text": "その、バレンタインといえばこれだって聞いて、つくったんです。\nど、どうですか……？",
-      "voice": "ch_10323/R18/10323B0_10323_Nml/10323B0_10323_013",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 38,
       "speaker": "主人公",
       "text": "わあ、確かにバレンタインらしいですね。\nおいしそうです。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 39,
-      "speaker": "シジメバレンタイン",
+      "speaker": "シジメ",
       "text": "よかったあ。\nじゃあ今度こそ受け取ってくれるんですね……！\nどうぞ、ご主人さま。",
-      "voice": "ch_10323/R18/10323B0_10323_Nml/10323B0_10323_014",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 49,
       "speaker": "主人公",
       "text": "ありがとうございます……じゃあ、失礼して……もぐもぐ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 50,
       "speaker": "",
       "text": "シジメさんは箱に詰められたハートのチョコを\nずいっと差し出した。そのひとつを手に取って口に運ぶ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 52,
       "speaker": "主人公",
       "text": "……ん？　あれ、食感が……。\nあの、これ中に何か入れてます？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 53,
-      "speaker": "シジメバレンタイン",
+      "speaker": "シジメ",
       "text": "えへへ、媚薬の効果があるキノコを細かくして入れているんです。",
-      "voice": "ch_10323/R18/10323B0_10323_Nml/10323B0_10323_015",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 56,
       "speaker": "主人公",
       "text": "ええええええ、なんでですか！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 58,
-      "speaker": "シジメバレンタイン",
+      "speaker": "シジメ",
       "text": "だ、だって、媚薬を入れるのが、\nバレンタインチョコの定番だって聞いたから……。",
-      "voice": "ch_10323/R18/10323B0_10323_Nml/10323B0_10323_016",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 59,
       "speaker": "主人公",
       "text": "定番じゃないですよ！？　うっ！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 61,
       "speaker": "",
       "text": "ドクンと心臓が高鳴り、体が熱くなっていく。\nその急激な変化に耐え切れなくなった僕は\nそのまま気が遠くなり、倒れてしまった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 67,
-      "speaker": "シジメバレンタイン",
+      "speaker": "シジメ",
       "text": "わ、ご主人さま！\nちょっと入れ過ぎちゃったかな？\nうううう、加減ができない頭でっかちでごめんなさい……！",
-      "voice": "ch_10323/R18/10323B0_10323_Nml/10323B0_10323_017",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 68,
       "speaker": "",
       "text": "シジメさんの焦る声を聴きながら、\n普通のチョコなんかそもそもゲシュペンス島にはなかったなと\n僕はふと思い、そのまま意識を失ってしまったのだった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     }
   ]
 }

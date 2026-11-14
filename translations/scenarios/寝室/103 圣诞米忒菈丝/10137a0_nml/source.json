@@ -1,287 +1,206 @@
 {
-  "scenario_id": "10137a0_nml",
-  "asset_path": "assets/advscene/scenarioexcel/character/10137/10137a0_nml.book.asset",
-  "cache_bundle": "C:\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\174ff95d360376baacbe39a8f68318d464948e03428f2dff270cd171684ba1f1\\174ff95d360376baacbe39a8f68318d4\\__data",
+  "scenario": "scenario:character/10137/10137A0_Nml",
+  "title": "ママ専用クリスマスケーキ",
   "rows": [
     {
-      "row": 7,
       "speaker": "主人公",
       "text": "よし、準備できた！\nこれで、あとはミテラスさんが来れば――",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 8,
       "speaker": "",
       "text": "全ての準備が整ったと同時に、部屋のドアがぶち破られた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 13,
-      "speaker": "ミテラスXmas",
+      "speaker": "ミテラス",
       "text": "メリークリスマス！　坊や～、ミテラスママよー！",
-      "voice": "ch_10137/R18/10137A0_10137_Nml/10137A0_10137_001",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 20,
       "speaker": "主人公",
       "text": "わぷっ！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 21,
       "speaker": "",
       "text": "視界が、温かくてふわふわの何かに奪われてしまう。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 22,
-      "speaker": "ミテラスXmas",
+      "speaker": "ミテラス",
       "text": "ママね、今日は坊やのためにサンタさんの服を着て来たの！\n見て見て、ママサンタさんカワイイかしら？　坊やの好みに合う？",
-      "voice": "ch_10137/R18/10137A0_10137_Nml/10137A0_10137_002",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 23,
       "speaker": "主人公",
       "text": "うっ、うもももぅっ！？　は、離し――むふぅっ！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 24,
-      "speaker": "ミテラスXmas",
+      "speaker": "ミテラス",
       "text": "もう、坊やったら甘えんぼね♪\nすぐにママのおっぱいへ、顔をグリグリするなんて♪",
-      "voice": "ch_10137/R18/10137A0_10137_Nml/10137A0_10137_003",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 25,
       "speaker": "主人公",
       "text": "ちっ、ちがっ――んむぅっ！？　もがもがっ！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 26,
-      "speaker": "ミテラスXmas",
+      "speaker": "ミテラス",
       "text": "大丈夫♪　ママサンタさんはどこにも行かないからね？\nい～っぱい甘えていいのよ～♪",
-      "voice": "ch_10137/R18/10137A0_10137_Nml/10137A0_10137_004",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 36,
       "speaker": "",
       "text": "ミテラスさんが満足するまで、\n散々甘やかされてから僕は解放された。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 37,
       "speaker": "主人公",
       "text": "はぁ、はぁ……酸素が、酸素がおいしい……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 38,
-      "speaker": "ミテラスXmas",
+      "speaker": "ミテラス",
       "text": "ハァハァって、坊や……やだ、ママサンタさんに興奮しちゃった？",
-      "voice": "ch_10137/R18/10137A0_10137_Nml/10137A0_10137_005",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 39,
       "speaker": "主人公",
       "text": "違いますよっ！　\n……今日はミテラスさんにプレゼントがあってお呼びしたんです。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 45,
       "speaker": "",
       "text": "言いながら、僕は隠していた布を取り払った。\n巨大な特製クリスマスケーキを、ミテラスさんに披露する。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 47,
       "speaker": "主人公",
       "text": "食材はテルルさん、トルスさん、ユラさんたちと集めて、\nケーキは僕とラゴスさん、ルキュレさんで協力して作りました。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 48,
       "speaker": "主人公",
       "text": "今日は特別な日ですし……\nミテラスさんにはいつもお世話になってますから、感謝の印です。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 50,
-      "speaker": "ミテラスXmas",
+      "speaker": "ミテラス",
       "text": "…………ぁ、ぁぁ……。",
-      "voice": "ch_10137/R18/10137A0_10137_Nml/10137A0_10137_006",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 51,
       "speaker": "主人公",
       "text": "……あの、ミテラスさん？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 52,
       "speaker": "",
       "text": "特製クリスマスケーキを見せてからというもの、\nミテラスさんの反応がなかった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 53,
       "speaker": "主人公",
       "text": "えっと、あの……なにかマズかったでしょうか……？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 60,
-      "speaker": "ミテラスXmas",
+      "speaker": "ミテラス",
       "text": "すっ、すごい！　すごいわ！　なんて素敵なケーキなのっ！",
-      "voice": "ch_10137/R18/10137A0_10137_Nml/10137A0_10137_007",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 62,
       "speaker": "主人公",
       "text": "えっ、わぁあっ！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 63,
       "speaker": "",
       "text": "再びギュッと腕の中に抱きしめられた。\n喜びを爆発させるミテラスさんに、ぶんぶん振り回される。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 67,
-      "speaker": "ミテラスXmas",
+      "speaker": "ミテラス",
       "text": "私のために、こんな素敵なケーキを用意してくれるなんて……っ！\nすっごくすっごく嬉しいわ！　坊や、ありがとう！",
-      "voice": "ch_10137/R18/10137A0_10137_Nml/10137A0_10137_008",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 68,
       "speaker": "主人公",
       "text": "いえいえ、どういたしまして……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 97,
-      "speaker": "ミテラスXmas",
+      "speaker": "ミテラス",
       "text": "んーっ、甘くてイイ匂い！　ばぶ実、おぎゃっＰの肉、退行虫、\nマーマレードまで入ってるのね！",
-      "voice": "ch_10137/R18/10137A0_10137_Nml/10137A0_10137_009",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 98,
       "speaker": "主人公",
       "text": "ええ、そう、そうなんです……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 99,
       "speaker": "",
       "text": "皆さんと島を周って集めた食材は、\nとてもケーキを作るためのモノとは思えない代物ばかりだった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 100,
       "speaker": "主人公",
       "text": "（まあ、人間が食べるケーキとは違うのは当然だよね……？\nむしろなんでマーマレードだけは普通なんだ……）",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 101,
-      "speaker": "ミテラスXmas",
+      "speaker": "ミテラス",
       "text": "私だけじゃ寂しいから、坊やも一緒に食べましょう？",
-      "voice": "ch_10137/R18/10137A0_10137_Nml/10137A0_10137_010",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 102,
       "speaker": "主人公",
       "text": "あ、いえ……僕は……その、遠慮しておきます。\nこのケーキはミテラスさんが独り占めしていいですから。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 103,
       "speaker": "",
       "text": "特製ケーキからは、甘くて危険な薫りが漂っている。\n食べるのだけは、どうしても避けたかった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 117,
-      "speaker": "ミテラスXmas",
+      "speaker": "ミテラス",
       "text": "なるほど、分かったわ！　坊やは他に食べたいものがあるのね！",
-      "voice": "ch_10137/R18/10137A0_10137_Nml/10137A0_10137_011",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 118,
       "speaker": "主人公",
       "text": "えっ……？　",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 124,
       "speaker": "主人公",
       "text": "わっ、わぁぁぁっ！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 125,
       "speaker": "",
       "text": "ミテラスさんの長い尻尾が、僕の身体に巻き付いてくる。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 126,
-      "speaker": "ミテラスXmas",
+      "speaker": "ミテラス",
       "text": "坊やには、ママサンタさんのおっぱいをあげるわ！\nい～っぱい甘えていいからね♪",
-      "voice": "ch_10137/R18/10137A0_10137_Nml/10137A0_10137_012",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 127,
       "speaker": "主人公",
       "text": "むっ、むふぅっ！？　そっそれも遠慮して――うむふぅぅっ！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 128,
       "speaker": "",
       "text": "母性が爆発したミテラスさんに、全身で絡めとられてしまう。\nケーキよりも甘い抱擁から、僕は逃れられないのだった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     }
   ]
 }

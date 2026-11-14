@@ -1,259 +1,186 @@
 {
-  "scenario_id": "10177a0_nml",
-  "asset_path": "assets/advscene/scenarioexcel/character/10177/10177a0_nml.book.asset",
-  "cache_bundle": "C:\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\961f0d934227a3430c36569a35df3bfe99f4ab519c1996fdd35cfea790190a4b\\961f0d934227a3430c36569a35df3bfe\\__data",
+  "scenario": "scenario:character/10177/10177A0_Nml",
+  "title": "超スズ",
   "rows": [
     {
-      "row": 7,
       "speaker": "",
       "text": "森の中は静かで、爽やかな空気が満ちている。\n僕はその日、スズさんと一緒に拠点近くを巡回していた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 8,
-      "speaker": "スズ雷光",
+      "speaker": "スズ",
       "text": "ご主人くん！　安心してね！\nどんな敵が出てきても、すぐに私がやっつけちゃうからね！",
-      "voice": "ch_10177/R18/10177A0_10177_Nml/10177A0_10177_001",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 9,
-      "speaker": "スズ雷光",
+      "speaker": "スズ",
       "text": "なんにも心配することないよ！\n３回変身するような敵だって、倒しちゃうからね！",
-      "voice": "ch_10177/R18/10177A0_10177_Nml/10177A0_10177_002",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 10,
       "speaker": "主人公",
       "text": "へ、変身……？　ありがとうございます。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 11,
-      "speaker": "スズ雷光",
+      "speaker": "スズ",
       "text": "いえいえ！　どういたしまして！\nスーパーパワーを手に入れたからって、私は油断しないから！\n安心して後ろをついてきてね！　はいやーっ！",
-      "voice": "ch_10177/R18/10177A0_10177_Nml/10177A0_10177_003",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 14,
       "speaker": "",
       "text": "サンダーペガサス娘となったスズさんは、\nいつもより張り切っているようだった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 15,
       "speaker": "主人公",
       "text": "敵が潜んでる様子もないですし、少し気楽にいきましょう。\nあんまり張り切りすぎちゃうと、スズさんも疲れちゃいますよ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 17,
-      "speaker": "スズ雷光",
+      "speaker": "スズ",
       "text": "そんなことないよ！　ゼンゼン問題ナッシング！\nサンダーペガサス娘は疲れ知らずなんだから！",
-      "voice": "ch_10177/R18/10177A0_10177_Nml/10177A0_10177_004",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 18,
       "speaker": "主人公",
       "text": "え？　そうなんですか？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 19,
-      "speaker": "スズ雷光",
+      "speaker": "スズ",
       "text": "そう！　電気があれば何でもできちゃうんだよ！\n力尽きて手足が動かなくなっても、\n電気を纏うことで限界を超えて、超スピードで行動できるの！",
-      "voice": "ch_10177/R18/10177A0_10177_Nml/10177A0_10177_005",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 20,
       "speaker": "主人公",
       "text": "す、すごいですね！\nそれがサンダーペガサス娘の力なんですね！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 21,
-      "speaker": "スズ雷光",
+      "speaker": "スズ",
       "text": "そう！　きっとそう！　そうでありたい！",
-      "voice": "ch_10177/R18/10177A0_10177_Nml/10177A0_10177_006",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 22,
       "speaker": "主人公",
       "text": "願望じゃないですか！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 23,
       "speaker": "",
       "text": "スズさんはモンスター娘の中では常識的なはずだが、\n新しい力を手に入れて、性格まで変わった気がする。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 24,
-      "speaker": "スズ雷光",
+      "speaker": "スズ",
       "text": "それに！　ご主人くんは私の弟みたいな存在なんだから、\nもっともっと私に甘えてくれていいんだよ！",
-      "voice": "ch_10177/R18/10177A0_10177_Nml/10177A0_10177_007",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 25,
-      "speaker": "スズ雷光",
+      "speaker": "スズ",
       "text": "私はお姉ちゃんとしてご主人くんを守り！ ",
-      "voice": "ch_10177/R18/10177A0_10177_Nml/10177A0_10177_008",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 27,
-      "speaker": "スズ雷光",
+      "speaker": "スズ",
       "text": "癒し！\n全てを包み込んであげるんだから！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 28,
       "speaker": "",
       "text": "バチバチバチッ！　とスズさんの身体から電撃が迸る。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 30,
-      "speaker": "スズ雷光",
+      "speaker": "スズ",
       "text": "だからね、ご主人くん！　私のことは気にしなくていいの！\nどーんと頼ってくれていいんだよ！",
-      "voice": "ch_10177/R18/10177A0_10177_Nml/10177A0_10177_009",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 31,
       "speaker": "主人公",
       "text": "え、えーと……嬉しいですけど、\n僕はスズさんの弟じゃないですし、甘えてばかりというのも――。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 36,
-      "speaker": "スズ雷光",
+      "speaker": "スズ",
       "text": "ストぉぉぉップ！！",
-      "voice": "ch_10177/R18/10177A0_10177_Nml/10177A0_10177_010",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 38,
       "speaker": "主人公",
       "text": "んむぅっ！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 39,
       "speaker": "",
       "text": "凄まじい速さで迫ってきたスズさんに口を塞がれる。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 40,
-      "speaker": "スズ雷光",
+      "speaker": "スズ",
       "text": "良い？　ご主人くん。\n私はこの力で、ご主人くんを守ってあげたいの！",
-      "voice": "ch_10177/R18/10177A0_10177_Nml/10177A0_10177_011",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 41,
-      "speaker": "スズ雷光",
+      "speaker": "スズ",
       "text": "それにね、いつもみんなの為に頑張ってるご主人くんを\nいっぱい、い～～～っぱい！　甘やかせてあげたいの！\nきっと私はその為に強くなったんだよ！！",
-      "voice": "ch_10177/R18/10177A0_10177_Nml/10177A0_10177_012",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 42,
       "speaker": "主人公",
       "text": "んっ……ぷはっ！\nそ、それじゃあ――スズさんは誰に甘えるんですか？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 43,
-      "speaker": "スズ雷光",
+      "speaker": "スズ",
       "text": "え？　わ、私はそんなことしなくても――。",
-      "voice": "ch_10177/R18/10177A0_10177_Nml/10177A0_10177_013",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 44,
       "speaker": "",
       "text": "スズさんに守られるのは嬉しい。\nでも、やっぱり僕は男として頼られる存在でありたい。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 46,
       "speaker": "主人公",
       "text": "そ、その……スズさんだって、\n弟みたいに思っているひとに甘えてもいいんじゃないでしょうか。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 47,
       "speaker": "",
       "text": "自分で言って、照れてしまう。\n間近にあるスズさんの顔が見れなかった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 50,
-      "speaker": "スズ雷光",
+      "speaker": "スズ",
       "text": "はうぅっ！！？\nそ、そそそそっ、それは……ご主人くんのこと……？",
-      "voice": "ch_10177/R18/10177A0_10177_Nml/10177A0_10177_014",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 52,
-      "speaker": "スズ雷光",
+      "speaker": "スズ",
       "text": "ご主人くんのことかああぁぁぁぁっ！！！",
-      "voice": "ch_10177/R18/10177A0_10177_Nml/10177A0_10177_015",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 53,
       "speaker": "主人公",
       "text": "えっ、ちょっ……",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 64,
       "speaker": "主人公",
       "text": "――ぎえぴーっ！！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 66,
       "speaker": "",
       "text": "スズさんの身体から迸った電撃が直撃し、倒れてしまう。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 67,
       "speaker": "",
       "text": "頼られる存在になるには、まだまだ力不足のようだった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     }
   ]
 }

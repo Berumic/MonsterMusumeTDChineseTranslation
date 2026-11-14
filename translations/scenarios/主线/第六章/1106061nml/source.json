@@ -1,294 +1,166 @@
 {
-  "scenario_id": "1106061nml",
-  "asset_path": "Assets/AdvScene/ScenarioExcel/main/1106/1106061Nml.xlsx",
-  "cache_bundle": "C:\\Users\\77147\\Documents\\Codex\\2026-08-21\\bang\\outputs\\MonsterMusumeTDMod\\解包资源\\ab\\６章_06話前半_1106061Nml.ab",
+  "scenario": "scenario:main/1106/1106061Nml",
+  "title": "６章_06話前半",
   "rows": [
     {
-      "row": 7,
       "speaker": "",
       "text": "次なる祠を目指して進む主人公たちの前に、\nこれまでとは造りが違う扉が現れた。\n主人公は、ふいに扉の前で立ち止まると、そっとそれに触れる。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 8,
       "speaker": "主人公",
       "text": "ん？　この扉、ちょっと今までのと違いますよね？\n祠への扉とは違うんですかね？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 9,
       "speaker": "ロジカ",
       "text": "ああ、その扉は、<ruby=エクストラ>ＥＸ</ruby>ダンジョンへの扉であるぞ。",
-      "voice": "ch_10098/Main/1106/1106_10098_292",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 10,
       "speaker": "主人公",
       "text": "えくすとらだんじょん……？？？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 11,
       "speaker": "ロジカ",
       "text": "左様。\nいずれまた訪れることもあろうぞ。",
-      "voice": "ch_10098/Main/1106/1106_10098_293",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 12,
-      "speaker": "主人公",
-      "text": "？？？？？？？？？？？？？？",
-      "voice": "",
-      "command": ""
-    },
-    {
-      "row": 13,
       "speaker": "",
       "text": "釈然としないまま、主人公たちは先へ進んだ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 19,
       "speaker": "スズ",
       "text": "そういえばさ……なんか、この感じだと、\n次の祠の守護者も、知ってる人みたいな気がしない？",
-      "voice": "ch_10022/Main/1106/1106_10022_294",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 26,
       "speaker": "クロミ",
       "text": "ぎくぅっ！！",
-      "voice": "ch_10021/Main/1106/1106_10021_295",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 29,
-      "speaker": "スズ",
-      "text": "…………。",
-      "voice": "ch_10022/Main/1106/1106_10022_296",
-      "command": ""
-    },
-    {
-      "row": 32,
-      "speaker": "セレン",
-      "text": "…………。",
-      "voice": "ch_10023/Main/1106/1106_10023_297",
-      "command": ""
-    },
-    {
-      "row": 35,
-      "speaker": "リン",
-      "text": "…………。",
-      "voice": "ch_10006/Main/1106/1106_10006_298",
-      "command": ""
-    },
-    {
-      "row": 38,
-      "speaker": "主人公",
-      "text": "…………。",
-      "voice": "",
-      "command": ""
-    },
-    {
-      "row": 40,
       "speaker": "主人公",
       "text": "たとえば、クロミさん……とかですか？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 42,
       "speaker": "クロミ",
       "text": "ぎっくぅっ！！",
-      "voice": "ch_10021/Main/1106/1106_10021_299",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 45,
-      "speaker": "スズ",
-      "text": "…………。",
-      "voice": "ch_10022/Main/1106/1106_10022_300",
-      "command": ""
-    },
-    {
-      "row": 48,
-      "speaker": "セレン",
-      "text": "…………。",
-      "voice": "ch_10023/Main/1106/1106_10023_301",
-      "command": ""
-    },
-    {
-      "row": 51,
-      "speaker": "リン",
-      "text": "…………。",
-      "voice": "ch_10006/Main/1106/1106_10006_302",
-      "command": ""
-    },
-    {
-      "row": 54,
-      "speaker": "主人公",
-      "text": "…………。",
-      "voice": "",
-      "command": ""
-    },
-    {
-      "row": 57,
       "speaker": "クロミ",
       "text": "そ、そそそそそ、そんな……な、なにを証拠に……私、\nちが……う、ううううう……ぐすっ。",
-      "voice": "ch_10021/Main/1106/1106_10021_303",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 58,
       "speaker": "主人公",
       "text": "じょ、冗談ですよ、すみません。い、行きましょうか。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 61,
       "speaker": "スズ",
       "text": "そうね……。",
-      "voice": "ch_10022/Main/1106/1106_10022_304",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 73,
       "speaker": "",
       "text": "そして、次なる祠に続く、例の扉に主人公たちは辿り着いた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 75,
       "speaker": "セレン",
       "text": "えーと、じゃあ、開けるか。いいか、クロミ？",
-      "voice": "ch_10023/Main/1106/1106_10023_305",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 77,
       "speaker": "クロミ",
       "text": "ふぇっ！？\nな、ななななな、何で私に聞くんですか！？",
-      "voice": "ch_10021/Main/1106/1106_10021_306",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 78,
       "speaker": "セレン",
       "text": "いや……いいけどな……。",
-      "voice": "ch_10023/Main/1106/1106_10023_307",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 84,
       "speaker": "",
       "text": "ビクビクするクロミを背後に感じつつ、\nセレンたちは重く大きな扉を押し開けた。\nすると……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 91,
       "speaker": "タンタル",
       "text": "やあやあ、諸君！\nご存じ、インキュバス娘のタンタルちゃんだよ！！",
-      "voice": "ch_10025/Main/1106/1106_10025_308",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 92,
       "speaker": "",
       "text": "一瞬、あれ？　と思った一同だったが……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 94,
       "speaker": "タンタル",
       "text": "……クロミちゃん、カモン！",
-      "voice": "ch_10025/Main/1106/1106_10025_309",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 97,
       "speaker": "クロミ",
       "text": "は、はい……。",
-      "voice": "ch_10021/Main/1106/1106_10021_310",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 101,
       "speaker": "タンタル",
       "text": "この祠の守護者――それは、我々、\nインキュバス娘＆サキュバス娘なのさっ！！",
-      "voice": "ch_10025/Main/1106/1106_10025_311",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 124,
       "speaker": "クロミ",
       "text": "うぅ……み、皆さんを騙していてすみません……まさか、私が\n守護者だなんて、全くこれっぽっちも分からなかったと思います。\n黙っていて、とても心苦しかったです……。",
-      "voice": "ch_10021/Main/1106/1106_10021_312",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 153,
       "speaker": "タンタル",
       "text": "ふっふっふ、まさか、身近な仲間内から、\n妨害側に回る者が出るだなんて、キミたちの衝撃が\nいかばかりか……。心中お察しするよ！",
-      "voice": "ch_10025/Main/1106/1106_10025_313",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 154,
       "speaker": "主人公",
       "text": "あー……ええ、まあ、はい。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 156,
       "speaker": "タンタル",
       "text": "反応うっす！！",
-      "voice": "ch_10025/Main/1106/1106_10025_314",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 159,
       "speaker": "スズ",
       "text": "で、アンタたちは、何の試練を課してくるの？",
-      "voice": "ch_10022/Main/1106/1106_10022_315",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 191,
       "speaker": "タンタル",
       "text": "そんな。ははは。まさか。ははは。何を。\nインキュバス娘とサキュバス娘相手にやる試練といったら、\nえっちなやつに決まってるじゃないか。",
-      "voice": "ch_10025/Main/1106/1106_10025_316",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 195,
       "speaker": "セレン",
       "text": "よし、殴って倒すか。",
-      "voice": "ch_10023/Main/1106/1106_10023_317",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 196,
       "speaker": "スズ",
       "text": "そうね。",
-      "voice": "ch_10022/Main/1106/1106_10022_318",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 212,
       "speaker": "タンタル",
       "text": "ちょっと、キミたちぃ！？",
-      "voice": "ch_10025/Main/1106/1106_10025_319",
-      "command": ""
+      "choice": false
     }
   ]
 }

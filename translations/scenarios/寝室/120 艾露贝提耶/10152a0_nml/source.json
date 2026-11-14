@@ -1,364 +1,251 @@
 {
-  "scenario_id": "10152a0_nml",
-  "asset_path": "assets/advscene/scenarioexcel/character/10152/10152a0_nml.book.asset",
-  "cache_bundle": "C:\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\020ca81c5a047ebf7313fcbdd6ac0c5af19cc293ba02b1a95261b2fcfb96c2c5\\020ca81c5a047ebf7313fcbdd6ac0c5a\\__data",
+  "scenario": "scenario:character/10152/10152A0_Nml",
+  "title": "瞬間全身脱毛",
   "rows": [
     {
-      "row": 8,
       "speaker": "密猟者",
       "text": "ひぎゃああああ！！\nお、お、おたすけぇえええ！！\nもうお婿にいけなぁあいっ！！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 9,
       "speaker": "",
       "text": "ルカさんたちがゲシュペンス島に\n滞在するようになってから数日、今日も今日とてやってきた\n密猟者たちのつんざくような悲鳴が響き渡った。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 10,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "……お婿？　どういうことだろう？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 11,
       "speaker": "主人公",
       "text": "とりあえず、悲鳴はこの奥から\n聞こえましたから行ってみましょう。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 17,
       "speaker": "",
       "text": "僕とルカさんは密猟者が目撃されたという、\n洞窟の奥にある地底湖へ向かう。\nそこには、エルベティエさんがたたずんでいた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 19,
-      "speaker": "エルベティエもんくえ",
+      "speaker": "エルベティエ",
       "text": "……ルカ、それに少年もきたのね。\nこの綺麗な地底の水源を穢そうとする人間が\nいたから追い払ってやったわ。",
-      "voice": "ch_10152/R18/10152A0_10152_Nml/10152A0_10152_001",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 20,
       "speaker": "主人公",
       "text": "ありがとうございます、エルベティエさん。\n怪我はありませんか？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 21,
-      "speaker": "エルベティエもんくえ",
+      "speaker": "エルベティエ",
       "text": "ええ、大丈夫よ。",
-      "voice": "ch_10152/R18/10152A0_10152_Nml/10152A0_10152_002",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 22,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "それにしてもものすごい悲鳴が聞こえたけど……\nエルベティエ、いったい何をしたんだ？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 23,
-      "speaker": "エルベティエもんくえ",
+      "speaker": "エルベティエ",
       "text": "別に何もしていないわ。\nただ、刃を向けて襲ってきたから、\nこちらも反撃に出ただけよ……。",
-      "voice": "ch_10152/R18/10152A0_10152_Nml/10152A0_10152_003",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 24,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "まさか、再起不能になるまで痛めつけたりはしてないよな？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 25,
-      "speaker": "エルベティエもんくえ",
+      "speaker": "エルベティエ",
       "text": "もちろんよ。全身丸呑みにして、\nそのまま鎧や衣服を溶かしたついでに、\n全身の毛という毛にいたるまで全てを溶かしただけよ。",
-      "voice": "ch_10152/R18/10152A0_10152_Nml/10152A0_10152_004",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 38,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "まさかの全身脱毛！？　\nえ……まさか、髪の毛のみならず……し、下の毛まで？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 39,
-      "speaker": "エルベティエもんくえ",
+      "speaker": "エルベティエ",
       "text": "ええ、そうよ……何か問題があったかしら？",
-      "voice": "ch_10152/R18/10152A0_10152_Nml/10152A0_10152_005",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 40,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "問題大ありだよ！\n男にとって毛は、雄の象徴みたいなものなのに……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 41,
-      "speaker": "エルベティエもんくえ",
+      "speaker": "エルベティエ",
       "text": "ルカにはそんなもの生えていなかったじゃない……？",
-      "voice": "ch_10152/R18/10152A0_10152_Nml/10152A0_10152_006",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 64,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "そ、そんなことないよ！　",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 65,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "っていうかいつ見たんだよ……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 66,
       "speaker": "主人公",
       "text": "エルベティエさんって、人間には意外と容赦ないんですね……。\nルカさんに対してはすごく優しいから、意外でした。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 67,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "まあ、僕らは色々あったけど、\n今じゃエルベティエは大事な仲間だし……。\nそれにスライム娘たちにもすごく優しいんだよ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 68,
-      "speaker": "エルベティエもんくえ",
+      "speaker": "エルベティエ",
       "text": "ルカ……嬉しいわ。\n私のことをそこまで認めてくれているのね？\nそれに褒めてくれるなんて……。",
-      "voice": "ch_10152/R18/10152A0_10152_Nml/10152A0_10152_007",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 69,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "僕以外の人間にもなるべく慈悲の心を持って\n接するようにして欲しいよ。\n全身の毛を溶かしちゃうのは、やり過ぎだよ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 70,
-      "speaker": "エルベティエもんくえ",
+      "speaker": "エルベティエ",
       "text": "でも、攻撃を仕掛けてくるような人間にまで\n慈悲を持つ必要はないわ……。\nそうしなければ、護りたいものも護れなくなってしまうもの。",
-      "voice": "ch_10152/R18/10152A0_10152_Nml/10152A0_10152_008",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 71,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "もちろん、その通りだと思うよ。\nでもせめて、攻撃を無力化するだけに留めるとか、\n溶かすのは服までにして、全裸にするとか……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 72,
       "speaker": "主人公",
       "text": "そうですね……毛は、毛はちょっと可哀想ですね。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 73,
-      "speaker": "エルベティエもんくえ",
+      "speaker": "エルベティエ",
       "text": "……そう。わかったわ。\n毛が人間にとってそこまで大事だと、ルカがいうなら……。\nもう毛は溶かさないようにするわ。",
-      "voice": "ch_10152/R18/10152A0_10152_Nml/10152A0_10152_009",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 74,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "ありがとう、エルベティエ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 75,
-      "speaker": "エルベティエもんくえ",
+      "speaker": "エルベティエ",
       "text": "いいのよ。それよりも……。\nこれから私と一緒に島を巡りに行かない？\nゆっくりと散歩でもしながら、語り合いたいわ。",
-      "voice": "ch_10152/R18/10152A0_10152_Nml/10152A0_10152_010",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 76,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "そうだね。どうだろう、ご主人くんも一緒に！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 78,
-      "speaker": "エルベティエもんくえ",
-      "text": "…………。",
-      "voice": "ch_10152/R18/10152A0_10152_Nml/10152A0_10152_011",
-      "command": ""
-    },
-    {
-      "row": 79,
       "speaker": "主人公",
       "text": "い、いえ僕は――。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 80,
       "speaker": "",
       "text": "ルカさんからのありがたいお誘いだったのだが、\n彼の背後にたたずむエルベティエさんからの冷たい視線に、\n僕はすぐさまお断りをしようとした瞬間――。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 84,
       "speaker": "勇者",
       "text": "見つけたぞ！　スライム娘！！\nよくもぼくの仲間を全身つるすべ肌にしてくれたな！？\n今ここで、仲間の仇を討つ！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 97,
-      "speaker": "エルベティエもんくえ",
+      "speaker": "エルベティエ",
       "text": "またなのね……。\nあなたも攻撃を仕掛けてくるというなら容赦しないわ。\n今すぐ全身を丸呑みにして、毛という毛を……。",
-      "voice": "ch_10152/R18/10152A0_10152_Nml/10152A0_10152_012",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 98,
       "speaker": "",
       "text": "ふいに殺気立っていたエルベティエさんの雰囲気が\n柔らかくなり、小さな勇者をじっと見つめる。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 99,
       "speaker": "主人公",
       "text": "（もしかして、エルベティエさん！\nさっきのルカさんの言葉を鑑みて、\n攻撃をためらっているんじゃ……？）",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 103,
-      "speaker": "エルベティエもんくえ",
+      "speaker": "エルベティエ",
       "text": "……この人間に毛は生えているの？\n体格はルカと似ているし、何よりも年齢も幼そうではあるわ……。\nその鎧と衣服を溶かしたら、下の毛が生えているか分かるかしら？",
-      "voice": "ch_10152/R18/10152A0_10152_Nml/10152A0_10152_013",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 104,
-      "speaker": "主人公",
-      "text": "…………。",
-      "voice": "",
-      "command": ""
-    },
-    {
-      "row": 107,
       "speaker": "勇者",
       "text": "な、なななっ！　ち、近づくなぁ！　\nこの僕を裸にしようとするなんて……ま、まさかお前は、\n大陸で最近流行のジャンルである、しょ、ショタコンなのか！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 108,
-      "speaker": "エルベティエもんくえ",
+      "speaker": "エルベティエ",
       "text": "何なの、それは……。",
-      "voice": "ch_10152/R18/10152A0_10152_Nml/10152A0_10152_014",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 110,
       "speaker": "勇者",
       "text": "少年に恋愛感情を抱いている者のことだよ！\nそ、そこの勇者っぽい君と、学者みたいなそこの君！\n早く逃げるんだ！　このままじゃスライム娘に襲われるぞ！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 111,
-      "speaker": "エルベティエもんくえ",
+      "speaker": "エルベティエ",
       "text": "くだらない……私はルカを襲ったりしないわ。\nただ２人きりでじっくり、ねっとりとした時間を\n過ごしたいだけ……",
-      "voice": "ch_10152/R18/10152A0_10152_Nml/10152A0_10152_015",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 112,
-      "speaker": "エルベティエもんくえ",
+      "speaker": "エルベティエ",
       "text": "そう、誰にも邪魔されずにね……？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 113,
       "speaker": "",
       "text": "エルベティエさんの視線が、僕と勇者の少年に向けられる。\nこれ以上ここに居たら、\n僕の毛という毛までツルツルにされてしまうかもしれない。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 120,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "ちょっとエルベティエ、何を言って……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 121,
       "speaker": "主人公",
       "text": "ソ、ソウデスネ、イッショニニゲマショウ、勇者サン！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 122,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "ご主人くん、なんで急にカタコト……？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 123,
       "speaker": "主人公",
       "text": "あ、あとはごゆっくり！　ルカさん、エルベティエさん！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 126,
-      "speaker": "エルベティエもんくえ",
+      "speaker": "エルベティエ",
       "text": "……そう、ありがとう。\nその人間のことは、あなたに任せるわ……少年。",
-      "voice": "ch_10152/R18/10152A0_10152_Nml/10152A0_10152_016",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 127,
       "speaker": "主人公",
       "text": "はい！　邪魔者は退散しますから！\nそれじゃあ、ごゆっくり～！！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 130,
       "speaker": "",
       "text": "僕は勇者さんの手を引っ張ってきびすを返す。\n困惑するルカさんに呼び止められた気がしたが、\n一切振り返ることなく、洞窟の出口を目指したのだった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     }
   ]
 }

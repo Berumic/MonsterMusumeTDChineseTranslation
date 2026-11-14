@@ -1,287 +1,206 @@
 {
-  "scenario_id": "66038a0_nml",
-  "asset_path": "assets/advscene/scenarioexcel/character/66038/66038a0_nml.book.asset",
-  "cache_bundle": "C:\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\aca49146cab9b2d002722d93a747d6afe970fa9e885f534f721ecd9b006064c2\\aca49146cab9b2d002722d93a747d6af\\__data",
+  "scenario": "scenario:character/66038/66038A0_Nml",
+  "title": "小さくても食いしん坊",
   "rows": [
     {
-      "row": 7,
       "speaker": "",
       "text": "その日、\n「ヘビの泥棒がいる」とツネさんから報告を受けた僕は、\n食堂の方へ向かっていた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 8,
       "speaker": "主人公",
       "text": "ヘビって一体誰のことで……――あっ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 12,
-      "speaker": "アリスもんくえ(ロリ)",
+      "speaker": "アリス",
       "text": "むっ！？　貴様、なぜココにいる！？",
-      "voice": "ch_66038/R18/66038A0_66038_Nml/66038A0_66038_001",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 13,
-      "speaker": "アリスもんくえ(ロリ)",
+      "speaker": "アリス",
       "text": "ルカや他のモンスター娘たちと合同訓練ではなかったのか？\nこんなところでサボるとは……ドアホめ。",
-      "voice": "ch_66038/R18/66038A0_66038_Nml/66038A0_66038_002",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 14,
       "speaker": "主人公",
       "text": "いえ、サボりに来たわけじゃなくて、\nツネさんから報告を受けたので様子を見に来たんですが――。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 15,
-      "speaker": "アリスもんくえ(ロリ)",
+      "speaker": "アリス",
       "text": "ツネとはあのきつね忍者ことか？\n小僧をたぶらかすとは、きつねめ……。",
-      "voice": "ch_66038/R18/66038A0_66038_Nml/66038A0_66038_003",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 17,
       "speaker": "主人公",
       "text": "あの、アリスさん……口元にゴミがついてますよ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 19,
       "speaker": "",
       "text": "小さいながらも威厳たっぷりに言うアリスさんの口元には、\nパンの欠片がついていた。どうやら盗み食いしていたらしい。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 21,
-      "speaker": "アリスもんくえ(ロリ)",
+      "speaker": "アリス",
       "text": "む…………オッホン。どうだ、取れたか？",
-      "voice": "ch_66038/R18/66038A0_66038_Nml/66038A0_66038_004",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 22,
       "speaker": "主人公",
       "text": "は、はい。綺麗に取れました。\nアリスさん、急に消えたと思ったらお腹が空いていたんですね。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 23,
-      "speaker": "アリスもんくえ(ロリ)",
+      "speaker": "アリス",
       "text": "フン、余を子ども扱いするな。\n腹が減っては戦は出来ぬというだろう。\nこれは……あれだ、えっと……前哨戦というわけだ。",
-      "voice": "ch_66038/R18/66038A0_66038_Nml/66038A0_66038_005",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 24,
       "speaker": "主人公",
       "text": "そ、そうですか……。\nあの、足りないようなら右の戸棚に新作のスキュウもありますよ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 26,
-      "speaker": "アリスもんくえ(ロリ)",
+      "speaker": "アリス",
       "text": "新作だと！？\nそれはぜひ食してみんとな！",
-      "voice": "ch_66038/R18/66038A0_66038_Nml/66038A0_66038_006",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 27,
       "speaker": "",
       "text": "アリスさんはすぐさま戸棚からスキュウを取り出した。\n香ばしい香りが漂うそれを、すぐさま口へと運ぶ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 30,
-      "speaker": "アリスもんくえ(ロリ)",
+      "speaker": "アリス",
       "text": "これは……んっ、中にチーズと蛸が……もぐ、もぐ……。\n口の中でとろけて……むしゃ、むぐむぐ……うまい♪",
-      "voice": "ch_66038/R18/66038A0_66038_Nml/66038A0_66038_007",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 31,
       "speaker": "主人公",
       "text": "気に入っていただけて良かったです。\nお茶でも注ぎましょうか？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 33,
-      "speaker": "アリスもんくえ(ロリ)",
+      "speaker": "アリス",
       "text": "むっ、気が利くな……もぐもぐ。\nあまり熱くするなよ……むぐむぐ、舌をヤケドしては困るからな。",
-      "voice": "ch_66038/R18/66038A0_66038_Nml/66038A0_66038_008",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 34,
       "speaker": "主人公",
       "text": "分かりました。\nちょっとだけ待っててくださいね。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 35,
       "speaker": "",
       "text": "口いっぱいに食べ物を頬張るアリスさんを見守りながら、\n僕はお茶の準備をしようとキッチンへ向かった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 48,
-      "speaker": "アリスもんくえ(ロリ)",
+      "speaker": "アリス",
       "text": "――っておい、ちょっと待て！\nこれでは本当にサボりになる！　それに余の威厳ゼロではないか！",
-      "voice": "ch_66038/R18/66038A0_66038_Nml/66038A0_66038_009",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 49,
-      "speaker": "アリスもんくえ(ロリ)",
+      "speaker": "アリス",
       "text": "小僧、ここへ直れ！\n余は小さくなっても魔王だぞ！　舐めてもらっては困る！！",
-      "voice": "ch_66038/R18/66038A0_66038_Nml/66038A0_66038_010",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 50,
       "speaker": "主人公",
       "text": "舐めるだなんてそんな……。\nあ、どうぞ、お茶が入りましたよ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 51,
-      "speaker": "アリスもんくえ(ロリ)",
+      "speaker": "アリス",
       "text": "そこへ置いておけ！！\nいいか、余は「黒のアリスの再来」とも呼ばれ、\n歴代魔王屈指の実力者と崇められているのだぞ！",
-      "voice": "ch_66038/R18/66038A0_66038_Nml/66038A0_66038_011",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 52,
-      "speaker": "アリスもんくえ(ロリ)",
+      "speaker": "アリス",
       "text": "あまり無礼な態度をとって、余の怒りを買わんことだ。\nこの島ひとつ、消そうと思えば容易いのだからな……ずずっ。",
-      "voice": "ch_66038/R18/66038A0_66038_Nml/66038A0_66038_012",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 53,
       "speaker": "主人公",
       "text": "あの……アリスさんの強さは良く分かってるんですけど、\n「黒のアリス」ってどなたですか？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 64,
-      "speaker": "アリスもんくえ(ロリ)",
+      "speaker": "アリス",
       "text": "何？　黒のアリスを知らないだと？\n小僧のすぐ傍に居るではないか。\nあんなにバレバレな変装でなぜ気づかんのか……ドアホめ。",
-      "voice": "ch_66038/R18/66038A0_66038_Nml/66038A0_66038_013",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 65,
-      "speaker": "アリスもんくえ(ロリ)",
+      "speaker": "アリス",
       "text": "しかし、黒のアリスの存在にも気づかんとは、\n余の理不尽なまでの強さも理解できんかもしれんな。",
-      "voice": "ch_66038/R18/66038A0_66038_Nml/66038A0_66038_014",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 66,
-      "speaker": "アリスもんくえ(ロリ)",
+      "speaker": "アリス",
       "text": "小僧には特別に、余の力の片鱗を見せてやってもいいが……、\n対価として食い物を寄こせ。",
-      "voice": "ch_66038/R18/66038A0_66038_Nml/66038A0_66038_015",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 67,
       "speaker": "主人公",
       "text": "あ、まだお腹いっぱいになってないんですね？\nそれならフルーツとかどうです？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 68,
-      "speaker": "アリスもんくえ(ロリ)",
+      "speaker": "アリス",
       "text": "ん。いいだろう。\nこちらの島の果物はどれも美味しかったからな。",
-      "voice": "ch_66038/R18/66038A0_66038_Nml/66038A0_66038_016",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 72,
       "speaker": "",
       "text": "僕は戸棚からゲシュペンスベリーを取り出した。\n皿の上に山盛りとなったそれを、アリスさんの前に並べる。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 75,
-      "speaker": "アリスもんくえ(ロリ)",
+      "speaker": "アリス",
       "text": "おお～♪\nなんと色ツヤの良い……もぐもぐ……おいしい♪",
-      "voice": "ch_66038/R18/66038A0_66038_Nml/66038A0_66038_017",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 76,
       "speaker": "",
       "text": "アリスさんは幸せそうに果物を頬張っている。\nそんな様子を僕は微笑ましく見ていると――。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 84,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "おーい、ご主人くーん。\n大丈夫かい？　遅いからみんなが心配して――。　",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 85,
       "speaker": "",
       "text": "戻らない僕を心配してか、ツネさんがルカさんを連れ来た。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 91,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "って、アリス？　なに遊んでるの？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 92,
-      "speaker": "アリスもんくえ(ロリ)",
+      "speaker": "アリス",
       "text": "むっ、ルカか……遊ぶとは無礼だぞ。\n余は小僧に魔王の真の恐ろしさを知らしめていたのだ。",
-      "voice": "ch_66038/R18/66038A0_66038_Nml/66038A0_66038_018",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 115,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "魔王の恐ろしさって……アリス、口元に食べかすがついてるよ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 118,
-      "speaker": "アリスもんくえ(ロリ)",
+      "speaker": "アリス",
       "text": "く……余としたことが……きつねめ……！",
-      "voice": "ch_66038/R18/66038A0_66038_Nml/66038A0_66038_019",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 129,
       "speaker": "",
       "text": "アリスさんが入り口の方を睨むと、ツネさんは慌てて逃げていく。\n僕は魔王の恐ろしさは分からなかったけれど、\n皆が彼女を「かわいい」という理由は理解したのだった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     }
   ]
 }

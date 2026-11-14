@@ -1,259 +1,186 @@
 {
-  "scenario_id": "10206b0_nml",
-  "asset_path": "assets/advscene/scenarioexcel/character/10206/10206b0_nml.book.asset",
-  "cache_bundle": "C:\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\dfff0927cfd9cfdbdd1b02708766fd7b46c888663d3c121ad479bdeb7292021e\\dfff0927cfd9cfdbdd1b02708766fd7b\\__data",
+  "scenario": "scenario:character/10206/10206B0_Nml",
+  "title": "運動会後の教室で",
   "rows": [
     {
-      "row": 7,
       "speaker": "",
       "text": "運動会も無事に終わり、閉校時間が迫る中\n僕はとある教室で、うなだれるフェルミさんを発見した。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 8,
       "speaker": "主人公",
       "text": "フェルミさん。\nこんなところで何をしてるんですか。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 9,
-      "speaker": "フェルミ運動会",
+      "speaker": "フェルミ",
       "text": "あ……先生。",
-      "voice": "ch_10206/R18/10206B0_10206_Nml/10206B0_10206_001",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 10,
       "speaker": "主人公",
       "text": "みんながフェルミさんを探してましたよ。\n急にいなくなった、って。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 11,
-      "speaker": "フェルミ運動会",
+      "speaker": "フェルミ",
       "text": "みんな？　みんなって誰のこと？",
-      "voice": "ch_10206/R18/10206B0_10206_Nml/10206B0_10206_002",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 12,
       "speaker": "主人公",
       "text": "だから……フェルミさんの\nリレー仲間の人たちですよ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 13,
-      "speaker": "フェルミ運動会",
+      "speaker": "フェルミ",
       "text": "ああ。リレー仲間ね。",
-      "voice": "ch_10206/R18/10206B0_10206_Nml/10206B0_10206_003",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 24,
       "speaker": "",
       "text": "フェルミさんが、大きくため息を付いて見せる。\n僕は実は、フェルミさんが元気をなくしている\nその理由はわかっていた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 25,
       "speaker": "主人公",
       "text": "もしかして……フェルミさん、\nリレーで負けたのは自分のせいだと\n思ってるんじゃないですか？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 27,
-      "speaker": "フェルミ運動会",
+      "speaker": "フェルミ",
       "text": "<size=36>当たり前じゃない！</size>",
-      "voice": "ch_10206/R18/10206B0_10206_Nml/10206B0_10206_004",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 28,
       "speaker": "",
       "text": "フェルミさんが、赤い顔をして立ち上がった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 30,
-      "speaker": "フェルミ運動会",
+      "speaker": "フェルミ",
       "text": "最後の最後、私はバトンの受け渡しを失敗したのよ！\nあそこで私がバトンを落としてから\n最下位になってしまったんじゃない！",
-      "voice": "ch_10206/R18/10206B0_10206_Nml/10206B0_10206_005",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 31,
       "speaker": "",
       "text": "いつもは雄々しく立派なフェルミさんの翼が\n細かく震えていたことを僕は見逃さない。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 32,
       "speaker": "主人公",
       "text": "いや、その……手っていうか翼じゃ、\nバトンの受け渡しが上手くいかなくても\n仕方がないのでは……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 33,
       "speaker": "",
       "text": "などと、我ながら身もふたもないことを言ってみる。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 35,
-      "speaker": "フェルミ運動会",
+      "speaker": "フェルミ",
       "text": "そんなことないわよ！\n翼でもバトンの受け渡しができるように\nずっと練習してたんだから！",
-      "voice": "ch_10206/R18/10206B0_10206_Nml/10206B0_10206_006",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 37,
-      "speaker": "フェルミ運動会",
+      "speaker": "フェルミ",
       "text": "練習では、ちゃんと受け渡しできてたのよ！\nそれなのにっ、それなのにっ……！",
-      "voice": "ch_10206/R18/10206B0_10206_Nml/10206B0_10206_007",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 38,
       "speaker": "",
       "text": "悔しそうに、フェルミさんは唇を噛んだ。\nそんな彼女の姿を見るのは初めてな気がして、\n少し茶化したことを、僕は申し訳なく思った。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 39,
       "speaker": "主人公",
       "text": "あの……フェルミさん。\nなんていうのか、ちょっと上手く言えないんですが。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 40,
-      "speaker": "フェルミ運動会",
+      "speaker": "フェルミ",
       "text": "何？　言いたいことがあるなら\n遠慮なく言ってくれていいわよ。",
-      "voice": "ch_10206/R18/10206B0_10206_Nml/10206B0_10206_008",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 41,
       "speaker": "主人公",
       "text": "やっぱり……負けて自分を責めるのは\n間違いだと思うんですよ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 42,
-      "speaker": "フェルミ運動会",
+      "speaker": "フェルミ",
       "text": "はぁ？　何言ってんのよ。\n私がちゃんとバトンリレーを決めてさえいたら\nあんな惨めな結果にはならなかったのよ。",
-      "voice": "ch_10206/R18/10206B0_10206_Nml/10206B0_10206_009",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 43,
       "speaker": "主人公",
       "text": "惨めですか？　確かに、バトンを落としたことは悔しいでしょうし、\nそれで負けてしまったことは悲しいことかもしれませんが、\nフェルミさんは精一杯やったじゃないですか。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 44,
       "speaker": "主人公",
       "text": "練習もいっぱいして、ずっと努力をして……。\nフェルミさんがどれだけ苦労をしたかは僕には分かりませんが\nそれを、フェルミさん自身は分かっているはずです。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 45,
-      "speaker": "フェルミ運動会",
+      "speaker": "フェルミ",
       "text": "先生……。",
-      "voice": "ch_10206/R18/10206B0_10206_Nml/10206B0_10206_010",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 46,
       "speaker": "主人公",
       "text": "だったら、胸を張っていいと思います。\n頑張ったフェルミさんは、フェルミさんのものです。\nだから決して惨めじゃなく、むしろ誇らしく思うべきです。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 49,
       "speaker": "",
       "text": "僕は、ほとんど一息にそう言った。\nフェルミさんは、しばらく何かを考え込んで……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 50,
-      "speaker": "フェルミ運動会",
+      "speaker": "フェルミ",
       "text": "アンタ……もしかして、\nそれで私を励ましてるつもりなの？",
-      "voice": "ch_10206/R18/10206B0_10206_Nml/10206B0_10206_011",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 51,
       "speaker": "主人公",
       "text": "え……？　は、はい……そのつもりでしたけど……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 52,
-      "speaker": "フェルミ運動会",
+      "speaker": "フェルミ",
       "text": "そんなんじゃ全然、励まされた感じもしないし\n気持ちも楽にならないし、元気にもならないんだけど。",
-      "voice": "ch_10206/R18/10206B0_10206_Nml/10206B0_10206_012",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 53,
       "speaker": "主人公",
       "text": "そ、そうですか……すみません……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 57,
-      "speaker": "フェルミ運動会",
+      "speaker": "フェルミ",
       "text": "でも……ありがとう。\nその気持ちは嬉しいよ、先生。",
-      "voice": "ch_10206/R18/10206B0_10206_Nml/10206B0_10206_013",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 59,
       "speaker": "",
       "text": "フェルミさんの頭がもたれかかってきたので、\n僕はそれを受け止め、抱き締めた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 60,
-      "speaker": "フェルミ運動会",
+      "speaker": "フェルミ",
       "text": "あのさ……。しばらく……こうしてても、いいかな……。",
-      "voice": "ch_10206/R18/10206B0_10206_Nml/10206B0_10206_014",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 61,
       "speaker": "主人公",
       "text": "もちろんですよ。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 62,
       "speaker": "",
       "text": "フェルミさんが、ぐっと僕に体重を預ける。\n僕は、フェルミさんの気の済むまで\n胸を貸してあげるのだった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     }
   ]
 }

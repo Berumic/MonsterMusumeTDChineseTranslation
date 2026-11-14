@@ -1,245 +1,176 @@
 {
-  "scenario_id": "10148b0_nml",
-  "asset_path": "assets/advscene/scenarioexcel/character/10148/10148b0_nml.book.asset",
-  "cache_bundle": "C:\\mnms_td_r18\\monster_musume_tdx_Data\\Caches\\00175c7271f9e1d7d66f1291b2dc9aa4933cd43a7ab2d893e2565b711baf2ed6\\00175c7271f9e1d7d66f1291b2dc9aa4\\__data",
+  "scenario": "scenario:character/10148/10148B0_Nml",
+  "title": "あぶない島",
   "rows": [
     {
-      "row": 22,
       "speaker": "",
       "text": "島にやってきて暫く経った日のこと。\n僕はたまもと一緒にゲシュペンス島を散歩していた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 30,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "モンスター娘とご主人くんの仲が良い事はわかったけど……、\nこの島ってホントに不思議がいっぱいだよね。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 31,
-      "speaker": "たまももんくえ",
+      "speaker": "たまも",
       "text": "そうじゃのう……。\nワケの分からん生き物も山ほどおるしの……例えば。",
-      "voice": "ch_10148/R18/10148B0_10148_Nml/10148B0_10148_001",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 33,
       "speaker": "",
       "text": "たまもが森の木に手を伸ばし、セミっぽい虫を捕まえた。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 34,
-      "speaker": "たまももんくえ",
+      "speaker": "たまも",
       "text": "これは「ショーパンイーヨゼミ」という、\nショートパンツが似合う少年の近くで鳴く幻の蝉らしい。",
-      "voice": "ch_10148/R18/10148B0_10148_Nml/10148B0_10148_002",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 35,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "え、セクハラする虫なの……？　少年だけを攻撃するとか？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 36,
-      "speaker": "たまももんくえ",
+      "speaker": "たまも",
       "text": "いや、近くで「ショーパン良い！」と鳴くだけで無害らしいぞ。\nあとこっちの木の実は「ばぶ実」じゃ。\nとんでもなく栄養があるらしい…………面妖じゃな。",
-      "voice": "ch_10148/R18/10148B0_10148_Nml/10148B0_10148_003",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 37,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "どっちもヘンな名前だけど、\n無害だったり栄養があるなら、いいんじゃないかなぁ？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 38,
-      "speaker": "たまももんくえ",
+      "speaker": "たまも",
       "text": "――そうか。ならルカ、ちょっと「ばぶ実」を食べてみるのじゃ。",
-      "voice": "ch_10148/R18/10148B0_10148_Nml/10148B0_10148_004",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 42,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "んっ、むぐぅっ！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 43,
       "speaker": "",
       "text": "たまみは僕の口のなかに「ばぶ実」を強引にツッコんだ。\n甘ったるいミルクの味が、口いっぱいに広がって――。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 44,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "お、おいし――",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 48,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "おぎゃっ！？　おぎゃおぎゃっ！？　ばぶばぶっ！",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 49,
-      "speaker": "たまももんくえ",
+      "speaker": "たまも",
       "text": "この実は栄養は豊富じゃが、赤子の言葉しか話せなくなるのじゃ。\nちなみにショーパンイイヨゼミは、\n目を付けた少年がショートパンツを穿くまで傍で鳴き続けるぞ。",
-      "voice": "ch_10148/R18/10148B0_10148_Nml/10148B0_10148_005",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 63,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "おぎゃばぶっ！？　ばぶばぶばぶっおぎゃっおぎゃっ！？\n（そんなことが！？　というかホントに話せないんだけど！？）",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 64,
-      "speaker": "たまももんくえ",
+      "speaker": "たまも",
       "text": "他にもキケンなものがこの島にはあるようじゃぞ。\nというワケで、調査に向かうぞ♪",
-      "voice": "ch_10148/R18/10148B0_10148_Nml/10148B0_10148_006",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 65,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "おぎゃおぎゃっ！！　ばぶばぶっ！？\n（ひっぱらないでよ！！　あともとに戻してよ！？）",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 66,
       "speaker": "",
       "text": "たまもに強引に腕を引かれ、僕たちは火山の方へと向かった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 77,
-      "speaker": "たまももんくえ",
+      "speaker": "たまも",
       "text": "――ついたぞ♪　ルカ、この溶岩をよく見るのじゃ。\nココもゲシュペンス島の不思議すぽっとじゃぞ。",
-      "voice": "ch_10148/R18/10148B0_10148_Nml/10148B0_10148_007",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 78,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "ばぶ……？　ばぶばぶっおぎゃっ？\n（ん……？　特に変わった感じはしないけど？）",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 79,
-      "speaker": "たまももんくえ",
+      "speaker": "たまも",
       "text": "ふむ、そうじゃな。たしかに変わったようには見えん。\nしかし、この溶岩は呪いの産物で、\n浸かると童女になるそうじゃ。つまり、ロリになるらしい。",
-      "voice": "ch_10148/R18/10148B0_10148_Nml/10148B0_10148_008",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 82,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "おぎゃおぎゃっ！？　ばぶっ、ばぶばぶばぶっ！？\n（なんだよそれ！？　え、性別まで変わるの！？）",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 83,
-      "speaker": "たまももんくえ",
+      "speaker": "たまも",
       "text": "お主もちょっと溶岩に浸かって\n童女になってみんか？　実験じゃ♪",
-      "voice": "ch_10148/R18/10148B0_10148_Nml/10148B0_10148_009",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 87,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "おぎゃっ！？",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 88,
       "speaker": "",
       "text": "危険を察知した僕は、たまもから距離をとった。\n言葉だけじゃなく体までロリになったら冒険が出来なくなる。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 89,
-      "speaker": "たまももんくえ",
+      "speaker": "たまも",
       "text": "残念じゃのう……童女となったルカも見たかったのじゃが。\nどれ、赤子になる溶岩はないかの？\n赤子になれば、ウチがおちちをやって面倒をみてやるぞ♪",
-      "voice": "ch_10148/R18/10148B0_10148_Nml/10148B0_10148_010",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 91,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "おぎゃっ！　おぎゃおぎゃおぎゃばぶっ！\n（やだっ！　興味本位で僕を赤ちゃんにしないでよ！）",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 92,
-      "speaker": "たまももんくえ",
+      "speaker": "たまも",
       "text": "しかし、世界の仕組みがかなり違うようじゃな。\nこのロリ化溶岩も調べてみたが、ウチにもよく分からなかった。",
-      "voice": "ch_10148/R18/10148B0_10148_Nml/10148B0_10148_011",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 93,
-      "speaker": "たまももんくえ",
+      "speaker": "たまも",
       "text": "ゲシュペンス島に棲むモンスター娘にも色々聞いてみたが……\n島に棲む者たちでさえ、把握してないようじゃぞ。\nまだまだ危険なモノや場所がいっぱいありそうじゃ。",
-      "voice": "ch_10148/R18/10148B0_10148_Nml/10148B0_10148_012",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 94,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "ばぶぅ……。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 95,
-      "speaker": "たまももんくえ",
+      "speaker": "たまも",
       "text": "知らない間に罠にハマってしまう可能性も十分ある。\n……あんまり長居せんほうが良さそうじゃの。",
-      "voice": "ch_10148/R18/10148B0_10148_Nml/10148B0_10148_013",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 98,
       "speaker": "",
       "text": "見た目は普通の溶岩をじっと観察したあと、たまもは踵を返した。",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 101,
-      "speaker": "ルカもんくえ",
+      "speaker": "ルカ",
       "text": "ばぶばぶっ――おぎゃっ！？　ばぶばぶばぶぅっ！？\n（そうだね――って！？　僕はいつ元にもどるのっ！？）",
-      "voice": "",
-      "command": ""
+      "choice": false
     },
     {
-      "row": 102,
       "speaker": "",
       "text": "たまもは質問には全く答えてくれなかった。\n結局、僕が元に戻ったのはかなり後になってからだった。",
-      "voice": "",
-      "command": ""
+      "choice": false
     }
   ]
 }
