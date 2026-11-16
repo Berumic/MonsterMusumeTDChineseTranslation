@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-14T14:49:05.557289+00:00",
-  "commit": "e459e7329588dbcb2beba78c283681ff3ae0066c",
+  "generatedAt": "2026-11-16T08:17:37.269591+00:00",
+  "commit": "0df679555b6f08f8fab8fece627bc0f8a710d0dd",
   "files": {
     "UICanvas/_other/zh_Hans.json": {
       "sha256": "5b7bc648fb9d3ec8bf44d559606d33d4fe1cac94448f55998358cdf6b36396f1",
@@ -368,8 +368,8 @@
       "size": 165
     },
     "UICanvas/unit_skill/zh_Hans.json": {
-      "sha256": "952d2ab3c8f485cbd5d8c2264afab85c0d8d318d859663ef4d8a0e3de037a4df",
-      "size": 417210
+      "sha256": "c98ed1f2672867678e8347872343c3d57d60b47b83c4e0dae5a13e8730db5db4",
+      "size": 419671
     },
     "UICanvas/unit_skin_data/zh_Hans.json": {
       "sha256": "b0cc307eba41f950ebd83fe8ca2e9b6afc020405672f23e5a7e1694b76c5884e",
@@ -380,8 +380,8 @@
       "size": 1012
     },
     "UICanvas/unit_weapon/zh_Hans.json": {
-      "sha256": "1d280959e97297d06279992b0287ddbc90d08a6cdc58f20c22b6012f112be903",
-      "size": 4265
+      "sha256": "9c8649626b73df7810666452afbad7c694bf802552c6de283f239eb3f3da3536",
+      "size": 4653
     },
     "UICanvas/unitcar/zh_Hans.json": {
       "sha256": "c27c6a1ca6b68b109283f08acfa8cfa29c436bf5cfaeccbe4a3ce29094734274",
